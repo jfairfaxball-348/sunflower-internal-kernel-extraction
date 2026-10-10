@@ -1,0 +1,29 @@
+{
+  "session": "P001-S003",
+  "date": "2026-10-10",
+  "child": {
+    "repo": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "repository_id": 1412820282,
+    "starting_main": "693a8b45dab8ebff773554c879756e797e9558e8",
+    "prior_merged_pr": 3,
+    "prior_main_run_id": 38057524434,
+    "prior_main_job_id": 114228937181,
+    "conclusion": "success",
+    "open_prs": 0
+  },
+  "parent": {
+    "repo": "jfairfaxball-348/sunflower-structures-programme",
+    "repository_id": 1412469441,
+    "starting_main": "9f38f991d5965431c5fe928bb77a979b78b94e2a",
+    "prior_merged_pr": 4,
+    "prior_main_run_id": 38057796001,
+    "prior_main_job_id": 114229720860,
+    "conclusion": "success",
+    "open_prs": 0
+  },
+  "reconciliation": "Child S002 merged PR #3 with verified successful main CI; parent PR #4 registered only child S002 status, did not execute parent mathematical S001. No intervening child main change, competing S003 session or open PR at entry.",
+  "archived_prompt_first_commit": "3ce69d3bc7105d71ce71f6fdca9d12e653439d78",
+  "input_sha256": "100708e1d8b5cb713046a55ea380bd79165f0bdaf1a80499be2b81a3b690bd61",
+  "frozen_charge_commit": "0a451797e09613992e19a8ee7fb27a733c620d86",
+  "source_audit": "research/S003_N1.md"
+}
