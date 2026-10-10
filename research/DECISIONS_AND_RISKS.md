@@ -31,3 +31,13 @@ The outstanding work is mathematical, not infrastructure: a justified internal w
 - D012: separately register only a verified child merge with successful main Actions. Parent S001 remains unexecuted.
 
 Remaining risk: the averaging lemma may be false, unnecessarily strong, or no more accessible than R3. A bounded failure/no-progress closeout is acceptable; it must not become repeated undirected colour-search churn.
+
+## P001-S002
+
+- D013: preserve *exact* L_AVG; its equivalent fixed-colouring objective is a partitioned maximum over palette slices, not a global internally-valid union. Do not substitute total good mass for capacity.
+- D014: record elementary uniform bound `573599/663552` for m-sunflower-free F only, with no novelty promotion or R3 status change.
+- D015: reject unqualified extension of sparse collision counting to arbitrary F; dense ambient sunflower links violate the degree hypotheses. This is a failed step, **not** a general counterexample or probability-zero verdict.
+- D016: freeze the single bounded P001-S003 successor as the **heavy-link collision charging feasibility** check. No automatic theorem or new target. Keep N1/N2/source/independent-scrutiny gates.
+- D017: no new experiments, Lean, external actions or parent mathematical session. Parent metadata remains unsynchronised until separately checked registration (if attempted). All session status counters remain zero.
+
+Remaining major risk: any candidate charging lemma may simply restate L_AVG or charge repeatedly at different kernels without bounded multiplicity; insist on explicit constants and all three final-link levels.

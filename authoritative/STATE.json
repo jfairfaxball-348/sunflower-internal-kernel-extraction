@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "project_id": "P001",
-  "session_completed": "P001-S001",
-  "stage": "R3_MECHANISM_OBSTRUCTION_RECORDED",
+  "session_completed": "P001-S002",
+  "stage": "R3_AGGREGATE_CAPACITY_RESTRICTED_CASE_ONLY",
   "headline": "Erdős–Rado Sunflower Conjecture",
   "mathematical_status": "SOURCE_POSED_CONJECTURE",
   "open_status": "STRONG_EVIDENCE_OPEN",
   "novelty_status": "NOVELTY_UNCERTAIN",
   "restricted_rank3_open_status": "STATUS_UNCERTAIN",
   "new_theorems": 0,
-  "next_session": "P001-S002",
-  "next_objective": "L_AVG",
+  "next_session": "P001-S003",
+  "next_objective": "L_AVG_HEAVY_LINK_CHARGING",
   "next_executed": false,
   "date": "2026-10-10",
-  "last_outcome": "MECHANISM_OBSTRUCTION_AND_REMAINING_LEMMA",
+  "last_outcome": "RESTRICTED_SUNFLOWER_FREE_BOUND_GENERAL_L_AVG_UNRESOLVED",
   "r3_status": "UNRESOLVED_NO_EXTRACTION_THEOREM"
 }

@@ -7,3 +7,7 @@ Any future search needs a newly frozen specification before execution. Bootstrap
 ## P001-S001
 
 Analytical only. The F_m/G_m family is defined and checked symbolically in research/R3_FEASIBILITY.md; no instances or populations were computationally enumerated. The unchanged ten committed semantic fixtures remain the only finite mathematical inputs run. Structural record validation is not mathematical discovery computation. No new population, random sample, resource request or external compute was introduced.
+
+## P001-S002
+
+ONE analytical L_AVG feasibility gate. No new family enumeration, experiment population, stochastic simulation, random seed, paid compute, Lean or exhaustive certificate. An exact rational simplification verifies that `7/8 - (3/288 + 12/288^2 + 36/288^3) = 573599/663552`; this is algebraic constant checking, not a research population. The ten frozen semantic fixtures remain unchanged; hosted CI runs them only as regression tests. For any later computational research, freeze population/symmetry/controls/resources/stop first.

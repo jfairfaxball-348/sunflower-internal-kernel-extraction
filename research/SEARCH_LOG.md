@@ -25,3 +25,7 @@ Primary pages and local HTML provided the research content. Some unversioned arX
 ## P001-S001 refresh
 
 The exact query routes, primary versions, access failures/fallbacks and limitations are recorded in S001_N1.md. Two search engines and recent/exact-title/arXiv-scoped searches were used. Relevant source HTML downloads are fingerprinted in sessions/P001-S001/SOURCE_RECEIPT.json. No complete citation-index audit or independent confirmation was obtained. No-hit results do not change the rank-specific STATUS_UNCERTAIN label.
+
+## P001-S002 — source gate
+
+Consult [S002_N1.md](S002_N1.md) for exact quantified expectation/partition formulation, JJSW26 Sections 2/4.1/6, Kupavskii survey, Axante et al., Ge–Wang–Xu–Zhao, Shangguan and query variants. Web search returned JJSW and neighbouring threshold/VC research but no verified exact L_AVG solution. Several results concerned botanical sunflowers and were discarded. Source versions and limitations remain as in SOURCES.json and S001_N1.md. Not an exhaustive 2026 forward-citation index. Restricted-case calculation is a project analysis, not an attributed published theorem or novelty claim.

@@ -46,3 +46,7 @@ In triples there are exactly three levels: for each realised pair K, its residua
 ## P001-S001 status
 
 R3 was investigated through the authorised colour-certificate route. Unconditional constant-fraction repair of arbitrary largest good palette outputs fails; this is not a refutation of R3. [Analytical record](R3_FEASIBILITY.md) isolates L_AVG, an unproved sufficient averaging condition with explicit conditional density budget. R3 exact literature status remains STATUS_UNCERTAIN; no extraction theorem is claimed.
+
+## P001-S002 status
+
+The frozen L_AVG sufficient route was analysed, not established or refuted for general F. [L_AVG_FEASIBILITY.md](L_AVG_FEASIBILITY.md) proves an elementary lower expectation for sunflower-free F with constant 573599/663552, where `b_m(G_P)` is only zero or one. Unbounded ambient sunflower links invalidate this counting route for arbitrary families. Exact R3 literature status **STATUS_UNCERTAIN**; full TIK baseline unchanged. No new extraction theorem, N2, formalisation or publication. Single successor: heavy-link collision charging P001-S003.
