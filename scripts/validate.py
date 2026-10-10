@@ -97,6 +97,17 @@ def main():
         assert manifest["next_obligation"]["objectives"] == ["L_AVG"]
         assert state["next_session"] == "P001-S002"
         assert not (ROOT / "sessions/P001-S002").exists(), "Successor must not execute in S001"
+    if state["session_completed"] == "P001-S002":
+        for path in ["sessions/P001-S002/INPUT.md", "sessions/P001-S002/INPUT_MANIFEST.json",
+                     "sessions/P001-S002/CLOSEOUT.md", "research/S002_N1.md",
+                     "research/L_AVG_FEASIBILITY.md", "sessions/P001-S002/ENTRY_EVIDENCE.json"]:
+            assert (ROOT / path).is_file(), path
+        assert state["new_theorems"] == 0
+        assert state["restricted_rank3_open_status"] == "STATUS_UNCERTAIN"
+        assert state["last_outcome"] == "RESTRICTED_SUNFLOWER_FREE_BOUND_GENERAL_L_AVG_UNRESOLVED"
+        assert manifest["next_obligation"]["objectives"] == ["L_AVG_HEAVY_LINK_CHARGING"]
+        assert state["next_session"] == "P001-S003"
+        assert not (ROOT / "sessions/P001-S003").exists(), "Successor must not execute in S002"
     handoff = (ROOT / "sessions/NEXT_SESSION.md").read_text()
     assert state["next_session"] in handoff and "STOP" in handoff and "R3" in handoff
     if state["session_completed"] == "P001-S000":
