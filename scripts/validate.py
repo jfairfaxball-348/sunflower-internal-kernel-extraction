@@ -127,7 +127,7 @@ def main():
                    for r in evidence["child_runs"])
     # Approval staging is not a substantive child session. Verify exact approved-draft and outgoing handoff bytes.
     approval_path = ROOT / "sessions/P001-S006/APPROVAL_MANIFEST.json"
-    if approval_path.exists():
+    if approval_path.exists() and state["session_completed"] == "P001-S005":
         approval = json.loads(approval_path.read_text(encoding="utf-8"))
         assert approval["stage"] == "HANDOFF_APPROVED_NOT_EXECUTED"
         assert approval["session"] == "P001-S006" and approval["session_executed"] is False
@@ -139,6 +139,17 @@ def main():
         assert hashlib.sha256((ROOT / approval["executable_path"]).read_bytes()).hexdigest() == approval["executable_sha256"]
         assert not (ROOT / "sessions/P001-S006/INPUT.md").exists(), "S006 must not be executed during approval staging"
         assert not (ROOT / "sessions/P001-S006/CLOSEOUT.md").exists(), "S006 must not be closed during approval staging"
+    if state["session_completed"] == "P001-S006":
+        for path in ["sessions/P001-S006/INPUT.md", "sessions/P001-S006/INPUT_MANIFEST.json",
+                     "sessions/P001-S006/CLOSEOUT.md", "sessions/P001-S006/ENTRY_EVIDENCE.json",
+                     "research/S006_N1_BLOCK_COMPATIBILITY.md",
+                     "research/S006_BLOCK_COMPATIBILITY_SPEC.md",
+                     "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"]:
+            assert (ROOT / path).is_file(), path
+        assert state["next_session"] == "P001-S007"
+        assert state["last_outcome"] == "RESTRICTED_BSEL_ONLY"
+        assert manifest["next_obligation"]["objectives"] == ["HUMAN_BLOCK_COMPATIBILITY_DECISION_GATE"]
+        assert state["new_theorems"] == 0 and state["restricted_rank3_open_status"] == "STATUS_UNCERTAIN"
     # Check relative documentation links resolve, excluding remote and fragment-only links.
     for path in ROOT.rglob("*.md"):
         for ref in re.findall(r"\]\(([^\s)]+)\)", path.read_text(encoding="utf-8")):
