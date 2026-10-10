@@ -32,7 +32,7 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": null,
+  "latest_validated_commit": "ab217b45d560118c50f867ecb2295eaed98962fd",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Latest already-observed green commit; final outgoing merge is recorded externally in parent registration and GitHub, avoiding a self-referential hash.",
   "parent_registration": {
