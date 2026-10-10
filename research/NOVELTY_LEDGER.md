@@ -25,3 +25,9 @@ N1 permits bounded investigation of a source-posed frontier, not promotion to CA
 - N012: [L_AVG_FEASIBILITY.md](L_AVG_FEASIBILITY.md) proves by elementary bounded-degree collision estimates only the sunflower-free restricted-case constant 573599/663552; **no independent scrutiny, N2 or originality promotion**. It is not a new R3 extraction theorem.
 - N013: general F is not covered: ambient sunflower-rich families have unbounded codegrees/degree/size relative to m. Unbounded collisions alone do not imply loss of b_m. The exact general averaging obligation is still open *within this research project*, not confirmed externally open.
 - N2 remains unperformed, appropriately: no new theorem is promoted. Neither published novelty nor paper worthiness is claimed.
+
+## P001-S003 — exact L_AVG counterexample (not R3)
+
+- N014: [S003_N1.md](S003_N1.md) is a fresh source-first screen of the exact heavy-link charge, weighted/partitioned palette capacity, internal witness retention and low-rank/2026 primary work. No exact external attribution found within bounded searches; no-hit is not proof of openness. R3 STATUS_UNCERTAIN; full TIK source-posed STRONG_EVIDENCE_OPEN / NOVELTY_UNCERTAIN.
+- N015: [S003_CHARGE_ANALYSIS.md](S003_CHARGE_ANALYSIS.md) provides a symbolic infinite sequence where the project's precise L_AVG expectation ratio tends to zero. This NEGATIVE finding supersedes only the S001/S002 label “L_AVG unproved”; it does **not** settle R3/TIK or claim journal novelty. Same-assistant derivation; no independent proof scrutiny or formalisation. Method status: REFUTED_ON_PAPER_PENDING_INDEPENDENT_AUDIT.
+- N016: frozen B_CHARGE in [S003_CHARGE_SPEC.md](S003_CHARGE_SPEC.md) similarly fails on that sequence despite complete ambient matching richness at all three kernel levels. Not an equivalence with L_AVG and not a new positive result. N2 has not been performed and cannot be implied by the existence of a negative internal-lemma diagnosis.

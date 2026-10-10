@@ -13,3 +13,7 @@ S001 began at child main 6630117cb29009600ae73bb8619da391d43305a8 and parent mai
 ## P001-S002 — 2026-10-10
 
 Aggregate L_AVG capacity feasibility only: [closeout](P001-S002/CLOSEOUT.md), [focused source audit](../research/S002_N1.md), [analysis](../research/L_AVG_FEASIBILITY.md). Positive elementary bound for m-sunflower-free families, unrestricted L_AVG unresolved; no R3 theorem, no Lean or publication. Full S003 handoff prepared but unexecuted.
+
+## P001-S003 — 2026-10-10
+
+Heavy-link charging feasibility only: exact B_CHARGE frozen before analysis and shown false on a tripartite asymptotic sequence. The stronger project's own L_AVG expected capacity is also falsified under its exact colouring model, **without refuting R3/TIK**. Source gate S003_N1 and symbolic analysis S003_CHARGE_ANALYSIS.md; no positive extraction theorem, no independent mathematical review, Lean or publication. P001-S004 is a bounded counterexample audit / proof-route decision, not executed.

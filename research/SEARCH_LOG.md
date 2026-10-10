@@ -29,3 +29,7 @@ The exact query routes, primary versions, access failures/fallbacks and limitati
 ## P001-S002 — source gate
 
 Consult [S002_N1.md](S002_N1.md) for exact quantified expectation/partition formulation, JJSW26 Sections 2/4.1/6, Kupavskii survey, Axante et al., Ge–Wang–Xu–Zhao, Shangguan and query variants. Web search returned JJSW and neighbouring threshold/VC research but no verified exact L_AVG solution. Several results concerned botanical sunflowers and were discarded. Source versions and limitations remain as in SOURCES.json and S001_N1.md. Not an exhaustive 2026 forward-citation index. Restricted-case calculation is a project analysis, not an attributed published theorem or novelty claim.
+
+## P001-S003 — source-first 2026 refresh
+
+Exact “partitioned palette capacity”, “weighted sunflower matching retention”, “internal kernel witness” and “heavy-link colour collision charging” variants searched with current primary/forward queries. JJSW26 arXiv:2504.15264v2 Lemma 2.1 and Sections 2, 4.1, 6 revisited against original internal/external scopes; Kupavskii survey §0.6.3; September 2026 Axante et al., Ge–Wang–Xu–Zhao, Shangguan; and Zhang–Cao–Lu arXiv:2604.21855v2 (abstract-only neighbour) inspected. See [S003_N1.md](S003_N1.md). No verified source stating exact B_CHARGE or L_AVG, and no exact low-rank R3 solution verified. This limited no-hit is not a complete citation index or evidence that R3 is conclusively open.

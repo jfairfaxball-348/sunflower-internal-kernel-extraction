@@ -587,7 +587,7 @@
     "state_at_observation": "OPEN"
   },
   "s003_entry_receipt": "sessions/P001-S003/ENTRY_EVIDENCE.json",
-  "s003_archived_prompt_sha256": "3e00d446a2c093d3c66bddeab428f6bf92e95dec100137302a93a81d548568d4",
+  "s003_archived_prompt_sha256": "100708e1d8b5cb713046a55ea380bd79165f0bdaf1a80499be2b81a3b690bd61",
   "s003_status": "Await separately observed final PR/head/main CI; no self-reference to an unobserved run",
   "previous_main_check": {
     "child": {
