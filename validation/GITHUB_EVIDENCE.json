@@ -592,6 +592,24 @@
         }
       ],
       "checkout_semantics": "P001-S004 verified merged main before S005 entry"
+    },
+    {
+      "run_id": 38064265353,
+      "id": 38064265353,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38064265353",
+      "event": "push",
+      "head_sha": "79fbbbc35fec42fdde0ada766f892ab83090615c",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114248605274,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "checkout_semantics": "P001-S005 exact merged child main verified before separate owner-approved S006 staging"
     }
   ],
   "child_pr": {
@@ -603,7 +621,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "S003_PARENT_RECEIPT_VERIFIED_S004_UNSYNCHRONISED",
-  "current_session": "P001-S005",
+  "current_session": "P001-S005 (P001-S006 APPROVED UNEXECUTED HANDOFF)",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -651,5 +669,20 @@
     "open_prs": 0
   },
   "s005_archived_prompt_sha256": "7bb6ebb5b38a84edf24f2744d5b3637f4191b85085be75d10d3b5eef3e809e29",
-  "s005_status": "HUMAN_PROGRAMME_DECISION_REQUIRED; no outgoing PR/main CI self-certification; parent status update separate after merge"
+  "s005_status": "HUMAN_PROGRAMME_DECISION_REQUIRED; no outgoing PR/main CI self-certification; parent status update separate after merge",
+  "s006_approval_staging": {
+    "date": "2026-10-10",
+    "entry_child_main": "79fbbbc35fec42fdde0ada766f892ab83090615c",
+    "entry_parent_main": "c1c9aa6a0d36e4dc4170713ada36453fa21757a5",
+    "entry_child_previous_main_run": 38064265353,
+    "entry_child_previous_main_job": 114248605274,
+    "entry_parent_previous_main_run": 38064472259,
+    "entry_parent_previous_main_job": 114249211474,
+    "method": "SUNFLOWER_BLOCK_COMPATIBILITY",
+    "approved_draft_sha256": "d10a459752dc8f1b8477c2ea6cdd40f9e4a435c70b327248307811830e6305c8",
+    "executable_sha256": "209abc0175679b849de005056d156babe072b534b8108668993a71cc7e40f063",
+    "execution_started": false,
+    "publication_intent": "APPROVED_FUTURE_SESSION_HANDOFF_ONLY",
+    "outgoing_ci_must_be_verified_externally": true
+  }
 }

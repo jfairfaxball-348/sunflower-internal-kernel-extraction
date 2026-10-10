@@ -125,6 +125,20 @@ def main():
         assert any(r["head_sha"] == sha and r["conclusion"] == "success"
                    and r["jobs"] and all(j["conclusion"] == "success" for j in r["jobs"])
                    for r in evidence["child_runs"])
+    # Approval staging is not a substantive child session. Verify exact approved-draft and outgoing handoff bytes.
+    approval_path = ROOT / "sessions/P001-S006/APPROVAL_MANIFEST.json"
+    if approval_path.exists():
+        approval = json.loads(approval_path.read_text(encoding="utf-8"))
+        assert approval["stage"] == "HANDOFF_APPROVED_NOT_EXECUTED"
+        assert approval["session"] == "P001-S006" and approval["session_executed"] is False
+        assert state["session_completed"] == "P001-S005"
+        assert state["next_session"] == "P001-S006" and state["next_executed"] is False
+        assert state["next_objective"] == "BLOCK_COMPATIBILITY_FEASIBILITY_GATE"
+        assert manifest["next_obligation"]["objectives"] == ["BLOCK_COMPATIBILITY_FEASIBILITY_GATE"]
+        assert hashlib.sha256((ROOT / approval["approved_draft_path"]).read_bytes()).hexdigest() == approval["approved_draft_sha256"]
+        assert hashlib.sha256((ROOT / approval["executable_path"]).read_bytes()).hexdigest() == approval["executable_sha256"]
+        assert not (ROOT / "sessions/P001-S006/INPUT.md").exists(), "S006 must not be executed during approval staging"
+        assert not (ROOT / "sessions/P001-S006/CLOSEOUT.md").exists(), "S006 must not be closed during approval staging"
     # Check relative documentation links resolve, excluding remote and fragment-only links.
     for path in ROOT.rglob("*.md"):
         for ref in re.findall(r"\]\(([^\s)]+)\)", path.read_text(encoding="utf-8")):
