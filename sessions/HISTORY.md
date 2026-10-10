@@ -21,3 +21,7 @@ Heavy-link charging feasibility only: exact B_CHARGE frozen before analysis and 
 ## P001-S004 — 2026-10-10
 
 One audit of the S003 tripartite palette counterexample: **PROVISIONAL_ANALYTICALLY_SUPPORTED** after same-AI challenge, not independent review; formally retire exact L_AVG/B_CHARGE as universal proof routes (D022). No R3/TIK result or new method. Sole successor S005 mandatory five-session correction audit and human-governed triage, not executed.
+
+## P001-S005 (2026-10-10)
+
+Mandatory fifth-substantive-session correction/route governance audit executed, NOT P001-S006. Outcome HUMAN_PROGRAMME_DECISION_REQUIRED. See [closeout](P001-S005/CLOSEOUT.md), [full matrix](../research/S005_PROGRESS_CORRECTION_AUDIT.md), exact input and manifest. No mathematic proof/experiment/Lean, paper, or independent review. Parent mathematical S001 remains unexecuted. Separate parent status PR only after verified child merge/main CI.

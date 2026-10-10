@@ -50,3 +50,7 @@ R3 was investigated through the authorised colour-certificate route. Uncondition
 ## P001-S002 status
 
 The frozen L_AVG sufficient route was analysed, not established or refuted for general F. [L_AVG_FEASIBILITY.md](L_AVG_FEASIBILITY.md) proves an elementary lower expectation for sunflower-free F with constant 573599/663552, where `b_m(G_P)` is only zero or one. Unbounded ambient sunflower links invalidate this counting route for arbitrary families. Exact R3 literature status **STATUS_UNCERTAIN**; full TIK baseline unchanged. No new extraction theorem, N2, formalisation or publication. Single successor: heavy-link collision charging P001-S003.
+
+## P001-S005 five-session correction status
+
+Mandatory substantive-session audit S001–S005 is complete. Exact L_AVG/B_CHARGE methods are RETIRED on provisionally analytically supported AI-only negative evidence, not independent review; S002's sunflower-free restricted estimate survives. No positive R3 bound has been obtained, and exact R3 literature status stays STATUS_UNCERTAIN. No publishable independent theorem candidate justified by bounded N1; the only prepared successor is a **human A/B/C programme decision gate**, not an active proof route. Full TIK semantics, quantifiers and source-posed status unchanged. See [S005 audit](S005_PROGRESS_CORRECTION_AUDIT.md).

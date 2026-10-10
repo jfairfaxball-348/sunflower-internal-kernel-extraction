@@ -9,7 +9,7 @@
     "access_level": "FULL_TEXT_RELEVANT_PROOFS_READ",
     "limitations": "Primary authority for target and closest bounds; not a claimed independent replay of all proofs.",
     "accessed": "2026-10-10",
-    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json; P001-S004 bounded scope S004_N1.md"
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json; P001-S004 bounded scope S004_N1.md; P001-S005 bounded source-first decision triage research/S005_N1_TRIAGE.md"
   },
   {
     "id": "RAO26",
