@@ -1,0 +1,30 @@
+{
+  "session": "P001-S006",
+  "date": "2026-10-10",
+  "child": {
+    "repository_id": 1412820282,
+    "entry_main": "76a4b8a3659adc8c10615f35717f1d2e6efbc1b4",
+    "last_merged_pr": 7,
+    "entry_main_run": 38065454455,
+    "entry_main_job": 114252051100,
+    "conclusion": "success",
+    "open_prs": 0
+  },
+  "parent": {
+    "repository_id": 1412469441,
+    "entry_main": "b9a744590eb0398b5296799cad7355d938971738",
+    "last_merged_pr": 8,
+    "entry_main_run": 38065679666,
+    "entry_main_job": 114252710712,
+    "conclusion": "success",
+    "open_prs": 0
+  },
+  "last_child_substantive": "P001-S005",
+  "prior_registration": "programme/P001_REGISTRATION.json",
+  "s006_unique_at_entry": true,
+  "archival_first_commit": "58a3d54eac51765ef982df68097679661a23b548",
+  "approved_draft_sha256": "d10a459752dc8f1b8477c2ea6cdd40f9e4a435c70b327248307811830e6305c8",
+  "raw_chat_verbatim_attested": false,
+  "parent_mathematical_s001_executed": false,
+  "independent_mathematical_review": false
+}

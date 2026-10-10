@@ -1,8 +1,0 @@
-{
-  "session": "P001-S004",
-  "path": "sessions/P001-S004/INPUT.md",
-  "sha256": "5da4e08e35e6335860db89948bc13d9ca65cc2c4d60f4a0a36d7b0c27965ef6a",
-  "git_blob_sha": "7ad919e08bf65ee342e1f1f5bbd6bbe3f2bd6911",
-  "archival": "Verbatim invoked user prompt, UTF-8, no terminal newline; sha256 computed from identical bytes before successor overwrite.",
-  "first_archive_commit": "0f2dba58b730b51ba0652bd248940e892f4f5643"
-}

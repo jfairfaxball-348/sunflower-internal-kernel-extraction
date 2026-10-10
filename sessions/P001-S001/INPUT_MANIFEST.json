@@ -1,7 +1,0 @@
-{
-  "session": "P001-S001",
-  "path": "sessions/P001-S001/INPUT.md",
-  "sha256": "a22234e869bde276313b7e123d5a8155a46a54b7772f2a1685277ba27ffcdc5d",
-  "archival": "Verbatim incoming text, UTF-8, with terminal newline; later Continue stored separately",
-  "prior_handoff": "S000 handoff remains in Git history at 6630117cb29009600ae73bb8619da391d43305a8"
-}
