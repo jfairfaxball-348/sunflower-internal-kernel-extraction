@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "session": "P001-S014",
+  "path": "sessions/P001-S014/INPUT.md",
+  "sha256": "879ae15878c717347fde62a27ba2fb56ea15a3458a3948a26751ea3c9347db51",
+  "encoding": "UTF-8",
+  "archive_type": "fresh_user_rendered_invocation_reconstructed_from_matching_staged_handoff",
+  "archive_commit": "fbbee29aa37dc1fda22e09d99c7156163e2c6ceb",
+  "note": "Input rendering equals the user's supplied S014 invocation (staged handoff with Markdown title marker and one separator removed, and trailing newline stripped). Raw transport bytes not independently attested. INPUT was committed before NEXT_SESSION replacement."
+}

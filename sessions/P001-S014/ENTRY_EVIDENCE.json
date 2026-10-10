@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "session": "P001-S014",
+  "date": "2026-10-10",
+  "child": {
+    "repo": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "id": 1412820282,
+    "entry_main": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
+    "previous_pr": 15,
+    "previous_head": "678c957a948e5c85af6810dbe26de07c1e2f33a1",
+    "previous_merged_main": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
+    "previous_pr_ci": {
+      "run": 38086469514,
+      "job": 114313908724,
+      "workflow": "research-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    },
+    "previous_push_ci": {
+      "run": 38086490406,
+      "job": 114313971698,
+      "workflow": "research-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "parent": {
+    "repo": "jfairfaxball-348/sunflower-structures-programme",
+    "id": 1412469441,
+    "entry_main": "b4c8817d336bb42cf636af8c2f705d5fad3bf268",
+    "s013_status_pr": 16,
+    "s013_head": "368237909964fcb55a61a0d4bb7ee5a09342104d",
+    "s013_status_pr_ci": {
+      "run": 38086689230,
+      "job": 114314561101,
+      "workflow": "programme-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    },
+    "s013_push_ci": {
+      "run": 38086708934,
+      "job": 114314622558,
+      "workflow": "programme-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "open_prs_at_entry": {
+    "child": 0,
+    "parent": 0
+  },
+  "s014_unique_at_entry": true,
+  "parent_programme_s001_executed": false,
+  "archive": {
+    "sha256": "879ae15878c717347fde62a27ba2fb56ea15a3458a3948a26751ea3c9347db51",
+    "archive_commit": "fbbee29aa37dc1fda22e09d99c7156163e2c6ceb",
+    "manifest_commit": "174cc29c91f06df7351bef3d01cea1269c1190b0",
+    "before_next_session_replacement": true
+  },
+  "notes": "Listed ALL 15 child and ALL 16 parent recent merged PRs, no open PR. Exact required job IDs inspected. S013 independent parent PR/main CI inspected. Input hash matches the archived user-visible rendered S014 text; raw transport bytes not independently attested."
+}

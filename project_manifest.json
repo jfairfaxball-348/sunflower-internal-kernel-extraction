@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "20e75194b5e2696206b03c781e45f52d6eea78b7"
+    "authority_checkpoint": "b4c8817d336bb42cf636af8c2f705d5fad3bf268"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S013",
+  "session_completed": "P001-S014",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "5df20007c600429499ba47661da3040c24408198",
+  "latest_validated_commit": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S012_INDEPENDENTLY_VERIFIED_S013_AWAITING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S013_INDEPENDENTLY_VERIFIED_S014_AWAITING_POSTMERGE_PARENT_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S014",
+    "session": "P001-S015",
     "objectives": [
-      "UNPROTECTED_HUB_JOINT_PAIR_CLASS_SELECTION"
+      "QUANTITATIVE_PRESERVE_OR_DROP_PAIR_CLASS_REFINEMENT"
     ],
-    "description": "Prove or refute one quantitatively specified way of handling private-light unprotected heavy singletons and global core matching without damaging S012 exact heavy-pair certificates; full all-k TIK unchanged.",
+    "description": "Unrestricted mixed-core private-light heavy-hub quantitative preserve-or-drop selection keeping S011 actual singleton/empty certificates and S012 pair-codegrees simultaneously; S014 disproves preserving >=1 from every saturated pair-core class, not general gamma.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -73,9 +73,10 @@
     "research/S010_TENTH_AUDIT.md",
     "research/S011_EXACT_SINGLETON_MATCHING.md",
     "research/S012_PAIR_CERTIFICATE_SELECTION.md",
-    "research/S013_PAIR_ROBUST_A0_ANCHORS.md"
+    "research/S013_PAIR_ROBUST_A0_ANCHORS.md",
+    "research/S014_UNPROTECTED_CLASS_REFINEMENT.md"
   ],
-  "last_outcome": "A0_PROTECTED_JOINT_REFINE_GAMMA_ONE_GENERAL_UNPROVED",
+  "last_outcome": "NSCR_FALSE_SHARP_HALF_DENSITY_POSITIVE_CONTROL",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
