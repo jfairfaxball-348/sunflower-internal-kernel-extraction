@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "9f38f991d5965431c5fe928bb77a979b78b94e2a"
+    "authority_checkpoint": "0d7f313d99d289b5c43d59ba65a9c6e814298607"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S003",
+  "session_completed": "P001-S004",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -42,11 +42,11 @@
     "local_assertion": "CONSULT_VERIFIED_PARENT_RECEIPT"
   },
   "next_obligation": {
-    "session": "P001-S004",
+    "session": "P001-S005",
     "objectives": [
-      "L_AVG_COUNTEREXAMPLE_INDEPENDENT_AUDIT"
+      "FIVE_SESSION_PROGRESS_CORRECTION_AND_ROUTE_TRIAGE"
     ],
-    "description": "One bounded independent semantic challenge and method-governance decision on the S003 tripartite counterexample; no target pivot, no assumed theorem.",
+    "description": "Mandatory fifth substantive-session progress/correction audit and human-governed R3 route triage after exact L_AVG/B_CHARGE retirement; no new mathematical technique authorised by S004.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -58,7 +58,9 @@
     "research/L_AVG_FEASIBILITY.md",
     "research/S003_N1.md",
     "research/S003_CHARGE_SPEC.md",
-    "research/S003_CHARGE_ANALYSIS.md"
+    "research/S003_CHARGE_ANALYSIS.md",
+    "research/S004_AUDIT.md",
+    "research/S004_N1.md"
   ],
-  "last_outcome": "NO_GENERAL_PROGRESS_L_AVG_REFUTED"
+  "last_outcome": "NO_GENERAL_R3_PROGRESS_L_AVG_B_CHARGE_RETIRED"
 }

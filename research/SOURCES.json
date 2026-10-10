@@ -9,7 +9,7 @@
     "access_level": "FULL_TEXT_RELEVANT_PROOFS_READ",
     "limitations": "Primary authority for target and closest bounds; not a claimed independent replay of all proofs.",
     "accessed": "2026-10-10",
-    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json; P001-S004 bounded scope S004_N1.md"
   },
   {
     "id": "RAO26",
@@ -55,7 +55,7 @@
     "access_level": "FULL_TEXT_MAIN_PROOF_READ",
     "limitations": "Preprint; metadata discrepancy preserved; no independent formal verification.",
     "accessed": "2026-10-10",
-    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json; P001-S004 bounded scope S004_N1.md"
   },
   {
     "id": "SHANG26",
@@ -67,7 +67,7 @@
     "access_level": "FULL_PRIMARY_HTML_STATEMENTS_READ",
     "limitations": "Browser open failed; direct public HTML download read. Whole proof not independently certified.",
     "accessed": "2026-10-10",
-    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json; P001-S004 bounded scope S004_N1.md"
   },
   {
     "id": "SMALL26",
@@ -79,7 +79,7 @@
     "access_level": "FULL_PRIMARY_HTML_SELECTED_STATEMENTS_READ",
     "limitations": "Existence thresholds only; finite computer-assisted endpoint computations not rerun.",
     "accessed": "2026-10-10",
-    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json; P001-S004 bounded scope S004_N1.md"
   },
   {
     "id": "AFP21",
@@ -135,6 +135,6 @@
     "access_level": "PRIMARY_ABSTRACT_ONLY",
     "limitations": "Adjacent sunflower counts/ambient matching constraints; not internal retained palette capacity; full proof not read.",
     "accessed": "2026-10-10",
-    "rechecked_in": "P001-S003 research/S003_N1.md"
+    "rechecked_in": "P001-S003 research/S003_N1.md; P001-S004 bounded scope S004_N1.md"
   }
 ]

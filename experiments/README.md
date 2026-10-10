@@ -15,3 +15,7 @@ ONE analytical L_AVG feasibility gate. No new family enumeration, experiment pop
 ## P001-S003
 
 No new experiment or sampled/enumerated family. The infinite deterministic family F_t (three complete t^3-parts, m=t^2) and random colouring law are analysed **symbolically** in research/S003_CHARGE_ANALYSIS.md, including a binomial union bound and limits. There is no finite frozen search population because no computational mathematical search is undertaken. No simulation, Monte Carlo, new code/Lean, seed, paid resource or holdout. CI continues the same ten fixed semantic controls only.
+
+## P001-S004
+
+One bounded analytical challenge/route-decision only. The S003 infinite symbolic F_t sequence was rechecked by hand for quantifiers and probability inequalities; no newly sampled, enumerated or simulated mathematical population, symmetry quotient, fresh random experiment, seed, Lean or new code. Frozen ten P001-S000 semantic fixtures unchanged; hosted CI is regression validation and cannot independently certify asymptotic proof correctness. Details research/S004_AUDIT.md.
