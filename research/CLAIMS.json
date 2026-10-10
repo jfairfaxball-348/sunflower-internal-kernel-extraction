@@ -159,5 +159,41 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/L_AVG_FEASIBILITY.md"
+  },
+  {
+    "id": "C015",
+    "claim": "The fixed M=288m L_AVG expectation has an asymptotic counterexample on complete tripartite triples with m=t^2 and |part|=t^3; expected capacity divided by |F| tends to 0. Internal project auxiliary conjecture, same-assistant proof pending independent scrutiny.",
+    "mathematical_status": "PROJECT_AUXILIARY_LEMMA_REFUTED_SYMBOLIC_PROOF_PENDING_INDEPENDENT_SCRUTINY",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S003_CHARGE_ANALYSIS.md"
+  },
+  {
+    "id": "C016",
+    "claim": "Frozen B_CHARGE fails on same family even though every ambient 2-point, 1-point and empty link has matching number >=m; almost all good collisions have no nontrivial internally valid palette recipient.",
+    "mathematical_status": "CHARGING_MECHANISM_COUNTEREXAMPLE_PENDING_INDEPENDENT_SCRUTINY",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S003_CHARGE_ANALYSIS.md"
+  },
+  {
+    "id": "C017",
+    "claim": "L_AVG counterexample does not disprove R3 or TIK; the uncoloured complete tripartite family is itself internally m-valid.",
+    "mathematical_status": "SCOPE_SEPARATION",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S003_CHARGE_ANALYSIS.md"
   }
 ]
