@@ -11,3 +11,7 @@ AI assistant read live GitHub child/parent records and published primary sources
 ## P001-S003
 
 The assistant read both live repositories and relevant primary 2026 sources, archived the owner's S003 prompt, froze the candidate charge, developed a symbolic tripartite asymptotic obstruction to that charge and to the project's auxiliary L_AVG expectation, and prepared research/governance/CI records. The proof and rechecks were conducted by the same assistant. **No independent mathematical scrutiny**; no claim of human review, external mathematical provenance or original publishable theorem. No numerical experiments, formal Lean, manuscript, journal/arXiv/Palomar activity or researcher contact. The owner supplied the exact heavy-link objective and permitted GitHub PR/green merge process.
+
+## P001-S004
+
+Assistant performed live repository/source evidence retrieval, adversarial symbolic proof self-check, provenance/novelty comparisons, and authored status/decision records. It **did not obtain a genuinely independent mathematical review**; this is the same assistant and is labelled PROVISIONAL_ANALYTICALLY_SUPPORTED. The user authored and invoked the exact S004 audit scope. No external researcher contact, experimental numerical simulation, code proof search, Lean, original publication or independent mathematics provenance.

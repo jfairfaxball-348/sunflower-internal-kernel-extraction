@@ -17,3 +17,7 @@ Aggregate L_AVG capacity feasibility only: [closeout](P001-S002/CLOSEOUT.md), [f
 ## P001-S003 — 2026-10-10
 
 Heavy-link charging feasibility only: exact B_CHARGE frozen before analysis and shown false on a tripartite asymptotic sequence. The stronger project's own L_AVG expected capacity is also falsified under its exact colouring model, **without refuting R3/TIK**. Source gate S003_N1 and symbolic analysis S003_CHARGE_ANALYSIS.md; no positive extraction theorem, no independent mathematical review, Lean or publication. P001-S004 is a bounded counterexample audit / proof-route decision, not executed.
+
+## P001-S004 — 2026-10-10
+
+One audit of the S003 tripartite palette counterexample: **PROVISIONAL_ANALYTICALLY_SUPPORTED** after same-AI challenge, not independent review; formally retire exact L_AVG/B_CHARGE as universal proof routes (D022). No R3/TIK result or new method. Sole successor S005 mandatory five-session correction audit and human-governed triage, not executed.
