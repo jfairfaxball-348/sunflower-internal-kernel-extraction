@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "session": "P001-S012",
+  "path": "sessions/P001-S012/INPUT.md",
+  "sha256": "0caf596d20415f404a83307b5756f257ae2ce8dc3f9e430be3a3e015177cd03a",
+  "encoding": "UTF-8",
+  "archive_type": "fresh_user_rendered_invocation_exact_text",
+  "archive_commit": "7db5745b10f3a63543ef39ea42e839e08759bcbe",
+  "note": "User-rendered exact prompt; raw transport byte identity not attested. Archive committed before replacing NEXT_SESSION."
+}
