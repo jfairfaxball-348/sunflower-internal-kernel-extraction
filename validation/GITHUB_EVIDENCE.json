@@ -722,6 +722,40 @@
         }
       ],
       "note": "S011 merged-main push verified independently at S012 entry, not S012 self-validation"
+    },
+    {
+      "run_id": 38080805229,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38080805229",
+      "event": "pull_request",
+      "head_sha": "b716333c66ff6d1029375885a134efef3971f45f",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114297137749,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "note": "Independently observed S012 final PR head at S013 entry"
+    },
+    {
+      "run_id": 38080833937,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38080833937",
+      "event": "push",
+      "head_sha": "5df20007c600429499ba47661da3040c24408198",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114297222544,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "note": "Independently observed S012 merged main at S013 entry; not S013 self-validation"
     }
   ],
   "child_pr": {
@@ -732,8 +766,8 @@
   },
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
-  "parent_registration_status": "S003_PARENT_RECEIPT_VERIFIED_S004_UNSYNCHRONISED",
-  "current_session": "P001-S011",
+  "parent_registration_status": "S012_VERIFIED_S013_NOT_YET_REGISTERED",
+  "current_session": "P001-S013",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -822,5 +856,6 @@
       "conclusion": "success"
     },
     "s011_ci": "NOT_YET_OBSERVED_PRE_MERGE"
-  }
+  },
+  "s013_entry_receipt": "sessions/P001-S013/ENTRY_EVIDENCE.json"
 }

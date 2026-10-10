@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "ba7d62b2fb46739119a2a7d7f3ead76b4d92398b"
+    "authority_checkpoint": "20e75194b5e2696206b03c781e45f52d6eea78b7"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S012",
+  "session_completed": "P001-S013",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "cd5892682e95dd242f1a9ce1b0c4abc03a6a1f56",
+  "latest_validated_commit": "5df20007c600429499ba47661da3040c24408198",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S011_INDEPENDENTLY_VERIFIED_S012_AWAITING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S012_INDEPENDENTLY_VERIFIED_S013_AWAITING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S013",
+    "session": "P001-S014",
     "objectives": [
-      "PAIR_ROBUST_SINGLETON_EMPTY_SELECTION"
+      "UNPROTECTED_HUB_JOINT_PAIR_CLASS_SELECTION"
     ],
-    "description": "Joint exact S011 singleton/empty matching refinement of S012 heavy-pair PAIR_FILTER with all realised kernel certificates; original all-k full TIK remains goal.",
+    "description": "Prove or refute one quantitatively specified way of handling private-light unprotected heavy singletons and global core matching without damaging S012 exact heavy-pair certificates; full all-k TIK unchanged.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -72,9 +72,10 @@
     "research/S010_PRIVATE_LIGHT_CROSS_HUB.md",
     "research/S010_TENTH_AUDIT.md",
     "research/S011_EXACT_SINGLETON_MATCHING.md",
-    "research/S012_PAIR_CERTIFICATE_SELECTION.md"
+    "research/S012_PAIR_CERTIFICATE_SELECTION.md",
+    "research/S013_PAIR_ROBUST_A0_ANCHORS.md"
   ],
-  "last_outcome": "PAIR_FILTER_AT_LEAST_T_OVER_M_MINUS_ONE_ONLY_JOINT_DENSITY_OPEN",
+  "last_outcome": "A0_PROTECTED_JOINT_REFINE_GAMMA_ONE_GENERAL_UNPROVED",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

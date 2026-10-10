@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "session": "P001-S013",
+  "date": "2026-10-10",
+  "child": {
+    "repo": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "id": 1412820282,
+    "entry_main": "5df20007c600429499ba47661da3040c24408198",
+    "previous_pr": 14,
+    "previous_head": "b716333c66ff6d1029375885a134efef3971f45f",
+    "previous_merged_main": "5df20007c600429499ba47661da3040c24408198",
+    "previous_pr_ci": {
+      "run": 38080805229,
+      "job": 114297137749,
+      "workflow": "research-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    },
+    "previous_push_ci": {
+      "run": 38080833937,
+      "job": 114297222544,
+      "workflow": "research-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "parent": {
+    "repo": "jfairfaxball-348/sunflower-structures-programme",
+    "id": 1412469441,
+    "entry_main": "20e75194b5e2696206b03c781e45f52d6eea78b7",
+    "s012_status_pr": 15,
+    "s012_head": "cc5a50f1ed432ed20c39af7344c02de2b3906a8b",
+    "s012_status_pr_ci": {
+      "run": 38080974213,
+      "job": 114297638757,
+      "workflow": "programme-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    },
+    "s012_push_ci": {
+      "run": 38081001774,
+      "job": 114297719312,
+      "workflow": "programme-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "open_prs_at_entry": {
+    "child": 0,
+    "parent": 0
+  },
+  "s013_unique_at_entry": true,
+  "parent_programme_s001_executed": false,
+  "archive": {
+    "sha256": "e47b54d10dee102d1c2a689200b0f57141ba692ff5a8c732c566d889c1a3e6e8",
+    "archive_commit": "7414510182299ed04bfaaaad9e203c78108a7d57",
+    "manifest_commit": "5e4a49c4edd1ba6ecb45bc63f43f8e7a1ec029a6",
+    "before_next_session_replacement": true
+  },
+  "notes": "S012 child/parent final-head and merged-main required workflows and JOB IDs independently checked. S013 protected-matching mathematics is same-assistant only."
+}
