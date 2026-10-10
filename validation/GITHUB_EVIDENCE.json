@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "parent_start": {
+    "sha": "361591a3e40d8f7aee2af58f59e838581de9f0fe",
+    "merged_pr": 1,
+    "run_id": 37995668375,
+    "job_id": 114040960609,
+    "conclusion": "success"
+  },
+  "child_initial_state": {
+    "repository_id": 1412820282,
+    "empty": true,
+    "main_commit": null,
+    "open_prs": 0,
+    "runs": 0
+  },
+  "child_base_commit": "aeb926e1d3901475aea584b42fad50ac9b8070d8",
+  "child_runs": [],
+  "child_pr": null,
+  "required_check_name": "validate",
+  "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
+  "parent_registration_status": "EXTERNAL_RECEIPT_REQUIRED"
+}

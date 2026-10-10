@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "project_id": "P001",
+  "child_project_identifier": "sunflower-internal-kernel-extraction",
+  "milestone": "P001",
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "repository_id": 1412469441,
+    "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
+    "authority_checkpoint": "361591a3e40d8f7aee2af58f59e838581de9f0fe"
+  },
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "repository_id": 1412820282,
+    "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
+  },
+  "session_completed": "P001-S000",
+  "objective": {
+    "id": "TIK",
+    "specification": "research/TARGET.md",
+    "machine_specification": "research/TARGET.json",
+    "summary": "For every fixed k, retain at least c_k*m^(-k) of every k-uniform family, with an m-petal sunflower inside the retained family for every exact pair intersection."
+  },
+  "mathematical_status": "SOURCE_POSED_CONJECTURE",
+  "open_status": "STRONG_EVIDENCE_OPEN",
+  "novelty_status": "NOVELTY_UNCERTAIN",
+  "proof_references": [],
+  "formal_verification": {
+    "status": "NOT_STARTED",
+    "record": "formalisation/STATUS.json"
+  },
+  "publication_status": "IDEA",
+  "constructive_status": "NO_CONSTRUCTION_CLAIM",
+  "complexity_status": "NO_COMPLEXITY_CLAIM",
+  "latest_validated_commit": null,
+  "validation_receipt": "validation/GITHUB_EVIDENCE.json",
+  "checkpoint_semantics": "Latest already-observed green commit; final outgoing merge is recorded externally in parent registration and GitHub, avoiding a self-referential hash.",
+  "parent_registration": {
+    "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
+    "receipt_path": "programme/P001_REGISTRATION.json",
+    "verification_required": true,
+    "local_assertion": "CONSULT_VERIFIED_PARENT_RECEIPT"
+  },
+  "next_obligation": {
+    "session": "P001-S001",
+    "objectives": [
+      "R3"
+    ],
+    "description": "Bounded analytical feasibility of all-m rank-three internal extraction through retained residual-link matching, beginning with exact low-rank attribution.",
+    "open_status": "STATUS_UNCERTAIN",
+    "handoff": "sessions/NEXT_SESSION.md",
+    "executed": false
+  }
+}

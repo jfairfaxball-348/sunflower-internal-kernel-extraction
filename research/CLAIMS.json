@@ -1,0 +1,104 @@
+[
+  {
+    "id": "C001",
+    "claim": "TIK is posed by the source; no project proof",
+    "mathematical_status": "SOURCE_POSED_CONJECTURE",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C002",
+    "claim": "Known internal bound (2^k*k*m)^(-2^k)",
+    "mathematical_status": "KNOWN_SOURCE_THEOREM",
+    "novelty_status": "ALREADY_PROVED",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C003",
+    "claim": "Known external bound (25*2^k*k*m)^(-k)",
+    "mathematical_status": "KNOWN_SOURCE_THEOREM",
+    "novelty_status": "ALREADY_PROVED",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C004",
+    "claim": "Theorem 1.6 obstructs the stronger common-pattern package",
+    "mathematical_status": "KNOWN_SOURCE_THEOREM",
+    "novelty_status": "ALREADY_PROVED",
+    "sources": [
+      "JJSW26",
+      "KUP25"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C005",
+    "claim": "2026 VC developments supply existence/robust bounds",
+    "mathematical_status": "SOURCE_REPORTED_RESULTS",
+    "novelty_status": "NOT_NOVEL",
+    "sources": [
+      "VC25",
+      "VC26",
+      "SHANG26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C006",
+    "claim": "Small-rank threshold results do not state internal extraction",
+    "mathematical_status": "SCOPE_COMPARISON",
+    "novelty_status": "NOT_A_THEOREM_CLAIM",
+    "sources": [
+      "SMALL26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C007",
+    "claim": "Project has no new theorem or formal verification",
+    "mathematical_status": "PROJECT_STATUS",
+    "novelty_status": "NOT_APPLICABLE",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C008",
+    "claim": "R3 is a proposed successor objective, not executed",
+    "mathematical_status": "PROPOSED_INVESTIGATION",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C009",
+    "claim": "Prior formalisation exists for important sunflower neighbours",
+    "mathematical_status": "SOURCE_REPORTED_FORMALISATION",
+    "novelty_status": "NOT_NOVEL",
+    "sources": [
+      "AFP21",
+      "PAL26",
+      "LEAN_OTHER"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  }
+]
