@@ -1,0 +1,24 @@
+{
+  "session": "P001-S008",
+  "date": "2026-10-10",
+  "entry_child_main": "f0417e8195f2cbfbc6d7e989329070d794dc2490",
+  "entry_parent_main": "b5a60592ce232afab26bb602f6b69d80e21e9ce2",
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "last_child_merged_pr": 9,
+  "last_parent_merged_pr": 10,
+  "s007_registration": "VERIFIED",
+  "child_main_ci": {
+    "run_id": 38070169198,
+    "job_id": 114265774477,
+    "conclusion": "success"
+  },
+  "parent_main_ci": {
+    "run_id": 38070362374,
+    "job_id": 114266337363,
+    "conclusion": "success"
+  },
+  "s008_unique": true,
+  "archived_input_sha256": "3aa26bb96c19ff177ac65ae6541c36a869e74f9052a08cf0e42e6fdfe73bcc96",
+  "note": "The prior S007 child state claiming parent registration pending is historical, superseded by independently verified parent PR #10/main at S008 entry."
+}

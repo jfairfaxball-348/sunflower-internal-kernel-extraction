@@ -1,0 +1,10 @@
+{
+  "session": "P001-S008",
+  "path": "sessions/P001-S008/INPUT.md",
+  "sha256": "3aa26bb96c19ff177ac65ae6541c36a869e74f9052a08cf0e42e6fdfe73bcc96",
+  "byte_source": "UTF-8 transcription of owner's message as rendered in this conversation; raw transport bytes not independently attested.",
+  "archive_before_next_session_replacement": true,
+  "scope": "One bounded high-load reservoir statement; do not execute S009 or parent S001",
+  "entry_child_main": "f0417e8195f2cbfbc6d7e989329070d794dc2490",
+  "entry_parent_main": "b5a60592ce232afab26bb602f6b69d80e21e9ce2"
+}

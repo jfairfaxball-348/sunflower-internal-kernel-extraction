@@ -35,3 +35,6 @@ One source-first deterministic complete-sunflower block-compatibility study. Out
 
 ## P001-S007 — 2026-10-10
 Explicit owner proof-first instruction superseded unexecuted technical-choice gate. One assistant-chosen bounded mathematical analysis proved **restricted BSEL with global maximum vertex block load <=m, gamma=1/3** via bounded-overlap conflict graph and exact empty-kernel bridge; NOT arbitrary BSEL/R3/full TIK. All novelty screening deferred as owner instructed, without originality claim or relaxing proof integrity. [Analytical proof](../research/S007_LOW_LOAD_REDUCTION.md), [input](P001-S007/INPUT.md), [closeout](P001-S007/CLOSEOUT.md). P001-S008 high-load interaction session prepared only; parent S001 not executed.
+
+## P001-S008 — 2026-10-10
+One bounded proof-first high-load analysis refuted the *single-hub* density-preserving reservoir HUB_RES, with a q-component symbolic construction in which every block is high-load and the full union is internally valid for realised 2-point, singleton and empty kernels. No contradiction to unrestricted BSEL/R3/TIK and no mathematical novelty promotion. [Full analysis](../research/S008_HIGH_LOAD_RESERVOIR_ANALYSIS.md), [archived input](P001-S008/INPUT.md), [closeout](P001-S008/CLOSEOUT.md). S009 two-hub slice is HANDOFF ONLY, parent S001 unexecuted.

@@ -26,3 +26,6 @@ Assistant transcribed the prior draft, archived it with a SHA256 receipt, update
 
 ## P001-S006
 AI assistant carried out live GitHub repository/Actions inspection, source-first literature comparison, symbolic three-level cross-block analysis, conditional constant proof, elementary restricted vertex-disjoint-block proof and GitHub record/CI orchestration. Same-assistant self-check does not constitute independent mathematical review; no N2, experiment, Monte Carlo, enumeration, Lean, journal, paid compute or researcher contact. User supplied bounded Route A and separately invoked it; canonical previously approved draft archived with explicit byte-provenance limitation.
+
+## P001-S008
+Assistant read live GitHub child/parent and verified actual S007 child/parent merged-main Actions, archived/hash-recorded user instruction, formulated a precise high/low auxiliary density proposition, derived a symbolic all-kernel-valid multi-hub counterexample, maintained governance records and staged S009. Mathematical checking is same-assistant symbolic analysis, not independent mathematical scrutiny; hosted schema/semantics CI does not verify the counterexample proof. No detailed new N1/N2, unbounded enumeration, computer proof search, Lean, manuscript, publication, researcher contact or parent mathematical session.
