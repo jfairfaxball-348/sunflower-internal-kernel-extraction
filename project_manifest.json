@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "0d7f313d99d289b5c43d59ba65a9c6e814298607"
+    "authority_checkpoint": "595afbb69c9769bb4bec25afd36bc408048069f3"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S004",
+  "session_completed": "P001-S005",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,7 +32,7 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "3cf6f348176579a23fb6b0fb5d095f5f91250dcc",
+  "latest_validated_commit": "3a7e0f00830345e64fd5efb52cf4623a590d6a58",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
@@ -42,11 +42,11 @@
     "local_assertion": "CONSULT_VERIFIED_PARENT_RECEIPT"
   },
   "next_obligation": {
-    "session": "P001-S005",
+    "session": "P001-S006",
     "objectives": [
-      "FIVE_SESSION_PROGRESS_CORRECTION_AND_ROUTE_TRIAGE"
+      "HUMAN_PROGRAMME_DECISION_REQUIRED"
     ],
-    "description": "Mandatory fifth substantive-session progress/correction audit and human-governed R3 route triage after exact L_AVG/B_CHARGE retirement; no new mathematical technique authorised by S004.",
+    "description": "Decision-only unexecuted successor; owner must choose A new R3 proof route, B attributed all-m subclass, or C pause and return to parent; no automatic proof pivot.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -60,7 +60,9 @@
     "research/S003_CHARGE_SPEC.md",
     "research/S003_CHARGE_ANALYSIS.md",
     "research/S004_AUDIT.md",
-    "research/S004_N1.md"
+    "research/S004_N1.md",
+    "research/S005_PROGRESS_CORRECTION_AUDIT.md",
+    "research/S005_N1_TRIAGE.md"
   ],
-  "last_outcome": "NO_GENERAL_R3_PROGRESS_L_AVG_B_CHARGE_RETIRED"
+  "last_outcome": "FIVE_SESSION_AUDIT_NO_APPROVED_SURVIVING_R3_ROUTE"
 }

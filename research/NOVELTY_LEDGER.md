@@ -36,3 +36,8 @@ N1 permits bounded investigation of a source-posed frontier, not promotion to CA
 
 - **N017:** Refreshed [S004_N1.md](S004_N1.md) compares original JJSW26 Lemma 2.1/Sections 2,4.1,6 with 2026 forward primary/abstract sources. No exact frozen tripartite negative formulation or R3 settlement found in the bounded search; this cannot certify novelty/open status. Full TIK **STRONG_EVIDENCE_OPEN/NOVELTY_UNCERTAIN**; R3 **STATUS_UNCERTAIN**.
 - **N018:** [S004_AUDIT.md](S004_AUDIT.md) carefully challenges S003 asymptotic L_AVG and B_CHARGE proofs. Outcome **PROVISIONAL_ANALYTICALLY_SUPPORTED**, *not* independent mathematical verification. D022 retires only these internal auxiliary proof routes. No N2, original theorem, paper, Lean or R3/TIK promotion.
+
+## P001-S005 — fifth-session correction + limited candidate N1
+
+- **N019:** [S005_N1_TRIAGE.md](S005_N1_TRIAGE.md) rechecks JJSW26 publisher Theorems 1.5–1.7/§6 and existing published/2026 neighbour source comparisons. Exact R3 all-m internal c*m^(-3) result attribution remains STATUS_UNCERTAIN; no independently attributable, quantitatively publishable restricted subclass verified. No-hit NOT proof of openness; `NO_CANDIDATE_PROMOTED`, novelty NOVELTY_UNCERTAIN.
+- **N020:** [S005_PROGRESS_CORRECTION_AUDIT.md](S005_PROGRESS_CORRECTION_AUDIT.md) explicitly propagates S003–S004 retirement over historically unproved L_AVG, preserves S002 restricted estimate and separates all negative route diagnostics from R3/TIK. N2 not applicable, no independent mathematical reviewer. `HUMAN_PROGRAMME_DECISION_REQUIRED`.

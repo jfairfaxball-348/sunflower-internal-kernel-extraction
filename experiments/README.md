@@ -19,3 +19,7 @@ No new experiment or sampled/enumerated family. The infinite deterministic famil
 ## P001-S004
 
 One bounded analytical challenge/route-decision only. The S003 infinite symbolic F_t sequence was rechecked by hand for quantifiers and probability inequalities; no newly sampled, enumerated or simulated mathematical population, symmetry quotient, fresh random experiment, seed, Lean or new code. Frozen ten P001-S000 semantic fixtures unchanged; hosted CI is regression validation and cannot independently certify asymptotic proof correctness. Details research/S004_AUDIT.md.
+
+## P001-S005
+
+Five-session retrospective only. NO new experiment, finite population, random-colour simulation, sampling, enumeration, pseudorandom seed, holdout, Lean, or mathematical program output. Only pre-frozen ten S000 semantic controls are run by the ordinary hosted CI; they neither certify asymptotic S003/S004 inequalities nor prove any source-posed conjecture.

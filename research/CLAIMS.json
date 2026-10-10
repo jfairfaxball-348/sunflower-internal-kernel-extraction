@@ -79,7 +79,7 @@
   },
   {
     "id": "C008",
-    "claim": "R3 investigated in P001-S001; not proved or refuted; L_AVG is unproved successor",
+    "claim": "Historical S001 R3 unresolved and L_AVG proposed as unproved successor; exact L_AVG was later counterexampled in S003/S004 and retired as a route.",
     "mathematical_status": "UNRESOLVED_AFTER_BOUNDED_ANALYSIS",
     "novelty_status": "NOVELTY_UNCERTAIN",
     "sources": [
@@ -115,7 +115,7 @@
   },
   {
     "id": "C011",
-    "claim": "L_AVG would imply R3 with c=6*eta/288^3; L_AVG is not proved",
+    "claim": "Conditional L_AVG => R3 with c=6*eta/288^3 is a valid implication with a FALSE/provisionally counterexampled auxiliary hypothesis; no R3 conclusion follows.",
     "mathematical_status": "CONDITIONAL_REDUCTION_UNPROVED_HYPOTHESIS",
     "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
     "sources": [
@@ -209,6 +209,33 @@
       "VC26",
       "SHANG26",
       "MATCH26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S004_AUDIT.md"
+  },
+  {
+    "id": "C018",
+    "claim": "Five-substantive-session audit finds no surviving approved bounded R3 proof obligation or attributable paper theorem; owner route decision A/B/C required",
+    "mathematical_status": "GOVERNANCE_TRIAGE_NO_MATHEMATICAL_PROMOTION",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [
+      "JJSW26",
+      "SMALL26",
+      "VC26",
+      "SHANG26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S005_PROGRESS_CORRECTION_AUDIT.md"
+  },
+  {
+    "id": "C019",
+    "claim": "S003-S004 negative L_AVG/B_CHARGE route findings are only same-assistant PROVISIONAL_ANALYTICALLY_SUPPORTED, do not refute internally valid tripartite F_t nor R3/TIK; no independent mathematical scrutiny",
+    "mathematical_status": "ROUTES_RETIRED_PENDING_INDEPENDENT_REVIEW",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [
+      "JJSW26"
     ],
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
