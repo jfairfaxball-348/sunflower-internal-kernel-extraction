@@ -689,6 +689,22 @@
         }
       ],
       "note": "Independently re-fetched at P001-S010 entry; proves integrity workflow success, not mathematics."
+    },
+    {
+      "run_id": 38076514026,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38076514026",
+      "event": "push",
+      "head_sha": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114284519269,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
     }
   ],
   "child_pr": {
@@ -700,7 +716,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "S003_PARENT_RECEIPT_VERIFIED_S004_UNSYNCHRONISED",
-  "current_session": "P001-S006_OUTGOING_HOSTED_CI_NOT_YET_VERIFIED",
+  "current_session": "P001-S011",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -764,5 +780,30 @@
     "publication_intent": "APPROVED_FUTURE_SESSION_HANDOFF_ONLY",
     "outgoing_ci_must_be_verified_externally": true
   },
-  "s006_entry_receipt": "sessions/P001-S006/ENTRY_EVIDENCE.json"
+  "s006_entry_receipt": "sessions/P001-S006/ENTRY_EVIDENCE.json",
+  "s011_entry_receipt": {
+    "entry_child_main": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+    "entry_parent_main": "505ccbcbd6fbd6413d75036665c0b8459ef419aa",
+    "child_S010_final_head_ci": {
+      "run": 38076489472,
+      "job": 114284442799,
+      "conclusion": "success"
+    },
+    "child_S010_push_ci": {
+      "run": 38076514026,
+      "job": 114284519269,
+      "conclusion": "success"
+    },
+    "parent_S010_head_ci": {
+      "run": 38076723698,
+      "job": 114285136912,
+      "conclusion": "success"
+    },
+    "parent_S010_push_ci": {
+      "run": 38076745486,
+      "job": 114285202572,
+      "conclusion": "success"
+    },
+    "s011_ci": "NOT_YET_OBSERVED_PRE_MERGE"
+  }
 }
