@@ -342,5 +342,37 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C027",
+    "claim": "In private-light two-heavy whole-block packings, for heavy v without a selected singleton-core block nu(G_v(J)) equals the number of free v-blocks plus the number of distinct compulsory other heavy partners. Light singleton kernels and pair kernels touching light vertices are automatically internally certified. When no empty-core block is selected the maximum triple matching equals max disjoint selected mandatory heavy-core footprints. These are exact selection certificates, not a density extraction theorem.",
+    "mathematical_status": "ELEMENTARY_STRUCTURAL_IDENTITIES_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S011_EXACT_SINGLETON_MATCHING.md",
+    "does_not_prove": [
+      "DENSE_PRIVATE_LIGHT_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C028",
+    "claim": "S011 refutes frozen local-pair-plus-true-singleton-certification implying global empty m-matching even for arbitrarily many selected blocks: two private-light pair-core N-spoke stars have all real pair links codegree m and singleton matching number N but global triple matching number exactly 2<m; one star remains an internally valid t/2 selection.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_AUXILIARY_LOCAL_TO_GLOBAL_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S011_EXACT_SINGLETON_MATCHING.md",
+    "does_not_refute": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]

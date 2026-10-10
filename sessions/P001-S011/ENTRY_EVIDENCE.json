@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "session": "P001-S011",
+  "date": "2026-10-10",
+  "child": {
+    "repo": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "id": 1412820282,
+    "entry_main": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+    "s010_pr": 12,
+    "final_head": "5fe81dfb6e45227eaf379b4a7136bbbc1f4fd4e5",
+    "merged_main": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+    "final_head_ci": {
+      "run": 38076489472,
+      "job": 114284442799,
+      "workflow": "research-integrity",
+      "job_name": "validate",
+      "event": "pull_request",
+      "conclusion": "success"
+    },
+    "main_ci": {
+      "run": 38076514026,
+      "job": 114284519269,
+      "event": "push",
+      "conclusion": "success"
+    }
+  },
+  "parent": {
+    "repo": "jfairfaxball-348/sunflower-structures-programme",
+    "id": 1412469441,
+    "entry_main": "505ccbcbd6fbd6413d75036665c0b8459ef419aa",
+    "s010_registration_pr": 13,
+    "registration_head": "a81184c3b09940dcd730d17285ede33875afea72",
+    "registration_merge": "505ccbcbd6fbd6413d75036665c0b8459ef419aa",
+    "head_ci": {
+      "run": 38076723698,
+      "job": 114285136912,
+      "event": "pull_request",
+      "conclusion": "success"
+    },
+    "main_ci": {
+      "run": 38076745486,
+      "job": 114285202572,
+      "event": "push",
+      "conclusion": "success"
+    }
+  },
+  "open_prs_at_entry": {
+    "child": 0,
+    "parent": 0
+  },
+  "s011_unique_at_entry": true,
+  "parent_programme_s001_executed": false,
+  "archive": {
+    "path": "sessions/P001-S011/INPUT.md",
+    "sha256": "72030a512904c0d4a618bffa677383806ebd96709d4b4a86c49071f0ad62ec0f",
+    "archive_commit": "2778d9d58deb83a469e0c9001ecdc880062119dd",
+    "manifest_commit": "49ad4ef1f511e7cbf8d6ee46e5ba917f9956b395",
+    "before_next_session_replacement": true
+  },
+  "notes": "Verified actual S010 required validate jobs, child PR and push, separate parent PR and push. Local GitHub DNS unavailable. GitHub Actions test suite is structural/semantic integrity, not independent proof review."
+}
