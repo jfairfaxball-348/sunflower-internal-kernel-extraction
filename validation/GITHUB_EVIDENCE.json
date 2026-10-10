@@ -756,6 +756,68 @@
         }
       ],
       "note": "Independently observed S012 merged main at S013 entry; not S013 self-validation"
+    },
+    {
+      "run_id": 38086469514,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38086469514",
+      "event": "pull_request",
+      "head_sha": "678c957a948e5c85af6810dbe26de07c1e2f33a1",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114313908724,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Validate records and exact target",
+              "conclusion": "success"
+            },
+            {
+              "name": "Check internal and external semantics",
+              "conclusion": "success"
+            },
+            {
+              "name": "Report checked commit",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ],
+      "checkout_semantics": "GitHub PR merge ref; final PR head independently matched"
+    },
+    {
+      "run_id": 38086490406,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38086490406",
+      "event": "push",
+      "head_sha": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114313971698,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Validate records and exact target",
+              "conclusion": "success"
+            },
+            {
+              "name": "Check internal and external semantics",
+              "conclusion": "success"
+            },
+            {
+              "name": "Report checked commit",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ],
+      "checkout_semantics": "Verified exact child S013 merged-main push commit"
     }
   ],
   "child_pr": {
