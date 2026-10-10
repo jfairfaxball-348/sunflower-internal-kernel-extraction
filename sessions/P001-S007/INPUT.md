@@ -1,0 +1,1 @@
+Yes, keep working towards the paper target. You dont need to worry about prior art until you have the full proof

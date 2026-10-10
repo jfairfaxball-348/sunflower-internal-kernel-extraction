@@ -70,3 +70,9 @@ Remaining major risk: any candidate charging lemma may simply restate L_AVG or c
 - D030: Girão–Illingworth–Scott–Wood decomposition is known; no exact BSEL source found (novelty uncertain). Conditional BSEL=>R3 constant checked, premise unproved.
 - D031: Outcome C—RESTRICTED_BSEL_ONLY: vertex-disjoint whole blocks gamma=1 elementary; universal overlapping-block selection unresolved. One-step greedy defeated by symbolic singleton-kernel example without refuting BSEL. No second architecture/repair authorised.
 - D032: Human choice A/B/C necessary for S007; R3/TIK/SUN, L_AVG/B_CHARGE retirement and theorem/formal/paper counters unchanged. Parent only via separately verified postmerge status PR.
+
+## P001-S007 owner override and route decision
+- D030: newest explicit owner instruction supersedes technical A/B/C research decision gate: continue TIK/R3 with assistant-selected bounded approaches; no new owner intervention required for every technical proof choice. One actual session still runs per fresh research invocation, not an unlimited background series.
+- D031: defer detailed N1/novelty and N2/prior-art effort until **full paper-target proof candidate**, without mistaking proof for novelty; retain current source attribution and all proof/CI/external-action safeguards.
+- D032: elementary restricted whole-block BSEL when maximum vertex block multiplicity <=m, gamma=1/3; SAME-ASSISTANT analysis only, no original theorem or full extraction claim. High-load compatible reservoirs are unsolved, and blanket deletion of high-load vertices is explicitly rejected by a common pair-core family.
+- D033: outgoing independent next mathematical S008 targets high-load compatibility, not changing BSEL universal quantifiers, R3 retention constant exponent or the TIK paper target.

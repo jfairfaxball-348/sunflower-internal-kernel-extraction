@@ -32,3 +32,6 @@ Owner selected Route A and approved the full [P001-S006 BSEL handoff](NEXT_SESSI
 
 ## P001-S006 — 2026-10-10
 One source-first deterministic complete-sunflower block-compatibility study. Outcome C—RESTRICTED_BSEL_ONLY: elementary pairwise vertex-disjoint block supports gamma=1; arbitrary BSEL unresolved and greedy single-block extension inadequate. No positive R3 theorem, N2, Lean, publication or independent scrutiny. [Closeout](P001-S006/CLOSEOUT.md); [N1](../research/S006_N1_BLOCK_COMPATIBILITY.md); [analysis](../research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md). S007 remains unexecuted HUMAN DECISION GATE; parent S001 unexecuted.
+
+## P001-S007 — 2026-10-10
+Explicit owner proof-first instruction superseded unexecuted technical-choice gate. One assistant-chosen bounded mathematical analysis proved **restricted BSEL with global maximum vertex block load <=m, gamma=1/3** via bounded-overlap conflict graph and exact empty-kernel bridge; NOT arbitrary BSEL/R3/full TIK. All novelty screening deferred as owner instructed, without originality claim or relaxing proof integrity. [Analytical proof](../research/S007_LOW_LOAD_REDUCTION.md), [input](P001-S007/INPUT.md), [closeout](P001-S007/CLOSEOUT.md). P001-S008 high-load interaction session prepared only; parent S001 not executed.

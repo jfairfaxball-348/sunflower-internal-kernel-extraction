@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "b9a744590eb0398b5296799cad7355d938971738"
+    "authority_checkpoint": "565be68f1899935fe3177e940a95bdf726dc980c"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S006",
+  "session_completed": "P001-S007",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "S006_REQUIRES_FRESH_VERIFIED_PARENT_STATUS_REGISTRATION"
+    "local_assertion": "S007_REQUIRES_FRESH_VERIFIED_PARENT_STATUS_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S007",
+    "session": "P001-S008",
     "objectives": [
-      "HUMAN_BLOCK_COMPATIBILITY_DECISION_GATE"
+      "HIGH_LOAD_VERTEX_RESERVOIR_COMPATIBILITY"
     ],
-    "description": "S006 restricted-only BSEL proof; universal BSEL unresolved; A/B/C human decision mandatory before more mathematics",
+    "description": "One assistant-chosen bounded proof attempt for high-incidence blocks, retaining exact universal R3/TIK/BSEL and all three kernel levels. Detailed novelty audit deferred until full TIK proof candidate.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -65,8 +65,10 @@
     "research/S005_N1_TRIAGE.md",
     "research/S006_N1_BLOCK_COMPATIBILITY.md",
     "research/S006_BLOCK_COMPATIBILITY_SPEC.md",
-    "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"
+    "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md",
+    "research/S007_LOW_LOAD_REDUCTION.md"
   ],
-  "last_outcome": "RESTRICTED_BSEL_ONLY",
-  "approved_next_route": "SUNFLOWER_BLOCK_COMPATIBILITY"
+  "last_outcome": "RESTRICTED_LOW_LOAD_BSEL_PROVED_NO_FULL_EXTRACTION",
+  "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
+  "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
