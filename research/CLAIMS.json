@@ -240,5 +240,50 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S004_AUDIT.md"
+  },
+  {
+    "id": "C020",
+    "claim": "Girão et al. known edge-disjoint sunflower decomposition remainder <27m^3",
+    "mathematical_status": "KNOWN_SOURCE_THEOREM",
+    "novelty_status": "ALREADY_PROVED",
+    "sources": [
+      "GIRAO24"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S006_N1_BLOCK_COMPATIBILITY.md"
+  },
+  {
+    "id": "C021",
+    "claim": "BSEL conditionally implies R3 with c=min(1/54,gamma/2); universal BSEL unproved",
+    "mathematical_status": "VALID_CONDITIONAL_REDUCTION_UNPROVED_PREMISE",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [
+      "GIRAO24",
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S006_BLOCK_COMPATIBILITY_SPEC.md"
+  },
+  {
+    "id": "C022",
+    "claim": "Elementary vertex-disjoint-support restricted BSEL gamma=1, AI symbolic argument, not R3",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_CASE_AI_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"
+  },
+  {
+    "id": "C023",
+    "claim": "Single-block greedy selection fails while all blocks can be compatible; not universal BSEL counterexample",
+    "mathematical_status": "SYMBOLIC_ARCHITECTURE_OBSTRUCTION_NOT_BSEL_REFUTATION",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"
   }
 ]

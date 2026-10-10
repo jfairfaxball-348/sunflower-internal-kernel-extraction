@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "c1c9aa6a0d36e4dc4170713ada36453fa21757a5"
+    "authority_checkpoint": "b9a744590eb0398b5296799cad7355d938971738"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S005",
+  "session_completed": "P001-S006",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,24 +32,23 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "79fbbbc35fec42fdde0ada766f892ab83090615c",
+  "latest_validated_commit": "76a4b8a3659adc8c10615f35717f1d2e6efbc1b4",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "CONSULT_VERIFIED_PARENT_RECEIPT"
+    "local_assertion": "S006_REQUIRES_FRESH_VERIFIED_PARENT_STATUS_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S006",
+    "session": "P001-S007",
     "objectives": [
-      "BLOCK_COMPATIBILITY_FEASIBILITY_GATE"
+      "HUMAN_BLOCK_COMPATIBILITY_DECISION_GATE"
     ],
-    "description": "Owner-approved Route A: one source-first BSEL sunflower-block compatibility proof-or-counterexample feasibility gate. Exact BSEL is UNPROVED and NOVELTY_UNCERTAIN; no mathematical S006 activity has occurred. New-session explicit invocation required.",
+    "description": "S006 restricted-only BSEL proof; universal BSEL unresolved; A/B/C human decision mandatory before more mathematics",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
-    "approval_record": "sessions/P001-S006/APPROVAL_MANIFEST.json",
     "executed": false
   },
   "analytical_records": [
@@ -63,8 +62,11 @@
     "research/S004_AUDIT.md",
     "research/S004_N1.md",
     "research/S005_PROGRESS_CORRECTION_AUDIT.md",
-    "research/S005_N1_TRIAGE.md"
+    "research/S005_N1_TRIAGE.md",
+    "research/S006_N1_BLOCK_COMPATIBILITY.md",
+    "research/S006_BLOCK_COMPATIBILITY_SPEC.md",
+    "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"
   ],
-  "last_outcome": "FIVE_SESSION_AUDIT_NO_APPROVED_SURVIVING_R3_ROUTE",
+  "last_outcome": "RESTRICTED_BSEL_ONLY",
   "approved_next_route": "SUNFLOWER_BLOCK_COMPATIBILITY"
 }

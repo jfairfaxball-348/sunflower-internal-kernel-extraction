@@ -29,3 +29,6 @@ Mandatory fifth-substantive-session correction/route governance audit executed, 
 ## P001-S006 prompt approval staging (no new substantive session)
 
 Owner selected Route A and approved the full [P001-S006 BSEL handoff](NEXT_SESSION.md) for separate future execution. The complete approved draft and SHA256 are archived at [S006 approved draft](P001-S006/APPROVED_DRAFT.md) and [approval manifest](P001-S006/APPROVAL_MANIFEST.json). **S005 remains last completed substantive session**, S006 NOT EXECUTED, no S007, no proof/experiment/Lean. Parent S001 also unexecuted. Preflight GitHub PR/main CI only certifies these administrative records.
+
+## P001-S006 — 2026-10-10
+One source-first deterministic complete-sunflower block-compatibility study. Outcome C—RESTRICTED_BSEL_ONLY: elementary pairwise vertex-disjoint block supports gamma=1; arbitrary BSEL unresolved and greedy single-block extension inadequate. No positive R3 theorem, N2, Lean, publication or independent scrutiny. [Closeout](P001-S006/CLOSEOUT.md); [N1](../research/S006_N1_BLOCK_COMPATIBILITY.md); [analysis](../research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md). S007 remains unexecuted HUMAN DECISION GATE; parent S001 unexecuted.

@@ -13,3 +13,6 @@ Counting substantive S001–S005, not S000 bootstrap, [S005_PROGRESS_CORRECTION_
 ## Post-S005 owner approval, not counted as P001-S006
 
 Publishing the owner-approved Route A / BSEL P001-S006 handoff is administrative staging; it is not a substantive research session or an alteration to fifth/tenth-session audit counters. The full S001–S005 correction audit remains authoritative, and S006 must perform a new N1 before its one permitted analytical feasibility attempt.
+
+## P001-S006 — sixth substantive session
+Prior fifth-session comprehensive audit S005 remains authoritative. S006 recorded a restricted elementary BSEL subcase but no universal theorem, formalisation or independent review. One bounded proof architecture stopped at missing overlapping-block group-closure estimate. The mandatory tenth-substantive strategy review remains S010 only if separately authorised; S007 is decision-only and unexecuted.

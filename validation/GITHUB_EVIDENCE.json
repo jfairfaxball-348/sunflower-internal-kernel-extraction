@@ -610,6 +610,35 @@
         }
       ],
       "checkout_semantics": "P001-S005 exact merged child main verified before separate owner-approved S006 staging"
+    },
+    {
+      "id": 38065454455,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38065454455",
+      "event": "push",
+      "head_sha": "76a4b8a3659adc8c10615f35717f1d2e6efbc1b4",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114252051100,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "steps": [
+            {
+              "number": 4,
+              "name": "Validate records and exact target",
+              "conclusion": "success"
+            },
+            {
+              "number": 5,
+              "name": "Check internal and external semantics",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ],
+      "note": "S006 ENTRY staged/main CI, NOT outgoing S006 CI"
     }
   ],
   "child_pr": {
@@ -621,7 +650,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "S003_PARENT_RECEIPT_VERIFIED_S004_UNSYNCHRONISED",
-  "current_session": "P001-S005 (P001-S006 APPROVED UNEXECUTED HANDOFF)",
+  "current_session": "P001-S006_OUTGOING_HOSTED_CI_NOT_YET_VERIFIED",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -684,5 +713,6 @@
     "execution_started": false,
     "publication_intent": "APPROVED_FUTURE_SESSION_HANDOFF_ONLY",
     "outgoing_ci_must_be_verified_externally": true
-  }
+  },
+  "s006_entry_receipt": "sessions/P001-S006/ENTRY_EVIDENCE.json"
 }

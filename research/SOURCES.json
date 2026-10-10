@@ -136,5 +136,17 @@
     "limitations": "Adjacent sunflower counts/ambient matching constraints; not internal retained palette capacity; full proof not read.",
     "accessed": "2026-10-10",
     "rechecked_in": "P001-S003 research/S003_N1.md; P001-S004 bounded scope S004_N1.md"
+  },
+  {
+    "id": "GIRAO24",
+    "authors": "António Girão, Freddie Illingworth, Alex Scott, David R. Wood",
+    "title": "Defective coloring of hypergraphs",
+    "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/rsa.21190",
+    "version": "Random Structures & Algorithms 64(3), 663–675 (2024); online 2023-10-27",
+    "locator": "Lemma 9 and full proof; edge-disjoint a-sunflower decomposition, remainder <(ra)^r",
+    "access_level": "FULL_PRIMARY_PUBLISHER_LEMMA_AND_PROOF_READ",
+    "limitations": "No cross-block compatibility theorem",
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S006 research/S006_N1_BLOCK_COMPATIBILITY.md"
   }
 ]

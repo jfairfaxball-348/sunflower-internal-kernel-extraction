@@ -54,3 +54,6 @@ The frozen L_AVG sufficient route was analysed, not established or refuted for g
 ## P001-S005 five-session correction status
 
 Mandatory substantive-session audit S001–S005 is complete. Exact L_AVG/B_CHARGE methods are RETIRED on provisionally analytically supported AI-only negative evidence, not independent review; S002's sunflower-free restricted estimate survives. No positive R3 bound has been obtained, and exact R3 literature status stays STATUS_UNCERTAIN. No publishable independent theorem candidate justified by bounded N1; the only prepared successor is a **human A/B/C programme decision gate**, not an active proof route. Full TIK semantics, quantifiers and source-posed status unchanged. See [S005 audit](S005_PROGRESS_CORRECTION_AUDIT.md).
+
+## P001-S006 scoped result
+Block-selection lemma BSEL universal arbitrary-packing status UNPROVED / NOVELTY_UNCERTAIN. Only elementary restricted result for vertex-disjoint complete blocks, gamma=1, AI-only and not originality-promoted. Conditional BSEL=>R3 c=min(1/54,gamma/2) arithmetic checked but premise not proved. Retired prior palette methods unaffected; TIK and R3 status unchanged. [Specification](S006_BLOCK_COMPATIBILITY_SPEC.md), [analysis](S006_BLOCK_COMPATIBILITY_ANALYSIS.md). S007 human decision only.
