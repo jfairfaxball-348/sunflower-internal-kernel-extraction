@@ -215,7 +215,7 @@
     "record": "research/S004_AUDIT.md"
   },
   {
-    "id": "C018",
+    "id": "C018B",
     "claim": "Five-substantive-session audit finds no surviving approved bounded R3 proof obligation or attributable paper theorem; owner route decision A/B/C required",
     "mathematical_status": "GOVERNANCE_TRIAGE_NO_MATHEMATICAL_PROMOTION",
     "novelty_status": "NOVELTY_UNCERTAIN",
@@ -287,7 +287,7 @@
     "record": "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"
   },
   {
-    "id": "C023",
+    "id": "C023B",
     "claim": "S007 elementary restricted BSEL: if each ground vertex occurs in at most m whole sunflower blocks then at least t/(3m^3) blocks can be selected with all exact pair-intersection kernels internally witnessed. Arbitrary BSEL/R3/TIK remain unproved; same-assistant proof only, no novelty gate.",
     "mathematical_status": "ELEMENTARY_RESTRICTED_AUXILIARY_PROOF_ONLY",
     "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
@@ -322,6 +322,22 @@
     "record": "research/S009_TWO_HEAVY_THINNING_ANALYSIS.md",
     "does_not_refute": [
       "TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C026",
+    "claim": "S010 SAT_CROSS is false for every m>=3: parametric t=2N+3 private-light mixed-core blocks have all heavy hubs supported by >=m blocks, all realised pair-codegrees >=m and m disjoint empty-kernel witness triples, yet realised singleton {a} residual link has exact matching number 2; positive valid subpacking >=t/2. Private-light BSEL/general BSEL/R3/full TIK remain unresolved.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_AUXILIARY_CROSS_HUB_CLOSURE_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S010_PRIVATE_LIGHT_CROSS_HUB.md",
+    "does_not_refute": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
       "BSEL",
       "R3",
       "TIK"
