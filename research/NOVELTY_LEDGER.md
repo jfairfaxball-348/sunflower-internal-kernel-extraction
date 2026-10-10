@@ -48,3 +48,6 @@ N1 permits bounded investigation of a source-posed frontier, not promotion to CA
 
 ## P001-S006 — BSEL N1 and analytical outcome
 BSEL exact arbitrary prescribed packing remains UNPROVED / NOVELTY_UNCERTAIN. Girão et al. decomposition is ALREADY_KNOWN. Elementary restricted gamma=1 with pairwise vertex-disjoint block supports is assistant-only, no N2/originality or journal-value claim. Greedy obstruction is not a BSEL counterexample; R3 exact attribution STATUS_UNCERTAIN. [N1](S006_N1_BLOCK_COMPATIBILITY.md); [analysis](S006_BLOCK_COMPATIBILITY_ANALYSIS.md).
+
+## Post-S006 owner proof-first instruction / S007
+Detailed new prior-art screening (N1/N2) is **DEFERRED BY OWNER UNTIL A COMPLETE PAPER-TARGET PROOF CANDIDATE**. Previous source attributions remain historical; no change from NOVELTY_UNCERTAIN, no originality certification or journal-worthiness claim. S007's bounded vertex-block load lemma is an elementary analytical intermediate, neither promoted as original nor used as a substitute for TIK. See [analysis](S007_LOW_LOAD_REDUCTION.md). Source-gate deferral must end before any originality or publication claim.

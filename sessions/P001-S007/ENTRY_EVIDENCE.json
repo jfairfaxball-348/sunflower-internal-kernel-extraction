@@ -1,0 +1,30 @@
+{
+  "session": "P001-S007",
+  "entry_child_main": "75dedd9cbf81f584cd7fafaa64eecff04fa34a45",
+  "entry_parent_main": "565be68f1899935fe3177e940a95bdf726dc980c",
+  "entry_child_pr8": {
+    "merged": true,
+    "head_sha": "24c44eef3fa24b29eb774a88b6a891bffdb85105",
+    "main_ci": {
+      "run_id": 38067603855,
+      "job_id": 114258324774,
+      "conclusion": "success"
+    }
+  },
+  "entry_parent_pr9": {
+    "merged": true,
+    "head_sha": "5a61e893c28c59770f2434b07ddf1a6397b6a870",
+    "main_ci": {
+      "run_id": 38067833372,
+      "job_id": 114258997125,
+      "conclusion": "success"
+    }
+  },
+  "open_prs_at_entry": [],
+  "live_main_unique_previous_session": "P001-S006",
+  "parent_mathematical_S001_executed": false,
+  "source_audit_new": "DEFERRED_BY_OWNER",
+  "owner_archive": "sessions/P001-S007/INPUT.md",
+  "archive_completed_commit": "17751ba7feb85eb265a69262d9ac5c5719b62728",
+  "note": "Prior S007 gate was decision-only until newest express owner instruction authorised autonomous research-method selection and one bounded continuation."
+}

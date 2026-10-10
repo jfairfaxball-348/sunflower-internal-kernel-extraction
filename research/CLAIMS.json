@@ -285,5 +285,15 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md"
+  },
+  {
+    "id": "C023",
+    "claim": "S007 elementary restricted BSEL: if each ground vertex occurs in at most m whole sunflower blocks then at least t/(3m^3) blocks can be selected with all exact pair-intersection kernels internally witnessed. Arbitrary BSEL/R3/TIK remain unproved; same-assistant proof only, no novelty gate.",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_AUXILIARY_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S007_LOW_LOAD_REDUCTION.md"
   }
 ]

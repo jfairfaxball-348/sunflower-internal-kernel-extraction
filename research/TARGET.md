@@ -57,3 +57,6 @@ Mandatory substantive-session audit S001–S005 is complete. Exact L_AVG/B_CHARG
 
 ## P001-S006 scoped result
 Block-selection lemma BSEL universal arbitrary-packing status UNPROVED / NOVELTY_UNCERTAIN. Only elementary restricted result for vertex-disjoint complete blocks, gamma=1, AI-only and not originality-promoted. Conditional BSEL=>R3 c=min(1/54,gamma/2) arithmetic checked but premise not proved. Retired prior palette methods unaffected; TIK and R3 status unchanged. [Specification](S006_BLOCK_COMPATIBILITY_SPEC.md), [analysis](S006_BLOCK_COMPATIBILITY_ANALYSIS.md). S007 human decision only.
+
+## P001-S007 owner-directed continuation
+The owner authorised technical research-method selection without repeated human decisions and explicitly deferred detailed novelty/prior-art reviews until a **complete proof candidate for the paper TIK target**. [S007's bounded-load block lemma](S007_LOW_LOAD_REDUCTION.md) yields gamma=1/3 only if every ground vertex belongs to at most m packed blocks; its same-assistant elementary proof does NOT imply general BSEL, R3 or TIK. High-load interaction remains the main unsolved subproblem, and S008 is only prepared. Full target, existing source statuses and publication stage unchanged.
