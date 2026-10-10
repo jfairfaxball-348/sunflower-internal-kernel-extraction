@@ -8,7 +8,8 @@
     "locator": "Theorems 1.2, 1.5, 1.6, 1.7; Lemma 2.1; Sections 2, 4.1, 4.2, 6",
     "access_level": "FULL_TEXT_RELEVANT_PROOFS_READ",
     "limitations": "Primary authority for target and closest bounds; not a claimed independent replay of all proofs.",
-    "accessed": "2026-10-10"
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
   },
   {
     "id": "RAO26",
@@ -30,7 +31,8 @@
     "locator": "Section 0.6.3, Theorem 55 and proof; Section 0.3.1, Theorem 21",
     "access_level": "FULL_TEXT_RELEVANT_SECTION_READ",
     "limitations": "Independent-authored comparison; rendered typographical issues recorded in FRONTIER_AUDIT.md.",
-    "accessed": "2026-10-10"
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
   },
   {
     "id": "VC25",
@@ -52,7 +54,8 @@
     "locator": "Theorem 1.1; Lemmas 2.3–2.7 and main proof",
     "access_level": "FULL_TEXT_MAIN_PROOF_READ",
     "limitations": "Preprint; metadata discrepancy preserved; no independent formal verification.",
-    "accessed": "2026-10-10"
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
   },
   {
     "id": "SHANG26",
@@ -63,7 +66,8 @@
     "locator": "Theorems 1.1, 1.3; Corollaries 1.4, 1.5; Section 1.2",
     "access_level": "FULL_PRIMARY_HTML_STATEMENTS_READ",
     "limitations": "Browser open failed; direct public HTML download read. Whole proof not independently certified.",
-    "accessed": "2026-10-10"
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
   },
   {
     "id": "SMALL26",
@@ -74,7 +78,8 @@
     "locator": "Lemma 2.3; formula (2.5); Theorem 4.2; abstract; Theorem 5.1",
     "access_level": "FULL_PRIMARY_HTML_SELECTED_STATEMENTS_READ",
     "limitations": "Existence thresholds only; finite computer-assisted endpoint computations not rerun.",
-    "accessed": "2026-10-10"
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S001; see research/S001_N1.md and sessions/P001-S001/SOURCE_RECEIPT.json"
   },
   {
     "id": "AFP21",
