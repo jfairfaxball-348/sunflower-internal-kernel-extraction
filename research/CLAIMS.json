@@ -390,5 +390,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C030",
+    "claim": "S013 protected pair-inactive A0 certificate lemma: if every original heavy singleton has a singleton-core A0 block or at least m A0 incident non-singleton-core blocks, and A0 contains an empty-core block or (without such a block) >=m pairwise disjoint compulsory heavy-core footprints, S012 PAIR_FILTER retains >=t/(m-1)>=t/m^3 whole blocks and ALL three kernel matching certificates; unrestricted private-light two-heavy BSEL remains OPEN. A q-cycle parametric mixed-core control shows nonvacuous reductions and heavy overlaps.",
+    "mathematical_status": "ELEMENTARY_PROTECTED_RESTRICTED_AUXILIARY_SAME_ASSISTANT_NOT_FULL_BSEL",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S013_PAIR_ROBUST_A0_ANCHORS.md",
+    "does_not_prove": [
+      "DENSE_PRIVATE_LIGHT_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
