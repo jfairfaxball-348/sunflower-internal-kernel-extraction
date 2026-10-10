@@ -45,3 +45,6 @@ N1 permits bounded investigation of a source-posed frontier, not promotion to CA
 ## S006 owner-approved candidate — NOT an N1 outcome
 
 - **N021 (proposal metadata only):** owner approved a future source-first P001-S006 investigation of the **unproved BSEL** whole-block sunflower compatibility hypothesis, stated in the new NEXT_SESSION. The Girão decomposition reference and any asserted equivalences/constants are prompts for source checking, NOT sources newly verified in this administrative approval change. Exact prior art, truth, originality and feasibility all **NOVELTY_UNCERTAIN / UNCHECKED**; no N1, N2, mathematical result, paper or independent review is executed at staging. No change to TIK/R3 source status.
+
+## P001-S006 — BSEL N1 and analytical outcome
+BSEL exact arbitrary prescribed packing remains UNPROVED / NOVELTY_UNCERTAIN. Girão et al. decomposition is ALREADY_KNOWN. Elementary restricted gamma=1 with pairwise vertex-disjoint block supports is assistant-only, no N2/originality or journal-value claim. Greedy obstruction is not a BSEL counterexample; R3 exact attribution STATUS_UNCERTAIN. [N1](S006_N1_BLOCK_COMPATIBILITY.md); [analysis](S006_BLOCK_COMPATIBILITY_ANALYSIS.md).

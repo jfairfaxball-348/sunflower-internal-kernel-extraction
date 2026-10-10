@@ -23,3 +23,6 @@ One bounded analytical challenge/route-decision only. The S003 infinite symbolic
 ## P001-S005
 
 Five-session retrospective only. NO new experiment, finite population, random-colour simulation, sampling, enumeration, pseudorandom seed, holdout, Lean, or mathematical program output. Only pre-frozen ten S000 semantic controls are run by the ordinary hosted CI; they neither certify asymptotic S003/S004 inequalities nor prove any source-posed conjecture.
+
+## P001-S006
+No additional experiment, numerical enumeration, simulation, stochastic search, Monte Carlo or Lean was authorised or performed. Symbolic parameter families in [S006 analysis](../research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md) are not computational experiments; existing ten semantic fixtures remain unchanged.
