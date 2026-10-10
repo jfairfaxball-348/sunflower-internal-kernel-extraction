@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "565be68f1899935fe3177e940a95bdf726dc980c"
+    "authority_checkpoint": "b5a60592ce232afab26bb602f6b69d80e21e9ce2"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S007",
+  "session_completed": "P001-S008",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "S007_REQUIRES_FRESH_VERIFIED_PARENT_STATUS_REGISTRATION"
+    "local_assertion": "S008_REQUIRES_SEPARATE_VERIFIED_PARENT_STATUS_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S008",
+    "session": "P001-S009",
     "objectives": [
-      "HIGH_LOAD_VERTEX_RESERVOIR_COMPATIBILITY"
+      "TWO_HUB_MULTIPLICITY_SLICE"
     ],
-    "description": "One assistant-chosen bounded proof attempt for high-incidence blocks, retaining exact universal R3/TIK/BSEL and all three kernel levels. Detailed novelty audit deferred until full TIK proof candidate.",
+    "description": "One bounded proof-first two-heavy-vertex-per-block compatibility gate; multi-hub interactions, whole-block selection and all exact kernels required; detailed novelty deferred.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -66,9 +66,10 @@
     "research/S006_N1_BLOCK_COMPATIBILITY.md",
     "research/S006_BLOCK_COMPATIBILITY_SPEC.md",
     "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md",
-    "research/S007_LOW_LOAD_REDUCTION.md"
+    "research/S007_LOW_LOAD_REDUCTION.md",
+    "research/S008_HIGH_LOAD_RESERVOIR_ANALYSIS.md"
   ],
-  "last_outcome": "RESTRICTED_LOW_LOAD_BSEL_PROVED_NO_FULL_EXTRACTION",
+  "last_outcome": "SINGLE_HUB_HIGH_LOAD_RESERVOIR_REFUTED_BSEL_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
