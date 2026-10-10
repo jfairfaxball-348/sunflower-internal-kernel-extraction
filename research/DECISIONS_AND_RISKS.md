@@ -41,3 +41,10 @@ Remaining risk: the averaging lemma may be false, unnecessarily strong, or no mo
 - D017: no new experiments, Lean, external actions or parent mathematical session. Parent metadata remains unsynchronised until separately checked registration (if attempted). All session status counters remain zero.
 
 Remaining major risk: any candidate charging lemma may simply restate L_AVG or charge repeatedly at different kernels without bounded multiplicity; insist on explicit constants and all three final-link levels.
+
+## P001-S003 — bounded heavy-link charging decision
+
+- D018: freeze B_CHARGE first, precisely separating heavy ambient-link chargeable good collisions from same-palette nontrivial internally m-valid recipient unions. It is not simply L_AVG in disguise.
+- D019: record the tripartite t-indexed asymptotic expectation counterexample. The **project's auxiliary L_AVG is false** under its exact random M=288m palette model, pending independent mathematical scrutiny of the recorded symbolic proof. Reject claims that the S002 sparse bound extends to general F.
+- D020: B_CHARGE fails even when every ambient pair/singleton/empty link has m disjoint witnesses. The first false implication is collision density implying nontrivial internal recipient capacity after palette projection; do not spend another m-power or silently substitute ambient witnesses.
+- D021: **NO_GENERAL_PROGRESS** on R3/TIK; no new positive theorem, Lean, paper, external submission or target pivot. S004 is bounded independent-adversarial audit and formal route-retirement decision only, not an authorised new research route. Parent registration remains separate after verified child CI.

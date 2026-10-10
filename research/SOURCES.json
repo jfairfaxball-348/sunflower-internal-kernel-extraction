@@ -124,5 +124,17 @@
     "access_level": "PRIMARY_README_SUMMARIES_ONLY",
     "limitations": "Source-reported scope; no adopted proof or CI certification.",
     "accessed": "2026-10-10"
+  },
+  {
+    "id": "MATCH26",
+    "authors": "Haixiang Zhang, Mengyu Cao, Mei Lu",
+    "title": "Counting sunflowers with restricted matching number",
+    "url": "https://arxiv.org/abs/2604.21855v2",
+    "version": "arXiv:2604.21855v2; revised 2026-08-18",
+    "locator": "Abstract and revision metadata; k=3 matching-number/codegree-moment scope",
+    "access_level": "PRIMARY_ABSTRACT_ONLY",
+    "limitations": "Adjacent sunflower counts/ambient matching constraints; not internal retained palette capacity; full proof not read.",
+    "accessed": "2026-10-10",
+    "rechecked_in": "P001-S003 research/S003_N1.md"
   }
 ]

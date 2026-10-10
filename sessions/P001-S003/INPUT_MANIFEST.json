@@ -1,0 +1,8 @@
+{
+  "session": "P001-S003",
+  "path": "sessions/P001-S003/INPUT.md",
+  "sha256": "100708e1d8b5cb713046a55ea380bd79165f0bdaf1a80499be2b81a3b690bd61",
+  "git_blob_sha": "f651a39c13c4de3738017cde20cfe0d899455605",
+  "archival": "Verbatim incoming owner prompt, UTF-8, no terminal newline; incoming version differs in formatting from historical NEXT_SESSION.md and is preserved without rewriting.",
+  "prior_handoff": "P001-S002 merged child main 693a8b45dab8ebff773554c879756e797e9558e8; verified parent main 9f38f991d5965431c5fe928bb77a979b78b94e2a"
+}

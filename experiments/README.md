@@ -11,3 +11,7 @@ Analytical only. The F_m/G_m family is defined and checked symbolically in resea
 ## P001-S002
 
 ONE analytical L_AVG feasibility gate. No new family enumeration, experiment population, stochastic simulation, random seed, paid compute, Lean or exhaustive certificate. An exact rational simplification verifies that `7/8 - (3/288 + 12/288^2 + 36/288^3) = 573599/663552`; this is algebraic constant checking, not a research population. The ten frozen semantic fixtures remain unchanged; hosted CI runs them only as regression tests. For any later computational research, freeze population/symmetry/controls/resources/stop first.
+
+## P001-S003
+
+No new experiment or sampled/enumerated family. The infinite deterministic family F_t (three complete t^3-parts, m=t^2) and random colouring law are analysed **symbolically** in research/S003_CHARGE_ANALYSIS.md, including a binomial union bound and limits. There is no finite frozen search population because no computational mathematical search is undertaken. No simulation, Monte Carlo, new code/Lean, seed, paid resource or holdout. CI continues the same ten fixed semantic controls only.

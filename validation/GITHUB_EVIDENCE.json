@@ -571,7 +571,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "EXTERNAL_RECEIPT_REQUIRED",
-  "current_session": "P001-S002",
+  "current_session": "P001-S003",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -585,5 +585,22 @@
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/pull/3",
     "first_validated_head": "3cf6f348176579a23fb6b0fb5d095f5f91250dcc",
     "state_at_observation": "OPEN"
+  },
+  "s003_entry_receipt": "sessions/P001-S003/ENTRY_EVIDENCE.json",
+  "s003_archived_prompt_sha256": "100708e1d8b5cb713046a55ea380bd79165f0bdaf1a80499be2b81a3b690bd61",
+  "s003_status": "Await separately observed final PR/head/main CI; no self-reference to an unobserved run",
+  "previous_main_check": {
+    "child": {
+      "sha": "693a8b45dab8ebff773554c879756e797e9558e8",
+      "run_id": 38057524434,
+      "job_id": 114228937181,
+      "conclusion": "success"
+    },
+    "parent": {
+      "sha": "9f38f991d5965431c5fe928bb77a979b78b94e2a",
+      "run_id": 38057796001,
+      "job_id": 114229720860,
+      "conclusion": "success"
+    }
   }
 }
