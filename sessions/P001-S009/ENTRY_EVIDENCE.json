@@ -1,0 +1,34 @@
+{
+  "session": "P001-S009",
+  "date": "2026-10-10",
+  "entry_child_main": "8bcacc71704ca6dbadc7a064f212f5864888114f",
+  "entry_parent_main": "2234d0e54dcb0766559b1642985c874215ba82c5",
+  "child_id": 1412820282,
+  "parent_id": 1412469441,
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "last_child_merged_pr": 10,
+  "last_parent_merged_pr": 11,
+  "s008_registration": "VERIFIED_INDEPENDENTLY",
+  "s008_child_pr": {
+    "number": 10,
+    "head_sha": "a4d34ebca84739b15e3ced318758cf42f8299251",
+    "merge_sha": "8bcacc71704ca6dbadc7a064f212f5864888114f",
+    "pr_run_id": 38071917049,
+    "pr_job_id": 114270892954,
+    "pr_conclusion": "success",
+    "main_run_id": 38071956467,
+    "main_job_id": 114271012320,
+    "main_conclusion": "success"
+  },
+  "s008_parent_registration": {
+    "pr_number": 11,
+    "main_sha": "2234d0e54dcb0766559b1642985c874215ba82c5",
+    "main_run_id": 38072179546,
+    "main_job_id": 114271675349,
+    "conclusion": "success"
+  },
+  "s009_unique": true,
+  "archived_input_sha256": "fbedb149bdef11fde93ebc8f92bc1c4a7731464ea3ed2cb5de962231929429ed",
+  "local_validator_note": "Direct repository clone unavailable: github.com DNS resolution failed; use actual GitHub-hosted workflow/jobs after PR."
+}

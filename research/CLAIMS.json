@@ -310,5 +310,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C025",
+    "claim": "S009 exact THIN_Q mechanism fails even for mixed pair/singleton/empty kernel complete blocks with at most two global heavy vertices per block: a K_q hub incidence construction has t=binom(q,2)+q+1 but every subpacking with r_J(v)<=m on original Q contains at most mq+1 blocks, while the whole packing is internally valid at all three realised intersection sizes. This does not refute unrestricted two-heavy BSEL, R3 or TIK.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_AUXILIARY_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S009_TWO_HEAVY_THINNING_ANALYSIS.md",
+    "does_not_refute": [
+      "TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
