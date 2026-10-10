@@ -374,5 +374,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C029",
+    "claim": "S012 PAIR_FILTER selects at least t/(m-1) whole complete blocks for every private-light <=2-heavy-support packing, preserving TRUE >=m final codegree for every realised heavy pair and automatic light pair certificates; singleton residual and global empty matching remain unproved simultaneously. This elementary auxiliary is NOT a private-light BSEL or TIK bound.",
+    "mathematical_status": "ELEMENTARY_PAIR_ONLY_QUANTITATIVE_AUXILIARY_SAME_ASSISTANT",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S012_PAIR_CERTIFICATE_SELECTION.md",
+    "does_not_prove": [
+      "DENSE_PRIVATE_LIGHT_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]

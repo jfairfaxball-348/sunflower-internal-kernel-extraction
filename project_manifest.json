@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "505ccbcbd6fbd6413d75036665c0b8459ef419aa"
+    "authority_checkpoint": "ba7d62b2fb46739119a2a7d7f3ead76b4d92398b"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S011",
+  "session_completed": "P001-S012",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+  "latest_validated_commit": "cd5892682e95dd242f1a9ce1b0c4abc03a6a1f56",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S010_INDEPENDENTLY_VERIFIED_S011_AWAITING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S011_INDEPENDENTLY_VERIFIED_S012_AWAITING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S012",
+    "session": "P001-S013",
     "objectives": [
-      "DENSITY_PRESERVING_EXACT_HUB_FOOTPRINT_SELECTION"
+      "PAIR_ROBUST_SINGLETON_EMPTY_SELECTION"
     ],
-    "description": "One bounded private-light two-heavy quantitative whole-block extraction using S011 exact pair, singleton residual matching and mandatory-core empty matching certificates. Original all-k full TIK still target.",
+    "description": "Joint exact S011 singleton/empty matching refinement of S012 heavy-pair PAIR_FILTER with all realised kernel certificates; original all-k full TIK remains goal.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -71,9 +71,10 @@
     "research/S009_TWO_HEAVY_THINNING_ANALYSIS.md",
     "research/S010_PRIVATE_LIGHT_CROSS_HUB.md",
     "research/S010_TENTH_AUDIT.md",
-    "research/S011_EXACT_SINGLETON_MATCHING.md"
+    "research/S011_EXACT_SINGLETON_MATCHING.md",
+    "research/S012_PAIR_CERTIFICATE_SELECTION.md"
   ],
-  "last_outcome": "EXACT_LINK_CORE_CERTIFICATE_LOCAL_TO_EMPTY_LEMMA_REFUTED_DENSITY_OPEN",
+  "last_outcome": "PAIR_FILTER_AT_LEAST_T_OVER_M_MINUS_ONE_ONLY_JOINT_DENSITY_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
