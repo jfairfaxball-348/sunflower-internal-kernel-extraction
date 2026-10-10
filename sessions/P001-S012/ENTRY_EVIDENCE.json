@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "session": "P001-S012",
+  "date": "2026-10-10",
+  "child": {
+    "repo": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "id": 1412820282,
+    "entry_main": "cd5892682e95dd242f1a9ce1b0c4abc03a6a1f56",
+    "previous_pr": 13,
+    "previous_head": "9aebced1727f797eafe5c343532ad40c5de04aa9",
+    "previous_merged_main": "cd5892682e95dd242f1a9ce1b0c4abc03a6a1f56",
+    "previous_pr_ci": {
+      "run": 38077637638,
+      "job": 114287839156,
+      "workflow": "research-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    },
+    "previous_push_ci": {
+      "run": 38077675808,
+      "job": 114287951452,
+      "workflow": "research-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "parent": {
+    "repo": "jfairfaxball-348/sunflower-structures-programme",
+    "id": 1412469441,
+    "entry_main": "ba7d62b2fb46739119a2a7d7f3ead76b4d92398b",
+    "s011_status_pr": 14,
+    "s011_head": "6c50e2def916745f22133bf2bd1a7cbe1aa2b97b",
+    "s011_status_pr_ci": {
+      "run": 38077887932,
+      "job": 114288587867,
+      "workflow": "programme-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    },
+    "s011_push_ci": {
+      "run": 38077914240,
+      "job": 114288668048,
+      "workflow": "programme-integrity",
+      "name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "open_prs_at_entry": {
+    "child": 0,
+    "parent": 0
+  },
+  "s012_unique_at_entry": true,
+  "parent_programme_s001_executed": false,
+  "archive": {
+    "sha256": "0caf596d20415f404a83307b5756f257ae2ce8dc3f9e430be3a3e015177cd03a",
+    "archive_commit": "7db5745b10f3a63543ef39ea42e839e08759bcbe",
+    "manifest_commit": "67d6409672c4bef79030889b28482fdcd6f5fe56",
+    "before_next_session_replacement": true
+  },
+  "notes": "Checked exact S011 final-head PR and merged-main hosted workflows AND jobs in child/parent; CI not independent mathematics review."
+}

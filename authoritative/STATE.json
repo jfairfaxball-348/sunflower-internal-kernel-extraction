@@ -1,22 +1,22 @@
 {
   "schema_version": 1,
   "project_id": "P001",
-  "session_completed": "P001-S011",
-  "stage": "EXACT_PRIVATE_LIGHT_LINK_AND_CORE_CERTIFICATES_DENSITY_OPEN",
+  "session_completed": "P001-S012",
+  "stage": "PAIR_CERTIFICATE_DENSITY_BOUND_SIMULTANEOUS_SELECTION_OPEN",
   "headline": "Erdős–Rado Sunflower Conjecture",
   "mathematical_status": "SOURCE_POSED_CONJECTURE",
   "open_status": "STRONG_EVIDENCE_OPEN",
   "novelty_status": "NOVELTY_UNCERTAIN",
   "restricted_rank3_open_status": "STATUS_UNCERTAIN",
   "new_theorems": 0,
-  "next_session": "P001-S012",
-  "next_objective": "DENSITY_PRESERVING_EXACT_HUB_FOOTPRINT_SELECTION",
+  "next_session": "P001-S013",
+  "next_objective": "PAIR_ROBUST_SINGLETON_EMPTY_SELECTION",
   "next_executed": false,
   "date": "2026-10-10",
-  "last_outcome": "EXACT_LINK_CORE_CERTIFICATE_LOCAL_TO_EMPTY_LEMMA_REFUTED_DENSITY_OPEN",
+  "last_outcome": "PAIR_FILTER_AT_LEAST_T_OVER_M_MINUS_ONE_ONLY_JOINT_DENSITY_OPEN",
   "r3_status": "UNRESOLVED_ARBITRARY_BSEL_AND_FULL_TIK_UNPROVED",
   "approved_handoff": "sessions/NEXT_SESSION.md",
   "approved_route": "A_CONTINUE_R3_NEW_APPROACH",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_AUTONOMOUS_METHOD_SELECTION",
-  "parent_registration_status": "P001-S010_VERIFIED_P001-S011_AWAITING_INDEPENDENT_REGISTRATION"
+  "parent_registration_status": "P001-S011_VERIFIED_P001-S012_AWAITING_INDEPENDENT_REGISTRATION"
 }
