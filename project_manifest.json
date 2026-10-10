@@ -7,7 +7,7 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "595afbb69c9769bb4bec25afd36bc408048069f3"
+    "authority_checkpoint": "c1c9aa6a0d36e4dc4170713ada36453fa21757a5"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
@@ -32,7 +32,7 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "3a7e0f00830345e64fd5efb52cf4623a590d6a58",
+  "latest_validated_commit": "79fbbbc35fec42fdde0ada766f892ab83090615c",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
@@ -44,11 +44,12 @@
   "next_obligation": {
     "session": "P001-S006",
     "objectives": [
-      "HUMAN_PROGRAMME_DECISION_REQUIRED"
+      "BLOCK_COMPATIBILITY_FEASIBILITY_GATE"
     ],
-    "description": "Decision-only unexecuted successor; owner must choose A new R3 proof route, B attributed all-m subclass, or C pause and return to parent; no automatic proof pivot.",
+    "description": "Owner-approved Route A: one source-first BSEL sunflower-block compatibility proof-or-counterexample feasibility gate. Exact BSEL is UNPROVED and NOVELTY_UNCERTAIN; no mathematical S006 activity has occurred. New-session explicit invocation required.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
+    "approval_record": "sessions/P001-S006/APPROVAL_MANIFEST.json",
     "executed": false
   },
   "analytical_records": [
@@ -64,5 +65,6 @@
     "research/S005_PROGRESS_CORRECTION_AUDIT.md",
     "research/S005_N1_TRIAGE.md"
   ],
-  "last_outcome": "FIVE_SESSION_AUDIT_NO_APPROVED_SURVIVING_R3_ROUTE"
+  "last_outcome": "FIVE_SESSION_AUDIT_NO_APPROVED_SURVIVING_R3_ROUTE",
+  "approved_next_route": "SUNFLOWER_BLOCK_COMPATIBILITY"
 }

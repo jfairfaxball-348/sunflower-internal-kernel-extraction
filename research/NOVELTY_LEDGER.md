@@ -41,3 +41,7 @@ N1 permits bounded investigation of a source-posed frontier, not promotion to CA
 
 - **N019:** [S005_N1_TRIAGE.md](S005_N1_TRIAGE.md) rechecks JJSW26 publisher Theorems 1.5–1.7/§6 and existing published/2026 neighbour source comparisons. Exact R3 all-m internal c*m^(-3) result attribution remains STATUS_UNCERTAIN; no independently attributable, quantitatively publishable restricted subclass verified. No-hit NOT proof of openness; `NO_CANDIDATE_PROMOTED`, novelty NOVELTY_UNCERTAIN.
 - **N020:** [S005_PROGRESS_CORRECTION_AUDIT.md](S005_PROGRESS_CORRECTION_AUDIT.md) explicitly propagates S003–S004 retirement over historically unproved L_AVG, preserves S002 restricted estimate and separates all negative route diagnostics from R3/TIK. N2 not applicable, no independent mathematical reviewer. `HUMAN_PROGRAMME_DECISION_REQUIRED`.
+
+## S006 owner-approved candidate — NOT an N1 outcome
+
+- **N021 (proposal metadata only):** owner approved a future source-first P001-S006 investigation of the **unproved BSEL** whole-block sunflower compatibility hypothesis, stated in the new NEXT_SESSION. The Girão decomposition reference and any asserted equivalences/constants are prompts for source checking, NOT sources newly verified in this administrative approval change. Exact prior art, truth, originality and feasibility all **NOVELTY_UNCERTAIN / UNCHECKED**; no N1, N2, mathematical result, paper or independent review is executed at staging. No change to TIK/R3 source status.

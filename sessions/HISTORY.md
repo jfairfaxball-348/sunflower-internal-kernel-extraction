@@ -25,3 +25,7 @@ One audit of the S003 tripartite palette counterexample: **PROVISIONAL_ANALYTICA
 ## P001-S005 (2026-10-10)
 
 Mandatory fifth-substantive-session correction/route governance audit executed, NOT P001-S006. Outcome HUMAN_PROGRAMME_DECISION_REQUIRED. See [closeout](P001-S005/CLOSEOUT.md), [full matrix](../research/S005_PROGRESS_CORRECTION_AUDIT.md), exact input and manifest. No mathematic proof/experiment/Lean, paper, or independent review. Parent mathematical S001 remains unexecuted. Separate parent status PR only after verified child merge/main CI.
+
+## P001-S006 prompt approval staging (no new substantive session)
+
+Owner selected Route A and approved the full [P001-S006 BSEL handoff](NEXT_SESSION.md) for separate future execution. The complete approved draft and SHA256 are archived at [S006 approved draft](P001-S006/APPROVED_DRAFT.md) and [approval manifest](P001-S006/APPROVAL_MANIFEST.json). **S005 remains last completed substantive session**, S006 NOT EXECUTED, no S007, no proof/experiment/Lean. Parent S001 also unexecuted. Preflight GitHub PR/main CI only certifies these administrative records.

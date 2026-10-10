@@ -2,7 +2,7 @@
   "schema_version": 1,
   "project_id": "P001",
   "session_completed": "P001-S005",
-  "stage": "HUMAN_PROGRAMME_DECISION_REQUIRED",
+  "stage": "R3_BLOCK_COMPATIBILITY_S006_APPROVED_UNEXECUTED",
   "headline": "Erdős–Rado Sunflower Conjecture",
   "mathematical_status": "SOURCE_POSED_CONJECTURE",
   "open_status": "STRONG_EVIDENCE_OPEN",
@@ -10,9 +10,11 @@
   "restricted_rank3_open_status": "STATUS_UNCERTAIN",
   "new_theorems": 0,
   "next_session": "P001-S006",
-  "next_objective": "HUMAN_PROGRAMME_DECISION_REQUIRED",
+  "next_objective": "BLOCK_COMPATIBILITY_FEASIBILITY_GATE",
   "next_executed": false,
   "date": "2026-10-10",
   "last_outcome": "FIVE_SESSION_AUDIT_NO_APPROVED_SURVIVING_R3_ROUTE",
-  "r3_status": "UNRESOLVED_ROUTE_TRIAGE_PAUSED_FOR_OWNER"
+  "r3_status": "UNRESOLVED_NEW_BLOCK_COMPATIBILITY_FEASIBILITY_AUTHORISED_NOT_EXECUTED",
+  "approved_handoff": "sessions/NEXT_SESSION.md",
+  "approved_route": "A_CONTINUE_R3_NEW_APPROACH"
 }
