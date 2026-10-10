@@ -81,9 +81,22 @@ def main():
     for claim in read("research/CLAIMS.json"):
         assert set(claim["sources"]) <= ids
         assert claim["formal_status"] == "NONE"
-    prompt = read("sessions/P001-S000/INPUT_MANIFEST.json")
-    actual = hashlib.sha256((ROOT / prompt["path"]).read_bytes()).hexdigest()
-    assert actual == prompt["sha256"], "Incoming prompt changed"
+    for receipt in sorted((ROOT / "sessions").glob("P001-S*/INPUT_MANIFEST.json")):
+        prompt = json.loads(receipt.read_text(encoding="utf-8"))
+        actual = hashlib.sha256((ROOT / prompt["path"]).read_bytes()).hexdigest()
+        assert actual == prompt["sha256"], ("Incoming prompt changed", receipt)
+    if state["session_completed"] == "P001-S001":
+        for path in ["sessions/P001-S001/INPUT.md", "sessions/P001-S001/INPUT_MANIFEST.json",
+                     "sessions/P001-S001/CLOSEOUT.md", "sessions/P001-S001/ENTRY_EVIDENCE.json",
+                     "sessions/P001-S001/SOURCE_RECEIPT.json", "research/S001_N1.md",
+                     "research/R3_FEASIBILITY.md"]:
+            assert (ROOT / path).is_file(), path
+        assert state["new_theorems"] == 0
+        assert state["restricted_rank3_open_status"] == "STATUS_UNCERTAIN"
+        assert state["last_outcome"] == "MECHANISM_OBSTRUCTION_AND_REMAINING_LEMMA"
+        assert manifest["next_obligation"]["objectives"] == ["L_AVG"]
+        assert state["next_session"] == "P001-S002"
+        assert not (ROOT / "sessions/P001-S002").exists(), "Successor must not execute in S001"
     handoff = (ROOT / "sessions/NEXT_SESSION.md").read_text()
     assert state["next_session"] in handoff and "STOP" in handoff and "R3" in handoff
     if state["session_completed"] == "P001-S000":

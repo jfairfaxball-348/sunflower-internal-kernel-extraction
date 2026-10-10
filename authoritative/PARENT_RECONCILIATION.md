@@ -11,3 +11,9 @@ GitHub needs a base commit before it can open a first PR in an empty repository.
 An attempted local Git clone did not complete because automatic permission review timed out. Repository reads and publication use the authenticated GitHub connector instead. Local validation uses the retrieved file snapshot. The connector's commit/tree/ref operations provide the branch publication normally performed by git push.
 
 Parent registration is a separate checked change within this P001-S000 closeout. Its verified receipt is `programme/P001_REGISTRATION.json` in the parent. Do not infer that it succeeded from the presence of this plan; inspect that receipt and the actual corresponding parent commit.
+
+## P001-S001 reconciliation — 2026-10-10
+
+Child main 6630117cb29009600ae73bb8619da391d43305a8 is exactly the S000 merge, PR #1. Parent main 4c6db56b9956eb745786f557fdfb15b4614c3af2 adds only the verified S000 registration PR #2 after the original programme checkpoint. Child and parent had no open PRs and no S001 work. Their latest main validation runs/jobs were 38030898177 / 114151437709 and 38031139011 / 114152152412, all successful; the preceding final-head push and PR jobs were also inspected. No branch protection checks are configured; the committed required workflow job validate remains mandatory by session policy.
+
+All linked child authority and live parent charter/research standards, decision and registers were read. Parent registration matches the actual child merge; no mathematical intervening change needs reconciliation. Parent S001 remains unexecuted. Local git clones now succeeded. The new incoming S001 prompt was archived before the handoff was replaced. This session is unique at entry; a Continue instruction resumes it. Parent status is updated only after separately rechecking the outgoing child merge, records and main CI.

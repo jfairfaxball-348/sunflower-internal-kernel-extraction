@@ -42,3 +42,7 @@ For nonempty F define a_k(m) as the infimum, over finite k-uniform F, of the max
 Investigate TIK for k=3 and **all m>=2**, with one positive constant c independent of m,n,F. The intended bound is |H|>=c m^(-3)|F|. Known general internal bound specialises to (24m)^(-8); external bound to (600m)^(-3). Neither is a new result here.
 
 In triples there are exactly three levels: for each realised pair K, its residual singleton link must have at least m members; for each realised singleton K, its residual graph must have a matching of size m; if the empty intersection is realised, H itself must have an m-edge matching. All three conditions must be checked in the final H. The R3 objective has not been attempted during bootstrap. It is a scoped investigation, not a claim that rank three is independently confirmed open or is the first unresolved rank.
+
+## P001-S001 status
+
+R3 was investigated through the authorised colour-certificate route. Unconditional constant-fraction repair of arbitrary largest good palette outputs fails; this is not a refutation of R3. [Analytical record](R3_FEASIBILITY.md) isolates L_AVG, an unproved sufficient averaging condition with explicit conditional density budget. R3 exact literature status remains STATUS_UNCERTAIN; no extraction theorem is claimed.

@@ -21,3 +21,7 @@ This is a bounded search record, not an exhaustive bibliography or independent r
 Backward trail: JJSW26 definitions and Theorems 1.2, 1.5–1.7, Lemma 2.1 and Sections 2, 4.1, 4.2, 6; Füredi original attribution; tree-expansion survey reference 32. Forward trail: independently authored KUP25 Theorem 55; published and preprint VC literature; September small-rank results; current author and institutional pages. This is not a complete subscription citation-index export.
 
 Primary pages and local HTML provided the research content. Some unversioned arXiv opens were disabled in the web tool; explicit versions and public downloads supplied the missing text. Wiley direct download was HTTP 403; readable full web-tool text was used. The September preprints' main statements were read, not their entire proofs independently reverified. Small-rank extraction attribution and complete forward-citation coverage remain limitations.
+
+## P001-S001 refresh
+
+The exact query routes, primary versions, access failures/fallbacks and limitations are recorded in S001_N1.md. Two search engines and recent/exact-title/arXiv-scoped searches were used. Relevant source HTML downloads are fingerprinted in sessions/P001-S001/SOURCE_RECEIPT.json. No complete citation-index audit or independent confirmation was obtained. No-hit results do not change the rank-specific STATUS_UNCERTAIN label.

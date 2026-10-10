@@ -49,3 +49,7 @@ The nearest source-named application requiring internal witnesses is recursive e
 ## Research decision
 
 Do not launch an all-ranks proof, broad enumeration, or a manuscript. Freeze only R3: one bounded analytical investigation of rank-three extraction via **internal residual-link matching retention**. This is a more manageable mechanism test than the all-k target; a successful non-routine all-m rank-three theorem could be a substantive restricted contribution. Its publishability and newness remain conditional. Require a density estimate that survives the interaction between pair links, singleton links and the empty link. Accept an explicit method obstruction or a precisely isolated unproved lemma as an honest session outcome. No R3 proof attempt was performed in P001-S000.
+
+## P001-S001 refresh
+
+See [focused N1](S001_N1.md) for the exact rank-three/graph-link recheck and source-access limits. No inspected result settles R3; individual rank status stays STATUS_UNCERTAIN. The analytical [colour-certificate obstruction](R3_FEASIBILITY.md) affects a proof shortcut only and does not change full-target STRONG_EVIDENCE_OPEN or NOVELTY_UNCERTAIN.

@@ -8,3 +8,5 @@
 6. [P001-S000 closeout](../sessions/P001-S000/CLOSEOUT.md), [GitHub evidence](../validation/GITHUB_EVIDENCE.json), [next session](../sessions/NEXT_SESSION.md).
 
 Re-read live parent authority at each session. A historical snapshot is not a substitute for live reconciliation.
+
+Current session: [P001-S001 closeout](../sessions/P001-S001/CLOSEOUT.md), [focused N1](../research/S001_N1.md), [R3 feasibility](../research/R3_FEASIBILITY.md). S000 documents above are historical baselines. Read the current handoff for P001-S002, which remains unexecuted.

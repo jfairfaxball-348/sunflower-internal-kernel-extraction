@@ -21,3 +21,13 @@
 | Practical benefit exaggerated | medium | document application as possible theorem transfer only |
 
 The outstanding work is mathematical, not infrastructure: a justified internal witness-retention estimate, plus exact low-rank novelty attribution. No human contact or external submission is authorised.
+
+## P001-S001
+
+- D008: execute only the authorised R3 colour-certificate analysis; no source-based target replacement.
+- D009: reject universal constant-fraction repair of arbitrary largest good palette outputs; preserve the symbolic family and all three failed link levels. It does not refute R3.
+- D010: record one unproved successor L_AVG with c=6*eta/288^3 conditional budget; no proof promotion and no S002 execution.
+- D011: keep publication IDEA, formalisation NOT_STARTED and new extraction theorem count zero. Same-assistant checking is not independent review.
+- D012: separately register only a verified child merge with successful main Actions. Parent S001 remains unexecuted.
+
+Remaining risk: the averaging lemma may be false, unnecessarily strong, or no more accessible than R3. A bounded failure/no-progress closeout is acceptable; it must not become repeated undirected colour-search churn.

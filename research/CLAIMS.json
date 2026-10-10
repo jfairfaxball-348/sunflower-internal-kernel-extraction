@@ -79,8 +79,8 @@
   },
   {
     "id": "C008",
-    "claim": "R3 is a proposed successor objective, not executed",
-    "mathematical_status": "PROPOSED_INVESTIGATION",
+    "claim": "R3 investigated in P001-S001; not proved or refuted; L_AVG is unproved successor",
+    "mathematical_status": "UNRESOLVED_AFTER_BOUNDED_ANALYSIS",
     "novelty_status": "NOVELTY_UNCERTAIN",
     "sources": [
       "JJSW26"
@@ -100,5 +100,39 @@
     ],
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C010",
+    "claim": "The universal constant-fraction repair assertion for every good-colouring largest-palette output fails on the standard transversal construction",
+    "mathematical_status": "ANALYTICAL_MECHANISM_COUNTEREXAMPLE_NOT_R3_REFUTATION",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/R3_FEASIBILITY.md"
+  },
+  {
+    "id": "C011",
+    "claim": "L_AVG would imply R3 with c=6*eta/288^3; L_AVG is not proved",
+    "mathematical_status": "CONDITIONAL_REDUCTION_UNPROVED_HYPOTHESIS",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/R3_FEASIBILITY.md"
+  },
+  {
+    "id": "C012",
+    "claim": "No independent mathematical review or N2 promotion occurred; no new extraction theorem",
+    "mathematical_status": "PROJECT_STATUS",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/R3_FEASIBILITY.md"
   }
 ]
