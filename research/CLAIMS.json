@@ -295,5 +295,20 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S007_LOW_LOAD_REDUCTION.md"
+  },
+  {
+    "id": "C024",
+    "claim": "Universal single-hub high-load reservoir HUB_RES (absolute eta*t/m^3 compatible whole blocks anchored at ONE heavy vertex whenever >half the blocks are heavy) is FALSE: q disjoint m+2-block components, each with pair- and singleton-core sunflower blocks, have L empty and max r(v)=m+2 while t=q(m+2) is unbounded; complete union itself witnesses all pair, singleton and empty kernels.",
+    "mathematical_status": "PROVISIONAL_EXACT_SYMBOLIC_AUXILIARY_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S008_HIGH_LOAD_RESERVOIR_ANALYSIS.md",
+    "does_not_refute": [
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
