@@ -406,5 +406,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C031",
+    "claim": "S014 refutes NONEMPTY_SATURATED_CLASS_REPAIR: even if each heavy pair-active class has an exact pair-core block and an empty-core block gives an actual global m-matching, preserving a pair-core from every saturated class can force true singleton residual matching 2<m. Mixed 0/1/2-core unprotected q-cycle has t=Nq+2 and exact optimal valid whole-block maximum Nq/2+2>t/2, so this is NOT a private-light BSEL, general BSEL, R3 or TIK negative.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_AUXILIARY_CLASS_PRESERVATION_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S014_UNPROTECTED_CLASS_REFINEMENT.md",
+    "does_not_refute": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
