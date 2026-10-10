@@ -639,6 +639,23 @@
         }
       ],
       "note": "S006 ENTRY staged/main CI, NOT outgoing S006 CI"
+    },
+    {
+      "run_id": 38071956467,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38071956467",
+      "event": "push",
+      "head_sha": "8bcacc71704ca6dbadc7a064f212f5864888114f",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114271012320,
+          "name": "validate",
+          "conclusion": "success",
+          "status": "completed"
+        }
+      ],
+      "observation": "Independently fetched live exact S008 merged-main workflow and job at S009 entry; prior published branch S008 receipt remains historical."
     }
   ],
   "child_pr": {

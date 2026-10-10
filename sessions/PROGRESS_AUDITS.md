@@ -16,3 +16,6 @@ Publishing the owner-approved Route A / BSEL P001-S006 handoff is administrative
 
 ## P001-S006 — sixth substantive session
 Prior fifth-session comprehensive audit S005 remains authoritative. S006 recorded a restricted elementary BSEL subcase but no universal theorem, formalisation or independent review. One bounded proof architecture stopped at missing overlapping-block group-closure estimate. The mandatory tenth-substantive strategy review remains S010 only if separately authorised; S007 is decision-only and unexecuted.
+
+## P001-S009 — ninth substantive session
+S009 added a quantified two-heavy mixed-kernel counterexample to the *induced-heavy-load<=m THIN_Q mechanism*, NOT to BSEL. Previously verified S005 five-session corrections still apply. The required **tenth-substantive S010** must combine a strategy/correction audit of S001–S010 (explicitly tracking S005's fifth-session findings, S006–S009 negatives, actual CI, no full-TIK proof, distinct originality/formal/paper stages) with exactly one bounded new mathematical gate. This is a future obligation, not completed in S009.

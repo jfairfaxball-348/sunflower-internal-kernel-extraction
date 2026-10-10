@@ -38,3 +38,5 @@ Explicit owner proof-first instruction superseded unexecuted technical-choice ga
 
 ## P001-S008 — 2026-10-10
 One bounded proof-first high-load analysis refuted the *single-hub* density-preserving reservoir HUB_RES, with a q-component symbolic construction in which every block is high-load and the full union is internally valid for realised 2-point, singleton and empty kernels. No contradiction to unrestricted BSEL/R3/TIK and no mathematical novelty promotion. [Full analysis](../research/S008_HIGH_LOAD_RESERVOIR_ANALYSIS.md), [archived input](P001-S008/INPUT.md), [closeout](P001-S008/CLOSEOUT.md). S009 two-hub slice is HANDOFF ONLY, parent S001 unexecuted.
+
+- P001-S009 (2026-10-10): two-heavy-vertex-per-block whole-packing proof-first mathematical gate. Refuted uniform induced-load<=m THIN_Q pre-processing by a mixed-core K_q family with t quadratic and any low-load subpacking at most mq+1; entire packing internally valid, so BSEL/R3/TIK remain unresolved. S010 ten-session review and bounded private-light closure test staged, not executed.

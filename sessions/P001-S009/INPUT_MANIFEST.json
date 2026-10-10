@@ -1,0 +1,10 @@
+{
+  "session": "P001-S009",
+  "path": "sessions/P001-S009/INPUT.md",
+  "sha256": "fbedb149bdef11fde93ebc8f92bc1c4a7731464ea3ed2cb5de962231929429ed",
+  "byte_source": "UTF-8 transcription of the owner's fresh invocation as rendered in this conversation; raw transport bytes not independently attested.",
+  "archive_before_next_session_replacement": true,
+  "scope": "One bounded two-heavy-vertex BSEL mechanism gate; do not execute S010 or parent S001",
+  "entry_child_main": "8bcacc71704ca6dbadc7a064f212f5864888114f",
+  "entry_parent_main": "2234d0e54dcb0766559b1642985c874215ba82c5"
+}

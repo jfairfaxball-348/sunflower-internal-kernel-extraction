@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "b5a60592ce232afab26bb602f6b69d80e21e9ce2"
+    "authority_checkpoint": "2234d0e54dcb0766559b1642985c874215ba82c5"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S008",
+  "session_completed": "P001-S009",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "76a4b8a3659adc8c10615f35717f1d2e6efbc1b4",
+  "latest_validated_commit": "8bcacc71704ca6dbadc7a064f212f5864888114f",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "S008_REQUIRES_SEPARATE_VERIFIED_PARENT_STATUS_REGISTRATION"
+    "local_assertion": "S009_REQUIRES_SEPARATE_VERIFIED_PARENT_STATUS_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S009",
+    "session": "P001-S010",
     "objectives": [
-      "TWO_HUB_MULTIPLICITY_SLICE"
+      "PRIVATE_LIGHT_MULTIHUB_COMPATIBILITY_AND_TENTH_AUDIT"
     ],
-    "description": "One bounded proof-first two-heavy-vertex-per-block compatibility gate; multi-hub interactions, whole-block selection and all exact kernels required; detailed novelty deferred.",
+    "description": "One bounded mixed-kernel private-light multi-hub compatibility gate PLUS the required tenth-substantive strategy and fifth-session correction follow-up audit; preserve original TIK, no detailed pre-proof N1/N2.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -67,9 +67,10 @@
     "research/S006_BLOCK_COMPATIBILITY_SPEC.md",
     "research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md",
     "research/S007_LOW_LOAD_REDUCTION.md",
-    "research/S008_HIGH_LOAD_RESERVOIR_ANALYSIS.md"
+    "research/S008_HIGH_LOAD_RESERVOIR_ANALYSIS.md",
+    "research/S009_TWO_HEAVY_THINNING_ANALYSIS.md"
   ],
-  "last_outcome": "SINGLE_HUB_HIGH_LOAD_RESERVOIR_REFUTED_BSEL_OPEN",
+  "last_outcome": "TWO_HEAVY_LOW_LOAD_THINNING_REFUTED_BSEL_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
