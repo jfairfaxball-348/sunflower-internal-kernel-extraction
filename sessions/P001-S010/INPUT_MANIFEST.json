@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "session": "P001-S010",
+  "path": "sessions/P001-S010/INPUT.md",
+  "sha256": "9e6a3e898612e413faccfd36d74b9d80448611ab624654129e8c84e137fcf7b7",
+  "encoding": "UTF-8",
+  "archive_type": "fresh_user_rendered_invocation_exact_text",
+  "archive_commit": "d9ebdddd543c5f7551f6c9123f674a4d75f10149",
+  "note": "Fresh user-rendered prompt text; raw transport-byte identity not independently attested. Archived before editing NEXT_SESSION."
+}
