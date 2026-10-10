@@ -523,6 +523,43 @@
         }
       ],
       "checkout_semantics": "Exact branch head"
+    },
+    {
+      "run_id": 38057391307,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38057391307",
+      "event": "pull_request",
+      "head_sha": "3cf6f348176579a23fb6b0fb5d095f5f91250dcc",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114228553537,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Validate records and exact target",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Check internal and external semantics",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            }
+          ]
+        }
+      ],
+      "checkout_semantics": "Observed first S002 PR success; the final outgoing head requires fresh checks"
     }
   ],
   "child_pr": {
@@ -534,12 +571,19 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "EXTERNAL_RECEIPT_REQUIRED",
-  "current_session": "P001-S001",
+  "current_session": "P001-S002",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/pull/2",
     "first_validated_head": "1cfa66d6b0f4988f1a838536832eea32b066ff78",
+    "state_at_observation": "OPEN"
+  },
+  "s002_entry_receipt": "sessions/P001-S002/ENTRY_EVIDENCE.json",
+  "s002_pr": {
+    "number": 3,
+    "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/pull/3",
+    "first_validated_head": "3cf6f348176579a23fb6b0fb5d095f5f91250dcc",
     "state_at_observation": "OPEN"
   }
 }

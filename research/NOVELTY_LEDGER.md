@@ -18,3 +18,10 @@ N1 permits bounded investigation of a source-posed frontier, not promotion to CA
 - N009: R3_FEASIBILITY.md reuses the standard complete-transversal obstruction to reject universal constant-fraction palette repair. This is a mechanism diagnostic, not a new extraction theorem or R3 counterexample.
 - N010: L_AVG is an unproved sufficient averaging statement; no claim of truth, necessity, originality or efficient construction. Its conditional density calculation is elementary.
 - N2 not performed: no achieved extraction theorem is being promoted. Independent scrutiny was not obtained or claimed.
+
+## P001-S002 — exact L_AVG N1 and partial analytical outcome
+
+- N011: [S002_N1.md](S002_N1.md) rechecks exact stochastic `E sum_P b_m(G_P)`, optimal palettewise retention and weighted/partition variants against JJSW26, Kupavskii, 2026 small-rank and bounded-VC sources. No exact proof/counterexample located; limitations disclosed. R3 and L_AVG individually **STATUS_UNCERTAIN**, novelty **NOVELTY_UNCERTAIN**. No-hit does not certify openness.
+- N012: [L_AVG_FEASIBILITY.md](L_AVG_FEASIBILITY.md) proves by elementary bounded-degree collision estimates only the sunflower-free restricted-case constant 573599/663552; **no independent scrutiny, N2 or originality promotion**. It is not a new R3 extraction theorem.
+- N013: general F is not covered: ambient sunflower-rich families have unbounded codegrees/degree/size relative to m. Unbounded collisions alone do not imply loss of b_m. The exact general averaging obligation is still open *within this research project*, not confirmed externally open.
+- N2 remains unperformed, appropriately: no new theorem is promoted. Neither published novelty nor paper worthiness is claimed.

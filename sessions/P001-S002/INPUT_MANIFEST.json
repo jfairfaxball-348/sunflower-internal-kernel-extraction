@@ -1,0 +1,7 @@
+{
+  "session": "P001-S002",
+  "path": "sessions/P001-S002/INPUT.md",
+  "sha256": "088f4b6d5f09b7ca9c1785c671e1e8cd2d929937d56769b64e6747e16ee25b92",
+  "archival": "Verbatim incoming user prompt, UTF-8, no terminal newline; removed Markdown heading prefix and final newline from the prior handoff only after verifying the incoming text",
+  "prior_handoff": "P001-S001 merged child main 8a9f3a29944da6386c0fa813e42b7bdaa802ed62"
+}

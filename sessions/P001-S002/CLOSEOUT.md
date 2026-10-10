@@ -1,0 +1,13 @@
+# P001-S002 closeout — aggregate palette capacity
+
+**Outcome:** RESTRICTED_SUNFLOWER_FREE_BOUND_GENERAL_L_AVG_UNRESOLVED. One bounded L_AVG session only. No unconditional L_AVG proof, rigorous counterexample sequence, R3 extraction theorem, Lean proof or manuscript. No N2/independent scrutiny, publication or application claim.
+
+Entry verification: child main `8a9f3a29944da6386c0fa813e42b7bdaa802ed62` with merged PR #2 and successful main run 38056271204; parent main `ded25d1aa5eec3a7ac08e7ef500218bbbddc8ba6` with merged PR #3 and successful main run 38056527194. No open PRs or intervening child research changes. Parent PR #3 is merely prior child S001 metadata registration. The P001-S002 incoming prompt was archived verbatim before replacing NEXT_SESSION; see INPUT_MANIFEST.json.
+
+[Analytical report](../../research/L_AVG_FEASIBILITY.md): the exact L_AVG functional is partitioned capacity, not total good-edge mass. A direct elementary counting/colour-collision argument gives expected aggregate retention at least 573599/663552 of |F| when F is m-sunflower-free. This is **restricted**, background-level and not novelty-promoted. Arbitrary F may have unbounded links, so the counting proof does not reach the frozen quantifiers. Triple families with many ambient sunflowers may have dense and internally valid palette slices even while collisions are plentiful. The precise failed step is converting dense palette multiplicity into internally retained matchings at ALL exact kernel levels with a uniform charge.
+
+[Focused N1](../../research/S002_N1.md) rechecked JJSW26, neighbouring surveys, small-rank and VC source distinctions and exact L_AVG/partition/weighted query variants. No exact source settling the statement was verified; searches are limited and no-hit does not certify openness. R3 STATUS_UNCERTAIN; full TIK SOURCE_POSED_CONJECTURE / STRONG_EVIDENCE_OPEN / NOVELTY_UNCERTAIN. Project new-theorem, formal-verification and publication counters remain zero.
+
+No experiment beyond fixed semantic fixtures, broad enumeration, Lean implementation, researcher contact, submission, payment, rename or parent mathematical S001 took place. Structural/test and GitHub Actions validation check repository integrity rather than the mathematical argument. See LOCAL_VALIDATION.md and validation/GITHUB_EVIDENCE.json for observed checks; containing commits cannot cite themselves. Parent status is **not synchronised unless a separately green-validated registration PR referencing the actual child merge and main run is completed**; no parent change is inferred from this child closeout.
+
+The FULL P001-S003 handoff is at [NEXT_SESSION.md](../NEXT_SESSION.md) and is **unexecuted**. Stop after P001-S002.

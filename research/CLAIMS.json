@@ -134,5 +134,30 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/R3_FEASIBILITY.md"
+  },
+  {
+    "id": "C013",
+    "claim": "For m-sunflower-free rank-three F, the fixed certificate colouring satisfies expected aggregate palette capacity >=(573599/663552)|F| by good unique-palette counting; elementary restricted case, not novelty-promoted",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_CASE_ARGUMENT_NOT_NOVELTY_PROMOTED",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [
+      "JJSW26",
+      "SMALL26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/L_AVG_FEASIBILITY.md"
+  },
+  {
+    "id": "C014",
+    "claim": "Unrestricted L_AVG still unresolved: sunflower-free degree bounds do not apply to ambient sunflower-rich families, and collision union bounds can diverge",
+    "mathematical_status": "PRECISE_FAILED_EXTENSION_NO_GENERAL_RESULT",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [
+      "JJSW26"
+    ],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/L_AVG_FEASIBILITY.md"
   }
 ]

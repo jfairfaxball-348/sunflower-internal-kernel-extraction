@@ -10,3 +10,5 @@
 Re-read live parent authority at each session. A historical snapshot is not a substitute for live reconciliation.
 
 Current session: [P001-S001 closeout](../sessions/P001-S001/CLOSEOUT.md), [focused N1](../research/S001_N1.md), [R3 feasibility](../research/R3_FEASIBILITY.md). S000 documents above are historical baselines. Read the current handoff for P001-S002, which remains unexecuted.
+
+Latest bounded session: [P001-S002 closeout](../sessions/P001-S002/CLOSEOUT.md); exact [L_AVG restricted-only feasibility](../research/L_AVG_FEASIBILITY.md), [S002 N1](../research/S002_N1.md) and archived input/manifest are current. The sole unexecuted child successor is P001-S003 as specified by [NEXT_SESSION](../sessions/NEXT_SESSION.md). Earlier S001 reading order remains historical.
