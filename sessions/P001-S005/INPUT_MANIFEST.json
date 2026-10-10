@@ -1,0 +1,8 @@
+{
+  "session": "P001-S005",
+  "path": "sessions/P001-S005/INPUT.md",
+  "sha256": "7bb6ebb5b38a84edf24f2744d5b3637f4191b85085be75d10d3b5eef3e809e29",
+  "git_blob_sha": "1af0041ba5a01c62b1ecaaf49ed17f79ece4ae38",
+  "archival": "Verbatim newly invoked user prompt as received, UTF-8, no terminal newline; archived in standalone first branch commit before replacing NEXT_SESSION.md.",
+  "first_archive_commit": "0281b4845d8e10ac1e66c57f6e68dbd9d8db90d7"
+}

@@ -1,0 +1,11 @@
+{
+  "status": "NOT_STARTED",
+  "lean_version": null,
+  "mathlib_commit": null,
+  "compiled_declarations": [],
+  "axiom_audit": null,
+  "statement_correspondence": null,
+  "independent_strength_review": null,
+  "hosted_lean_runs": [],
+  "prior_art_audit": "formalisation/AUDIT.md"
+}

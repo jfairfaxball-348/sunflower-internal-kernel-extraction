@@ -1,0 +1,13 @@
+# Track B formalisation audit
+
+Status: **NOT_STARTED**. No Lean toolchain is selected; no Lean files, build, theorem correspondence certificate or axiom audit exist for this project. The research CI is not a Lean verification.
+
+Mathlib master was pinned read-only at **aa4180fd65f90dd50307a354941dfbee635cf9d2** (observed commit timestamp 2026-10-10T04:38:11Z). Its full Git tree contained 10,729 entries and was not truncated. No sunflower-named file was present; scoped code search returned no sunflower hits. This is a search limitation, not a proof that no equivalent declaration exists. `Mathlib/Combinatorics/SetFamily/Intersecting.lean` and `Shatter.lean` were read: relevant interfaces include Set.IsIntersectingOf, Finset.Shatters and Finset.vcDim. These supply background, not an extraction theorem.
+
+AFP21 (Rene Thiemann, 25 February 2021) formalises the classical Erdos–Rado factorial bound in Isabelle/HOL. Infinitary delta-system formalisations are a different statement. PAL26 is the source-reported Palomar record **PALOMAR-2026-09-25-000014 v1**, Troy Lee, *Sunflower bounds*: it lists classical, ALWZ, Rao–BCW, robust and spread results. The entry's indexed summary was read; the proof archive, pinned toolchain, comparator and complete axiom dependencies were not independently replayed here. This evidence is enough to reject a claim that these directions have no existing formalisation, not enough to claim our verification of that submission.
+
+Additional source-level audit: stockedge/frontier-research describes a classical lemma and a scoped shifted-family theorem while explicitly separating the unrestricted conjecture; SproutSeeds/sunflower-lean includes a correction notice and various local/small-rank developments. lean-eval's ALWZ problem is a statement benchmark, not by itself a completed proof. Their current code/dependencies and builds were not independently audited in this session.
+
+A possible future Track B scope is JJSW26 Lemma 2.1 and Theorem 1.7 with exact external-witness semantics. Its formal novelty and publication value remain **UNCERTAIN**, and it is not the P001-S001 objective. Search theorem aliases and all major assistants again before adopting it. Reuse existing libraries with their licences and attribution.
+
+Before any positive project formal-verification claim: freeze exact finite-family/petal/kernel statement; pin Lean and Mathlib; compile lake build on hosted Actions; run #print axioms on final declarations; inspect transitive dependencies; ban sorry, admit, unexamined bespoke axioms and native_decide in the final chain; obtain independent mathematical-to-formal strength review. Record every actual run/job ID. None of those gates is reported completed now.

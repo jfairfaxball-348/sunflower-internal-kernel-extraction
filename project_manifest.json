@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "project_id": "P001",
+  "child_project_identifier": "sunflower-internal-kernel-extraction",
+  "milestone": "P001",
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "repository_id": 1412469441,
+    "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
+    "authority_checkpoint": "c1c9aa6a0d36e4dc4170713ada36453fa21757a5"
+  },
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "repository_id": 1412820282,
+    "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
+  },
+  "session_completed": "P001-S005",
+  "objective": {
+    "id": "TIK",
+    "specification": "research/TARGET.md",
+    "machine_specification": "research/TARGET.json",
+    "summary": "For every fixed k, retain at least c_k*m^(-k) of every k-uniform family, with an m-petal sunflower inside the retained family for every exact pair intersection."
+  },
+  "mathematical_status": "SOURCE_POSED_CONJECTURE",
+  "open_status": "STRONG_EVIDENCE_OPEN",
+  "novelty_status": "NOVELTY_UNCERTAIN",
+  "proof_references": [],
+  "formal_verification": {
+    "status": "NOT_STARTED",
+    "record": "formalisation/STATUS.json"
+  },
+  "publication_status": "IDEA",
+  "constructive_status": "NO_CONSTRUCTION_CLAIM",
+  "complexity_status": "NO_COMPLEXITY_CLAIM",
+  "latest_validated_commit": "79fbbbc35fec42fdde0ada766f892ab83090615c",
+  "validation_receipt": "validation/GITHUB_EVIDENCE.json",
+  "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
+  "parent_registration": {
+    "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
+    "receipt_path": "programme/P001_REGISTRATION.json",
+    "verification_required": true,
+    "local_assertion": "CONSULT_VERIFIED_PARENT_RECEIPT"
+  },
+  "next_obligation": {
+    "session": "P001-S006",
+    "objectives": [
+      "BLOCK_COMPATIBILITY_FEASIBILITY_GATE"
+    ],
+    "description": "Owner-approved Route A: one source-first BSEL sunflower-block compatibility proof-or-counterexample feasibility gate. Exact BSEL is UNPROVED and NOVELTY_UNCERTAIN; no mathematical S006 activity has occurred. New-session explicit invocation required.",
+    "open_status": "STATUS_UNCERTAIN",
+    "handoff": "sessions/NEXT_SESSION.md",
+    "approval_record": "sessions/P001-S006/APPROVAL_MANIFEST.json",
+    "executed": false
+  },
+  "analytical_records": [
+    "research/S001_N1.md",
+    "research/R3_FEASIBILITY.md",
+    "research/S002_N1.md",
+    "research/L_AVG_FEASIBILITY.md",
+    "research/S003_N1.md",
+    "research/S003_CHARGE_SPEC.md",
+    "research/S003_CHARGE_ANALYSIS.md",
+    "research/S004_AUDIT.md",
+    "research/S004_N1.md",
+    "research/S005_PROGRESS_CORRECTION_AUDIT.md",
+    "research/S005_N1_TRIAGE.md"
+  ],
+  "last_outcome": "FIVE_SESSION_AUDIT_NO_APPROVED_SURVIVING_R3_ROUTE",
+  "approved_next_route": "SUNFLOWER_BLOCK_COMPATIBILITY"
+}
