@@ -1,0 +1,14 @@
+{
+  "session": "P001-S018",
+  "path": "sessions/P001-S018/INPUT.md",
+  "sha256": "51fcc594f661d2a23c9086bc903d558b838d8f8a070923f3cae2e5aa419ac8f0",
+  "sha256_utf8": "51fcc594f661d2a23c9086bc903d558b838d8f8a070923f3cae2e5aa419ac8f0",
+  "utf8_bytes": 4797,
+  "archive_commit": "2634425677d870d2a6a74ba3bba1c1d06854f9a4",
+  "archive_precedes_next_handoff_change": true,
+  "source": "New owner-visible invocation rendered verbatim by removing heading markdown marker and heading separator blank line from identical S017 committed FUTURE handoff; raw transport bytes not independently attested",
+  "raw_chat_transport_bytes_attested": false,
+  "entry_child_main": "01ef273b203dcc50910230faa65cefc43ec3de4b",
+  "entry_parent_main": "d9d82e8a7134fcd078042db688ecc60aa29887e0",
+  "historical_input_preserved": true
+}

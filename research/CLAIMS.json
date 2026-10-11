@@ -470,5 +470,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C035",
+    "claim": "S018 freezes and proves A0_MAJORITY_24: in arbitrary private-light <=2-original-heavy whole-block m>=3 packing with pair-inactive A0>=t/2 there is fully in-H joint valid J with |J|>=t/(24m^3); stronger |J|>=|A0|/[12(m-1)^3]. Split by original mandatory hub core, use exact singleton free channels, optional-hub multigraph m-core/3(m-1) star forests and true empty clean-petal matching. A pair-active optional b-petal two-channel N+N example makes union singleton b and empty matching both 2<m though each Ae channel individually valid; N=t/2 valid control; does NOT refute unrestricted gamma/BSEL/R3/TIK.",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_A0_MAJORITY_T_BASED_JOINT_BOUND_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S018_A0_MAJORITY_AND_CHANNEL_OBSTRUCTION.md",
+    "does_not_prove": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
