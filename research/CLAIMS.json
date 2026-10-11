@@ -486,5 +486,37 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C036",
+    "claim": "S019 frozen PAIR_ACTIVE_96 remains UNPROVED. In the arbitrary private-light <=2 original-heavy-support packing, the originally pair-active E00 subpopulation with both heavy hubs OPTIONAL yields a true all-final-kernel whole-block extraction >=T00/[6m(m-1)^3], with stronger >=T_sat/[6(m-1)^2] on E00 saturated classes. Exact selected heavy-pair 0/1/>=m, true distinct-neighbour singleton residual matching and empty clean-petal matching/absence are checked in the same J. T00 may be zero; this does not prove t-based gamma, BSEL/R3/TIK.",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_PAIR_ACTIVE_E00_SUBMASS_PARTIAL_DENSITY_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S019_PAIR_ACTIVE_OPTIONAL_CHANNELS.md",
+    "does_not_prove": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C037",
+    "claim": "S019 MIXED_STAR_CLOSURE auxiliary fails parametrically for every m>=4 and unbounded N: t=(m+2)N all pair-active star blocks have every heavy pair saturated and every realised singleton m-matched in H_all, but EMPTY realised with nu(H_all)=3<m; all mN P blocks alone pass all three tests, keeping m/(m+2)>=2/3 of t. Therefore no fixed-m gamma/BSEL/R3/TIK counterexample.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_MIXED_PAIR_ACTIVE_STAR_EMPTY_OBSTRUCTION_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S019_PAIR_ACTIVE_OPTIONAL_CHANNELS.md",
+    "does_not_refute": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
