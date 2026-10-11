@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "4f87d612d3da998583fcc011bab34a7ebcb6d12e"
+    "authority_checkpoint": "abcd6b5aed5ec9feaa2014914c90846b8f103f87"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S016",
+  "session_completed": "P001-S017",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "72bba5f269df135404bf8aa2bbbc9ef7e6c2c2a4",
+  "latest_validated_commit": "db7292e5015c13e5da7543519f45031acaf2d9e1",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S015_INDEPENDENTLY_VERIFIED_S016_AWAITING_POSTMERGE_PARENT_REGISTRATION"
+    "local_assertion": "P001-S016_INDEPENDENTLY_VERIFIED_S017_AWAITING_POSTMERGE_PARENT_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S017",
+    "session": "P001-S018",
     "objectives": [
-      "ADAPTIVE_WEIGHTED_CORE_FOOTPRINT_AND_TRUE_CHANNEL_JOINT_SELECTION"
+      "CONTAMINATED_HEAVY_CHANNEL_COMPLEMENT_JOINT_SELECTION"
     ],
-    "description": "Prove genuine absolute-gamma private-light <=2-heavy whole-block joint pair/singleton/empty certificate selection with an adaptively selected weight-aware mandatory-core backbone or avoid realising empty; test exactly one frozen quantitative inequality without S016's fixed-backbone failure.",
+    "description": "Extend S017 weighted clean pair-core/all-light safe-spine lower bound (W+Z)/(12*m^3) to the genuinely unprotected t-W-Z mass with original Q fixed, all Ae/A0 true singleton and empty certificates jointly; one frozen inequality.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -77,9 +77,10 @@
     "research/S014_UNPROTECTED_CLASS_REFINEMENT.md",
     "research/S015_SINGLETON_ANCHORED_CLASS_DROP.md",
     "research/S015_FIFTEENTH_PROGRESS_AUDIT.md",
-    "research/S016_ADAPTIVE_BACKBONE_BUDGET.md"
+    "research/S016_ADAPTIVE_BACKBONE_BUDGET.md",
+    "research/S017_ADAPTIVE_WEIGHTED_SAFE_SPINE.md"
   ],
-  "last_outcome": "FIXED_BACKBONE_BUDGET_FALSE_DENSE_ADAPTIVE_HALF_CONTROL",
+  "last_outcome": "SAFE_SPINE_12_PARTIAL_W_PLUS_Z_NO_UNIFORM_T_BOUND",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
