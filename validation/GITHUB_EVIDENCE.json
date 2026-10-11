@@ -1074,9 +1074,9 @@
   "s003_archived_prompt_sha256": "100708e1d8b5cb713046a55ea380bd79165f0bdaf1a80499be2b81a3b690bd61",
   "s003_status": "Await separately observed final PR/head/main CI; no self-reference to an unobserved run",
   "previous_main_check": {
-    "sha": "5e0b6cd389cdf4f381abbfb31582bba7b22fdbee",
-    "run_id": 38135081107,
-    "job_id": 114457188275,
+    "sha": "3648b7ab3ee31219640f5bb73ea468b107d9ad87",
+    "run_id": 38141510284,
+    "job_id": 114476150824,
     "conclusion": "success",
     "event": "push"
   },
@@ -1151,5 +1151,9 @@
   "s021_archived_prompt_sha256": "70d021f8a070967620869f0913e126aedf4c4aaafafc2bc16793a914a7b221e8",
   "s022_entry_receipt": "sessions/P001-S022/ENTRY_EVIDENCE.json",
   "s022_archived_prompt_sha256": "322461805d95ee965e90ad62eaf55a454b182104e1c0e59e1a024e59f0dc2f56",
-  "s022_frozen_gate_commit": "3523a5973dacd041bb903a6beeb0771b8969cb7d"
+  "s022_frozen_gate_commit": "3523a5973dacd041bb903a6beeb0771b8969cb7d",
+  "s023_entry_receipt": "sessions/P001-S023/ENTRY_EVIDENCE.json",
+  "s023_archived_prompt_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+  "s023_frozen_gate_commit": "41021d001f718c1c18cb0afc78e9e74de7e04e89",
+  "s023_outgoing_ci": "NOT_YET_OBSERVED_BEFORE_PR"
 }

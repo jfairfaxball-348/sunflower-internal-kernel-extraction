@@ -613,5 +613,31 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C045",
+    "claim": "S023 nested three-tier projective-plane packing: for infinitely many m=q+2, t=(m-1)^2(m²-3m+3) edge-disjoint complete m-triple pair-core blocks with one ORIGINAL heavy Q hub per block and all non-Q support loads <=m. EXACT max internally m-valid ENTIRE-block subpacking=1, by pair {v,z} ambient codegree m-1, residual heavy-singleton actual matching at most m-1, and realised EMPTY triple matching at most m-1. Therefore max_valid*m³/t ->0 as m grows, refuting the S022/S023 frozen nonprivate t/(1008m³) and arbitrary universal BSEL absolute gamma. SAME-ASSISTANT symbolic counterexample, not an independently checked paper theorem; R3/TIK unaffected.",
+    "mathematical_status": "PROVISIONAL_UNIVERSAL_BSEL_AND_NONPRIVATE_LIGHT_M3_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S023_THREE_TIER_OBSTRUCTION.md",
+    "does_not_refute": [
+      "R3",
+      "TIK",
+      "PRIVATE_LIGHT_TWO_HEAVY_M3",
+      "Q_EMPTY_M3"
+    ]
+  },
+  {
+    "id": "C046",
+    "claim": "Same S023 finite family has TRUE internally valid PARTIAL-edge H of size (m-1)(m²-3m+3) chosen via a Hall line-point incidence bijection for every projective-plane group around one original Q hub. All pairs meet in exactly that hub and are witnessed by m triples in H. Since |F|=m(m-1)²(m²-3m+3), fraction is exactly 1/[m(m-1)]>=m^-2. Full-block BSEL failure therefore does not refute edge-level R3 or TIK.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARTIAL_EDGE_DENSE_POSITIVE_CONTROL_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S023_THREE_TIER_OBSTRUCTION.md"
   }
 ]

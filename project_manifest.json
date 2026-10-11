@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "6e9f6708b3cd5df99d1665268c9b5b578a3e0750"
+    "authority_checkpoint": "0ad3cbeb52c5c7674abe932ba6c5aac68c4bff8b"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S022",
+  "session_completed": "P001-S023",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S021_VERIFIED_S022_PENDING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S022_VERIFIED_S023_PENDING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S023",
+    "session": "P001-S024",
     "objectives": [
-      "LIGHT_AWARE_JOINT_SHORT_CHANNEL_SELECTION"
+      "DIRECT_PARTIAL_EDGE_R3_EXTRACTION"
     ],
-    "description": "NEW future single bounded nonprivate light-aware heavy-channel joint extraction; S022 frozen t/(1008m^3) unproved and graph-only constant repair false; S023 unexecuted",
+    "description": "Future single edge-level partial-petal m^-3 target after S023 whole-block BSEL counterexample; S024 UNEXECUTED",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -88,9 +88,11 @@
     "research/S021_FROZEN_GATE.md",
     "research/S021_SHORT_CHANNEL_M_SAVING.md",
     "research/S022_FROZEN_GATE.md",
-    "research/S022_NONPRIVATE_LIGHT_OVERLAP.md"
+    "research/S022_NONPRIVATE_LIGHT_OVERLAP.md",
+    "research/S023_FROZEN_GATE.md",
+    "research/S023_THREE_TIER_OBSTRUCTION.md"
   ],
-  "last_outcome": "GRAPH_ONLY_CONSTANT_REPAIR_FALSE_Q_EMPTY_M3_PROVED_S022_GATE_UNPROVED",
+  "last_outcome": "S023_FROZEN_NONPRIVATE_M3_AND_UNIVERSAL_BSEL_REFUTED_SAME_ASSISTANT_TIK_UNPROVED",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

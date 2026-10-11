@@ -1,0 +1,17 @@
+{
+  "session": "P001-S023",
+  "input_path": "sessions/P001-S023/INPUT.md",
+  "path": "sessions/P001-S023/INPUT.md",
+  "utf8_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+  "sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+  "sha256_utf8": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
+  "utf8_bytes": 8,
+  "archive_commit": "fd574168a8ae5157091c3391e617f7fb51cf14d6",
+  "frozen_gate_commit": "41021d001f718c1c18cb0afc78e9e74de7e04e89",
+  "source": "Fresh 2026-10-11 owner message verbatim: Continue; resolved in direct context of previously read live sessions/NEXT_SESSION.md at child starting main; no implicit inclusion of contextual document in the eight archived bytes.",
+  "raw_chat_transport_bytes_attested": false,
+  "base_child_main": "3648b7ab3ee31219640f5bb73ea468b107d9ad87",
+  "base_parent_main": "0ad3cbeb52c5c7674abe932ba6c5aac68c4bff8b",
+  "handoff_replaced_after_archive": true,
+  "contextual_handoff_blob_sha": "b01344919c2d2d4f4930610ff37792e78d85f550"
+}

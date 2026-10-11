@@ -1,0 +1,11 @@
+# P001-S023 — frozen LIGHT_AWARE_JOINT_1008 quantitative gate
+
+**FROZEN BEFORE S023 MATHEMATICAL PROOF REPORT; candidate, NOT established.** For every integer m>=3 and every finite simple 3-uniform packing of t pairwise edge-disjoint COMPLETE m-petal sunflower blocks B_1,...,B_t, with original exact block cores of sizes 0,1,2, let V_i be their original entire supports and fix Q={v: #{i:v in V_i}>m}. Suppose |V_i intersection Q|<=2 for each i (all other vertices have original block support multiplicity <=m and need NOT be block-private). Then there exists ONE set J of ENTIRE original blocks with
+
+    |J| >= t/(1008*m^3)
+
+such that every exact intersection K=A intersection B of two distinct triples A,B in H=union_{i in J} B_i, **including K=empty**, has an m-petal exact-kernel sunflower consisting solely of distinct triples in H; A,B need not belong to the witnessing sunflower. The original Q remains fixed. A realised pair requires at least m third vertices, each realised singleton requires ACTUAL residual-link matching >=m, and realised EMPTY requires ACTUAL m-triple matching.
+
+This single candidate is S023's bounded proof-first t-based gate and keeps S022's unproved numerical constant without claiming S022 succeeded. The method under challenge is a **simultaneous light-aware original block selection**, not private-Q graph selection followed by constant-fraction repair (already false), not serial light-conflict deletion at cost O(m^2), not prelocked EMPTY matching, and not separate incompatible classwise outputs joined afterward. Any failed lemma must be stated with explicit quantifiers and proven only in its precise scope. A failed intermediary does NOT disprove LIGHT_AWARE_JOINT_1008 or BSEL/R3/every-k TIK unless an actual sequence forces max_valid*m^3/t to zero with the relevant quantified m behavior.
+
+Boundary m=2: original TIK H=F. t=0: choose J empty. 1<=t<=3m^3: one original block gives |J|=1>=t/(3m^3)>t/(1008m^3). Every fixed k full TIK paper target unchanged. S021 private-light t/[126(m-1)^3] cannot be used without block privacy, and S022 graph-only repair is refuted. S005/S010/S015/S020 audits remain complete, S025 future. No new N1/N2, Lean, manuscript, outreach, external action, parent mathematical S001 or S024.
