@@ -1,0 +1,16 @@
+{
+  "session": "P001-S022",
+  "input_path": "sessions/P001-S022/INPUT.md",
+  "utf8_sha256": "322461805d95ee965e90ad62eaf55a454b182104e1c0e59e1a024e59f0dc2f56",
+  "utf8_bytes": 4688,
+  "archive_commit": "140bf9b4e9ebd610eb8257e2857b9c8296c07735",
+  "source": "Fresh 2026-10-11 owner invocation, copied with heading/paragraph line breaks as visible; transport raw-byte equivalence not independently attested",
+  "base_child_main": "fc4f190d0e84fa4b4a407b68174c92aeb9a4c28d",
+  "base_parent_main": "6e9f6708b3cd5df99d1665268c9b5b578a3e0750",
+  "handoff_replaced_after_archive": true,
+  "path": "sessions/P001-S022/INPUT.md",
+  "sha256": "322461805d95ee965e90ad62eaf55a454b182104e1c0e59e1a024e59f0dc2f56",
+  "sha256_utf8": "322461805d95ee965e90ad62eaf55a454b182104e1c0e59e1a024e59f0dc2f56",
+  "frozen_gate_commit": "3523a5973dacd041bb903a6beeb0771b8969cb7d",
+  "raw_chat_transport_bytes_attested": false
+}

@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "19434cd598d3c065807616cc820be32747063892"
+    "authority_checkpoint": "6e9f6708b3cd5df99d1665268c9b5b578a3e0750"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S021",
+  "session_completed": "P001-S022",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S020_VERIFIED_S021_PENDING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S021_VERIFIED_S022_PENDING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S022",
+    "session": "P001-S023",
     "objectives": [
-      "NONPRIVATE_LIGHT_OVERLAP_LIFT"
+      "LIGHT_AWARE_JOINT_SHORT_CHANNEL_SELECTION"
     ],
-    "description": "ONE future bounded proof-first mathematical gate: lift S021 private-light <=2-Q-support t/(126m^3) to original non-Q vertices with block multiplicity up to m, or isolate precise failed quantified intermediate; no S022 executed",
+    "description": "NEW future single bounded nonprivate light-aware heavy-channel joint extraction; S022 frozen t/(1008m^3) unproved and graph-only constant repair false; S023 unexecuted",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -86,9 +86,11 @@
     "research/S020_DIRECTIONAL_MIXED_BRIDGE.md",
     "research/S020_PROGRESS_CORRECTION_AUDIT.md",
     "research/S021_FROZEN_GATE.md",
-    "research/S021_SHORT_CHANNEL_M_SAVING.md"
+    "research/S021_SHORT_CHANNEL_M_SAVING.md",
+    "research/S022_FROZEN_GATE.md",
+    "research/S022_NONPRIVATE_LIGHT_OVERLAP.md"
   ],
-  "last_outcome": "PRIVATE_LIGHT_TWO_Q_FULL_T_OVER_126M3_PROVED_SAME_ASSISTANT_ALL_K_OPEN",
+  "last_outcome": "GRAPH_ONLY_CONSTANT_REPAIR_FALSE_Q_EMPTY_M3_PROVED_S022_GATE_UNPROVED",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
