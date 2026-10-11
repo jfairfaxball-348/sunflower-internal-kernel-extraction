@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "session": "P001-S017",
+  "observed_on": "2026-10-11",
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "main": "db7292e5015c13e5da7543519f45031acaf2d9e1",
+    "open_prs": 0,
+    "recent_merged": [
+      18,
+      17,
+      16,
+      15,
+      14,
+      13
+    ],
+    "s016_pr": {
+      "number": 18,
+      "head": "fe66c4997adb029ceabc376bf26c1969fa418996",
+      "merged": true,
+      "merge_main": "db7292e5015c13e5da7543519f45031acaf2d9e1"
+    },
+    "final_head_ci": {
+      "name": "research-integrity",
+      "event": "pull_request",
+      "run_id": 38126466197,
+      "job_id": 114431747390,
+      "job_name": "validate",
+      "head_sha": "fe66c4997adb029ceabc376bf26c1969fa418996",
+      "conclusion": "success"
+    },
+    "main_push_ci": {
+      "name": "research-integrity",
+      "event": "push",
+      "run_id": 38126489735,
+      "job_id": 114431811715,
+      "head_sha": "db7292e5015c13e5da7543519f45031acaf2d9e1",
+      "conclusion": "success"
+    }
+  },
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "main": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
+    "open_prs": 0,
+    "recent_merged": [
+      19,
+      18,
+      17,
+      16,
+      15,
+      14
+    ],
+    "s016_pr": {
+      "number": 19,
+      "head": "2c20837b0c32b45ccbd996388d6c3bdc25f9cbc8",
+      "merged": true,
+      "merge_main": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
+      "status_only": true
+    },
+    "final_head_ci": {
+      "name": "programme-integrity",
+      "event": "pull_request",
+      "run_id": 38126707421,
+      "job_id": 114432465552,
+      "job_name": "validate",
+      "head_sha": "2c20837b0c32b45ccbd996388d6c3bdc25f9cbc8",
+      "conclusion": "success"
+    },
+    "main_push_ci": {
+      "name": "programme-integrity",
+      "event": "push",
+      "run_id": 38126731677,
+      "job_id": 114432538324,
+      "head_sha": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
+      "conclusion": "success"
+    }
+  },
+  "unique_s017": true,
+  "previous_handoff_matches_new_invocation": true,
+  "required_workflows": [
+    ".github/workflows/research-integrity.yml job validate",
+    "parent .github/workflows/programme-integrity.yml job validate"
+  ],
+  "input_sha256": "dde379361108e06f2d61a98df81c678e859029d044f0d54756c124c27480b5a4",
+  "archive_commit": "23f74eba1b940a8cd055cebc0f7e704a959d6d4b",
+  "parent_mathematical_s001_executed": false
+}

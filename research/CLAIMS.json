@@ -454,5 +454,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C034",
+    "claim": "S017 SAFE_SPINE(12): in any arbitrary private-light at-most-two-original-heavy-support complete whole-block packing, let W count clean 2-core blocks having an originally heavy core endpoint and NO optional heavy petal and let Z count blocks supported entirely on original block-private light vertices. An adaptive weighted m-core/peeling/star-forest graph choice versus the all-light branch retains >=(W+Z)/(12m^3) WHOLE original blocks, and pair, true heavy singleton f+|D|, and true empty matching/absence tests all pass in the same H. W+Z need not control t (N heavy singleton-core blocks have W=Z=0), so no unrestricted gamma, BSEL/R3/TIK proof or refutation.",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_WEIGHTED_SAFE_SPINE_PARTIAL_DENSITY_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S017_ADAPTIVE_WEIGHTED_SAFE_SPINE.md",
+    "does_not_prove": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]

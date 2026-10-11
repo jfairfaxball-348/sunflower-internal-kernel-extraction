@@ -70,3 +70,7 @@ The selected-union residual links in the private-light two-heavy slice admit exa
 
 ## P001-S015 auxiliary-only status
 All-active-pair-class preservation may fail even when EVERY originally heavy hub has a selected pair-inactive singleton-core m-sunflower: on an m-1-hub saturated clique, preserving all classes forces the local anchors and a realised empty intersection but global mandatory-heavy-core matching is m-1<m. Dropping classes to a single hub-star preserves >=t/(m-1) blocks with every realised kernel certified. S015 thus refutes **only** the singleton-anchored KEEP-ALL-CLASS intermediary, not absolute gamma, private-light BSEL, universal BSEL, R3 or exact full every-fixed-k TIK. [Exact record](S015_SINGLETON_ANCHORED_CLASS_DROP.md). Mandatory fifteenth audit complete; S016 unexecuted. Source and originality status unchanged.
+
+
+## P001-S017 weighted-partial status
+The ONE proof-first positive subpopulation bound SAFE_SPINE(12) retains >=(W+Z)/(12m^3) whole blocks from an arbitrary private-light two-heavy-support ambient triple packing, where W counts clean heavy-touching pair-core original blocks and Z all-light original blocks. These may represent an arbitrarily small fraction of all t blocks, so the absolute gamma*t/m^3 joint selection, general BSEL, R3 and full TIK for ALL fixed k remain unproved and unrefuted; exact in-H witness requirements are unchanged. See [S017 proof](S017_ADAPTIVE_WEIGHTED_SAFE_SPINE.md). No novelty, formal theorem or publication is claimed.

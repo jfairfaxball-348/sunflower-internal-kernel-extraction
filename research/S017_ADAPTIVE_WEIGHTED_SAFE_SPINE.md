@@ -1,0 +1,71 @@
+# P001-S017 — adaptive weighted safe-spine extraction; a quantitative partial joint bound
+
+**One bounded proof-first mathematical gate, 2026-10-11.** The paper target is unchanged: for EVERY fixed k>=1 an absolute (for that k) c_k>0 must retain c_k*m^(-k) of EVERY k-uniform family; each exact realised pair intersection INCLUDING EMPTY has m sunflower petals INSIDE the retained H, not necessarily using the selected pair. R3, universal BSEL and even arbitrary private-light two-original-heavy-support BSEL remain UNPROVED. This record is a same-assistant proof, not independent review, novelty determination, a complete TIK candidate, or a publication theorem.
+
+## Exact arbitrary ambient slice and ONE frozen candidate inequality
+
+Fix any integer m>=3 and an arbitrary packing B_1,...,B_t of pairwise edge-disjoint COMPLETE m-triple sunflower blocks, with original cores K_i of size 0,1,2. Set V_i=union B_i, Q={v: #{i:v in V_i}>m}; every V_i contains at most two original Q vertices and every non-Q vertex is block-private. No assumption restricts |Q|, loads, hub overlap or the core types of the *ambient* packing. Keep original Q fixed through all selections.
+
+Define two *disjoint* subsets of block indices:
+
+* X: exact PAIR-core blocks (|K_i|=2) with K_i intersect Q nonempty AND V_i intersect Q subset K_i. Thus every originally heavy vertex in such a block is compulsory in its core, never an optional heavy petal. Call these the **clean heavy-touching pair-core blocks**. Let W=|X|.
+* Z0: blocks with V_i intersect Q empty, regardless of original core size 0/1/2. All such supports are globally disjoint from one another by private-lightness. Let Z=|Z0|.
+
+The **single frozen adaptive-weight inequality SAFE_SPINE(12)** is:
+
+> FOR EVERY such packing, there is a selection J of WHOLE blocks drawn either solely from X or solely from Z0, selected by weighing the two branches, with |J| >= (W+Z)/(12*m^3) and ALL three S011 exact in-H kernel certificates simultaneously. Every selected heavy pair has d_H(e)=m*p_e+a_e in {0,1} union [m,infinity); every realised heavy singleton without a singleton-core block has its ACTUAL f_v+|D_v|>=m; and empty is either absent or has a genuine matching of m selected triples.
+
+The proposed rule is explicitly **adaptive**: it evaluates weighted original pair-core classes, chooses either a high-degree core, a large weighted star, or a compressed star forest of pair-core types, and *compares* this against the total all-light A0 mass. It NEVER locks an arbitrary matching first. It does NOT promise to keep every e-class; it completely discards low-weight classes when appropriate. Noncore active pair classes, heavy-touching A0 and contaminated pair-cores are **NOT** covered by the W+Z numerator. The full desired t/(C*m^3) inequality is the still-unproved extension, not an implication claimed here. Only this one restricted quantified inequality is frozen/proved in S017.
+
+## Exact graph model for X: TRUE channels and compulsory footprints
+
+Construct a finite simple graph G whose vertices are the distinct *actual original core vertices* of X. For each distinct original pair-core e=K_i from X, add edge e with positive integer weight w_e=#{i in X:K_i=e}. Light endpoints of these cores are block-private and cannot belong to another graph edge; original hubs may have arbitrary graph degree, and heavy-heavy e may have arbitrarily large multiplicity. Set sum_e w_e=W.
+
+For any subset E' of these graph edges, retain ALL whole blocks with core e in E'. Write J(E') for their indices. **No block in X has any original heavy vertex outside its 2-core**, and all its noncore vertices are globally block-private light vertices. Hence distinct selected blocks meet only in common core vertices. Directly:
+
+1. Every pair kernel e containing original heavy vertices realised by two or more selected triples is one of the selected original exact pair cores: its codegree is m*w_e, or zero if e is unselected. More precisely for every original-heavy pair e, a_e=0 and d_H(e)=m*p_e (p_e=w_e for selected heavy-heavy core e and zero otherwise). Light-containing pair intersections are exactly within the selected complete pair-core blocks and are m-witnessed there.
+2. For a heavy hub v in Q, let d(v) be the NUMBER of distinct selected neighbouring original core vertices (not weighted degree / number of blocks). With no selected singleton-core, if d(v)>=2 then singleton {v} is genuinely realised, and its true residual link matching equals d(v). Each light neighbour accounts for ONE free f_v block; each distinct other-heavy neighbour is ONE element of D_v, so f_v+|D_v|=d(v). Multiple blocks on the same heavy-heavy e add codegree, NOT more singleton matching edges. When d(v)<=1 the singleton v is absent. A light singleton cannot be realised across blocks because its vertex is block-private and a selected pair-core block has a fixed second core endpoint.
+3. Since each selected original block has a nonempty 2-core, one may use at most one triple per selected block in any disjoint-triple matching. Conversely, m pairwise disjoint selected graph edges supply m actual pairwise disjoint selected triples: choose any petal of one original block per graph edge, whose noncore vertices are private. Therefore the TRUE full-triple matching number nu(H) equals nu(G[E']), and equals the maximum size of a family of pairwise disjoint mandatory original-Q core footprints C_i=K_i intersect Q (light core endpoints are private, so disjoint C_i are exactly what is needed across distinct blocks). There is no empty-core block in this branch.
+
+Consequently any selected graph with each nonisolated vertex degree either 1 or >=m is wholly valid PROVIDED it has graph matching number >=m, or it consists of a single star (all triples meet the star centre, so empty is NOT realised). This condition verifies heavy pair, true heavy singleton, light kernels and true empty together in the SAME final whole-block selection, without ambient witnesses or hub load proxies.
+
+## Proof of weighted graph selection with absolute loss 6*m^3
+
+**Graph lemma.** For ANY finite simple graph G with positive integer edge weights summing to W and m>=3, one can choose an edge set E' of total weight at least W/[6*(m-1)^3] such that the graph has degree 0,1 or >=m at every vertex and either nu(G[E'])>=m or G[E'] is a single star. In the first case the actual selected whole-block union is m-valid at every realised intersection; in the second empty is absent. If W=0 take E'=empty. Proof is deterministic existence, not a runtime complexity result.
+
+Repeatedly peel a vertex of current degree <m, discarding its incident graph edges until the remaining induced graph C has minimum positive degree >=m (the usual m-core); call the peeled edge set R. Crucially degrees are DISTINCT-neighbour counts, not sums of w_e. All edges partition into C and R.
+
+**Case I: weighted core mass W_C>=W/2.**
+* If nu(C)>=m, select every edge of C. Every vertex incident to C has at least m DISTINCT neighbours; thus all realised singleton links have actual matching >=m, and nu(C)>=m gives m truly disjoint triples for empty. Retention W_C>=W/2.
+* If nu(C)<m, endpoints of a maximal (in particular maximum) matching cover all core edges, and there are at most 2(m-1) such endpoints. Summing weighted star masses over the cover counts all W_C at least once. Thus some centre v has incident core edge weight >=W_C/[2(m-1)]. Its degree in C is >=m. Keep the entire weighted star at v: each leaf has degree one, its centre has >=m distinct partners and true singleton matching >=m, all triples share v, and empty is absent. Retention >=W/[4(m-1)].
+
+**Case II: peeled mass W_R>W/2.** Orient each edge of R outward from the vertex at whose peeling step it was removed. At that step the vertex has at most m-1 surviving neighbours. Therefore every vertex has at most m-1 outgoing peeled edges. Label the outgoing edges 1,...,m-1, yielding at most m-1 directed subgraphs each of outdegree at most one. The underlying simple graph of each such functional pseudoforest is 3-colourable: a component has at most one cycle, colour its cycle with <=3 colours, then colour the attached trees. For each of the three vertex colours c, place every directed edge whose HEAD has colour c into layer c. Every head-colour-c vertex is a centre and cannot be a tail in that layer (proper colouring); every non-c vertex has at most one outgoing edge in the pseudoforest. Thus each layer is a disjoint UNION OF STARS. We have partitioned all peeled edges into at most 3(m-1) star forests, including their weights.
+
+Take one star forest of weight at least W_R/[3(m-1)]. Within EACH component star of d distinct edges, if d>=m keep all arms, and if 1<=d<m keep only the heaviest edge, retaining >=1/(m-1) of that component's weight. Every surviving component is an internally valid whole-block star with centre degree one or >=m, and total retained weight >=W_R/[3(m-1)^2].
+
+If at least m components survive, take ALL of them: the components are vertex-disjoint and supply m genuinely disjoint original-core footprints / selected triples, while every realised singleton is certified. Otherwise there are at most m-1 components; keep the maximum-weight surviving star, retaining at least another 1/(m-1) share. This single star has no realised empty kernel. So the final retention is at least W_R/[3(m-1)^3] > W/[6(m-1)^3]. This handles arbitrarily weighted and heavily overlapping original hubs without ever fixing a preliminary matching.
+
+Both cases yield at least W/[6(m-1)^3]>=W/(6m^3) entire original pair-core blocks, with actual *same-J* pair, singleton and empty certificates. The proof also explains the adaptive empty decision: use a truly disjoint selected m-matching when it exists, otherwise choose a single high-weight star and ensure empty is unrealised. No previously saturated e-class is required to survive, and no low-load assumption is used.
+
+## Actual all-light A0-weight branch and final inequality
+
+All blocks of Z0 have pairwise disjoint FULL supports because EVERY vertex outside original Q is block-private. If Z>=m, retaining all Z whole blocks is internally valid: any same-block exact kernel has the original complete m petals, and any pair from different blocks has exact EMPTY intersection, witnessed by one actual selected triple from each of m distinct disjoint blocks. If 1<=Z<m, keep ONE complete block: its only realised pair intersection is its own exact core and it internally witnesses it; 1>=Z/m. If Z=0 take no such blocks. Thus this branch always retains >=Z/m fully valid whole blocks.
+
+Choose whichever of the X graph extraction and Z0 all-light extraction retains more WHOLE blocks; this comparison uses their actual WEIGHTS, not a predetermined original-Q matching. Since max(a,b)>=(a+b)/2 and Z/m>=Z/(6m^3), we obtain the single frozen inequality
+
+    |J| >= max(W/[6m^3], Z/m)
+        >= (W+Z)/[12m^3].
+
+All selected pair-active heavy classes are genuine e-core and saturated (a_e=0); unselected noncore short classes are dropped, not miscounted as 2,...,m-1 surviving third vertices. Within the all-light branch, there are no realised original-heavy pair/singleton links and empty is genuinely witnessed or absent. Within the X branch, the graph argument verifies actual heavy singleton f_v+|D_v| and the compulsory original-Q matching. This is a POSITIVE fully in-H three-level certificate for a quantified *subpopulation*, not for the entire arbitrary mixed packing.
+
+## Sharp limitation: W+Z can be ZERO with unbounded t
+
+For fixed m>=3 and unbounded N>m, take ONE originally heavy hub a, and N pairwise edge-disjoint complete singleton-core {a} m-petal blocks S_i={ {a,x_(i,j),y_(i,j)}:1<=j<=m }, with every x,y block-private light. Then Q={a}, every block meets Q once, and all original cores have size one. Here t=N but W=Z=0: no block is a pair-core and no block is all-light. Nevertheless selecting ALL N blocks is entirely valid: distinct triples always intersect in exact {a}, already m-witnessed by each S_i, and empty is absent. Thus the proved positive inequality is completely silent about an unbounded region of the permitted arbitrary slice. This is NOT an obstruction to the absolute gamma conjecture; its unrestricted optimum is t. It is distinct from S014/S015 KEEP-ALL failures and S016's fixed low-weight matching: no anchor matching is imposed, and the partial result succeeds for arbitrary weighted original pair-core graph skeletons.
+
+The same unresolved complement also includes original heavy-touching empty-core blocks, singleton-core blocks, pair-core blocks with optional original-Q heavy petals, and S012 noncore e-active classes. Neither PAIR_FILTER's >=t/(m-1) pair-only bound nor this weighted clean-spine proof has shown that ALL these types can be joined while retaining >=gamma*t/m^3 and simultaneously controlling all true channels and true empty matching. In particular the proof may select zero blocks despite t unbounded; there is NO absolute gamma conclusion. The first missing inequality is a genuine bounded-loss treatment of this complementary mass WITHOUT assuming singleton A0 protection, fixing an empty backbone, or preserving all saturated e-classes.
+
+## Controls, numerical claims and stop
+
+For t=0 choose empty; for 1<=t<=3m^3 any single original COMPLETE block is fully internally valid, with |J|=1>=t/(3m^3). Original TIK with m=2 takes H=F. S006 vertex-disjoint gamma=1 and S007 low-load gamma=1/3 remain; S008/S009 all-valid high-hub unions remain; S010/S011 >=half density controls and S011 exact f+|D|/footprint identities remain; S012 PAIR_FILTER >=t/(m-1); S013 A0-protected conditional positive; S014 q-cycle exact Nq/2+2>half; S015 star >=t/(m-1) and fifteenth audit; S016 fixed-backbone failure with >=half alternative remain UNCHANGED. This report makes none of their quantified claims broader.
+
+No numerical enumeration, probabilistic experiment, Lean, manuscript, detailed new N1/N2, novelty or source-status promotion, independent proof check or parent mathematical S001 was executed. SAME ASSISTANT mathematical argument; structural/semantic CI does not certify it. The full t-based joint lemma, universal BSEL, R3 and every-k TIK remain unresolved; one standalone S018 future mathematical handoff only, not executed.
