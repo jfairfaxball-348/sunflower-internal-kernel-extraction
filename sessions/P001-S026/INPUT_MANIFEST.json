@@ -1,0 +1,16 @@
+{
+  "session": "P001-S026",
+  "path": "sessions/P001-S026/INPUT.md",
+  "input_path": "sessions/P001-S026/INPUT.md",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "sha256_utf8": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "archive_commit": "a8fb51a8bf8fb9ecfc3ffee5c937dcda9018e730",
+  "frozen_gate_commit": "2d7732b770450f4d2d4f1d4df3b513f2f01bfb77",
+  "source": "Fresh standalone owner instruction verbatim; linked live pinned S026 handoff not appended to 126-byte literal.",
+  "base_child_main": "fd4374a3c22d2eec203df9b501b6d4e75c992ebd",
+  "base_parent_main": "731f71fcefba1cc23fb9b10a449b9fc4ee26f734",
+  "handoff_replaced_after_archive": true,
+  "raw_chat_transport_bytes_attested": false
+}

@@ -1044,6 +1044,38 @@
           "conclusion": "success"
         }
       ]
+    },
+    {
+      "id": 38153688223,
+      "name": "research-integrity",
+      "head_sha": "d29d413ac34399eea8ae2fda99bdeec057a32148",
+      "event": "pull_request",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114512162045,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
+    },
+    {
+      "id": 38153720365,
+      "name": "research-integrity",
+      "head_sha": "fd4374a3c22d2eec203df9b501b6d4e75c992ebd",
+      "event": "push",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114512254622,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
     }
   ],
   "child_pr": {
@@ -1055,7 +1087,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "P001-S019 separately verified via #22 and correction #23; P001-S020 outbound NOT YET OBSERVED",
-  "current_session": "P001-S021",
+  "current_session": "P001-S026",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -1155,5 +1187,10 @@
   "s023_entry_receipt": "sessions/P001-S023/ENTRY_EVIDENCE.json",
   "s023_archived_prompt_sha256": "31fbef162594de01bab0cd525c51f74de7bcb15063029fa1a54b2cf5944c80d8",
   "s023_frozen_gate_commit": "41021d001f718c1c18cb0afc78e9e74de7e04e89",
-  "s023_outgoing_ci": "NOT_YET_OBSERVED_BEFORE_PR"
+  "s023_outgoing_ci": "NOT_YET_OBSERVED_BEFORE_PR",
+  "s026_entry_receipt": "sessions/P001-S026/ENTRY_EVIDENCE.json",
+  "s026_archived_prompt_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "s026_archive_commit": "a8fb51a8bf8fb9ecfc3ffee5c937dcda9018e730",
+  "s026_frozen_gate_commit": "2d7732b770450f4d2d4f1d4df3b513f2f01bfb77",
+  "s026_outgoing_ci": "Not yet observed; FINAL PR head and merged-main push must be checked AFTER PR/merge."
 }

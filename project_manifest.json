@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "68db7557986569c0ae5557166e09032256d0ea8a"
+    "authority_checkpoint": "731f71fcefba1cc23fb9b10a449b9fc4ee26f734"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S025",
+  "session_completed": "P001-S026",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "85dec23462018f9eb877a61f50f4fc9edae7a785",
+  "latest_validated_commit": "fd4374a3c22d2eec203df9b501b6d4e75c992ebd",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S024_VERIFIED_S025_PENDING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S025_VERIFIED_S026_PENDING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S026",
+    "session": "P001-S027",
     "objectives": [
-      "NONPRIVATE_MIXED_SUPPORT_EDGE_REFINEMENT"
+      "MULTIHUB_NONPRIVATE_DIRECT_EDGE_AGGREGATION"
     ],
-    "description": "FUTURE standalone S026: one quantified nonprivate mixed-original-Q/light edge-refinement test; S026 UNEXECUTED",
+    "description": "FUTURE independent direct-edge bridge for one original-Q support per block and multiple global heavy hubs; S027 UNEXECUTED",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -95,9 +95,11 @@
     "research/S024_DIRECT_PARTIAL_EDGE_ANALYSIS.md",
     "research/S025_FROZEN_GATE.md",
     "research/S025_GLOBAL_EDGE_ANALYSIS.md",
-    "research/S025_PROGRESS_CORRECTION_AUDIT.md"
+    "research/S025_PROGRESS_CORRECTION_AUDIT.md",
+    "research/S026_FROZEN_GATE.md",
+    "research/S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md"
   ],
-  "last_outcome": "S025_RESTRICTED_EDGE_DENSITY_CONVERSION_GLOBAL_COLLISION_MASS_GAP_UNPROVED",
+  "last_outcome": "S026_SINGLE_GLOBAL_ORIGINAL_HEAVY_HUB_NONPRIVATE_EDGE_T_OVER_9M2_SAME_ASSISTANT",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
