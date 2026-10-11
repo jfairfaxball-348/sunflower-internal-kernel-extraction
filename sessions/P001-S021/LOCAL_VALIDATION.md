@@ -1,0 +1,7 @@
+# P001-S021 — validation and exact negative controls
+
+- Full local repository clone, `scripts/validate.py`, and `unittest discover`: **NOT RUN LOCALLY**. Container DNS cannot resolve github.com; do not invent local PASS. The GitHub-hosted workflow is required on S021 PR final HEAD, then child merged-main push, before any parent status registration.
+- New research is symbolic proof only; no new enumerative or numerical experiments, algorithm benchmarks or source-intensive N1/N2 were run. Hosted Python fixtures test exact k-uniform/internal semantics but do not mechanically certify SHORT_GRAPH_18.
+- S018 exact symbolic control: for m>=3,N>m, full two N-channel union has heavy pair codegrees N and true a,c free singleton matching N, but realised singleton b residual matching f_b+|D_b|=2<m and EMPTY mandatory-footprint matching=2<m; a-only N=t/2 is fully valid (no b singleton or EMPTY).
+- S019 exact symbolic control: for m>=4,N>=m+1, full P+R saturated mixed star has pair codegrees mN,N; heavy singleton v matching m+2 and b_j matching N; realised EMPTY matching exactly 3<m. P-only mN/t=m/(m+2)>=2/3 passes pair/singleton and EMPTY absent.
+- The new short three-label graph lemma is unweighted and selects at most one original block per distinct short pair; neither control's INVALID full union is claimed valid. Proven bound is SAME-ASSISTANT, awaits independent mathematical review. Parent S001, Lean, manuscript, publication and outgoing status claim remain unexecuted until actual CI.

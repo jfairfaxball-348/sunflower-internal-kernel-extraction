@@ -1,0 +1,13 @@
+{
+  "session": "P001-S021",
+  "path": "sessions/P001-S021/INPUT.md",
+  "sha256": "70d021f8a070967620869f0913e126aedf4c4aaafafc2bc16793a914a7b221e8",
+  "sha256_utf8": "70d021f8a070967620869f0913e126aedf4c4aaafafc2bc16793a914a7b221e8",
+  "utf8_bytes": 4451,
+  "archive_commit": "da81a0dd092bb0cdc125424f26e1dfb7b80f5a2d",
+  "frozen_gate_commit": "13b740c62cb11f2bef1807cb2b657a7ebe14ab91",
+  "archive_precedes_handoff_change": true,
+  "source": "Fresh owner-visible standalone S021 invocation archived verbatim from displayed instruction text; raw chat transport bytes not independently attestable",
+  "raw_chat_transport_bytes_attested": false,
+  "historical_input_preserved": true
+}

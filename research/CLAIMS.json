@@ -551,5 +551,25 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C040",
+    "claim": "S021 SHORT_GRAPH_18: a three-tag simple graph of one ORIGINAL E00 or oriented M complete block per distinct original-heavy pair admits an internally all-exact-2/1/0-valid edge subfamily of >=N/[18(m-1)^2] edges, by m-core, peeled monochannel star forests and matching/star fallbacks; unweighted restriction crucial.",
+    "mathematical_status": "PROVISIONAL_RESTRICTED_THREE_CHANNEL_GRAPH_LEMMA_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S021_SHORT_CHANNEL_M_SAVING.md"
+  },
+  {
+    "id": "C041",
+    "claim": "S021 PRIVATE_LIGHT_126: for ALL m>=3 and arbitrary pairwise edge-disjoint complete triple-sunflower packings with <=2 original Q support vertices and globally block-private non-Q, original t=a+x+z+y admits one full-block J with |J|>=t/[126(m-1)^3]>=t/(126m^3), with true same-H heavy pair codegrees, exact singleton f+|D|/cores, EMPTY absent or m disjoint original compulsory Q cores/empty petals; stronger than the separately frozen t/(200m^3) but does not prove S020 t/(96m^3), universal BSEL, R3, or full every-k TIK.",
+    "mathematical_status": "PROVISIONAL_RESTRICTED_FULL_PRIVATE_LIGHT_M3_DENSITY_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S021_SHORT_CHANNEL_M_SAVING.md"
   }
 ]
