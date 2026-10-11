@@ -22,3 +22,7 @@ S009 added a quantified two-heavy mixed-kernel counterexample to the *induced-he
 
 ## P001-S010 — tenth-substantive strategy and five-session correction completed
 S001–S010 reviewed in [tenth audit](../research/S010_TENTH_AUDIT.md), including previously completed S005 fifth audit. Historical S003/S004 exact L_AVG/B_CHARGE routes retired provisionally, S006/S007 restricted positives preserved, S008 single-hub and S009 induced-low-load negatives not BSEL counterexamples, S010 SAT_CROSS false but admits >1/2 compatible blocks. Corrected duplicate claim IDs C018/C023; independently reverified S009 parent PR/main. No full TIK proof, independent mathematics audit, novel paper theorem, formalisation or publication. Exactly one S011 standalone successor prepared, NOT executed; no owner A/B/C technical gate under newer owner policy.
+
+
+## P001-S016 — sixteenth substantive session (no scheduled fifth audit)
+S015 finished the required S011–S015 five-session audit; S016's fixed-backbone quantitative intermediary failed but a valid >=half control prevents BSEL-negative promotion. The next scheduled fifth review is S020, unless an earlier correction becomes necessary. Full TIK, theorem, novelty, Lean, paper and parent mathematical S001 statuses unchanged.

@@ -438,5 +438,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C033",
+    "claim": "S016 FIXED_BACKBONE_BUDGET(C), which locks an arbitrary m-block disjoint mandatory original-heavy-core matching M after S012 pair filtering and promises a fully valid superset J retaining >=|J0|/(C*m^2), is FALSE for all finite absolute C. A connected private-light 2m-heavy graph with all 0/1/2 cores, one short unsaturated e-class and t=mN+2m+3 has J0=t-1, but M forces deleting all mN giant classes since exact singleton matching at a_i would be 2<m; anchored valid |J|<=2m+2. An alternative whole-block selection retains mN+2>=t/2 and passes all exact pair/singleton/empty tests. NOT a refutation of any unrestricted gamma/BSEL/R3/TIK.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_WEIGHTED_BACKBONE_BUDGET_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S016_ADAPTIVE_BACKBONE_BUDGET.md",
+    "does_not_refute": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]

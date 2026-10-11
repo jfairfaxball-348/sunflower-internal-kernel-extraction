@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "652e866fedb9641a894259981caa295148ffcebb"
+    "authority_checkpoint": "4f87d612d3da998583fcc011bab34a7ebcb6d12e"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S015",
+  "session_completed": "P001-S016",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "506a92a3fcb0870a77a3cd352fcad2ac052d2bd6",
+  "latest_validated_commit": "72bba5f269df135404bf8aa2bbbc9ef7e6c2c2a4",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S014_INDEPENDENTLY_VERIFIED_S015_AWAITING_POSTMERGE_PARENT_REGISTRATION"
+    "local_assertion": "P001-S015_INDEPENDENTLY_VERIFIED_S016_AWAITING_POSTMERGE_PARENT_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S016",
+    "session": "P001-S017",
     "objectives": [
-      "JOINT_WEIGHTED_CHANNEL_AND_CORE_MATCHING_SELECTION"
+      "ADAPTIVE_WEIGHTED_CORE_FOOTPRINT_AND_TRUE_CHANNEL_JOINT_SELECTION"
     ],
-    "description": "Develop a genuine joint weighted preserve-or-drop class-selection argument for arbitrary mixed-core private-light <=2-heavy packings, quantitatively coordinating final pair codegrees, actual singleton channel matchings and global mandatory-core empty matching; prove absolute gamma or refute a precisely frozen first density-budget step, with positive control. No renewed keep-every-class inference.",
+    "description": "Prove genuine absolute-gamma private-light <=2-heavy whole-block joint pair/singleton/empty certificate selection with an adaptively selected weight-aware mandatory-core backbone or avoid realising empty; test exactly one frozen quantitative inequality without S016's fixed-backbone failure.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -76,9 +76,10 @@
     "research/S013_PAIR_ROBUST_A0_ANCHORS.md",
     "research/S014_UNPROTECTED_CLASS_REFINEMENT.md",
     "research/S015_SINGLETON_ANCHORED_CLASS_DROP.md",
-    "research/S015_FIFTEENTH_PROGRESS_AUDIT.md"
+    "research/S015_FIFTEENTH_PROGRESS_AUDIT.md",
+    "research/S016_ADAPTIVE_BACKBONE_BUDGET.md"
   ],
-  "last_outcome": "SAKAC_FALSE_STAR_DENSITY_POSITIVE_FIFTEENTH_AUDIT",
+  "last_outcome": "FIXED_BACKBONE_BUDGET_FALSE_DENSE_ADAPTIVE_HALF_CONTROL",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
