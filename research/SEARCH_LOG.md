@@ -47,3 +47,6 @@ The exact published JJSW26 §6 and Theorems 1.5–1.7, Girão–Illingworth–Sc
 
 ## P001-S027 provenance-only update
 No new detailed N1/N2 or external source investigation (owner proof-first deferral). The quantified method obstruction uses the previously recorded S023 PG(2,q) original support family and S024 certified valid partial-petal construction. Existing JJSW26 source-posed TIK and exact rank-three STATUS_UNCERTAIN and novelty records unchanged; a methodological counterexample is not an originality or settled-open-status verdict.
+
+## P001-S029 — no new source search authorised
+Proof-first mathematical-only gate. NO web prior-art N1/N2/source search, novelty promotion or claims of absence; earlier JJSW26 attribution and R3 literature uncertainty unchanged. Exact incoming owner invocation archived/hash; original two-Q restriction, A positive and B representative-only method obstruction described in [S029 report](S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md). S030 fifth-session audit still future.

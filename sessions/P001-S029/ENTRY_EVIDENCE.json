@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "session": "P001-S029",
+  "observed_on": "2026-10-11",
+  "entry_child_main": "7c2ed7e24309c11139684491f2742858e62354ce",
+  "entry_parent_main": "8ed9f0209e9fa7dee34e5e2221ffe86f16aa3a47",
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s029_branches": 0,
+  "s029_unique_at_entry": true,
+  "child_predecessor": {
+    "session": "P001-S028",
+    "pr": 30,
+    "head": "eb6a8267ab3779f4ee3d8d73e9a6eaedb45c21a1",
+    "merge_sha": "7c2ed7e24309c11139684491f2742858e62354ce",
+    "pr_run": 38160522891,
+    "pr_job": 114532280301,
+    "pr_conclusion": "success",
+    "push_run": 38160554340,
+    "push_job": 114532376045,
+    "push_conclusion": "success"
+  },
+  "parent_predecessor": {
+    "session": "P001-S028_STATUS_ONLY",
+    "pr": 32,
+    "head": "c2ca143c261a3945129d194a055edf1b0bfe50bd",
+    "merge_sha": "8ed9f0209e9fa7dee34e5e2221ffe86f16aa3a47",
+    "pr_run": 38160929125,
+    "pr_job": 114533490222,
+    "pr_conclusion": "success",
+    "push_run": 38160957451,
+    "push_job": 114533569811,
+    "push_conclusion": "success"
+  },
+  "archive_commit": "f0f931d5ac6e743c62eff7a01ded0a9d36176947",
+  "frozen_gate_commit": "54407397e2cd5d2888e418566cbbdebf36e77220",
+  "archived_input_sha256": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "parent_mathematical_s001_executed": false,
+  "s030_executed": false,
+  "protection": "Both ruleset GETs returned empty arrays; branch protection endpoint returned 403 Resource not accessible by integration; no claim about unavailable protection settings",
+  "hosted_evidence": "four independently fetched hosted RUN/JOB pairs, each concluded success"
+}

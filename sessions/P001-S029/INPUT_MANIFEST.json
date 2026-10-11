@@ -1,0 +1,16 @@
+{
+  "session": "P001-S029",
+  "path": "sessions/P001-S029/INPUT.md",
+  "input_path": "sessions/P001-S029/INPUT.md",
+  "sha256": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "sha256_utf8": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "utf8_sha256": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "utf8_bytes": 121,
+  "archive_commit": "f0f931d5ac6e743c62eff7a01ded0a9d36176947",
+  "frozen_gate_commit": "54407397e2cd5d2888e418566cbbdebf36e77220",
+  "source": "Exact owner chat message invoking linked live NEXT separately (raw chat transport encoding not attested)",
+  "base_child_main": "7c2ed7e24309c11139684491f2742858e62354ce",
+  "base_parent_main": "8ed9f0209e9fa7dee34e5e2221ffe86f16aa3a47",
+  "handoff_replaced_after_archive": true,
+  "raw_chat_transport_bytes_attested": false
+}
