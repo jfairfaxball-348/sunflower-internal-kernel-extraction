@@ -29,3 +29,7 @@ S015 finished the required S011–S015 five-session audit; S016's fixed-backbone
 
 ## P001-S019 — S020 audit not yet performed
 S019 is the nineteenth substantive child mathematics session; it adds an E00 original-two-optional-heavy pair-active submass bound and another false mixed-star empty-kernel inference, not absolute t-based density. The mandatory correction/progress audit at twentieth substantive child S020 is STILL FUTURE, and MUST not be claimed completed or executed without a fresh owner instruction. Earlier S005 fifth, S010 tenth and S015 fifteenth reviews remain intact.
+
+## P001-S020 — MANDATORY twentieth/fifth substantive child progress-correction audit COMPLETED
+
+Full audit in [research/S020_PROGRESS_CORRECTION_AUDIT.md](../research/S020_PROGRESS_CORRECTION_AUDIT.md), reviewing S016–S020, S005/S010/S015 and exact constant/dependency ledger. S020 advances a full private-light restricted `t/(48m^4)` bound via original-Q A0/X_hh/E00/M branch alternatives, NOT an `m^-3` bound or TIK theorem. Corrected S019 predecessor parent/child hosted PR/main run/job receipts; S020 own outgoing evidence needs later inspection. No source/novelty/Lean/paper count changes. Next fifth child audit due S025, not S021; parent mathematical S001 unexecuted.
