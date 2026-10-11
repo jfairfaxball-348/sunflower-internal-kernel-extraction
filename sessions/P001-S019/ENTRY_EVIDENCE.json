@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "session": "P001-S019",
+  "observed_on": "2026-10-11",
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "repository_id": 1412820282,
+    "main": "b811b2c5016411466af9233d59b4fbf9af01bc24",
+    "open_prs": 0,
+    "s018_pr": {
+      "number": 20,
+      "head_sha": "489cda9724e3882c7afdddd0aef1139efb29becd",
+      "merged": true,
+      "merge_sha": "b811b2c5016411466af9233d59b4fbf9af01bc24"
+    },
+    "required_runs": [
+      {
+        "id": 38130962724,
+        "event": "pull_request",
+        "head_sha": "489cda9724e3882c7afdddd0aef1139efb29becd",
+        "job_id": 114445027974,
+        "job_name": "validate",
+        "conclusion": "success"
+      },
+      {
+        "id": 38131002158,
+        "event": "push",
+        "head_sha": "b811b2c5016411466af9233d59b4fbf9af01bc24",
+        "job_id": 114445138314,
+        "job_name": "validate",
+        "conclusion": "success"
+      }
+    ]
+  },
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "repository_id": 1412469441,
+    "main": "caa957120b937f5e1c9bba2d2956f16c582775a9",
+    "open_prs": 0,
+    "s018_status_pr": {
+      "number": 21,
+      "head_sha": "cebb85bd9cb3b583c0d682e35abba140ea1f473b",
+      "merged": true,
+      "merge_sha": "caa957120b937f5e1c9bba2d2956f16c582775a9"
+    },
+    "required_runs": [
+      {
+        "id": 38131224564,
+        "event": "pull_request",
+        "head_sha": "cebb85bd9cb3b583c0d682e35abba140ea1f473b",
+        "job_id": 114445795491,
+        "job_name": "validate",
+        "conclusion": "success"
+      },
+      {
+        "id": 38131249913,
+        "event": "push",
+        "head_sha": "caa957120b937f5e1c9bba2d2956f16c582775a9",
+        "job_id": 114445869310,
+        "job_name": "validate",
+        "conclusion": "success"
+      }
+    ]
+  },
+  "s019_unique_at_entry": true,
+  "initial_branch_absent": true,
+  "archive_commit": "f7d1ddeaa35cb68d225819cd544f14b7c0c1e62c",
+  "frozen_gate_commit": "2840db9db21be207568e3fbad5380eaef17fa89f",
+  "archive_sha256": "ee811c8501718f139d9efc5ea443b1b54f0b6e468cb25bda4b162d5ebd9601d9",
+  "parent_mathematical_s001_executed": false
+}

@@ -1,0 +1,13 @@
+{
+  "session": "P001-S019",
+  "path": "sessions/P001-S019/INPUT.md",
+  "sha256": "ee811c8501718f139d9efc5ea443b1b54f0b6e468cb25bda4b162d5ebd9601d9",
+  "sha256_utf8": "ee811c8501718f139d9efc5ea443b1b54f0b6e468cb25bda4b162d5ebd9601d9",
+  "utf8_bytes": 5292,
+  "archive_commit": "f7d1ddeaa35cb68d225819cd544f14b7c0c1e62c",
+  "frozen_gate_commit": "2840db9db21be207568e3fbad5380eaef17fa89f",
+  "archive_precedes_handoff_change": true,
+  "source": "New owner-visible invocation reconstructed from the immediately preceding committed P001-S019 handoff with heading marker/separator removed and the one italic emphasis *channel graph* rendered as plain channel graph; comparison based on visible text, not raw transport stream",
+  "raw_chat_transport_bytes_attested": false,
+  "historical_input_preserved": true
+}
