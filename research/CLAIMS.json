@@ -864,5 +864,41 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C063",
+    "claim": "S030 B hub weighted-star >=W_q/(m-1) using globally injective light reps and exact in-H kernel matchings; compulsory original two-Q pair-core scope only",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_ANALYTIC_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C064",
+    "claim": "S030 B simple min-degree >=2m support subgraph produces >=T_C/(m-1) internally certified representatives; B graph matching <m gives >=|B|/[2(m-1)^2]",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_ANALYTIC_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C065",
+    "claim": "S030 full-petal LIFT_ALL after Hall injection FALSE: pair {q,z} has codegree 2<m in a quantified original two-Q star with same-family dense valid representative rescue",
+    "mathematical_status": "REFUTED_AUXILIARY_BY_SYMBOLIC_CERTIFICATE",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C066",
+    "claim": "S030 two-original-Q C512 complete bridge, unrestricted S024/S025 direct-edge, R3 and every-k TIK remain unproved; required fifth-session S026-S030 audit completed",
+    "mathematical_status": "UNRESOLVED_AFTER_BOUNDED_ANALYSIS",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
   }
 ]

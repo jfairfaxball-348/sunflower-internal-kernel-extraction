@@ -36,3 +36,7 @@ Full audit in [research/S020_PROGRESS_CORRECTION_AUDIT.md](../research/S020_PROG
 
 ## P001-S025 — mandatory twenty-fifth/fifth substantive child audit COMPLETED
 S025 reviewed exact S021–S025 and prior S005/S010/S015/S020 audits. Corrected accounting from original whole-block counts into selected-individual-edge t/m² bounds in private-light and Q-empty cases; universal mixed support remains unproved and S023 BSEL refutation unaltered. Full [audit](../research/S025_PROGRESS_CORRECTION_AUDIT.md) includes exact original Q labels, all 2/1/EMPTY matching, preceding hosted predecessor run/job receipts, source/novelty limitations and next bounded gap. No second mathematics gate, independent theorem review, Lean, N1/N2, manuscript or parent mathematical S001. S026 no fifth-session audit; next at S030.
+
+
+## P001-S030 — sixth fifth-session audit complete
+[Mandatory S026–S030 correction audit](../research/S030_PROGRESS_CORRECTION_AUDIT.md) reconciles scoped S026/S028 positives, S027/S029 method negatives and new S030 weighted-star/core successes and Hall-LIFT_ALL negative. Earlier S005/S010/S015/S020/S025 audits preserved. Full two-Q C512, R3 and all-k TIK not proved; next fifth audit due S035. S031 UNEXECUTED.
