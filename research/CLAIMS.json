@@ -518,5 +518,38 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C038",
+    "claim": "S020 original-Q directed mixed pair-active one-mandatory/one-optional support classes M admit exact all-pair/singleton/empty SAME-J whole-block extraction >=|M|/[24(m-1)^4] by majority orientation, short e-class compression, weighted simple directed m-core/peel star-forest, true residual singleton and source-footprint empty matching/absence. Same-assistant only, no independent proof or novelty certification.",
+    "mathematical_status": "ELEMENTARY_RESTRICTED_DIRECTED_MIXED_JOINT_BOUND_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S020_DIRECTIONAL_MIXED_BRIDGE.md",
+    "does_not_prove": [
+      "PRIVATE_LIGHT_TWO_HEAVY_M3_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C039",
+    "claim": "S020 S017-S020 disjoint original original-Q A0/X_hh/E00/M submass partition and MAXIMUM (not union) certified branch yields a FULL t/[48m^4] lower bound for whole-block exact 2/1/0 valid selection in private-light <=2 Q-support 3-uniform packing; frozen PAIR_ACTIVE_96_RETEST >=t/(96m^3) remains UNPROVED, so no gamma/m^3, universal BSEL, R3 or all-k TIK theorem. Mandatory fifth-progress/correction audit S020 complete, same-assistant symbolic evidence only.",
+    "mathematical_status": "ELEMENTARY_PRIVATE_LIGHT_FULL_M4_PARTIAL_DENSITY_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S020_DIRECTIONAL_MIXED_BRIDGE.md",
+    "audit_record": "research/S020_PROGRESS_CORRECTION_AUDIT.md",
+    "does_not_prove": [
+      "PRIVATE_LIGHT_TWO_HEAVY_M3_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]

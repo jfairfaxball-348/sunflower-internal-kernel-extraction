@@ -1,0 +1,7 @@
+# S020 local validation and bounded controls
+
+- Direct shell git ls-remote/clone: **NOT RUN SUCCESSFULLY**; DNS for github.com failed. No full local repository checkout; no local `python3 scripts/validate.py` nor `python3 -m unittest discover -s tests -v` PASS is claimed.
+- Local independent finite illustration using Python+NetworkX, m=4,N=5, in-memory exact 3-edge families (not a proof, not a discoverer, no unrestricted search): S019 mixed star full 30 blocks => pair failures 0, singleton failures 0, EMPTY realised with exact mandatory original-Q footprint matching 3<m, invalid. P-only 20 blocks => fully valid, EMPTY absent. S018 full 10 contaminated two-channel blocks => pair failures 0, realised singleton b exact residual matching 2, EMPTY realised matching 2, invalid. One-side 5 blocks => fully valid, EMPTY absent.
+- Analytical graph lemma is symbolic only, not automatically proof-checked. Local finite examples cannot validate its arbitrary-size quantifiers/constants.
+- Expected required hosted child research-integrity CI: actual final HEAD PR `validate` with target/semantic steps, THEN merged-main push. These runs/jobs must be observed after publishing and are NOT self-certified in this pre-merge document.
+- Parent programme-integrity status-only job is separate and must come AFTER confirmed child merged-main green. No Lean, manuscript, numerical discovery campaign, external action or future S021.

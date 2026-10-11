@@ -1,0 +1,13 @@
+{
+  "session": "P001-S020",
+  "path": "sessions/P001-S020/INPUT.md",
+  "sha256": "dc49b17b4bd9ba309edd4bc1957359bcdbeb02dceb894e3b046ac62cfc8f1f38",
+  "sha256_utf8": "dc49b17b4bd9ba309edd4bc1957359bcdbeb02dceb894e3b046ac62cfc8f1f38",
+  "utf8_bytes": 5565,
+  "archive_commit": "5582726fc1b994150b5025ab13aa4bee97954458",
+  "frozen_gate_commit": "ecf1f4f478faf2e16da7b2312938eb55a7d8ea95",
+  "archive_precedes_handoff_change": true,
+  "source": "New owner-visible invocation reconstructed from matching prior committed S020 handoff, removing Markdown heading marker and intervening blank line; raw transport bytes not attestable",
+  "raw_chat_transport_bytes_attested": false,
+  "historical_input_preserved": true
+}
