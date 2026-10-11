@@ -852,6 +852,37 @@
         }
       ],
       "verified_for": "S015 entry S014 merged-main push"
+    },
+    {
+      "run_id": 38125305435,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38125305435",
+      "event": "push",
+      "head_sha": "72bba5f269df135404bf8aa2bbbc9ef7e6c2c2a4",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114428318656,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Validate records and exact target",
+              "conclusion": "success"
+            },
+            {
+              "name": "Check internal and external semantics",
+              "conclusion": "success"
+            },
+            {
+              "name": "Report checked commit",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ],
+      "note": "S015 merged-main push independently observed at S016 entry. S016 outgoing CI NOT self-certified."
     }
   ],
   "child_pr": {
