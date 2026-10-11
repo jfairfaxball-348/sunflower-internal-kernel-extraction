@@ -66,3 +66,7 @@ The precise proposed HUB_RES high/low sufficient reduction requiring >=eta*t/m^3
 
 ## P001-S011 exact private-light certificate (not extraction)
 The selected-union residual links in the private-light two-heavy slice admit exact principal-petal matching and mandatory-heavy-core global matching characterisations; no positive universal block-density gamma was proved. A two-star family has real pair and singleton certificates but empty matching number 2<m, while keeping one star gives a valid t/2 subpacking. See [S011 exact report](S011_EXACT_SINGLETON_MATCHING.md). This neither refutes nor proves arbitrary BSEL, R3, or original all-k TIK. P001-S012 is prepared but unexecuted.
+
+
+## P001-S015 auxiliary-only status
+All-active-pair-class preservation may fail even when EVERY originally heavy hub has a selected pair-inactive singleton-core m-sunflower: on an m-1-hub saturated clique, preserving all classes forces the local anchors and a realised empty intersection but global mandatory-heavy-core matching is m-1<m. Dropping classes to a single hub-star preserves >=t/(m-1) blocks with every realised kernel certified. S015 thus refutes **only** the singleton-anchored KEEP-ALL-CLASS intermediary, not absolute gamma, private-light BSEL, universal BSEL, R3 or exact full every-fixed-k TIK. [Exact record](S015_SINGLETON_ANCHORED_CLASS_DROP.md). Mandatory fifteenth audit complete; S016 unexecuted. Source and originality status unchanged.
