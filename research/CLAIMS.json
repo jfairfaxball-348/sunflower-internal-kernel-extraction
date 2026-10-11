@@ -639,5 +639,50 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S023_THREE_TIER_OBSTRUCTION.md"
+  },
+  {
+    "id": "C047",
+    "claim": "S024 exact edge-level optimum in SAME S023 three-tier q-plane family (q prime power, m=q+2, h=g=m-1, L=m²-3m+3): maximum among arbitrary internally m-witnessed H of INDIVIDUAL triples is (m-1)(L+m-1). Every H from >=2 hubs realises EMPTY but nu(H)<=m-1; any block with 2 petals must be complete because codegree({v,x})=m; at most one complete line-block per group because codegree({v,z_p})=m-1. Construction one entire block/group plus private-w petal from all remaining blocks around one hub achieves bound; all selected cross-block pairs exact singleton with gL independent private-w residual pairs; EMPTY absent. Fraction (L+m-1)/[m(m-1)L]>=m^-2. SAME-ASSISTANT ONLY; not universal R3/TIK.",
+    "mathematical_status": "PROVISIONAL_EXACT_S023_EDGE_LEVEL_OPTIMUM_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S024_DIRECT_PARTIAL_EDGE_ANALYSIS.md",
+    "does_not_prove": [
+      "DIRECT_PARTIAL_EDGE_512",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C048",
+    "claim": "S024 LOCAL_HUB_UNION is false: independently internally valid S023 partial-petal H_a for each of m-1 different compulsory original hubs retain all 2-core and singleton certificates, but their union has exact realised EMPTY while nu(H)=m-1<m; one hub itself retains >=m^-2 of original F, so not an extraction counterexample. No per-hub composition without actual global empty matching.",
+    "mathematical_status": "PROVISIONAL_EXACT_LOCAL_HUB_UNION_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S024_DIRECT_PARTIAL_EDGE_ANALYSIS.md",
+    "does_not_refute": [
+      "DIRECT_PARTIAL_EDGE_512",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C049",
+    "claim": "S024 complete-graph pair-core positive: for each m>=3,N>=2m make a complete m-petal block at each K_N edge {u,v} with unique light third vertices, and keep one petal per graph edge. Selected H of t=binom(N,2) edges has NO realised 2-core, every realised singleton u genuinely matched by N-1 residual pairs, and realised EMPTY witnessed by floor(N/2)>=m graph matching; H is m-valid at fraction 1/m of F. Any star-forest-only selection has <=N-1 edges, too few for t/(512m²) for fixed m,N->infinity. This refutes ONLY mandatory forest-topology intermediate, not the frozen direct bound.",
+    "mathematical_status": "PROVISIONAL_GRAPH_CORE_DENSE_CONTROL_AND_FOREST_ONLY_NEGATIVE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S024_DIRECT_PARTIAL_EDGE_ANALYSIS.md",
+    "does_not_refute": [
+      "DIRECT_PARTIAL_EDGE_512",
+      "R3",
+      "TIK"
+    ]
   }
 ]

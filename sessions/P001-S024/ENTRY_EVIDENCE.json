@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "session": "P001-S024",
+  "observed_on": "2026-10-11",
+  "entry_child_main": "fe3e26ef33b1b939ce1be22181e49e451834b0c7",
+  "entry_parent_main": "29a6831bdfaec4e6202f750883929a2188f38b39",
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "recent_merged_child_prs": "1-25 (latest 25; API last 15 inspected)",
+  "recent_merged_parent_prs": "1-27 (latest 27; API last 15 inspected)",
+  "s024_unique_at_entry": true,
+  "branches_named_s024": 0,
+  "child_predecessor": {
+    "session": "P001-S023",
+    "pr": 25,
+    "head": "dcd7c47a26311474cf181b043a7579f56712ea90",
+    "pr_run": 38149036584,
+    "pr_job": 114498386945,
+    "pr_conclusion": "success",
+    "merge_sha": "fe3e26ef33b1b939ce1be22181e49e451834b0c7",
+    "push_run": 38149078343,
+    "push_job": 114498509691,
+    "push_conclusion": "success"
+  },
+  "parent_predecessor": {
+    "session": "P001-S023_STATUS_ONLY",
+    "pr": 27,
+    "head": "5808afea57a02b20858bd92159dcd2cbb8ea41a8",
+    "pr_run": 38149410178,
+    "pr_job": 114499528969,
+    "pr_conclusion": "success",
+    "merge_sha": "29a6831bdfaec4e6202f750883929a2188f38b39",
+    "push_run": 38149434292,
+    "push_job": 114499609764,
+    "push_conclusion": "success"
+  },
+  "archived_input_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "archive_commit": "901f86dd2388d09fd47049e35a4a27544c2d6c79",
+  "frozen_gate_commit": "22676de78f62544a9b1916d4860d07542272dbee",
+  "parent_mathematical_s001_executed": false,
+  "s025_executed": false
+}

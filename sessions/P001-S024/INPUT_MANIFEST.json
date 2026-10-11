@@ -1,0 +1,16 @@
+{
+  "session": "P001-S024",
+  "input_path": "sessions/P001-S024/INPUT.md",
+  "path": "sessions/P001-S024/INPUT.md",
+  "utf8_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "sha256_utf8": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "archive_commit": "901f86dd2388d09fd47049e35a4a27544c2d6c79",
+  "frozen_gate_commit": "22676de78f62544a9b1916d4860d07542272dbee",
+  "source": "Fresh standalone user instruction verbatim; URL resolves live S024 handoff at child pinned main; contextual handoff was not added into the 126 literal bytes.",
+  "raw_chat_transport_bytes_attested": false,
+  "base_child_main": "fe3e26ef33b1b939ce1be22181e49e451834b0c7",
+  "base_parent_main": "29a6831bdfaec4e6202f750883929a2188f38b39",
+  "handoff_replaced_after_archive": true
+}
