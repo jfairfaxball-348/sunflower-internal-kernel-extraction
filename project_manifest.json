@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "dc0dedf71a50c152b48b2a6864b906e6926e5337"
+    "authority_checkpoint": "19434cd598d3c065807616cc820be32747063892"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S020",
+  "session_completed": "P001-S021",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "5e0b6cd389cdf4f381abbfb31582bba7b22fdbee",
+  "latest_validated_commit": "85dec23462018f9eb877a61f50f4fc9edae7a785",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S019_VERIFIED_S020_AWAITING_POSTMERGE_PARENT_REGISTRATION"
+    "local_assertion": "P001-S020_VERIFIED_S021_PENDING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S021",
+    "session": "P001-S022",
     "objectives": [
-      "SHORT_PAIR_CLASS_M_SAVING_BRIDGE"
+      "NONPRIVATE_LIGHT_OVERLAP_LIFT"
     ],
-    "description": "One bounded proof-first m-factor saving attempt beyond new S020 private-light t/(48m^4), preserving all original Q and true three-kernel tests; S021 FUTURE only",
+    "description": "ONE future bounded proof-first mathematical gate: lift S021 private-light <=2-Q-support t/(126m^3) to original non-Q vertices with block multiplicity up to m, or isolate precise failed quantified intermediate; no S022 executed",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -84,9 +84,11 @@
     "research/S019_PAIR_ACTIVE_OPTIONAL_CHANNELS.md",
     "research/S020_FROZEN_GATE.md",
     "research/S020_DIRECTIONAL_MIXED_BRIDGE.md",
-    "research/S020_PROGRESS_CORRECTION_AUDIT.md"
+    "research/S020_PROGRESS_CORRECTION_AUDIT.md",
+    "research/S021_FROZEN_GATE.md",
+    "research/S021_SHORT_CHANNEL_M_SAVING.md"
   ],
-  "last_outcome": "PRIVATE_LIGHT_TWO_Q_T_OVER_48M4_PROVED_SAME_ASSISTANT_FULL_M3_UNPROVED",
+  "last_outcome": "PRIVATE_LIGHT_TWO_Q_FULL_T_OVER_126M3_PROVED_SAME_ASSISTANT_ALL_K_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

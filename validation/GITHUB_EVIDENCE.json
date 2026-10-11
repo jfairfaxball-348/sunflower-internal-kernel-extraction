@@ -1012,6 +1012,38 @@
           "conclusion": "success"
         }
       ]
+    },
+    {
+      "id": 38136644641,
+      "name": "research-integrity",
+      "head_sha": "b13f5dfa059dd3614d355bf32f048007e0ff1aac",
+      "event": "pull_request",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114461766055,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
+    },
+    {
+      "id": 38136674910,
+      "name": "research-integrity",
+      "head_sha": "85dec23462018f9eb877a61f50f4fc9edae7a785",
+      "event": "push",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114461852958,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ]
     }
   ],
   "child_pr": {
@@ -1023,7 +1055,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "P001-S019 separately verified via #22 and correction #23; P001-S020 outbound NOT YET OBSERVED",
-  "current_session": "P001-S020",
+  "current_session": "P001-S021",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -1114,5 +1146,7 @@
   "s018_entry_receipt": "sessions/P001-S018/ENTRY_EVIDENCE.json",
   "s018_archived_prompt_sha256": "51fcc594f661d2a23c9086bc903d558b838d8f8a070923f3cae2e5aa419ac8f0",
   "s020_entry_receipt": "sessions/P001-S020/ENTRY_EVIDENCE.json",
-  "s020_archived_prompt_sha256": "dc49b17b4bd9ba309edd4bc1957359bcdbeb02dceb894e3b046ac62cfc8f1f38"
+  "s020_archived_prompt_sha256": "dc49b17b4bd9ba309edd4bc1957359bcdbeb02dceb894e3b046ac62cfc8f1f38",
+  "s021_entry_receipt": "sessions/P001-S021/ENTRY_EVIDENCE.json",
+  "s021_archived_prompt_sha256": "70d021f8a070967620869f0913e126aedf4c4aaafafc2bc16793a914a7b221e8"
 }
