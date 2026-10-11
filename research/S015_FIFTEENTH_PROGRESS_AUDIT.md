@@ -1,0 +1,15 @@
+# P001-S015 — mandatory fifteenth-substantive five-session progress and correction audit
+
+This audit is a GOVERNANCE/correction review across substantive child sessions P001-S011 through P001-S015, not a second mathematical gate or paper novelty exercise. S005 and S010 earlier mandatory audits remain immutable.
+
+| Session | Actually established | Not established |
+|---|---|---|
+| S011 | Exact actual heavy-singleton matching f_v+|D_v|, mandatory-heavy-core global empty matching identity, two-star no-local-to-global counterexample with valid >=half control | Dense arbitrary joint extraction |
+| S012 | Quantitative >=t/(m-1) PAIR_FILTER preserving true heavy pair codegrees | Singleton/empty joint conditions |
+| S013 | >=t/(m-1) all-three certificate retention WHEN A0 supplies extra P1 singleton plus P2 empty certificates; all-valid/control q-cycle | Arbitrary unprotected preservation |
+| S014 | SAKAC predecessor NSCR all-saturated-class preservation fails due heavy singleton deficiency on even mixed-core q-cycle; exact compatible maximum Nq/2+2>t/2 | No absolute gamma negative |
+| S015 | With EVERY singleton anchor in A0, preserving all saturated clique pair classes may still force unmatchable realised empty; dense compatible star retained >=t/(m-1) | No proof or counterexample to arbitrary preserve-or-drop gamma |
+
+**Corrections / guards.** S011 already refuted general local-to-empty inference; S015 is a narrower counterexample to a specific **all-class-retention** demand under stronger singleton hypotheses, NOT discovery of a new logical phenomenon. S014 and S015 failures cannot be composed to infer that *every* dense class deletion fails, because both examples have explicit internally valid dense selections. S013 P2 remains a real global condition, not implied by P1. S014 used one empty-core block, so its first obstruction is singleton; S015 deliberately omits empty-core blocks, so its first obstruction is global empty. Claims remain provisional AI on-paper and unreviewed by independent mathematicians. No misuse of 'all core types permitted' as 'all three types compulsory in each counterexample'; no heavy-load-to-link matching substitution; no ambient witnesses; no fixed-m max_valid*m^3/t->0 example.
+
+**Strategic assessment at the fifteenth session.** The sequence S011-S015 sharpened the exact certificate constraints but has NOT closed the t/m^3 joint density bridge. Repeatedly freezing stronger KEEP-ALL-CLASS statements is producing correct negatives without proving full TIK or even BSEL. Therefore the sole new S016 obligation will attack **weighted preserve/drop with genuine joint channel and mandatory-core accounting**, and must either prove an absolute gamma or locate a first false step of a proposed *quantitative deletion budget*, with a fixed-m density-positive control. No parallel alternative architecture, detailed new N1/N2, theorem/target mutation or publication. TIK every fixed k remains the immutable paper target; parent mathematical S001 is unexecuted.

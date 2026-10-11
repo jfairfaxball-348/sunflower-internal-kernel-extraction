@@ -422,5 +422,21 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C032",
+    "claim": "S015 refutes SAKAC: despite a genuine pair-inactive singleton-core anchor at every original heavy hub and all heavy-pair active classes containing many pair-core blocks, it can be impossible to keep even one pair-core block from every saturated class while certifying empty. For m>=4, q=m-1 hubs in full overlapping K_q with N pair-core blocks per e and singleton S_v have all true local pair/singleton certificates but mandatory-core global matching q=m-1<m; retaining each class forces all S_v and hence empty. A valid star+one-anchor selection retains N(q-1)+1>=t/(m-1), so no absolute gamma refutation. Mandatory 15th correction audit completed.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_AUXILIARY_ALL_CLASS_EMPTY_OBSTRUCTION_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S015_SINGLETON_ANCHORED_CLASS_DROP.md",
+    "does_not_refute": [
+      "PRIVATE_LIGHT_TWO_HEAVY_BSEL",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
