@@ -44,3 +44,6 @@ Fresh 2026-10-10 search: exact `Sunflowers and Ramsey Problems for Restricted In
 
 ## P001-S006 N1 — 2026-10-10
 The exact published JJSW26 §6 and Theorems 1.5–1.7, Girão–Illingworth–Scott–Wood Lemma 9 full proof, Kupavskii §0.6.3 and neighbouring 2025–26 VC/matching comparators were checked. Search terms included edge-disjoint sunflower packing, delta-system intersection closure, union of sunflowers internal witness, block cross intersections and rank-three internal extraction. No exact BSEL settlement found in this limited search; this does NOT certify novelty/openness. [Full N1 gate](S006_N1_BLOCK_COMPATIBILITY.md).
+
+## P001-S027 provenance-only update
+No new detailed N1/N2 or external source investigation (owner proof-first deferral). The quantified method obstruction uses the previously recorded S023 PG(2,q) original support family and S024 certified valid partial-petal construction. Existing JJSW26 source-posed TIK and exact rank-three STATUS_UNCERTAIN and novelty records unchanged; a methodological counterexample is not an originality or settled-open-status verdict.

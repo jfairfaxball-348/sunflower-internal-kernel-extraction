@@ -1,0 +1,16 @@
+{
+  "session": "P001-S027",
+  "path": "sessions/P001-S027/INPUT.md",
+  "input_path": "sessions/P001-S027/INPUT.md",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "sha256_utf8": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "archive_commit": "cc3000a2307b99c3dbfb89e19dc81349eb953953",
+  "frozen_gate_commit": "0913cf4ff31400139d36f0b63f9d9ad7b24fcf6d",
+  "source": "Fresh literal standalone owner instruction; linked frozen live S027 handoff read separately and not appended.",
+  "base_child_main": "aa8333271d24d636b41157da286c6bb1d432d124",
+  "base_parent_main": "789b673fb083ac8978e850d4d2dfc410f5098aa3",
+  "handoff_replaced_after_archive": true,
+  "raw_chat_transport_bytes_attested": false
+}

@@ -96,3 +96,7 @@ The strengthened frozen GLOBAL_EDGE_DICHOTOMY_512 (either a common-vertex exact-
 ## P001-S026 — restricted nonprivate one-global-heavy edge bridge only
 
 [The bounded S026 same-assistant proof](S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md) selects >=t/(9m²) individual triples from any complete m-sunflower-block packing with **globally original Q={a}**; light labels may recur up to m original supports. True exact 2/1/EMPTY kernels are certified in the same selected family. This does NOT cover S023's multiple-Q nested plane or unrestricted packing, and does not establish DIRECT_PARTIAL_EDGE_512, GLOBAL_EDGE_DICHOTOMY_512, R3 or every-fixed-k TIK. Original immutable quantifiers/source/novelty unchanged. Independent review missing; S027 only prepared.
+
+## P001-S027 — failure of full original light-support preprocessing only
+
+Frozen MULTIHUB_NONPRIVATE_DIRECT_EDGE_512 for global original |Q|>=1 and <=1 Q vertex in each complete original block, with nonprivate light supports r(v)<=m, is **UNPROVED/UNREFUTED**. Greedy full-light-support-independent block selection >=t/(3m²) is correct, but its proposed subsequent partial-petal recovery of >=t/(512m²) valid individual triples is **FALSE** on S023's nested q-plane. At q=1024,m=1026 such a thinned selection has at most 1026 valid H triples but the required count is >=2047; the original full family has S024 certified valid H of 1,076,891,650 edges. This is a method obstruction, not R3/TIK counterexample. See [S027 analysis](S027_MULTIHUB_NONPRIVATE_EDGE_ANALYSIS.md). S028 future standalone.

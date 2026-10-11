@@ -1076,6 +1076,38 @@
           "conclusion": "success"
         }
       ]
+    },
+    {
+      "run_id": 38156468117,
+      "event": "pull_request",
+      "head_sha": "4bbc4acdaad47da8dced0cb652c4de9ebda9a4a0",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114520366295,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "note": "S026 child final head checked at S027 entry"
+    },
+    {
+      "run_id": 38156518024,
+      "event": "push",
+      "head_sha": "aa8333271d24d636b41157da286c6bb1d432d124",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114520513577,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "note": "S026 child merged main checked at S027 entry"
     }
   ],
   "child_pr": {
@@ -1192,5 +1224,10 @@
   "s026_archived_prompt_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
   "s026_archive_commit": "a8fb51a8bf8fb9ecfc3ffee5c937dcda9018e730",
   "s026_frozen_gate_commit": "2d7732b770450f4d2d4f1d4df3b513f2f01bfb77",
-  "s026_outgoing_ci": "Not yet observed; FINAL PR head and merged-main push must be checked AFTER PR/merge."
+  "s026_outgoing_ci": "Not yet observed; FINAL PR head and merged-main push must be checked AFTER PR/merge.",
+  "s027_entry_receipt": "sessions/P001-S027/ENTRY_EVIDENCE.json",
+  "s027_archived_prompt_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "s027_archive_commit": "cc3000a2307b99c3dbfb89e19dc81349eb953953",
+  "s027_frozen_gate_commit": "0913cf4ff31400139d36f0b63f9d9ad7b24fcf6d",
+  "s027_outgoing_ci": "Actual FINAL PR head and merged-main push checks must be independently inspected AFTER hosting; not self-certified."
 }
