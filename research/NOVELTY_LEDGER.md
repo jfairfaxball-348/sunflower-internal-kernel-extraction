@@ -65,3 +65,6 @@ N055: [S027 frozen gate](S027_FROZEN_GATE.md) is UNPROVED/UNREFUTED. [S027 repor
 
 ## P001-S028 proof-first provenance (no N1/N2)
 N056: [P001-S028](S028_PETAL_FIRST_MULTIHUB_PROOF.md) proves the frozen <=1-original-Q-vertex/block nonprivate-light petal-first edge bound t/((3m-2)(m-1)) via same-assistant symbolic reasoning. It replaces only S027 frozen gate's unproved auxiliary status, not the exact TIK target; independent review NONE, literature originality NOVELTY_UNCERTAIN, detailed N1/N2 explicitly deferred by owner until complete all-k TIK candidate, Lean/manuscript/publication NONE.
+
+## P001-S029 — proof-first provenance, no new N1/N2
+N057: [S029 report](S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md) records an elementary same-assistant A-mass extension, Hall pair-core representative criterion and a quantified *method-only* K_(m-1,m-1) obstruction with positive full-petal alternate. Neither a complete two-original-Q C512 proof/counterexample nor an R3/TIK proof candidate exists. No independent mathematics referee or originality certificate; NOVELTY_UNCERTAIN, detailed new N1/N2 still deferred by owner until full every-k TIK proof candidate; no Lean, manuscript or publication status change. Mandatory S030 correction audit is future only.

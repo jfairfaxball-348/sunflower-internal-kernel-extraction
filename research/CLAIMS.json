@@ -823,5 +823,46 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S028_PETAL_FIRST_MULTIHUB_PROOF.md"
+  },
+  {
+    "id": "C060",
+    "claim": "S029 restricted A-mass positive: in ANY edge-disjoint packing of complete m-triple sunflower blocks with ORIGINAL <=2 heavy Q vertices/support and light support load<=m, blocks containing some <=1-Q petal admit a final internally exact-2/1/EMPTY witnessed individual-edge subfamily with |H|>=|A|/((3m-2)(m-1))>=|A|/(3m²); A>=t/2 meets frozen C512. One-petal S028 proof extends based on SELECTED petal only; not a full two-Q result.",
+    "mathematical_status": "RESTRICTED_A_MASS_SAME_ASSISTANT_SYMBOLIC_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN_NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md",
+    "does_not_prove": [
+      "TWO_ORIGINAL_Q_PETAL_512_GENERAL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C061",
+    "claim": "S029 B-pair-core Hall injection: each original compulsory two-Q pair-core block has m original-light third choices with per-light original support load<=m; Hall injects one per block. For ANY subset of distinct-third representatives, valid final exact two-point/singleton/EMPTY kernel tests are exactly selected heavy-pair multiplicities 0/1/>=m, SIMPLE distinct-heavy-neighbour degrees 0/1/>=m, and graph matching size 0/1/>=m; multi-pair weight is never counted as distinct singleton neighbours.",
+    "mathematical_status": "RESTRICTED_EXACT_GRAPH_CERTIFICATE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md"
+  },
+  {
+    "id": "C062",
+    "claim": "S029 disproves only REP_ONLY_B_512, NOT full C512: complete weighted bipartite K_(m-1,m-1) heavy pair graph with m-1 original m-petal pair-core blocks per pair, globally private third labels, original t=(m-1)^3, gives any one-third-label-per-original-block internally valid subset size<=1 due exact pair, singleton and EMPTY constraints. At m=1026 frozen rep bound demands ceil(t/(512m²))=2. But ORIGINAL F contains m(m-1) fully exact-pair-witnessed petals with single fixed heavy pair, so no full two-Q counterexample. Frozen two-Q C512 remains UNPROVED/UNREFUTED.",
+    "mathematical_status": "REP_ONLY_B_512_PROVISIONALLY_REFUTED_SAME_ASSISTANT_FROZEN_FULL_GATE_UNPROVED",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md",
+    "does_not_refute": [
+      "TWO_ORIGINAL_Q_PETAL_512_GENERAL",
+      "DIRECT_PARTIAL_EDGE_512_GENERAL",
+      "R3",
+      "TIK"
+    ]
   }
 ]
