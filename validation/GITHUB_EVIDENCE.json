@@ -914,6 +914,38 @@
         }
       ],
       "note": "S016 merged child main independently observed at S017 entry, not S017 outgoing self-certification"
+    },
+    {
+      "run_id": 38129310864,
+      "id": 38129310864,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38129310864",
+      "event": "pull_request",
+      "head_sha": "97dc4a7a8cd145645d46bd03111469f391e630b6",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114440129939,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ]
+    },
+    {
+      "run_id": 38129337422,
+      "id": 38129337422,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38129337422",
+      "event": "push",
+      "head_sha": "01ef273b203dcc50910230faa65cefc43ec3de4b",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114440210053,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ]
     }
   ],
   "child_pr": {
@@ -924,8 +956,8 @@
   },
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
-  "parent_registration_status": "S016_INDEPENDENTLY_VERIFIED_S017_NOT_REGISTERED",
-  "current_session": "P001-S017",
+  "parent_registration_status": "P001-S017 parent final-head and main CI independently verified at S018 entry; S018 outgoing pending",
+  "current_session": "P001-S018",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -944,18 +976,11 @@
   "s003_archived_prompt_sha256": "100708e1d8b5cb713046a55ea380bd79165f0bdaf1a80499be2b81a3b690bd61",
   "s003_status": "Await separately observed final PR/head/main CI; no self-reference to an unobserved run",
   "previous_main_check": {
-    "child": {
-      "sha": "ba1483bc46c5e51d60774d93cada49b248bcff4e",
-      "run_id": 38060326660,
-      "job_id": 114237111027,
-      "conclusion": "success"
-    },
-    "parent": {
-      "sha": "0d7f313d99d289b5c43d59ba65a9c6e814298607",
-      "run_id": 38060696583,
-      "job_id": 114238182995,
-      "conclusion": "success"
-    }
+    "sha": "01ef273b203dcc50910230faa65cefc43ec3de4b",
+    "run_id": 38129337422,
+    "job_id": 114440210053,
+    "conclusion": "success",
+    "event": "push"
   },
   "s004_entry_receipt": "sessions/P001-S004/ENTRY_EVIDENCE.json",
   "s004_archived_prompt_sha256": "5da4e08e35e6335860db89948bc13d9ca65cc2c4d60f4a0a36d7b0c27965ef6a",
@@ -1019,5 +1044,7 @@
   "s016_entry_receipt": "sessions/P001-S016/ENTRY_EVIDENCE.json",
   "s016_archived_prompt_sha256": "be2f46a40013454ed2025a397042222edb043355e626bb95b943e4e2c14a06d5",
   "s017_entry_receipt": "sessions/P001-S017/ENTRY_EVIDENCE.json",
-  "s017_archived_prompt_sha256": "dde379361108e06f2d61a98df81c678e859029d044f0d54756c124c27480b5a4"
+  "s017_archived_prompt_sha256": "dde379361108e06f2d61a98df81c678e859029d044f0d54756c124c27480b5a4",
+  "s018_entry_receipt": "sessions/P001-S018/ENTRY_EVIDENCE.json",
+  "s018_archived_prompt_sha256": "51fcc594f661d2a23c9086bc903d558b838d8f8a070923f3cae2e5aa419ac8f0"
 }

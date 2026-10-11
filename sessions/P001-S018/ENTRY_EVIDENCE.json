@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "session": "P001-S018",
+  "observed_on": "2026-10-11",
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "main": "01ef273b203dcc50910230faa65cefc43ec3de4b",
+    "open_prs": 0,
+    "recent_merged": [
+      19,
+      18,
+      17,
+      16,
+      15,
+      14
+    ],
+    "s017_pr": {
+      "number": 19,
+      "head": "97dc4a7a8cd145645d46bd03111469f391e630b6",
+      "merged": true,
+      "merge_main": "01ef273b203dcc50910230faa65cefc43ec3de4b"
+    },
+    "final_head_ci": {
+      "name": "research-integrity",
+      "event": "pull_request",
+      "run_id": 38129310864,
+      "job_id": 114440129939,
+      "job_name": "validate",
+      "conclusion": "success"
+    },
+    "main_push_ci": {
+      "name": "research-integrity",
+      "event": "push",
+      "run_id": 38129337422,
+      "job_id": 114440210053,
+      "job_name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "main": "d9d82e8a7134fcd078042db688ecc60aa29887e0",
+    "open_prs": 0,
+    "recent_merged": [
+      20,
+      19,
+      18,
+      17,
+      16,
+      15
+    ],
+    "s017_status_pr": {
+      "number": 20,
+      "head": "4d1d2d648968c87746ccdc25d4a7f8b7193deea9",
+      "merged": true,
+      "merge_main": "d9d82e8a7134fcd078042db688ecc60aa29887e0"
+    },
+    "final_head_ci": {
+      "name": "programme-integrity",
+      "event": "pull_request",
+      "run_id": 38129477776,
+      "job_id": 114440625701,
+      "job_name": "validate",
+      "conclusion": "success"
+    },
+    "main_push_ci": {
+      "name": "programme-integrity",
+      "event": "push",
+      "run_id": 38129507804,
+      "job_id": 114440710238,
+      "job_name": "validate",
+      "conclusion": "success"
+    }
+  },
+  "unique_s018": true,
+  "archived_input_hash": "51fcc594f661d2a23c9086bc903d558b838d8f8a070923f3cae2e5aa419ac8f0",
+  "archive_commit": "2634425677d870d2a6a74ba3bba1c1d06854f9a4",
+  "original_transport_bytes_attested": false,
+  "exact_user_rendered_prompt_reconstructed_from_committed_s017_handoff_with_first_markdown_title_and_blank_separator_removed": true,
+  "required_workflows": [
+    "child research-integrity validate",
+    "parent programme-integrity validate"
+  ],
+  "parent_mathematical_s001_executed": false
+}

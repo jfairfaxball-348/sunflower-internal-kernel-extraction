@@ -53,3 +53,5 @@ P001-S014 (2026-10-10): ONE frozen unprotected-pair-active-class repair implicat
 
 
 - **P001-S016, 2026-10-11:** One quantitative S012-pair-filter plus fixed mandatory-core-matching budget gate. Exact FIXED_BACKBONE_BUDGET(C) false with mN heavy-core weight forcing deletion from prescribed anchors, but alternative full selection >=t/2. R3/BSEL/full TIK unresolved. S017 handoff unexecuted. See report and closeout.
+
+- **P001-S018 (2026-10-11):** One bounded A0 pair-inactive majority t-based exact three-level extraction proof: >=|A0|/[12(m-1)^3], hence >=t/(24m^3) if A0>=t/2. Optional-heavy pair-active two-channel incompatibility with valid half-density control leaves absolute t-gamma/BSEL/R3/TIK open; parent S001 unexecuted. Research record research/S018_A0_MAJORITY_AND_CHANNEL_OBSTRUCTION.md; S019 is future ONLY.
