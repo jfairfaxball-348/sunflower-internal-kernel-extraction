@@ -9,5 +9,7 @@
   "raw_chat_transport_bytes_attested": false,
   "entry_child_main": "db7292e5015c13e5da7543519f45031acaf2d9e1",
   "entry_parent_main": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
-  "historical_input_preserved": true
+  "historical_input_preserved": true,
+  "path": "sessions/P001-S017/INPUT.md",
+  "sha256": "dde379361108e06f2d61a98df81c678e859029d044f0d54756c124c27480b5a4"
 }
