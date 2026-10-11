@@ -852,6 +852,37 @@
         }
       ],
       "verified_for": "S015 entry S014 merged-main push"
+    },
+    {
+      "run_id": 38125305435,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38125305435",
+      "event": "push",
+      "head_sha": "72bba5f269df135404bf8aa2bbbc9ef7e6c2c2a4",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114428318656,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "steps": [
+            {
+              "name": "Validate records and exact target",
+              "conclusion": "success"
+            },
+            {
+              "name": "Check internal and external semantics",
+              "conclusion": "success"
+            },
+            {
+              "name": "Report checked commit",
+              "conclusion": "success"
+            }
+          ]
+        }
+      ],
+      "note": "S015 merged-main push independently observed at S016 entry. S016 outgoing CI NOT self-certified."
     }
   ],
   "child_pr": {
@@ -862,8 +893,8 @@
   },
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
-  "parent_registration_status": "S012_VERIFIED_S013_NOT_YET_REGISTERED",
-  "current_session": "P001-S013",
+  "parent_registration_status": "S015_INDEPENDENTLY_VERIFIED_S016_NOT_REGISTERED",
+  "current_session": "P001-S016",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -953,5 +984,7 @@
     },
     "s011_ci": "NOT_YET_OBSERVED_PRE_MERGE"
   },
-  "s013_entry_receipt": "sessions/P001-S013/ENTRY_EVIDENCE.json"
+  "s013_entry_receipt": "sessions/P001-S013/ENTRY_EVIDENCE.json",
+  "s016_entry_receipt": "sessions/P001-S016/ENTRY_EVIDENCE.json",
+  "s016_archived_prompt_sha256": "be2f46a40013454ed2025a397042222edb043355e626bb95b943e4e2c14a06d5"
 }

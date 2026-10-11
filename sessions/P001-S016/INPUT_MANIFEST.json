@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "session": "P001-S016",
+  "path": "sessions/P001-S016/INPUT.md",
+  "sha256": "be2f46a40013454ed2025a397042222edb043355e626bb95b943e4e2c14a06d5",
+  "encoding": "UTF-8",
+  "archive_type": "fresh_owner_rendered_invocation_reconstructed_from_matching_staged_handoff",
+  "archive_commit": "73a87e53ef5ecc0db37af7b369a7fc2b28f60e5e",
+  "note": "Archived first, before altering NEXT_SESSION. Staged handoff was copied with visible heading and emphasis normalised to the incoming owner message; original chat transport byte identity is not independently attestable. A terminal newline was included in the archive. SHA256 calculated over committed UTF-8 text; SHA256 algorithm passed standard abc test vector."
+}
