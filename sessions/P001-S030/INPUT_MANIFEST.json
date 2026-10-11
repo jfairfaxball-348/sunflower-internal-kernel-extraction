@@ -1,0 +1,16 @@
+{
+  "session": "P001-S030",
+  "path": "sessions/P001-S030/INPUT.md",
+  "input_path": "sessions/P001-S030/INPUT.md",
+  "sha256": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "sha256_utf8": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "utf8_sha256": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "utf8_bytes": 121,
+  "archive_commit": "fc7d32642815bf04fb8873ec4d5e30b2378e9403",
+  "frozen_gate_commit": "f92963f361192bb5f849fe0d443f1f2477990f01",
+  "source": "Exact owner chat instruction, raw chat transport encoding not attested",
+  "base_child_main": "375d6813075c03f5df75b453034e5bac345b884f",
+  "base_parent_main": "8619bcf035ccca5b011dcc1ef48976494d663e82",
+  "handoff_replaced_after_archive": true,
+  "raw_chat_transport_bytes_attested": false
+}

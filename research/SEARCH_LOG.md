@@ -50,3 +50,7 @@ No new detailed N1/N2 or external source investigation (owner proof-first deferr
 
 ## P001-S029 — no new source search authorised
 Proof-first mathematical-only gate. NO web prior-art N1/N2/source search, novelty promotion or claims of absence; earlier JJSW26 attribution and R3 literature uncertainty unchanged. Exact incoming owner invocation archived/hash; original two-Q restriction, A positive and B representative-only method obstruction described in [S029 report](S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md). S030 fifth-session audit still future.
+
+
+## P001-S030 — no new N1/N2 per owner direction
+Only one bounded symbolic proof-first two-Q gate and fifth-session correction audit; no new source-intensive search, no no-hit-openness inference, no originality change. Historical JJSW26 §6 target attribution stays. See [S030 research](S030_TWO_HEAVY_MULTIPETAL_ANALYSIS.md) and [audit](S030_PROGRESS_CORRECTION_AUDIT.md).
