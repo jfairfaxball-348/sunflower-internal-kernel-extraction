@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "session": "P001-S028",
+  "observed_on": "2026-10-11",
+  "entry_child_main": "b7a2d8a75516b7e547cc02b710bc0a23b1eb3aac",
+  "entry_parent_main": "1c16a9b3df97ddab42deaf8595bb607e4cb8263d",
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s028_branches": 0,
+  "s028_unique_at_entry": true,
+  "child_predecessor": {
+    "session": "P001-S027",
+    "pr": 29,
+    "head": "9704f18a5fb35189e4749faffaa2ef2406a64d83",
+    "merge_sha": "b7a2d8a75516b7e547cc02b710bc0a23b1eb3aac",
+    "pr_run": 38158359789,
+    "pr_job": 114525895880,
+    "pr_conclusion": "success",
+    "push_run": 38158424393,
+    "push_job": 114526087873,
+    "push_conclusion": "success"
+  },
+  "parent_predecessor": {
+    "session": "P001-S027_STATUS_ONLY",
+    "pr": 31,
+    "head": "b951bc5b15e8877ef8d6bac55e07f1a687962eac",
+    "merge_sha": "1c16a9b3df97ddab42deaf8595bb607e4cb8263d",
+    "pr_run": 38158823319,
+    "pr_job": 114527270690,
+    "pr_conclusion": "success",
+    "push_run": 38158894605,
+    "push_job": 114527473033,
+    "push_conclusion": "success"
+  },
+  "archive_commit": "c3d26e51f9ddc52647c416f7ab32ebe9f4937caa",
+  "frozen_gate_commit": "ab839bcebaa26e0eb6a0aad9251cd371660f5400",
+  "archived_input_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "parent_mathematical_s001_executed": false,
+  "s029_executed": false,
+  "protection": "both main branches reported unprotected; ruleset listings empty; available protection endpoints not readable",
+  "hosted_evidence": "four independently fetched hosted RUN/JOB pairs"
+}

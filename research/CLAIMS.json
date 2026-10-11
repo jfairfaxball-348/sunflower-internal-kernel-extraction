@@ -803,5 +803,25 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C058",
+    "claim": "P001-S028 proves symbolically, for every m>=3 and t edge-disjoint complete m-triple-sunflower blocks with ORIGINAL Q support count>m and at most one original Q vertex per block support, that individual triples H with all exact pair/singleton/empty kernels internally m-witnessed satisfy |H|>=t/((3m-2)(m-1))>=t/(3m²). Petal-first representatives cost only 3m-2 for light collisions and at most m-1 for heavy-tag certification; original Q and t frozen. S027 frozen C512 now met; NOT full arbitrary-Q direct edge, R3 or every-k TIK.",
+    "mathematical_status": "RESTRICTED_SYMBOLIC_PROOF_SAME_ASSISTANT_PENDING_INDEPENDENT_REVIEW",
+    "novelty_status": "NOVELTY_UNCERTAIN_NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S028_PETAL_FIRST_MULTIHUB_PROOF.md"
+  },
+  {
+    "id": "C059",
+    "claim": "S028 does NOT rehabilitate the false whole original-support thinning or universal whole-block BSEL; no 2-Q-per-original-block guarantee, no dense K_N two-Q graph generalisation and no proof of R3/all-k TIK. S023 q-plane is positive under petal-first representative selection while S018/S019 and K_N remain out-of-domain controls.",
+    "mathematical_status": "SCOPE_BOUNDARY_GENERAL_DIRECT_EDGE_UNPROVED",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S028_PETAL_FIRST_MULTIHUB_PROOF.md"
   }
 ]

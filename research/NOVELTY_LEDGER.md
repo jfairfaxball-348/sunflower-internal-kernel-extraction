@@ -61,3 +61,7 @@ N054: [S026 restricted proof](S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md) gives a SAME
 
 ## P001-S027 proof-first provenance (no fresh N1/N2)
 N055: [S027 frozen gate](S027_FROZEN_GATE.md) is UNPROVED/UNREFUTED. [S027 report](S027_MULTIHUB_NONPRIVATE_EDGE_ANALYSIS.md) reuses earlier S023's projective-plane family and S024's existing dense valid H to refute a new **full-original-light-support-thin-first** intermediate, not the full edge extraction or TIK. Same assistant symbolic reasoning; independent reviewer NONE; originality NOVELTY_UNCERTAIN; Lean, detailed source N1/N2, formalisation and publication NONE. Owner proof-first deferral continues until a COMPLETE every-k TIK candidate. No negative-source-search or novelty promotion.
+
+
+## P001-S028 proof-first provenance (no N1/N2)
+N056: [P001-S028](S028_PETAL_FIRST_MULTIHUB_PROOF.md) proves the frozen <=1-original-Q-vertex/block nonprivate-light petal-first edge bound t/((3m-2)(m-1)) via same-assistant symbolic reasoning. It replaces only S027 frozen gate's unproved auxiliary status, not the exact TIK target; independent review NONE, literature originality NOVELTY_UNCERTAIN, detailed N1/N2 explicitly deferred by owner until complete all-k TIK candidate, Lean/manuscript/publication NONE.

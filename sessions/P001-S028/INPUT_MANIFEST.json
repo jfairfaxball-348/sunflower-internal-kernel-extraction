@@ -1,0 +1,16 @@
+{
+  "session": "P001-S028",
+  "path": "sessions/P001-S028/INPUT.md",
+  "input_path": "sessions/P001-S028/INPUT.md",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "sha256_utf8": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "archive_commit": "c3d26e51f9ddc52647c416f7ab32ebe9f4937caa",
+  "frozen_gate_commit": "ab839bcebaa26e0eb6a0aad9251cd371660f5400",
+  "source": "Fresh literal standalone owner instruction, live linked NEXT handoff read separately",
+  "base_child_main": "b7a2d8a75516b7e547cc02b710bc0a23b1eb3aac",
+  "base_parent_main": "1c16a9b3df97ddab42deaf8595bb607e4cb8263d",
+  "handoff_replaced_after_archive": true,
+  "raw_chat_transport_bytes_attested": false
+}
