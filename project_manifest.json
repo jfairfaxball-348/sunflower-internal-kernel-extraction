@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "0ad3cbeb52c5c7674abe932ba6c5aac68c4bff8b"
+    "authority_checkpoint": "29a6831bdfaec4e6202f750883929a2188f38b39"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S023",
+  "session_completed": "P001-S024",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S022_VERIFIED_S023_PENDING_POSTMERGE_REGISTRATION"
+    "local_assertion": "P001-S023_VERIFIED_S024_PENDING_POSTMERGE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S024",
+    "session": "P001-S025",
     "objectives": [
-      "DIRECT_PARTIAL_EDGE_R3_EXTRACTION"
+      "MANDATORY_FIFTH_CORRECTION_AUDIT_AND_EDGE_LEVEL_GLOBAL_BRIDGE"
     ],
-    "description": "Future single edge-level partial-petal m^-3 target after S023 whole-block BSEL counterexample; S024 UNEXECUTED",
+    "description": "FUTURE separately owner-invoked S025: mandatory fifth-session correction audit S021-S025 and ONE bounded edge-level global bridge; S025 UNEXECUTED",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -90,9 +90,11 @@
     "research/S022_FROZEN_GATE.md",
     "research/S022_NONPRIVATE_LIGHT_OVERLAP.md",
     "research/S023_FROZEN_GATE.md",
-    "research/S023_THREE_TIER_OBSTRUCTION.md"
+    "research/S023_THREE_TIER_OBSTRUCTION.md",
+    "research/S024_FROZEN_GATE.md",
+    "research/S024_DIRECT_PARTIAL_EDGE_ANALYSIS.md"
   ],
-  "last_outcome": "S023_FROZEN_NONPRIVATE_M3_AND_UNIVERSAL_BSEL_REFUTED_SAME_ASSISTANT_TIK_UNPROVED",
+  "last_outcome": "S024_EXACT_EDGE_OPTIMUM_AND_LOCAL_UNION_FAILURE_DIRECT_M3_UNPROVED",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
