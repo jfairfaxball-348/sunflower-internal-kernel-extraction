@@ -571,5 +571,47 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S021_SHORT_CHANNEL_M_SAVING.md"
+  },
+  {
+    "id": "C042",
+    "claim": "S022 refutes GRAPH_ONLY_CONSTANT_REPAIR: for prime-power q, m=q+2, projective-plane L=q²+q+1 singleton-core blocks with ORIGINAL Q empty and light support load m-1 create under-saturated EXACT shared light pair for every two chosen blocks. Over h disjoint copies (h>=m), max_valid=h, ratio 1/L tends to zero as m grows; actual original singleton/empty certificates pass for the full union and one-per-copy is fully valid. This refutes a constant-fraction post-heavy-graph light cleanup, NOT the frozen t/(1008m^3), BSEL/R3/TIK.",
+    "mathematical_status": "PROVISIONAL_EXACT_PARAMETRIC_GRAPH_ONLY_CONSTANT_REPAIR_COUNTEREXAMPLE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S022_NONPRIVATE_LIGHT_OVERLAP.md",
+    "does_not_refute": [
+      "NONPRIVATE_TWO_Q_T_OVER_1008M3",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C043",
+    "claim": "S022 elementary Q-empty bound: for all m>=3 and complete original 3-sunflower block packings with ORIGINAL Q empty, greedy independent support-conflict graph (maximum degree <=3m(m-1)) plus small-independent-set one-whole-block fallback gives one SAME-H all-exact-2/1/EMPTY valid J with |J|>=t/[m(3m(m-1)+1)]>=t/(3m³). Same-assistant proof only; restricted Q empty, not universal two-Q/BSEL.",
+    "mathematical_status": "PROVISIONAL_Q_EMPTY_NONPRIVATE_LIGHT_M3_RESTRICTED_SAME_ASSISTANT",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S022_NONPRIVATE_LIGHT_OVERLAP.md"
+  },
+  {
+    "id": "C044",
+    "claim": "S022 nonprivate at-most-two-ORIGINAL-Q fallback using greedy light conflict isolation and replay of S021 with designated original Q yields only t/[126(m-1)^3(3m(m-1)+1)]>=t/(378m^5), spending O(m²) and NOT satisfying S022 frozen t/(1008m³). Two additional exact light-pair and light-singleton collision families isolate failure even when real singleton/EMPTY or heavy-pair/EMPTY certificates succeed, each with >half valid alternatives. The first missing quantified step is simultaneous light-aware E/M channel plus true all-vertex link/empty preservation without m² loss. Full every-k TIK remains unproved.",
+    "mathematical_status": "PROVISIONAL_WEAK_TWO_Q_NONPRIVATE_LIGHT_M5_FALLBACK_AND_M3_GAP_SAME_ASSISTANT",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S022_NONPRIVATE_LIGHT_OVERLAP.md",
+    "does_not_prove": [
+      "NONPRIVATE_TWO_Q_T_OVER_1008M3",
+      "BSEL",
+      "R3",
+      "TIK"
+    ]
   }
 ]

@@ -1148,5 +1148,8 @@
   "s020_entry_receipt": "sessions/P001-S020/ENTRY_EVIDENCE.json",
   "s020_archived_prompt_sha256": "dc49b17b4bd9ba309edd4bc1957359bcdbeb02dceb894e3b046ac62cfc8f1f38",
   "s021_entry_receipt": "sessions/P001-S021/ENTRY_EVIDENCE.json",
-  "s021_archived_prompt_sha256": "70d021f8a070967620869f0913e126aedf4c4aaafafc2bc16793a914a7b221e8"
+  "s021_archived_prompt_sha256": "70d021f8a070967620869f0913e126aedf4c4aaafafc2bc16793a914a7b221e8",
+  "s022_entry_receipt": "sessions/P001-S022/ENTRY_EVIDENCE.json",
+  "s022_archived_prompt_sha256": "322461805d95ee965e90ad62eaf55a454b182104e1c0e59e1a024e59f0dc2f56",
+  "s022_frozen_gate_commit": "3523a5973dacd041bb903a6beeb0771b8969cb7d"
 }
