@@ -772,5 +772,36 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md"
+  },
+  {
+    "id": "C056",
+    "claim": "S027 FROZEN MULTIHUB_NONPRIVATE_DIRECT_EDGE_512: all m>=3 edge-disjoint complete original m-triple blocks with ORIGINAL nonempty global Q, at most one ORIGINAL Q vertex per block and non-Q support load<=m should allow >=t/(512m²) individual triples with every actually realised exact 2/1/EMPTY kernel m-witnessed in FINAL H. UNIVERSAL claim UNPROVED AND UNREFUTED, not a new R3/TIK theorem.",
+    "mathematical_status": "FROZEN_UNPROVED_UNREFUTED_MULTIHUB_DIRECT_EDGE_512",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S027_FROZEN_GATE.md",
+    "does_not_prove": [
+      "DIRECT_PARTIAL_EDGE_512_GENERAL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C057",
+    "claim": "S027 first FALSE full original light-support-thin-first intermediary: original light-conflict independent block set has >=t/(3m²) blocks, but on S023 PG(2,q) nested plane ANY such retained block set supports at most m individual triples in ANY internally m-exact-witnessed final H, because two original blocks of one hub realise a singleton link of maximum matching <=m-1 and two hubs realise EMPTY of matching <=m-1. q=1024,m=1026,t=1102737050625 gives t/(512m²)>2046 and requires >=2047 while any thinned H<=1026; yet original F has valid S024 1,076,891,650 triples. Refutes METHOD only, not frozen direct edge 512, R3 or TIK.",
+    "mathematical_status": "PROVISIONAL_SAME_ASSISTANT_SYMBOLIC_METHOD_OBSTRUCTION",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S027_MULTIHUB_NONPRIVATE_EDGE_ANALYSIS.md",
+    "does_not_refute": [
+      "MULTIHUB_NONPRIVATE_DIRECT_EDGE_512",
+      "DIRECT_PARTIAL_EDGE_512",
+      "R3",
+      "TIK"
+    ]
   }
 ]
