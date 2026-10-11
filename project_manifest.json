@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "b4c8817d336bb42cf636af8c2f705d5fad3bf268"
+    "authority_checkpoint": "652e866fedb9641a894259981caa295148ffcebb"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S014",
+  "session_completed": "P001-S015",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
+  "latest_validated_commit": "506a92a3fcb0870a77a3cd352fcad2ac052d2bd6",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S013_INDEPENDENTLY_VERIFIED_S014_AWAITING_POSTMERGE_PARENT_REGISTRATION"
+    "local_assertion": "P001-S014_INDEPENDENTLY_VERIFIED_S015_AWAITING_POSTMERGE_PARENT_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S015",
+    "session": "P001-S016",
     "objectives": [
-      "QUANTITATIVE_PRESERVE_OR_DROP_PAIR_CLASS_REFINEMENT"
+      "JOINT_WEIGHTED_CHANNEL_AND_CORE_MATCHING_SELECTION"
     ],
-    "description": "Unrestricted mixed-core private-light heavy-hub quantitative preserve-or-drop selection keeping S011 actual singleton/empty certificates and S012 pair-codegrees simultaneously; S014 disproves preserving >=1 from every saturated pair-core class, not general gamma.",
+    "description": "Develop a genuine joint weighted preserve-or-drop class-selection argument for arbitrary mixed-core private-light <=2-heavy packings, quantitatively coordinating final pair codegrees, actual singleton channel matchings and global mandatory-core empty matching; prove absolute gamma or refute a precisely frozen first density-budget step, with positive control. No renewed keep-every-class inference.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -74,9 +74,11 @@
     "research/S011_EXACT_SINGLETON_MATCHING.md",
     "research/S012_PAIR_CERTIFICATE_SELECTION.md",
     "research/S013_PAIR_ROBUST_A0_ANCHORS.md",
-    "research/S014_UNPROTECTED_CLASS_REFINEMENT.md"
+    "research/S014_UNPROTECTED_CLASS_REFINEMENT.md",
+    "research/S015_SINGLETON_ANCHORED_CLASS_DROP.md",
+    "research/S015_FIFTEENTH_PROGRESS_AUDIT.md"
   ],
-  "last_outcome": "NSCR_FALSE_SHARP_HALF_DENSITY_POSITIVE_CONTROL",
+  "last_outcome": "SAKAC_FALSE_STAR_DENSITY_POSITIVE_FIFTEENTH_AUDIT",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
