@@ -1,0 +1,84 @@
+{
+  "schema_version": 1,
+  "session": "P001-S015",
+  "date": "2026-10-11",
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "repository_id": 1412820282,
+    "entry_main": "506a92a3fcb0870a77a3cd352fcad2ac052d2bd6",
+    "previous_pr": 16,
+    "previous_head": "53cb469df4f6d60f19fd0be773f8f10fc9dad19d",
+    "previous_merged_main": "506a92a3fcb0870a77a3cd352fcad2ac052d2bd6",
+    "previous_pr_ci": {
+      "workflow": "research-integrity",
+      "run": 38089839480,
+      "job": 114323828544,
+      "conclusion": "success"
+    },
+    "previous_push_ci": {
+      "workflow": "research-integrity",
+      "run": 38089860562,
+      "job": 114323896523,
+      "conclusion": "success"
+    },
+    "required_workflow": ".github/workflows/research-integrity.yml",
+    "required_job": "validate"
+  },
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "repository_id": 1412469441,
+    "entry_main": "652e866fedb9641a894259981caa295148ffcebb",
+    "s014_status_pr": 17,
+    "s014_head": "bc0c43fc0f68b19c7d2a82407491bb16c12a7a41",
+    "s014_pr_ci": {
+      "workflow": "programme-integrity",
+      "run": 38090008485,
+      "job": 114324335336,
+      "conclusion": "success"
+    },
+    "s014_push_ci": {
+      "workflow": "programme-integrity",
+      "run": 38090032374,
+      "job": 114324406892,
+      "conclusion": "success"
+    },
+    "parent_mathematical_s001_executed": false
+  },
+  "open_prs_at_entry": {
+    "child": 0,
+    "parent": 0
+  },
+  "recent_merged_prs": {
+    "child_latest": [
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9,
+      8
+    ],
+    "parent_latest": [
+      17,
+      16,
+      15,
+      14,
+      13,
+      12,
+      11,
+      10,
+      9
+    ]
+  },
+  "s015_unique": true,
+  "archive": {
+    "path": "sessions/P001-S015/INPUT.md",
+    "sha256": "4860b8d5063ef0351d90481a2ff62fef3f13184259ba9f74613fb9aecfb7f56e",
+    "first_archive_commit": "886350401febf32cea781b449d42806b96f12616",
+    "manifest_commit": "b75c32e5403229de86c31b307d6d7020d22e90d3",
+    "before_next_session_replacement": true
+  },
+  "notes": "Checked actual GitHub Actions runs AND validate job IDs, child S014 final PR head/merged-main SHA and independent parent S014 PR-head/merged-main CI; both required workflows read, no new S015 PR found at entry. Full PR histories through latest verified S014 reviewed. Input archived as best-effort fresh rendered invocation reconstruction; raw transport bytes not attested."
+}
