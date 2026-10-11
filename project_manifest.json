@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "789b673fb083ac8978e850d4d2dfc410f5098aa3"
+    "authority_checkpoint": "1c16a9b3df97ddab42deaf8595bb607e4cb8263d"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S027",
+  "session_completed": "P001-S028",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S026_VERIFIED_S027_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S027_VERIFIED_S028_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S028",
+    "session": "P001-S029",
     "objectives": [
-      "PETAL_FIRST_MULTIHUB_COLLISION_AWARE_SELECTION"
+      "PETAL_FIRST_TWO_HEAVY_PAIR_CERTIFICATES"
     ],
-    "description": "FUTURE independent petal-first light-overlap and cross-hub exact 2/1/EMPTY direct-edge selection, S028 UNEXECUTED",
+    "description": "FUTURE single bounded <=2-Q per original support collision-aware representative and exact 2/1/EMPTY selection gate; S029 unexecuted",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -99,9 +99,11 @@
     "research/S026_FROZEN_GATE.md",
     "research/S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md",
     "research/S027_FROZEN_GATE.md",
-    "research/S027_MULTIHUB_NONPRIVATE_EDGE_ANALYSIS.md"
+    "research/S027_MULTIHUB_NONPRIVATE_EDGE_ANALYSIS.md",
+    "research/S028_FROZEN_GATE.md",
+    "research/S028_PETAL_FIRST_MULTIHUB_PROOF.md"
   ],
-  "last_outcome": "S027_THIN_FIRST_METHOD_REFUTED_FROZEN_MULTIHUB_DIRECT_EDGE_UNPROVED",
+  "last_outcome": "S028_PETAL_FIRST_MULTIHUB_DIRECT_EDGE_3_RESTRICTED_POSITIVE",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
