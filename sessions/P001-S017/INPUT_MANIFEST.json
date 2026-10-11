@@ -1,0 +1,13 @@
+{
+  "session": "P001-S017",
+  "input_path": "sessions/P001-S017/INPUT.md",
+  "sha256_utf8": "dde379361108e06f2d61a98df81c678e859029d044f0d54756c124c27480b5a4",
+  "utf8_bytes": 5734,
+  "archive_commit": "23f74eba1b940a8cd055cebc0f7e704a959d6d4b",
+  "archive_precedes_next_handoff_change": true,
+  "source": "New explicitly invoked user-rendered P001-S017 instruction; reconstructed from exact matching previous handoff with heading/emphasis normalized.",
+  "raw_chat_transport_bytes_attested": false,
+  "entry_child_main": "db7292e5015c13e5da7543519f45031acaf2d9e1",
+  "entry_parent_main": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
+  "historical_input_preserved": true
+}
