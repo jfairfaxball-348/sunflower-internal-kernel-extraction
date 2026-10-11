@@ -684,5 +684,67 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C050",
+    "claim": "S025 frozen GLOBAL_EDGE_DICHOTOMY_512: every arbitrary original complete m-triple block packing t admits at least t/(512m²) individual triples either all through a single common vertex (EMPTY absent) or with realised EMPTY and true m-matching, with all realised 2-pair and singleton in-H certificates. This is STRONGER than S024 direct bound and remains UNPROVED, not a theorem.",
+    "mathematical_status": "FROZEN_UNPROVED_QUANTIFIED_EDGE_DICHOTOMY",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S025_FROZEN_GATE.md",
+    "does_not_prove": [
+      "DIRECT_PARTIAL_EDGE_512",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C051",
+    "claim": "S025 exact arithmetic correction: S021 private-light <=2-original-Q whole-block t/[126(m-1)^3] yields >=t/(126m²) INDIVIDUAL EDGES, S022 original-Q-empty whole-block bound yields >=t/(3m²) INDIVIDUAL EDGES, both with true in-H exact 2/1/EMPTY witnesses and each meeting t/(512m²) on own scope. S022 two-Q nonprivate fallback gives only >=t/(378m^4) individual edges (two powers short). Same-assistant inheritance, no arbitrary R3/TIK.",
+    "mathematical_status": "DERIVED_RESTRICTED_EDGE_DENSITY_CORRECTION_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S025_GLOBAL_EDGE_ANALYSIS.md",
+    "does_not_prove": [
+      "GLOBAL_EDGE_DICHOTOMY_512",
+      "DIRECT_PARTIAL_EDGE_512_GENERAL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C052",
+    "claim": "S025 CLEAN-STAR Hall restricted lemma: distinct 2-cores {v,x_i}, all m third labels in Z disjoint from x_i,v, each z incidence across original blocks <=m => one per block distinct third representatives exists for t>=m with true singleton v matching t, 2-core and EMPTY absent; t<m a full block is internally m-valid. Arbitrary mass coverage does NOT follow.",
+    "mathematical_status": "RESTRICTED_CLEAN_STAR_HALL_CERTIFICATE_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S025_GLOBAL_EDGE_ANALYSIS.md",
+    "does_not_prove": [
+      "GLOBAL_EDGE_DICHOTOMY_512",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C053",
+    "claim": "S025 GRAPH-REPRESENTATIVE lemma for simple pair-core graph with globally private third labels: one representative per selected graph edge is internally m-valid if positive graph degrees are 1 or >=m and, whenever disjoint graph edges exist, graph has matching >=m; all final 2/1/EMPTY checked. Empty-core disjoint r-block control refutes a too-narrow only-clean-star/only-heavy-pair-graph mass-coverage step while F itself is fully internally valid; universal dichotomy not refuted.",
+    "mathematical_status": "RESTRICTED_GRAPH_CERTIFICATE_AND_FALSE_NARROW_COVER_SAME_ASSISTANT",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S025_GLOBAL_EDGE_ANALYSIS.md",
+    "does_not_refute": [
+      "GLOBAL_EDGE_DICHOTOMY_512",
+      "DIRECT_PARTIAL_EDGE_512",
+      "R3",
+      "TIK"
+    ]
   }
 ]

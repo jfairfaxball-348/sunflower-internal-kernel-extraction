@@ -1,0 +1,16 @@
+{
+  "session": "P001-S025",
+  "input_path": "sessions/P001-S025/INPUT.md",
+  "path": "sessions/P001-S025/INPUT.md",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "sha256_utf8": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "archive_commit": "492f9752a7b10bffd4c2a8e04f41ca1374dd2417",
+  "frozen_gate_commit": "da5de8f3bfc875870f687d5547b45976a6afc54b",
+  "source": "Fresh standalone user instruction verbatim; referenced live pinned S025 handoff not appended into 126-byte literal.",
+  "base_child_main": "3d7008cfc0ea21bae8b15a499b765c9a29bd836b",
+  "base_parent_main": "68db7557986569c0ae5557166e09032256d0ea8a",
+  "handoff_replaced_after_archive": true,
+  "raw_chat_transport_bytes_attested": false
+}

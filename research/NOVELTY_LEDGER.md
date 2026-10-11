@@ -51,3 +51,6 @@ BSEL exact arbitrary prescribed packing remains UNPROVED / NOVELTY_UNCERTAIN. Gi
 
 ## Post-S006 owner proof-first instruction / S007
 Detailed new prior-art screening (N1/N2) is **DEFERRED BY OWNER UNTIL A COMPLETE PAPER-TARGET PROOF CANDIDATE**. Previous source attributions remain historical; no change from NOVELTY_UNCERTAIN, no originality certification or journal-worthiness claim. S007's bounded vertex-block load lemma is an elementary analytical intermediate, neither promoted as original nor used as a substitute for TIK. See [analysis](S007_LOW_LOAD_REDUCTION.md). Source-gate deferral must end before any originality or publication claim.
+
+## P001-S025 proof-first status (not new N1/N2)
+S025 freezes a stronger direct-edge dichotomy and proves/derives only SAME-ASSISTANT restricted certificates and numerical translations from S021/S022; no global R3/TIK theorem candidate. Closest source attribution JJSW26/Girão unchanged, exact R3 literature status STATUS_UNCERTAIN and NOVELTY_UNCERTAIN. Owner-authorised detailed N1/N2 deferral continues until complete all-k TIK proof candidate. No source no-hit/open/originality promotion, independent referee, Lean or publication.
