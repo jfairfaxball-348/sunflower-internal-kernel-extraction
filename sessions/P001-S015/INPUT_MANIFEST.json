@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "session": "P001-S015",
+  "path": "sessions/P001-S015/INPUT.md",
+  "sha256": "4860b8d5063ef0351d90481a2ff62fef3f13184259ba9f74613fb9aecfb7f56e",
+  "encoding": "UTF-8",
+  "archive_type": "fresh_user_rendered_invocation_reconstructed_from_matching_staged_handoff",
+  "archive_commit": "886350401febf32cea781b449d42806b96f12616",
+  "note": "Reconstructed the displayed new owner message from the matching staged handoff with Markdown escapes and paragraph boundaries as received. Actual original transport bytes cannot independently be attested. Archived first and hashed before replacing NEXT_SESSION."
+}
