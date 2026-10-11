@@ -54,3 +54,7 @@ Detailed new prior-art screening (N1/N2) is **DEFERRED BY OWNER UNTIL A COMPLETE
 
 ## P001-S025 proof-first status (not new N1/N2)
 S025 freezes a stronger direct-edge dichotomy and proves/derives only SAME-ASSISTANT restricted certificates and numerical translations from S021/S022; no global R3/TIK theorem candidate. Closest source attribution JJSW26/Girão unchanged, exact R3 literature status STATUS_UNCERTAIN and NOVELTY_UNCERTAIN. Owner-authorised detailed N1/N2 deferral continues until complete all-k TIK proof candidate. No source no-hit/open/originality promotion, independent referee, Lean or publication.
+
+## P001-S026 — provenance boundary (no new N1/N2)
+
+N054: [S026 restricted proof](S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md) gives a SAME-ASSISTANT numerical t/(9m²) edge-level all-kernel extraction solely for globally original Q={a}, with arbitrary repeated non-Q light supports of original load <=m. This is a proof of an auxiliary scoped statement inside this project's notes, **not** a vetted novel theorem: prior-art attribution NOVELTY_UNCERTAIN, independent mathematical review NONE, Lean NONE, publication NONE. No new detailed N1/N2 per owner's explicit proof-first deferral. S023 multiple-hub construction remains an exact scope exclusion; general R3 and all-k TIK open statuses unchanged.

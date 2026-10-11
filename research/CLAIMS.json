@@ -746,5 +746,31 @@
       "R3",
       "TIK"
     ]
+  },
+  {
+    "id": "C054",
+    "claim": "S026 FROZEN ONE_HEAVY_NONPRIVATE_EDGE_9: from any t edge-disjoint complete original m-petal triple sunflower blocks (m>=3) with globally EXACTLY ONE original support-heavy vertex Q={a}, non-Q labels allowed to recur in <=m original block supports, there exists a final exact-internal-kernel H with >=t/(9m^2) INDIVIDUAL triples. Greedy original non-a support conflict graph degree <=3m(m-1), independent block packing >=t/(3m^2); pigeonhole a-absent, a-mandatory, a-optional channels then either >=m original whole blocks with true final EMPTY/singleton/2-core witnesses or one original block with own m-petal kernel. Same-assistant symbolic restricted proof, not full arbitrary-Q direct bound, R3 or TIK.",
+    "mathematical_status": "RESTRICTED_ONE_GLOBAL_HEAVY_NONPRIVATE_EDGE_BOUND_PROVED_SAME_ASSISTANT_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md",
+    "does_not_prove": [
+      "DIRECT_PARTIAL_EDGE_512_GENERAL",
+      "GLOBAL_EDGE_DICHOTOMY_512_GENERAL",
+      "R3",
+      "TIK"
+    ]
+  },
+  {
+    "id": "C055",
+    "claim": "S026 one globally original-heavy vertex is strictly stronger than one Q-hub per original block: S023 nested plane has |Q|=m-1, despite each block meeting Q once, and refutes unrestricted whole-block BSEL; combining separately valid per-hub outputs can fail actual final-H EMPTY m-matching. Multi-Q mixed nonprivate direct edge bound remains UNPROVED.",
+    "mathematical_status": "SCOPE_BOUNDARY_AND_MULTIHUB_UNPROVED",
+    "novelty_status": "NO_ORIGINALITY_PROMOTION",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S026_SINGLE_HEAVY_NONPRIVATE_EDGE.md"
   }
 ]
