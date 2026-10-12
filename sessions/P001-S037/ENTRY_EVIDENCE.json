@@ -1,0 +1,57 @@
+{
+  "session": "P001-S037",
+  "entry_date": "2026-10-12",
+  "child_main": "8950538230f2484d5d9f04aadc6d167e267e003c",
+  "parent_main": "05f27648f62f54e5b6c265d25533eb6eeb568413",
+  "child_S036": {
+    "pr": 38,
+    "head": "a9818d7b20df07d0878b60be5a0f732da65f80da",
+    "merge": "8950538230f2484d5d9f04aadc6d167e267e003c",
+    "merge_parents": [
+      "dfa56df29dd56197b53889d8a61f3fed1d28d77f",
+      "a9818d7b20df07d0878b60be5a0f732da65f80da"
+    ],
+    "head_tree": "3e961d1be6d51f51c84654c0896d584a5beb661d",
+    "merge_tree": "3e961d1be6d51f51c84654c0896d584a5beb661d",
+    "final_head_PR_run": 38273649914,
+    "final_head_PR_job": 114893763491,
+    "final_head_conclusion": "success",
+    "push_run": 38273757009,
+    "push_job": 114894111609,
+    "push_conclusion": "success"
+  },
+  "parent_S036": {
+    "pr": 40,
+    "head": "033ceba8b7ed71688a28643b835d2d12419cb219",
+    "merge": "05f27648f62f54e5b6c265d25533eb6eeb568413",
+    "merge_parents": [
+      "07f2d61147e19132719e3bc378b7a57b5c45fc68",
+      "033ceba8b7ed71688a28643b835d2d12419cb219"
+    ],
+    "head_tree": "3ba957cac2501babce67a5e9faa6148db2bb2efa",
+    "merge_tree": "3ba957cac2501babce67a5e9faa6148db2bb2efa",
+    "final_head_PR_run": 38274566705,
+    "final_head_PR_job": 114896751560,
+    "final_head_conclusion": "success",
+    "push_run": 38274660891,
+    "push_job": 114897059104,
+    "push_conclusion": "success"
+  },
+  "open_child_pr": 0,
+  "open_parent_pr": 0,
+  "competing_S037_branch": 0,
+  "competing_S037_on_main": false,
+  "observed_workflows": [
+    "child .github/workflows/research-integrity.yml",
+    "parent .github/workflows/programme-integrity.yml"
+  ],
+  "rulesets_child": [],
+  "rulesets_parent": [],
+  "branch_protection": "UNKNOWN: branch response protected=false, admin-only detailed protection not independently available",
+  "commit_status_contexts": "not used as CI pass; actual hosted workflow run/job data checked",
+  "S037_input_archive": "b9b9d7588bf37edd6d4a240043a0455dcc1525fc",
+  "S037_manifest_commit": "5e29b3ed1849049439112c822b079d7cf04770aa",
+  "S037_frozen_gate_commit": "0f0d41b35071fea6d7d8388dd675e458be72ce14",
+  "S037_report_commit": "0db9d018f5b1c04ea4c91ed48ae8bbd8fc7a1855",
+  "parent_S001_executed": false
+}
