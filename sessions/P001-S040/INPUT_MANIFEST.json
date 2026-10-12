@@ -1,0 +1,12 @@
+{
+  "session": "P001-S040",
+  "path": "sessions/P001-S040/INPUT.md",
+  "sha256": "dd19fa2e4098eaaef97666f7b080aaf9655a31f59b3c1ac1b6560afdfbc0126f",
+  "bytes": 130,
+  "archive_commit": "112e0b859aadc5eda14c79b1670fb3890e5ef70f",
+  "source": "Exact user invocation UTF-8; no newline",
+  "authoritative_handoff": "sessions/NEXT_SESSION.md",
+  "entry_child_main": "c6a7bcf914642fc0d90c2235cbf6794e657e4b41",
+  "entry_parent_main": "c3e58433bd881e84c7c893a1e702cb8ddab25700",
+  "committed_before_frozen_gate": true
+}
