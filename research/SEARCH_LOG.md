@@ -54,3 +54,7 @@ Proof-first mathematical-only gate. NO web prior-art N1/N2/source search, novelt
 
 ## P001-S030 — no new N1/N2 per owner direction
 Only one bounded symbolic proof-first two-Q gate and fifth-session correction audit; no new source-intensive search, no no-hit-openness inference, no originality change. Historical JJSW26 §6 target attribution stays. See [S030 research](S030_TWO_HEAVY_MULTIPETAL_ANALYSIS.md) and [audit](S030_PROGRESS_CORRECTION_AUDIT.md).
+
+
+## P001-S031 — proof-first provenance update only
+No new external source search or detailed N1/N2. Historical source ledger unchanged; all retrieved materials are live committed project records and GitHub integrity evidence. Sparse proof is symbolic, existing fixed semantic fixtures only; no research enumeration. Future S032 remains unexecuted.

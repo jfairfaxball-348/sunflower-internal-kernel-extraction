@@ -1,0 +1,1300 @@
+{
+  "session": "P001-S031",
+  "date": "2026-10-12",
+  "entry_main": {
+    "child": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+    "parent": "6d88ff84a693e51a3852078af903cce227cb7e11"
+  },
+  "rulesets": {
+    "child": [],
+    "parent": []
+  },
+  "protection_read": {
+    "child": "403 integration lacks administration access; UNKNOWN",
+    "parent": "403 integration lacks administration access; UNKNOWN"
+  },
+  "open_prs": {
+    "child": [],
+    "parent": []
+  },
+  "competing_s031_branches": [],
+  "branches": {
+    "child": [
+      {
+        "name": "approve-p001-s006-block-compatibility",
+        "sha": "9b1a3fde0ffb9332633386031eb9ff75904fc8a7"
+      },
+      {
+        "name": "main",
+        "sha": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46"
+      },
+      {
+        "name": "p001-s000/bootstrap",
+        "sha": "5e73cc4510f7c01ac52f8b0136b979b20c514c99"
+      },
+      {
+        "name": "p001-s001/rank-three-retention",
+        "sha": "3703e9dd8323bb93eb6c0ed2e5175e656a73d869"
+      },
+      {
+        "name": "p001-s003-heavy-link-charging",
+        "sha": "6526fa70593759cf2f56d9b95055fdcd32308cb4"
+      },
+      {
+        "name": "p001-s004-audit-decision",
+        "sha": "addb31c7172ab0a60a72401366e4ff2ab3057ffa"
+      },
+      {
+        "name": "p001-s005-five-session-audit",
+        "sha": "952dfc645c7cff850f8ffdc0308aaaf17f0637cd"
+      },
+      {
+        "name": "p001-s012-exact-pair-filter",
+        "sha": "b716333c66ff6d1029375885a134efef3971f45f"
+      },
+      {
+        "name": "research/p001-s002-aggregate-capacity",
+        "sha": "13dc7962c6655352e9ad058916a361108421cbb6"
+      },
+      {
+        "name": "research/p001-s006-block-compatibility",
+        "sha": "24c44eef3fa24b29eb774a88b6a891bffdb85105"
+      },
+      {
+        "name": "research/p001-s007-proof-first-low-load",
+        "sha": "90a0bf09be542cb273e5d84217b0dde8d00f53fd"
+      },
+      {
+        "name": "research/p001-s008-high-load-reservoir",
+        "sha": "a4d34ebca84739b15e3ced318758cf42f8299251"
+      },
+      {
+        "name": "research/p001-s009-two-heavy-thinning",
+        "sha": "4b85882465cf49f14fd70f79c1eb96abbe1dba93"
+      },
+      {
+        "name": "research/p001-s010-private-light-audit",
+        "sha": "5fe81dfb6e45227eaf379b4a7136bbbc1f4fd4e5"
+      },
+      {
+        "name": "research/p001-s011-exact-residual-matching",
+        "sha": "9aebced1727f797eafe5c343532ad40c5de04aa9"
+      },
+      {
+        "name": "research/p001-s013-pair-robust-protected-certificates",
+        "sha": "678c957a948e5c85af6810dbe26de07c1e2f33a1"
+      },
+      {
+        "name": "research/p001-s014-unprotected-joint",
+        "sha": "53cb469df4f6d60f19fd0be773f8f10fc9dad19d"
+      },
+      {
+        "name": "research/p001-s015-preserve-drop-pair-classes",
+        "sha": "e3960a217da1871e022c4794b083dbb65bd8923b"
+      },
+      {
+        "name": "research/p001-s016-weighted-backbone-budget",
+        "sha": "fe66c4997adb029ceabc376bf26c1969fa418996"
+      },
+      {
+        "name": "research/p001-s017-adaptive-weighted-spine",
+        "sha": "97dc4a7a8cd145645d46bd03111469f391e630b6"
+      },
+      {
+        "name": "research/p001-s018-contaminated-channel-a0-majority",
+        "sha": "489cda9724e3882c7afdddd0aef1139efb29becd"
+      },
+      {
+        "name": "research/p001-s019-pair-active-joint-channels",
+        "sha": "87d8b21adc6407dc57b1a71a6df92416966a736a"
+      },
+      {
+        "name": "research/p001-s020-mixed-directional-bridge",
+        "sha": "b13f5dfa059dd3614d355bf32f048007e0ff1aac"
+      },
+      {
+        "name": "research/p001-s021-short-channel-m-saving",
+        "sha": "c894844e3b3e6e46eef29dcb1fbd4c5ea3ecd677"
+      },
+      {
+        "name": "research/p001-s022-nonprivate-light-overlap",
+        "sha": "b614d781ff336066627d8100709d7ac8625a5cd7"
+      },
+      {
+        "name": "research/p001-s023-light-aware-joint-selection",
+        "sha": "dcd7c47a26311474cf181b043a7579f56712ea90"
+      },
+      {
+        "name": "research/p001-s024-direct-partial-petals",
+        "sha": "004c915cad68331203845448817e361ecca0ee1d"
+      },
+      {
+        "name": "research/p001-s025-global-direct-edge-audit",
+        "sha": "d29d413ac34399eea8ae2fda99bdeec057a32148"
+      },
+      {
+        "name": "research/p001-s026-single-heavy-nonprivate-edge",
+        "sha": "4bbc4acdaad47da8dced0cb652c4de9ebda9a4a0"
+      },
+      {
+        "name": "research/p001-s027-multihub-nonprivate-direct-edge",
+        "sha": "9704f18a5fb35189e4749faffaa2ef2406a64d83"
+      },
+      {
+        "name": "research/p001-s028-petal-first-multihub",
+        "sha": "eb6a8267ab3779f4ee3d8d73e9a6eaedb45c21a1"
+      },
+      {
+        "name": "research/p001-s029-two-heavy-petal-first",
+        "sha": "cb642dd2714f0fa64d84def669a4f54f847c314a"
+      },
+      {
+        "name": "research/p001-s030-two-q-multipetal-audit",
+        "sha": "3259decc277fc8fc26ee2fdfa4ac5feb80a222ad"
+      }
+    ],
+    "parent": [
+      {
+        "name": "main",
+        "sha": "6d88ff84a693e51a3852078af903cce227cb7e11"
+      },
+      {
+        "name": "p001-s000/register-child",
+        "sha": "c69bd53be51feddc40d0fa439d85ca94d96bf03b"
+      },
+      {
+        "name": "p001-s001/register-status",
+        "sha": "e2560cff5638ab2f6a3d9097414bb0c836e26f7e"
+      },
+      {
+        "name": "p001-s003-registration",
+        "sha": "824e09ed02c890f775307d7e4a3355a567a924d6"
+      },
+      {
+        "name": "p001-s012-status-registration",
+        "sha": "cc5a50f1ed432ed20c39af7344c02de2b3906a8b"
+      },
+      {
+        "name": "register/p001-s002-verified",
+        "sha": "11b36147f12958956998bbb6ddcf7d9b8646f6cf"
+      },
+      {
+        "name": "register/p001-s006-restricted-bsel",
+        "sha": "5a61e893c28c59770f2434b07ddf1a6397b6a870"
+      },
+      {
+        "name": "register/p001-s007-proof-first",
+        "sha": "bace171b8bc86090ad6bbd3b25f82d42c51316ed"
+      },
+      {
+        "name": "register/p001-s018-a0-majority-status",
+        "sha": "cebb85bd9cb3b583c0d682e35abba140ea1f473b"
+      },
+      {
+        "name": "register/p001-s028-petal-first-status",
+        "sha": "c2ca143c261a3945129d194a055edf1b0bfe50bd"
+      },
+      {
+        "name": "register-p001-s004-status",
+        "sha": "ce26c9e8b7f532b800e55db87c821d3f3e228034"
+      },
+      {
+        "name": "register-p001-s005-status",
+        "sha": "aefa40ddecfb8cbe2001863ec6277f9fd51699e6"
+      },
+      {
+        "name": "register-p001-s006-approved-handoff",
+        "sha": "c6256cb55e81fe62dcea64ceaae4222eb21db00b"
+      },
+      {
+        "name": "registration/p001-s011-status-only",
+        "sha": "6c50e2def916745f22133bf2bd1a7cbe1aa2b97b"
+      },
+      {
+        "name": "s000/independent-tournament",
+        "sha": "59296e7f4af522b753815c35e1ef112a776ebc2d"
+      },
+      {
+        "name": "status/p001-s008-verified-registration",
+        "sha": "1a8916a5ec1914a2c48f200649033dd20032ec37"
+      },
+      {
+        "name": "status/p001-s009-verified-registration",
+        "sha": "b1be83369c54870e11cc983b3a58c855f3a08691"
+      },
+      {
+        "name": "status/p001-s010-verified-registration",
+        "sha": "a81184c3b09940dcd730d17285ede33875afea72"
+      },
+      {
+        "name": "status/p001-s013-verified-child-registration",
+        "sha": "368237909964fcb55a61a0d4bb7ee5a09342104d"
+      },
+      {
+        "name": "status/p001-s014-verified-child",
+        "sha": "bc0c43fc0f68b19c7d2a82407491bb16c12a7a41"
+      },
+      {
+        "name": "status/p001-s015-verified-child",
+        "sha": "3e82e6af1d21f9dfa35273f48bc5775087ebe4fa"
+      },
+      {
+        "name": "status/p001-s016-verified-child",
+        "sha": "2c20837b0c32b45ccbd996388d6c3bdc25f9cbc8"
+      },
+      {
+        "name": "status/p001-s017-verified-child",
+        "sha": "4d1d2d648968c87746ccdc25d4a7f8b7193deea9"
+      },
+      {
+        "name": "status/p001-s019-merge-time-correction",
+        "sha": "37af0b716bb8ee108bc132d95fd1ad5dab4b6dab"
+      },
+      {
+        "name": "status/p001-s019-optional-pair-active",
+        "sha": "562569b69a76442f83efee1544ad2433fb168364"
+      },
+      {
+        "name": "status/p001-s020-m4-fifth-audit",
+        "sha": "4a20fd729574405063ba1d3cd5af5d1342b40a0b"
+      },
+      {
+        "name": "status/p001-s021-private-light-m3",
+        "sha": "b4859cc64a6ec320f91601c9a1fd1c4b5fb5b6ea"
+      },
+      {
+        "name": "status/p001-s022-light-overlap-gate",
+        "sha": "b11a77d576a6970a1376ceff4fd8eb65a5e36634"
+      },
+      {
+        "name": "status/p001-s023-whole-block-bsel-refutation",
+        "sha": "5808afea57a02b20858bd92159dcd2cbb8ea41a8"
+      },
+      {
+        "name": "status/p001-s024-partial-edge-optimum",
+        "sha": "f60774e99debf482df7ca3ea91b7f2801f9c8602"
+      },
+      {
+        "name": "status/p001-s025-global-edge-fifth-audit",
+        "sha": "363479ffd75c20c8c34285922ce376e0d1e76939"
+      },
+      {
+        "name": "status/p001-s026-single-heavy-edge",
+        "sha": "7db5864ef15819fcfcc79765781b23434e9b3fda"
+      },
+      {
+        "name": "status/p001-s027-multihub-thin-first",
+        "sha": "b951bc5b15e8877ef8d6bac55e07f1a687962eac"
+      },
+      {
+        "name": "status/p001-s029-two-heavy-petal-first",
+        "sha": "7ac158927cd18f5f5e90e255d83fc66b59579a61"
+      },
+      {
+        "name": "status/p001-s030-fifth-audit-weighted-pair-core",
+        "sha": "ecb470285f53da4f4ba66adf007360833339ca1d"
+      }
+    ]
+  },
+  "pull_requests": {
+    "child": [
+      {
+        "number": 32,
+        "state": "closed",
+        "title": "P001-S030: two-heavy weighted-star/core proof and mandatory fifth audit",
+        "head": "3259decc277fc8fc26ee2fdfa4ac5feb80a222ad",
+        "base": "375d6813075c03f5df75b453034e5bac345b884f",
+        "merge": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+        "merged": "2026-10-11T21:20:47Z"
+      },
+      {
+        "number": 31,
+        "state": "closed",
+        "title": "P001-S029: two-Q partial petal-first bound and heavy pair representative obstruction",
+        "head": "cb642dd2714f0fa64d84def669a4f54f847c314a",
+        "base": "7c2ed7e24309c11139684491f2742858e62354ce",
+        "merge": "375d6813075c03f5df75b453034e5bac345b884f",
+        "merged": "2026-10-11T17:58:57Z"
+      },
+      {
+        "number": 30,
+        "state": "closed",
+        "title": "P001-S028: petal-first proves restricted multihub direct-edge t/(3m²)",
+        "head": "eb6a8267ab3779f4ee3d8d73e9a6eaedb45c21a1",
+        "base": "b7a2d8a75516b7e547cc02b710bc0a23b1eb3aac",
+        "merge": "7c2ed7e24309c11139684491f2742858e62354ce",
+        "merged": "2026-10-11T17:39:21Z"
+      },
+      {
+        "number": 29,
+        "state": "closed",
+        "title": "P001-S027: full-original-light thinning fails for multi-hub direct edges",
+        "head": "9704f18a5fb35189e4749faffaa2ef2406a64d83",
+        "base": "aa8333271d24d636b41157da286c6bb1d432d124",
+        "merge": "b7a2d8a75516b7e547cc02b710bc0a23b1eb3aac",
+        "merged": "2026-10-11T17:08:25Z"
+      },
+      {
+        "number": 28,
+        "state": "closed",
+        "title": "P001-S026: nonprivate one-global-heavy edge bound t/(9m²)",
+        "head": "4bbc4acdaad47da8dced0cb652c4de9ebda9a4a0",
+        "base": "fd4374a3c22d2eec203df9b501b6d4e75c992ebd",
+        "merge": "aa8333271d24d636b41157da286c6bb1d432d124",
+        "merged": "2026-10-11T16:41:30Z"
+      },
+      {
+        "number": 27,
+        "state": "closed",
+        "title": "P001-S025: global edge dichotomy audit and restricted direct-edge bounds",
+        "head": "d29d413ac34399eea8ae2fda99bdeec057a32148",
+        "base": "3d7008cfc0ea21bae8b15a499b765c9a29bd836b",
+        "merge": "fd4374a3c22d2eec203df9b501b6d4e75c992ebd",
+        "merged": "2026-10-11T16:01:26Z"
+      },
+      {
+        "number": 26,
+        "state": "closed",
+        "title": "P001-S024: exact partial-petal optimum and global certificate obstruction",
+        "head": "004c915cad68331203845448817e361ecca0ee1d",
+        "base": "fe3e26ef33b1b939ce1be22181e49e451834b0c7",
+        "merge": "3d7008cfc0ea21bae8b15a499b765c9a29bd836b",
+        "merged": "2026-10-11T15:24:38Z"
+      },
+      {
+        "number": 25,
+        "state": "closed",
+        "title": "P001-S023: three-tier plane refutes whole-block BSEL; direct-petal pivot",
+        "head": "dcd7c47a26311474cf181b043a7579f56712ea90",
+        "base": "3648b7ab3ee31219640f5bb73ea468b107d9ad87",
+        "merge": "fe3e26ef33b1b939ce1be22181e49e451834b0c7",
+        "merged": "2026-10-11T14:54:22Z"
+      },
+      {
+        "number": 24,
+        "state": "closed",
+        "title": "P001-S022: nonprivate light collision obstruction and Q-empty m^-3 bound",
+        "head": "b614d781ff336066627d8100709d7ac8625a5cd7",
+        "base": "fc4f190d0e84fa4b4a407b68174c92aeb9a4c28d",
+        "merge": "3648b7ab3ee31219640f5bb73ea468b107d9ad87",
+        "merged": "2026-10-11T13:01:08Z"
+      },
+      {
+        "number": 23,
+        "state": "closed",
+        "title": "P001-S021: short-channel three-tag m-saving and private-light m^-3 bound",
+        "head": "c894844e3b3e6e46eef29dcb1fbd4c5ea3ecd677",
+        "base": "85dec23462018f9eb877a61f50f4fc9edae7a785",
+        "merge": "fc4f190d0e84fa4b4a407b68174c92aeb9a4c28d",
+        "merged": "2026-10-11T12:22:22Z"
+      },
+      {
+        "number": 22,
+        "state": "closed",
+        "title": "P001-S020: directed mixed pair-active m^-4 bridge and mandatory fifth audit",
+        "head": "b13f5dfa059dd3614d355bf32f048007e0ff1aac",
+        "base": "5e0b6cd389cdf4f381abbfb31582bba7b22fdbee",
+        "merge": "85dec23462018f9eb877a61f50f4fc9edae7a785",
+        "merged": "2026-10-11T11:44:35Z"
+      },
+      {
+        "number": 21,
+        "state": "closed",
+        "title": "P001-S019: pair-active optional-hub bound and mixed-star empty obstruction",
+        "head": "87d8b21adc6407dc57b1a71a6df92416966a736a",
+        "base": "b811b2c5016411466af9233d59b4fbf9af01bc24",
+        "merge": "5e0b6cd389cdf4f381abbfb31582bba7b22fdbee",
+        "merged": "2026-10-11T11:18:33Z"
+      },
+      {
+        "number": 20,
+        "state": "closed",
+        "title": "P001-S018: quantitative A0-majority joint extraction; active-channel obstruction",
+        "head": "489cda9724e3882c7afdddd0aef1139efb29becd",
+        "base": "01ef273b203dcc50910230faa65cefc43ec3de4b",
+        "merge": "b811b2c5016411466af9233d59b4fbf9af01bc24",
+        "merged": "2026-10-11T10:10:29Z"
+      },
+      {
+        "number": 19,
+        "state": "closed",
+        "title": "P001-S017: adaptive weighted safe-spine bound, complement still open",
+        "head": "97dc4a7a8cd145645d46bd03111469f391e630b6",
+        "base": "db7292e5015c13e5da7543519f45031acaf2d9e1",
+        "merge": "01ef273b203dcc50910230faa65cefc43ec3de4b",
+        "merged": "2026-10-11T09:42:35Z"
+      },
+      {
+        "number": 18,
+        "state": "closed",
+        "title": "P001-S016: fixed matching-backbone budget fails; dense adaptive control",
+        "head": "fe66c4997adb029ceabc376bf26c1969fa418996",
+        "base": "72bba5f269df135404bf8aa2bbbc9ef7e6c2c2a4",
+        "merge": "db7292e5015c13e5da7543519f45031acaf2d9e1",
+        "merged": "2026-10-11T08:54:51Z"
+      },
+      {
+        "number": 17,
+        "state": "closed",
+        "title": "P001-S015: singleton-anchored all-class obstruction; dense star control and fifth audit",
+        "head": "e3960a217da1871e022c4794b083dbb65bd8923b",
+        "base": "506a92a3fcb0870a77a3cd352fcad2ac052d2bd6",
+        "merge": "72bba5f269df135404bf8aa2bbbc9ef7e6c2c2a4",
+        "merged": "2026-10-11T08:34:51Z"
+      },
+      {
+        "number": 16,
+        "state": "closed",
+        "title": "P001-S014: unprotected saturated pair-class repair fails; exact half-density control",
+        "head": "53cb469df4f6d60f19fd0be773f8f10fc9dad19d",
+        "base": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
+        "merge": "506a92a3fcb0870a77a3cd352fcad2ac052d2bd6",
+        "merged": "2026-10-10T22:01:39Z"
+      },
+      {
+        "number": 15,
+        "state": "closed",
+        "title": "P001-S013: protected A0 joint matching lemma (restricted; full TIK open)",
+        "head": "678c957a948e5c85af6810dbe26de07c1e2f33a1",
+        "base": "5df20007c600429499ba47661da3040c24408198",
+        "merge": "04cefc2e23e03fe0520a0311aef2e3df9a85cdb2",
+        "merged": "2026-10-10T21:08:43Z"
+      },
+      {
+        "number": 14,
+        "state": "closed",
+        "title": "P001-S012: quantitative exact heavy-pair filter; joint certificates remain open",
+        "head": "b716333c66ff6d1029375885a134efef3971f45f",
+        "base": "cd5892682e95dd242f1a9ce1b0c4abc03a6a1f56",
+        "merge": "5df20007c600429499ba47661da3040c24408198",
+        "merged": "2026-10-10T19:41:59Z"
+      },
+      {
+        "number": 13,
+        "state": "closed",
+        "title": "P001-S011: exact residual matching/core certificates and two-star obstruction",
+        "head": "9aebced1727f797eafe5c343532ad40c5de04aa9",
+        "base": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+        "merge": "cd5892682e95dd242f1a9ce1b0c4abc03a6a1f56",
+        "merged": "2026-10-10T18:54:29Z"
+      },
+      {
+        "number": 12,
+        "state": "closed",
+        "title": "P001-S010: private-light cross-hub closure obstruction and tenth audit",
+        "head": "5fe81dfb6e45227eaf379b4a7136bbbc1f4fd4e5",
+        "base": "9dd23c8adfee64ea63e347a9858ec07e25d481d6",
+        "merge": "547c678287cdb7d9c1fe4d8f099500e8f297d18c",
+        "merged": "2026-10-10T18:37:14Z"
+      },
+      {
+        "number": 11,
+        "state": "closed",
+        "title": "P001-S009: two-heavy mixed-kernel thinning obstruction; autonomous S010 audit handoff",
+        "head": "4b85882465cf49f14fd70f79c1eb96abbe1dba93",
+        "base": "8bcacc71704ca6dbadc7a064f212f5864888114f",
+        "merge": "9dd23c8adfee64ea63e347a9858ec07e25d481d6",
+        "merged": "2026-10-10T17:47:14Z"
+      },
+      {
+        "number": 10,
+        "state": "closed",
+        "title": "P001-S008: refute single-hub high-load reservoir; retain all exact kernels",
+        "head": "a4d34ebca84739b15e3ced318758cf42f8299251",
+        "base": "f0417e8195f2cbfbc6d7e989329070d794dc2490",
+        "merge": "8bcacc71704ca6dbadc7a064f212f5864888114f",
+        "merged": "2026-10-10T17:29:33Z"
+      },
+      {
+        "number": 9,
+        "state": "closed",
+        "title": "P001-S007: continue proof-first research; bounded-load BSEL lemma and autonomous S008 handoff",
+        "head": "90a0bf09be542cb273e5d84217b0dde8d00f53fd",
+        "base": "75dedd9cbf81f584cd7fafaa64eecff04fa34a45",
+        "merge": "f0417e8195f2cbfbc6d7e989329070d794dc2490",
+        "merged": "2026-10-10T17:03:19Z"
+      },
+      {
+        "number": 8,
+        "state": "closed",
+        "title": "P001-S006: BSEL block compatibility — restricted-only feasibility",
+        "head": "24c44eef3fa24b29eb774a88b6a891bffdb85105",
+        "base": "76a4b8a3659adc8c10615f35717f1d2e6efbc1b4",
+        "merge": "75dedd9cbf81f584cd7fafaa64eecff04fa34a45",
+        "merged": "2026-10-10T16:25:28Z"
+      },
+      {
+        "number": 7,
+        "state": "closed",
+        "title": "Approve and stage P001-S006 BSEL block-compatibility handoff (not executed)",
+        "head": "9b1a3fde0ffb9332633386031eb9ff75904fc8a7",
+        "base": "79fbbbc35fec42fdde0ada766f892ab83090615c",
+        "merge": "76a4b8a3659adc8c10615f35717f1d2e6efbc1b4",
+        "merged": "2026-10-10T15:53:42Z"
+      },
+      {
+        "number": 6,
+        "state": "closed",
+        "title": "P001-S005: five-session correction audit and human-governed route triage",
+        "head": "952dfc645c7cff850f8ffdc0308aaaf17f0637cd",
+        "base": "3a7e0f00830345e64fd5efb52cf4623a590d6a58",
+        "merge": "79fbbbc35fec42fdde0ada766f892ab83090615c",
+        "merged": "2026-10-10T15:35:58Z"
+      },
+      {
+        "number": 5,
+        "state": "closed",
+        "title": "P001-S004: scrutinise tripartite palette obstruction and retire exact L_AVG/B_CHARGE",
+        "head": "addb31c7172ab0a60a72401366e4ff2ab3057ffa",
+        "base": "ba1483bc46c5e51d60774d93cada49b248bcff4e",
+        "merge": "3a7e0f00830345e64fd5efb52cf4623a590d6a58",
+        "merged": "2026-10-10T15:10:11Z"
+      },
+      {
+        "number": 4,
+        "state": "closed",
+        "title": "P001-S003: heavy-link charging obstruction and L_AVG counterexample",
+        "head": "6526fa70593759cf2f56d9b95055fdcd32308cb4",
+        "base": "693a8b45dab8ebff773554c879756e797e9558e8",
+        "merge": "ba1483bc46c5e51d60774d93cada49b248bcff4e",
+        "merged": "2026-10-10T14:37:07Z"
+      },
+      {
+        "number": 3,
+        "state": "closed",
+        "title": "P001-S002: bounded L_AVG feasibility, restricted-case bound and S003 handoff",
+        "head": "13dc7962c6655352e9ad058916a361108421cbb6",
+        "base": "8a9f3a29944da6386c0fa813e42b7bdaa802ed62",
+        "merge": "693a8b45dab8ebff773554c879756e797e9558e8",
+        "merged": "2026-10-10T13:54:21Z"
+      },
+      {
+        "number": 2,
+        "state": "closed",
+        "title": "P001-S001: rank-three retention mechanism audit and bounded handoff",
+        "head": "3703e9dd8323bb93eb6c0ed2e5175e656a73d869",
+        "base": "6630117cb29009600ae73bb8619da391d43305a8",
+        "merge": "8a9f3a29944da6386c0fa813e42b7bdaa802ed62",
+        "merged": "2026-10-10T13:34:57Z"
+      },
+      {
+        "number": 1,
+        "state": "closed",
+        "title": "P001-S000: bootstrap project and validate the mathematical frontier",
+        "head": "5e73cc4510f7c01ac52f8b0136b979b20c514c99",
+        "base": "aeb926e1d3901475aea584b42fad50ac9b8070d8",
+        "merge": "6630117cb29009600ae73bb8619da391d43305a8",
+        "merged": "2026-10-10T06:25:44Z"
+      }
+    ],
+    "parent": [
+      {
+        "number": 34,
+        "state": "closed",
+        "title": "Register verified P001-S030 fifth-audit and weighted pair-core result (status only)",
+        "head": "ecb470285f53da4f4ba66adf007360833339ca1d",
+        "base": "8619bcf035ccca5b011dcc1ef48976494d663e82",
+        "merge": "6d88ff84a693e51a3852078af903cce227cb7e11",
+        "merged": "2026-10-11T21:25:57Z"
+      },
+      {
+        "number": 33,
+        "state": "closed",
+        "title": "Register verified P001-S029 two-Q partial petal result (status only)",
+        "head": "7ac158927cd18f5f5e90e255d83fc66b59579a61",
+        "base": "8ed9f0209e9fa7dee34e5e2221ffe86f16aa3a47",
+        "merge": "8619bcf035ccca5b011dcc1ef48976494d663e82",
+        "merged": "2026-10-11T18:04:35Z"
+      },
+      {
+        "number": 32,
+        "state": "closed",
+        "title": "Register verified P001-S028 restricted petal-first direct-edge result (status only)",
+        "head": "c2ca143c261a3945129d194a055edf1b0bfe50bd",
+        "base": "1c16a9b3df97ddab42deaf8595bb607e4cb8263d",
+        "merge": "8ed9f0209e9fa7dee34e5e2221ffe86f16aa3a47",
+        "merged": "2026-10-11T17:45:11Z"
+      },
+      {
+        "number": 31,
+        "state": "closed",
+        "title": "Register verified P001-S027 original-light-support thinning obstruction (status only)",
+        "head": "b951bc5b15e8877ef8d6bac55e07f1a687962eac",
+        "base": "789b673fb083ac8978e850d4d2dfc410f5098aa3",
+        "merge": "1c16a9b3df97ddab42deaf8595bb607e4cb8263d",
+        "merged": "2026-10-11T17:15:12Z"
+      },
+      {
+        "number": 30,
+        "state": "closed",
+        "title": "Register P001-S026 verified restricted single-heavy edge result (status only)",
+        "head": "7db5864ef15819fcfcc79765781b23434e9b3fda",
+        "base": "731f71fcefba1cc23fb9b10a449b9fc4ee26f734",
+        "merge": "789b673fb083ac8978e850d4d2dfc410f5098aa3",
+        "merged": "2026-10-11T16:49:59Z"
+      },
+      {
+        "number": 29,
+        "state": "closed",
+        "title": "Register verified P001-S025 direct-edge audit (status only)",
+        "head": "363479ffd75c20c8c34285922ce376e0d1e76939",
+        "base": "68db7557986569c0ae5557166e09032256d0ea8a",
+        "merge": "731f71fcefba1cc23fb9b10a449b9fc4ee26f734",
+        "merged": "2026-10-11T16:06:37Z"
+      },
+      {
+        "number": 28,
+        "state": "closed",
+        "title": "Register P001-S024 direct partial-edge outcome (status only)",
+        "head": "f60774e99debf482df7ca3ea91b7f2801f9c8602",
+        "base": "29a6831bdfaec4e6202f750883929a2188f38b39",
+        "merge": "68db7557986569c0ae5557166e09032256d0ea8a",
+        "merged": "2026-10-11T15:30:27Z"
+      },
+      {
+        "number": 27,
+        "state": "closed",
+        "title": "Register verified P001-S023 whole-block BSEL counterexample (status only)",
+        "head": "5808afea57a02b20858bd92159dcd2cbb8ea41a8",
+        "base": "0ad3cbeb52c5c7674abe932ba6c5aac68c4bff8b",
+        "merge": "29a6831bdfaec4e6202f750883929a2188f38b39",
+        "merged": "2026-10-11T14:59:48Z"
+      },
+      {
+        "number": 26,
+        "state": "closed",
+        "title": "Register verified P001-S022 nonprivate-light obstruction (status only)",
+        "head": "b11a77d576a6970a1376ceff4fd8eb65a5e36634",
+        "base": "6e9f6708b3cd5df99d1665268c9b5b578a3e0750",
+        "merge": "0ad3cbeb52c5c7674abe932ba6c5aac68c4bff8b",
+        "merged": "2026-10-11T13:05:10Z"
+      },
+      {
+        "number": 25,
+        "state": "closed",
+        "title": "Register independently verified P001-S021 restricted m^-3 result (status only)",
+        "head": "b4859cc64a6ec320f91601c9a1fd1c4b5fb5b6ea",
+        "base": "19434cd598d3c065807616cc820be32747063892",
+        "merge": "6e9f6708b3cd5df99d1665268c9b5b578a3e0750",
+        "merged": "2026-10-11T12:26:12Z"
+      },
+      {
+        "number": 24,
+        "state": "closed",
+        "title": "Register independently verified P001-S020 mixed-channel m^-4 result and fifth audit (status only)",
+        "head": "4a20fd729574405063ba1d3cd5af5d1342b40a0b",
+        "base": "dc0dedf71a50c152b48b2a6864b906e6926e5337",
+        "merge": "19434cd598d3c065807616cc820be32747063892",
+        "merged": "2026-10-11T11:48:28Z"
+      },
+      {
+        "number": 23,
+        "state": "closed",
+        "title": "Correct S019 child merge timestamp in status receipt",
+        "head": "37af0b716bb8ee108bc132d95fd1ad5dab4b6dab",
+        "base": "f9e6fb86a459b50498d7fa26d4437f714d887d95",
+        "merge": "dc0dedf71a50c152b48b2a6864b906e6926e5337",
+        "merged": "2026-10-11T11:24:10Z"
+      },
+      {
+        "number": 22,
+        "state": "closed",
+        "title": "Register independently verified P001-S019 optional-channel partial bound (status only)",
+        "head": "562569b69a76442f83efee1544ad2433fb168364",
+        "base": "caa957120b937f5e1c9bba2d2956f16c582775a9",
+        "merge": "f9e6fb86a459b50498d7fa26d4437f714d887d95",
+        "merged": "2026-10-11T11:22:46Z"
+      },
+      {
+        "number": 21,
+        "state": "closed",
+        "title": "Register independently verified P001-S018 A0-majority bound (status only)",
+        "head": "cebb85bd9cb3b583c0d682e35abba140ea1f473b",
+        "base": "d9d82e8a7134fcd078042db688ecc60aa29887e0",
+        "merge": "caa957120b937f5e1c9bba2d2956f16c582775a9",
+        "merged": "2026-10-11T10:14:39Z"
+      },
+      {
+        "number": 20,
+        "state": "closed",
+        "title": "Register independently verified P001-S017 safe-spine partial bound (status only)",
+        "head": "4d1d2d648968c87746ccdc25d4a7f8b7193deea9",
+        "base": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
+        "merge": "d9d82e8a7134fcd078042db688ecc60aa29887e0",
+        "merged": "2026-10-11T09:45:26Z"
+      },
+      {
+        "number": 19,
+        "state": "closed",
+        "title": "Register independently verified P001-S016 weighted-backbone obstruction (status only)",
+        "head": "2c20837b0c32b45ccbd996388d6c3bdc25f9cbc8",
+        "base": "4f87d612d3da998583fcc011bab34a7ebcb6d12e",
+        "merge": "abcd6b5aed5ec9feaa2014914c90846b8f103f87",
+        "merged": "2026-10-11T08:59:02Z"
+      },
+      {
+        "number": 18,
+        "state": "closed",
+        "title": "Register independently verified P001-S015 empty-matching class obstruction (status only)",
+        "head": "3e82e6af1d21f9dfa35273f48bc5775087ebe4fa",
+        "base": "652e866fedb9641a894259981caa295148ffcebb",
+        "merge": "4f87d612d3da998583fcc011bab34a7ebcb6d12e",
+        "merged": "2026-10-11T08:38:16Z"
+      },
+      {
+        "number": 17,
+        "state": "closed",
+        "title": "Register independently verified P001-S014 NSCR obstruction (status only)",
+        "head": "bc0c43fc0f68b19c7d2a82407491bb16c12a7a41",
+        "base": "b4c8817d336bb42cf636af8c2f705d5fad3bf268",
+        "merge": "652e866fedb9641a894259981caa295148ffcebb",
+        "merged": "2026-10-10T22:04:22Z"
+      },
+      {
+        "number": 16,
+        "state": "closed",
+        "title": "Register independently verified P001-S013 protected joint refinement (status only)",
+        "head": "368237909964fcb55a61a0d4bb7ee5a09342104d",
+        "base": "20e75194b5e2696206b03c781e45f52d6eea78b7",
+        "merge": "b4c8817d336bb42cf636af8c2f705d5fad3bf268",
+        "merged": "2026-10-10T21:12:08Z"
+      },
+      {
+        "number": 15,
+        "state": "closed",
+        "title": "Register independently verified P001-S012 pair-only certificate lemma (status only)",
+        "head": "cc5a50f1ed432ed20c39af7344c02de2b3906a8b",
+        "base": "ba7d62b2fb46739119a2a7d7f3ead76b4d92398b",
+        "merge": "20e75194b5e2696206b03c781e45f52d6eea78b7",
+        "merged": "2026-10-10T19:44:31Z"
+      },
+      {
+        "number": 14,
+        "state": "closed",
+        "title": "Register verified P001-S011 exact matching findings (status only)",
+        "head": "6c50e2def916745f22133bf2bd1a7cbe1aa2b97b",
+        "base": "505ccbcbd6fbd6413d75036665c0b8459ef419aa",
+        "merge": "ba7d62b2fb46739119a2a7d7f3ead76b4d92398b",
+        "merged": "2026-10-10T18:58:12Z"
+      },
+      {
+        "number": 13,
+        "state": "closed",
+        "title": "Register independently verified P001-S010 auxiliary negative and tenth audit (status only)",
+        "head": "a81184c3b09940dcd730d17285ede33875afea72",
+        "base": "0e577fa0a843dce7f23e10e7fad1f222dc2d0821",
+        "merge": "505ccbcbd6fbd6413d75036665c0b8459ef419aa",
+        "merged": "2026-10-10T18:40:41Z"
+      },
+      {
+        "number": 12,
+        "state": "closed",
+        "title": "Register independently verified P001-S009 two-heavy auxiliary negative (status only)",
+        "head": "b1be83369c54870e11cc983b3a58c855f3a08691",
+        "base": "2234d0e54dcb0766559b1642985c874215ba82c5",
+        "merge": "0e577fa0a843dce7f23e10e7fad1f222dc2d0821",
+        "merged": "2026-10-10T17:49:40Z"
+      },
+      {
+        "number": 11,
+        "state": "closed",
+        "title": "Register verified P001-S008 single-hub auxiliary counterexample (status only)",
+        "head": "1a8916a5ec1914a2c48f200649033dd20032ec37",
+        "base": "b5a60592ce232afab26bb602f6b69d80e21e9ce2",
+        "merge": "2234d0e54dcb0766559b1642985c874215ba82c5",
+        "merged": "2026-10-10T17:32:45Z"
+      },
+      {
+        "number": 10,
+        "state": "closed",
+        "title": "Register verified P001-S007 proof-first low-load result (programme status only)",
+        "head": "bace171b8bc86090ad6bbd3b25f82d42c51316ed",
+        "base": "565be68f1899935fe3177e940a95bdf726dc980c",
+        "merge": "b5a60592ce232afab26bb602f6b69d80e21e9ce2",
+        "merged": "2026-10-10T17:06:08Z"
+      },
+      {
+        "number": 9,
+        "state": "closed",
+        "title": "Register verified P001-S006 BSEL restricted-only outcome (status only)",
+        "head": "5a61e893c28c59770f2434b07ddf1a6397b6a870",
+        "base": "b9a744590eb0398b5296799cad7355d938971738",
+        "merge": "565be68f1899935fe3177e940a95bdf726dc980c",
+        "merged": "2026-10-10T16:28:55Z"
+      },
+      {
+        "number": 8,
+        "state": "closed",
+        "title": "Register owner-approved P001-S006 BSEL handoff (status only; S006 unexecuted)",
+        "head": "c6256cb55e81fe62dcea64ceaae4222eb21db00b",
+        "base": "c1c9aa6a0d36e4dc4170713ada36453fa21757a5",
+        "merge": "b9a744590eb0398b5296799cad7355d938971738",
+        "merged": "2026-10-10T15:57:07Z"
+      },
+      {
+        "number": 7,
+        "state": "closed",
+        "title": "P001-S005: register verified fifth-session audit and human decision gate (status only)",
+        "head": "aefa40ddecfb8cbe2001863ec6277f9fd51699e6",
+        "base": "595afbb69c9769bb4bec25afd36bc408048069f3",
+        "merge": "c1c9aa6a0d36e4dc4170713ada36453fa21757a5",
+        "merged": "2026-10-10T15:39:08Z"
+      },
+      {
+        "number": 6,
+        "state": "closed",
+        "title": "P001-S004: register verified child audit and route retirement (status only)",
+        "head": "ce26c9e8b7f532b800e55db87c821d3f3e228034",
+        "base": "0d7f313d99d289b5c43d59ba65a9c6e814298607",
+        "merge": "595afbb69c9769bb4bec25afd36bc408048069f3",
+        "merged": "2026-10-10T15:12:53Z"
+      },
+      {
+        "number": 5,
+        "state": "closed",
+        "title": "P001-S003: register child L_AVG counterexample and verified CI (status only)",
+        "head": "824e09ed02c890f775307d7e4a3355a567a924d6",
+        "base": "9f38f991d5965431c5fe928bb77a979b78b94e2a",
+        "merge": "0d7f313d99d289b5c43d59ba65a9c6e814298607",
+        "merged": "2026-10-10T14:42:40Z"
+      },
+      {
+        "number": 4,
+        "state": "closed",
+        "title": "P001-S002: register verified child aggregate-capacity status",
+        "head": "11b36147f12958956998bbb6ddcf7d9b8646f6cf",
+        "base": "ded25d1aa5eec3a7ac08e7ef500218bbbddc8ba6",
+        "merge": "9f38f991d5965431c5fe928bb77a979b78b94e2a",
+        "merged": "2026-10-10T13:58:43Z"
+      },
+      {
+        "number": 3,
+        "state": "closed",
+        "title": "P001-S001: register verified child feasibility outcome",
+        "head": "e2560cff5638ab2f6a3d9097414bb0c836e26f7e",
+        "base": "4c6db56b9956eb745786f557fdfb15b4614c3af2",
+        "merge": "ded25d1aa5eec3a7ac08e7ef500218bbbddc8ba6",
+        "merged": "2026-10-10T13:38:55Z"
+      },
+      {
+        "number": 2,
+        "state": "closed",
+        "title": "P001-S000: register verified child bootstrap and frontier audit",
+        "head": "c69bd53be51feddc40d0fa439d85ca94d96bf03b",
+        "base": "361591a3e40d8f7aee2af58f59e838581de9f0fe",
+        "merge": "4c6db56b9956eb745786f557fdfb15b4614c3af2",
+        "merged": "2026-10-10T06:29:57Z"
+      },
+      {
+        "number": 1,
+        "state": "closed",
+        "title": "S000: Independent research tournament and permanent programme architecture",
+        "head": "59296e7f4af522b753815c35e1ef112a776ebc2d",
+        "base": "64b8c28a0574219210ef8ce0e65ffd62c10b7ce1",
+        "merge": "361591a3e40d8f7aee2af58f59e838581de9f0fe",
+        "merged": "2026-10-09T21:48:42Z"
+      }
+    ]
+  },
+  "checks": {
+    "child:2cc8aae5f3c674cdb5806fd96a38bd92d820eb46": {
+      "check_runs": [
+        {
+          "id": 114578351787,
+          "head_sha": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "status": "pending",
+      "total_status_count": 0,
+      "status_contexts": []
+    },
+    "child:3259decc277fc8fc26ee2fdfa4ac5feb80a222ad": {
+      "check_runs": [
+        {
+          "id": 114578265654,
+          "head_sha": "3259decc277fc8fc26ee2fdfa4ac5feb80a222ad",
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "status": "pending",
+      "total_status_count": 0,
+      "status_contexts": []
+    },
+    "parent:6d88ff84a693e51a3852078af903cce227cb7e11": {
+      "check_runs": [
+        {
+          "id": 114579416843,
+          "head_sha": "6d88ff84a693e51a3852078af903cce227cb7e11",
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "status": "pending",
+      "total_status_count": 0,
+      "status_contexts": []
+    },
+    "parent:ecb470285f53da4f4ba66adf007360833339ca1d": {
+      "check_runs": [
+        {
+          "id": 114579329918,
+          "head_sha": "ecb470285f53da4f4ba66adf007360833339ca1d",
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "status": "pending",
+      "total_status_count": 0,
+      "status_contexts": []
+    }
+  },
+  "required_workflows": [
+    {
+      "repository": "child",
+      "workflow": "research-integrity",
+      "run_id": 38175952031,
+      "event": "pull_request",
+      "head_sha": "3259decc277fc8fc26ee2fdfa4ac5feb80a222ad",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114578265654,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "run_id": 38175952031,
+          "logs_url": null,
+          "steps": [
+            {
+              "name": "Set up job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 1
+            },
+            {
+              "name": "Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 2
+            },
+            {
+              "name": "Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 3
+            },
+            {
+              "name": "Validate records and exact target",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Check internal and external semantics",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            },
+            {
+              "name": "Post Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 11
+            },
+            {
+              "name": "Post Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 12
+            },
+            {
+              "name": "Complete job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "child",
+      "workflow": "research-integrity",
+      "run_id": 38175982695,
+      "event": "push",
+      "head_sha": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114578351787,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "run_id": 38175982695,
+          "logs_url": null,
+          "steps": [
+            {
+              "name": "Set up job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 1
+            },
+            {
+              "name": "Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 2
+            },
+            {
+              "name": "Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 3
+            },
+            {
+              "name": "Validate records and exact target",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Check internal and external semantics",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            },
+            {
+              "name": "Post Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 11
+            },
+            {
+              "name": "Post Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 12
+            },
+            {
+              "name": "Complete job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "parent",
+      "workflow": "programme-integrity",
+      "run_id": 38176310201,
+      "event": "pull_request",
+      "head_sha": "ecb470285f53da4f4ba66adf007360833339ca1d",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114579329918,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "run_id": 38176310201,
+          "logs_url": null,
+          "steps": [
+            {
+              "name": "Set up job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 1
+            },
+            {
+              "name": "Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 2
+            },
+            {
+              "name": "Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 3
+            },
+            {
+              "name": "Run python3 scripts/validate.py",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Run python3 -m unittest discover -s tests -v",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            },
+            {
+              "name": "Post Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 11
+            },
+            {
+              "name": "Post Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 12
+            },
+            {
+              "name": "Complete job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "repository": "parent",
+      "workflow": "programme-integrity",
+      "run_id": 38176339901,
+      "event": "push",
+      "head_sha": "6d88ff84a693e51a3852078af903cce227cb7e11",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114579416843,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "run_id": 38176339901,
+          "logs_url": null,
+          "steps": [
+            {
+              "name": "Set up job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 1
+            },
+            {
+              "name": "Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 2
+            },
+            {
+              "name": "Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 3
+            },
+            {
+              "name": "Run python3 scripts/validate.py",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Run python3 -m unittest discover -s tests -v",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            },
+            {
+              "name": "Post Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 11
+            },
+            {
+              "name": "Post Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 12
+            },
+            {
+              "name": "Complete job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 13
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "preceding_merges": {
+    "child": {
+      "sha": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+      "parents": [
+        "375d6813075c03f5df75b453034e5bac345b884f",
+        "3259decc277fc8fc26ee2fdfa4ac5feb80a222ad"
+      ],
+      "tree": "ca56e6f6c8fb4a49a25f555aef55ba80ebb30c1b",
+      "merged_tree_equals_final_pr_tree": true,
+      "final_pr_tree": "ca56e6f6c8fb4a49a25f555aef55ba80ebb30c1b",
+      "first_parent_tree": "182d94a345714058fbea1539b3be68cd83a62e35",
+      "recursive_tree_entries": 227,
+      "full_tree_listing_sha256": "d7a6f2f1ab51dfd6c5ebb310170510c3f037bade8662be71093c5cbcc8729429",
+      "comparison_method": "Fresh git clone from live remote; recursive full-tree listings equal, merge tree equals final branch tree; two parents independently read from live GitHub API"
+    },
+    "parent": {
+      "sha": "6d88ff84a693e51a3852078af903cce227cb7e11",
+      "parents": [
+        "8619bcf035ccca5b011dcc1ef48976494d663e82",
+        "ecb470285f53da4f4ba66adf007360833339ca1d"
+      ],
+      "tree": "4f3148893a4dd28984d3d14847608bb1b54209dd",
+      "merged_tree_equals_final_pr_tree": true,
+      "final_pr_tree": "4f3148893a4dd28984d3d14847608bb1b54209dd",
+      "first_parent_tree": "22d903a33fa88333ffc61591a756afd98b069a3d",
+      "recursive_tree_entries": 85,
+      "full_tree_listing_sha256": "889dd84a2252f1408d297725a01096433b8df7a2a77fba56da7cebafeaa683a1",
+      "comparison_method": "Fresh git clone from live remote; recursive full-tree listings equal, merge tree equals final branch tree; two parents independently read from live GitHub API"
+    }
+  },
+  "pagination": {
+    "child_prs": 32,
+    "parent_prs": 34,
+    "per_page": 100,
+    "complete": true
+  },
+  "zero_commit_contexts_not_ci_pass": true,
+  "workflow_file_paths": {
+    "child": ".github/workflows/research-integrity.yml",
+    "parent": ".github/workflows/programme-integrity.yml"
+  }
+}
