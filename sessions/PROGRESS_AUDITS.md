@@ -43,3 +43,7 @@ S025 reviewed exact S021–S025 and prior S005/S010/S015/S020 audits. Corrected 
 
 ## P001-S032 audit cadence
 S032 completes exactly one bounded mathematical gate, not a fifth-session mandatory audit. All S005/S010/S015/S020/S025/S030 mandatory correction audits remain historical and in force. Next scheduled substantive fifth-session progress/correction audit is S035, not S032/S033. Full universal C512, R3, TIK remain unproved.
+
+## P001-S033 audit cadence
+- S033 is a substantive multi-route session. It is NOT the mandatory fifth-session audit, and it does not register itself as S035. Its voluntary strategic note is in the report §1: it switches emphasis from packed-block allocation to the uniformity-level reduction.
+- Earlier S005/S010/S015/S020/S025/S030 audits remain in force. The next mandatory fifth-session correction audit is S035.

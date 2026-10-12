@@ -26,3 +26,9 @@ Five-session retrospective only. NO new experiment, finite population, random-co
 
 ## P001-S006
 No additional experiment, numerical enumeration, simulation, stochastic search, Monte Carlo or Lean was authorised or performed. Symbolic parameter families in [S006 analysis](../research/S006_BLOCK_COMPATIBILITY_ANALYSIS.md) are not computational experiments; existing ten semantic fixtures remain unchanged.
+
+## P001-S033
+- **Experiment:** exactly one pre-frozen auxiliary implementation check, `experiments/s033_t2_check.py`. Its population, resources and stop rule were frozen in [S033_FROZEN_GATE.md](../research/S033_FROZEN_GATE.md) §5 before execution.
+- **Result:** run once; 64/64 labelled graphs PASS in 0.01 s. Output: [T2_CHECK_OUTPUT.txt](../sessions/P001-S033/T2_CHECK_OUTPUT.txt).
+- **Limitation:** only the m=2 and non-spread branches of Theorem B were exercised; the population was not extended after seeing the results.
+- This is not a proof and not research enumeration. The ten S000 semantic fixtures are unchanged.

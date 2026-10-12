@@ -104,3 +104,11 @@ Frozen MULTIHUB_NONPRIVATE_DIRECT_EDGE_512 for global original |Q|>=1 and <=1 Q 
 
 ## P001-S028 scoped petal-first result (not full TIK)
 The same-assistant proof in [S028_PETAL_FIRST_MULTIHUB_PROOF.md](S028_PETAL_FIRST_MULTIHUB_PROOF.md) establishes the formerly frozen S027 numerical t/(512m²) **individual-edge** bound for packed m-triple sunflower blocks when every ORIGINAL block support meets the globally frozen heavy set Q in <=1 vertex. In fact |H|>=t/((3m-2)(m-1))>=t/(3m²), all realised final-H 2/1/EMPTY kernels internally certified. The S023 whole-block BSEL negative and S027 whole-full-support-thinning negative stay valid. This does not imply any density c*m^-3 of an arbitrary rank-three F or the all-fixed-k source-posed TIK target. The arbitrary 2-Q original block, mixed channels, unrestricted direct-edge S024, R3 and TIK remain unproved. Independent review/novelty/Lean/paper not claimed.
+
+## P001-S033 status
+The target text is unchanged.
+- SAME-ASSISTANT proof of TIK at k=2 with c_2=1/8, and therefore TIK for k<=2.
+- A link reduction for every k.
+- A degenerate-spread equivalence: given TIK_{<k}, TIK_k holds iff an m^-k bound holds for λm-spread core-free families. R3 is equivalent to DSE_3, which is UNPROVED.
+
+These are not independently reviewed, their literature status is unchecked (N1 deferred), and no novelty is claimed. Every-k TIK and R3 remain UNPROVED. See [S033 report](S033_LINK_REDUCTION_AND_RANK_TWO.md).

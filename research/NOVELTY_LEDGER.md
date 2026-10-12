@@ -79,3 +79,8 @@ N059: [S031 analysis](S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md) derives a same
 
 ## P001-S032 — proof-first provenance, no new N1/N2
 N060: [S032 symbolic report](S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md) and [same-assistant second pass](../sessions/P001-S032/SECOND_PASS_VALIDATION.md) establish only a restricted exact final-H five-certificate equivalence, a finite-m sharpening of the EXISTING S031 estimate, and a false global-private-extra-petal shortcut with SAME ORIGINAL F fully valid dense control. The full unbounded C512/B256, R3 and every-fixed-k TIK stay UNPROVED; no complete TIK proof candidate. Existing JJSW26 attribution stays, R3 literature STATUS_UNCERTAIN and novelty NOVELTY_UNCERTAIN. New detailed N1/N2 deferred by explicit owner rule, no independent referee, Lean, manuscript, outreach, publication or source no-hit claim.
+
+## P001-S033 — proof-first provenance, no new N1/N2
+- **N061:** the [S033 report](S033_LINK_REDUCTION_AND_RANK_TWO.md) gives SAME-ASSISTANT proofs of a link reduction (every k), TIK at k=2 (c_2=1/8), and the degenerate-spread equivalence R3 ⇔ DSE_3.
+- Not a complete every-k TIK candidate, so detailed N1/N2 remain deferred.
+- The literature status of the k=2 statement and of the reductions is UNCHECKED; they may be known or elementary. NOVELTY_UNCERTAIN; the R3 literature status remains STATUS_UNCERTAIN. The JJSW26 attribution is unchanged.

@@ -960,5 +960,65 @@
     "id": "C072",
     "claim": "S032 arithmetic of S031 existing denominator sharpens bounded-m C512 certification to m<=129, B256 to m<=66, without proving any all-m m^-2 guarantee. First universal unproved step remains a five-certified simultaneous extra-light allocation over weighted peeled sparse B pair cores; full exact all-k TIK and R3 unproved.",
     "mathematical_status": "RESTRICTED_BOUNDED_M_ARITHMETIC_AND_UNRESOLVED_ALL_M"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S033_LINK_REDUCTION_AND_RANK_TWO.md",
+    "id": "C073",
+    "claim": "Theorem A (link reduction, every k>=2, any lambda>=1): a_k(m) >= min{(lambda m)^-k, min_j (lambda m)^-j a_{k-j}(m), s_k(m,lambda)}; lifting T+H' of an internally valid link family is internally valid. Hence given TIK_{<k}, TIK_k is equivalent to its restriction to lambda m-spread families; constant-fraction subfamilies may be renormalised to be spread.",
+    "mathematical_status": "SAME_ASSISTANT_PROOF_ELEMENTARY_REDUCTION_LITERATURE_UNCHECKED"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S033_LINK_REDUCTION_AND_RANK_TWO.md",
+    "id": "C074",
+    "claim": "Theorem B: TIK holds for k=2 with c_2=1/8: every graph F has internally valid H, |H|>=|F|/(8m^2), all m>=2 (non-spread star/edge, m-core with matching lemma, acyclic out-degree classes to 2(m-1) star forests, big/small star and matching fallbacks). With c_1=1, TIK holds for k<=2. Not R3 and not every-k TIK.",
+    "mathematical_status": "SAME_ASSISTANT_PROOF_CANDIDATE_K2_NOT_INDEPENDENTLY_REVIEWED_LITERATURE_UNCHECKED"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S033_LINK_REDUCTION_AND_RANK_TWO.md",
+    "id": "C075",
+    "claim": "Proposition C and Theorem D: the union-closed robust core of a lambda m-spread family with lambda>=k/gamma is internally valid when it has >=gamma|F| edges; given TIK_{<k}, TIK_k is equivalent to an m^-k bound on nonempty lambda m-spread core-free families (lambda=2k). k=3: a_3(m)>=min{m^-3/432, delta_3(m,6)/2}; R3 is equivalent to DSE_3.",
+    "mathematical_status": "SAME_ASSISTANT_PROOF_REDUCTION_ONLY"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S033_LINK_REDUCTION_AND_RANK_TWO.md",
+    "id": "C076",
+    "claim": "Lemma E (k=3): pair-priority robust-core deletion partitions the non-core edges into pair pieces (<=m-1 edges with common pair) and vertex pieces whose link graph has <=2m-1 vertices, min degree >=m, <(2m-1)(m-1) edges; each vertex piece contains a complete m-petal pair-kernel sunflower using >1/(2m) of it.",
+    "mathematical_status": "SAME_ASSISTANT_RESTRICTED_STRUCTURE_LEMMA"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S033_LINK_REDUCTION_AND_RANK_TWO.md",
+    "id": "C077",
+    "claim": "Frontier: DSE_3 (every nonempty 6m-spread core-free triple family has valid H>=c m^-3|D|) is UNPROVED and equivalent to R3. It is not a sparse leftover: the S032 row-palette family is 6m-spread for r>=216 and core-free yet fully valid; S029, S031, S024 controls and S030 obstruction triples are core-free. Naive one-head ordering and block-then-C512 (m^-4) interfaces are inadequate. Validity is not union-closed because of value-1 certificates.",
+    "mathematical_status": "UNRESOLVED_EXACT_FRONTIER_METHOD_OBSERVATIONS"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S033_LINK_REDUCTION_AND_RANK_TWO.md",
+    "id": "C078",
+    "claim": "S033 pre-frozen auxiliary T2 check: 64/64 labelled graphs PASS exact internal_by_links and 8m^2|H|>=|F|, but only the m=2 and non-spread branches were exercised; the spread branches of Theorem B rest solely on the written proof. Not a proof.",
+    "mathematical_status": "AUXILIARY_IMPLEMENTATION_CHECK_WITH_RECORDED_LIMITATION"
   }
 ]

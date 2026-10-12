@@ -56,3 +56,9 @@ See [focused N1](S001_N1.md) for the exact rank-three/graph-link recheck and sou
 
 ## P001-S032 restricted current mathematical frontier (not new N1)
 The S032 original <=2-Q compulsory B analysis proves an exact final-family HH/HL/HS/LS/EMPTY certificate check. It does NOT prove quantitative construction for arbitrary weighted peeled B components at |B|/(256m²). S031 guaranteed bound remains order m^-3; C512 arithmetic from it covers only m<=129, not unbounded m. A new original K_(m+1,m+1) row-palette family shows global light-private extra-petal retention can lose 2/(m+1) fraction despite original full F being internally valid; this is METHOD-ONLY. See [frozen gate](S032_FROZEN_GATE.md) and [report](S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md). Complete all-fixed-k TIK and R3 unresolved, original source status and novelty unchanged, N1/N2 deferred.
+
+## P001-S033 current mathematical frontier (not new N1)
+- **Proved, SAME-ASSISTANT:** the link reduction (every k); TIK_2 with c_2=1/8; the robust-core and degenerate-spread reduction. The exact frontier is DSE_3 ⇔ R3.
+- **DSE_3 is not a sparse remainder.** It contains the internally valid S032 row-palette family and the core-free S029, S031 and S024 controls. Validity is not union-closed: value-1 certificates are allowed but are destroyed by unions.
+- **Comparison only:** at k=2 the attributed general internal bound specialises to (8m)^-4. This is not a literature check, and no claim is made that the k=2 result is new.
+- Source: [S033 report](S033_LINK_REDUCTION_AND_RANK_TWO.md).

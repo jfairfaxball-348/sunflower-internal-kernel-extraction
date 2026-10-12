@@ -1,0 +1,16 @@
+{
+  "session": "P001-S033",
+  "path": "sessions/P001-S033/INPUT.md",
+  "sha256": "1b504b82d0f4e25414f0849d7b68cecc49dbcb9a7f81296c505d7edc0b5c409c",
+  "utf8_sha256": "1b504b82d0f4e25414f0849d7b68cecc49dbcb9a7f81296c505d7edc0b5c409c",
+  "utf8_bytes": 20107,
+  "source": "Exact literal new owner invocation as supplied in conversation (Grand Breakthrough Attempt); transport framing not independently attested; apparent transport-damaged fragments such as 'Q={x(x)>m}' and 'r(x)=|{i\\in S_i}|' preserved verbatim and NOT repaired",
+  "raw_chat_transport_bytes_attested": false,
+  "hash_verification": "Three independent implementations over the committed file bytes agree: Python hashlib, GNU coreutils sha256sum, Node.js crypto; each also reproduces SHA256(abc)=ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad; file decodes as UTF-8",
+  "base_child_main": "cffa73b2ad4710cfcdabe4500776e71e02e71ac2",
+  "base_parent_main": "96e4f1196ba601c145be53d08b270c27cc340534",
+  "archive_commit": "7bbba4e130451788080eb93594ea01b30030bf7c",
+  "archive_blob_sha": "40ecd38548026e8a268c2f6799c4a07a89d0f00f",
+  "differs_from_prepared_handoff": "The owner supplied a broader multi-route invocation instead of the S032-prepared single-gate S033 handoff; per AGENTS.md the newest explicit human instruction governs",
+  "handoff_replaced_after_archive": true
+}

@@ -1,0 +1,83 @@
+{
+  "session": "P001-S033",
+  "date": "2026-10-12",
+  "method": "Live git ls-remote/fetch of both repositories plus GitHub MCP Actions list_workflow_runs/list_workflow_jobs and list_pull_requests; obtained in this session, not copied from S032 closeout",
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "live_main": "cffa73b2ad4710cfcdabe4500776e71e02e71ac2",
+    "main_parents": [
+      "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
+      "eb14df7d2f4cdd357be75c9d5ee6a7609b82c1fd"
+    ],
+    "main_tree": "c1fb5ad611f4b59f35939508941ece8834dc7739",
+    "s032_pr": 34,
+    "s032_final_head": "eb14df7d2f4cdd357be75c9d5ee6a7609b82c1fd",
+    "s032_final_head_tree": "c1fb5ad611f4b59f35939508941ece8834dc7739",
+    "final_head_tree_equals_merge_tree": true,
+    "s032_pr_run": {
+      "workflow": "research-integrity",
+      "run_id": 38243920253,
+      "event": "pull_request",
+      "head_sha": "eb14df7d2f4cdd357be75c9d5ee6a7609b82c1fd",
+      "conclusion": "success",
+      "job_id": 114792994646,
+      "job_conclusion": "success"
+    },
+    "s032_push_run": {
+      "workflow": "research-integrity",
+      "run_id": 38244003126,
+      "event": "push",
+      "head_sha": "cffa73b2ad4710cfcdabe4500776e71e02e71ac2",
+      "conclusion": "success",
+      "job_id": 114793268288,
+      "job_conclusion": "success"
+    },
+    "open_prs": [],
+    "competing_s033_branch_or_record": false,
+    "workflow_file": ".github/workflows/research-integrity.yml (push main and p001-*/**; pull_request to main)"
+  },
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "live_main": "96e4f1196ba601c145be53d08b270c27cc340534",
+    "main_parents": [
+      "0c5660d043d58b87b470a8f5f76f132994c134a8",
+      "85c772d5f8686c7686239feab4ef139814da52fc"
+    ],
+    "main_tree": "7544464ae21e433fbf6883a95d5e5a64818546ca",
+    "s032_status_pr": 36,
+    "s032_status_final_head": "85c772d5f8686c7686239feab4ef139814da52fc",
+    "s032_status_final_head_tree": "7544464ae21e433fbf6883a95d5e5a64818546ca",
+    "final_head_tree_equals_merge_tree": true,
+    "s032_pr_run": {
+      "workflow": "programme-integrity",
+      "run_id": 38244447312,
+      "event": "pull_request",
+      "head_sha": "85c772d5f8686c7686239feab4ef139814da52fc",
+      "conclusion": "success",
+      "job_id": 114794734191,
+      "job_conclusion": "success"
+    },
+    "s032_push_run": {
+      "workflow": "programme-integrity",
+      "run_id": 38244506809,
+      "event": "push",
+      "head_sha": "96e4f1196ba601c145be53d08b270c27cc340534",
+      "conclusion": "success",
+      "job_id": 114794931584,
+      "job_conclusion": "success"
+    },
+    "open_prs": [],
+    "workflow_file": ".github/workflows/programme-integrity.yml (push main,s000/**,s001/**,p001-*/**; pull_request to main)"
+  },
+  "verification_order": [
+    "child S032 final-head PR run/job",
+    "child merged-main push run/job",
+    "parent S032 status-only final-head PR run/job",
+    "parent merged-main push run/job"
+  ],
+  "protection_and_rulesets": "UNKNOWN: no accessible branch-protection/ruleset endpoint among the session's GitHub tools; not treated as PASS",
+  "commit_status_contexts": "Not relied on; empty status contexts are not CI PASS; Actions runs/jobs above are the evidence",
+  "s033_branch": "claude/great-bohr-jtk26y (session-designated; created from live child main cffa73b; absent on remote before this session)",
+  "entry_decision": "PASS: all four required hosted runs and jobs SUCCESS, both merges two-parent with final-head tree equal merge tree, no open PRs, no competing S033 record",
+  "note": "The PR list API reports merged=false with merged_at set for PRs #34 (child) and #36 (parent); merge status is established from the two-parent main commits themselves"
+}
