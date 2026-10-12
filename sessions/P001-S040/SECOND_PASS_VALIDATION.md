@@ -1,0 +1,26 @@
+# P001-S040 — adversarial second-pass proof reconstruction
+
+SAME ASSISTANT, performed after the independently frozen S040 gate. This is an adversarial derivation FROM exact triple intersections, not independent mathematical peer review or a computer search. No new finite mathematical experiment.
+
+## Independent re-derivation and attempted falsification of S040-A
+
+Let ORIGINAL disjoint complete components be G_i×Z_i, each G_i a graph star forest. For one m-big base star of d≥m, q≥m full tensor: pair base {hub,leaf} has q distinct selected colours, mixed pair {hub,z} has d leaf petals, singleton hub has link matching min(q,d)≥m, singleton palette z within a single star has graph matching 1 (hence **unrealised**, not deficient), EMPTY cannot arise because every selected edge contains hub. For a forest of ≥m big stars and q≥m, the palette singleton z is realised and witnessed by ≥m disjoint base edges; global EMPTY realised (different base stars plus different z) and witnessed by ≥m disjoint triples. With q<m and one selected colour, selected base-pair {hub,leaf} appears once only, hub-palette pair gets d≥m, z singleton from ≥m disjoint stars gets ≥m, global EMPTY unrealised. All kernels pass without assuming tensor validity of the ORIGINAL thin rectangle.
+
+For small stars q≥m and ≥m stars, the selected q-product of a base matching: base pairs have q≥m; mixed pair {base vertex,z} appears once (unrealised); palette singleton z sees ≥m disjoint base edges; base singleton sees q disjoint palette petals for fixed base vertex but all edges share its paired other base vertex, hence its bipartite link matching is **1**, so never an unsaturated 2..m−1 singleton; global EMPTY has ≥m selected disjoint triples using distinct base edges and palette points. For small stars q≥m,s<m one base edge×q has only base PAIR realised and witnessed with q colours. For q<m,s≥m one-colour graph matching has only singleton z realised and witnessed by s disjoint selected bases; no base PAIR repeats. Thus channel-B outputs truly valid.
+
+For C, each selected triple uses a separate original base star and a separate palette point within its component, so all T triples over disjoint component supports are pairwise disjoint. At T≥m, exact EMPTY realised and has T≥m genuine selected petals; no nonempty pair/singleton intersections. At 1≤T<m, selecting T would be INVALID when 2≤T<m; **explicitly select one triple instead**. Quantitative original-mass bound independently: Σedges_i ≤ q_i s_i(m−1)≤min(q_i,s_i)(m−1)²<m²t_i; sum N_C<m²T<m³, so singleton fraction >1/m³. This fixes the otherwise tempting false gluing argument.
+
+Disjoint selected components J_i: nonempty exact intersections wholly within J_i remain witnessed there; cross component exact kernel is EMPTY and ν(∪J_i)=Σν(J_i). If r≥m, one per component provides m disjoint selected petals. If r<m and ν total<m, choose largest-original-mass component and lose <m, preserving m⁻³. The lemma did not need the stronger ν(J_i)∈{1}∪[m,∞) hypothesis, but it holds in applications; relaxing this cannot make the conclusion false. If J_i has no realised EMPTY, its own matching can still be 1; certification is unaffected.
+
+Stress scenarios:
+- m=2: all families H=E, proving stronger bound and avoiding boundary exceptions.
+- m=3,q=2,s=2, each base star of size 2: C gives t=2, mass 8 per component. With ONE component, must choose just ONE triple (2 selected disjoint triples would be invalid for m=3), fraction1/8 >1/81. With TWO components T=4≥3, matching of four valid, fraction 4/16=1/4.
+- Arbitrarily large q≥m cannot be collapsed to one colour at m-independent fractional loss: A/B retain all q for full tensors. Even if q≫m, all valid.
+- A mix of many huge A components, many small B and C: choosing max ORIGINAL N_A,N_B,N_C costs constant3, so no hidden m factor via number of colours or components.
+- A connected/shared-hub 2-fibre example from S039 has invalid singleton hub matching=2<m despite individually valid fibres, proving why disjoint original SUPPORT is an essential theorem hypothesis. S040-A DOES NOT extend through that example by naïve gluing; the same input has a valid half-density fibre, thus it does NOT refute an extraction bound.
+
+## Recheck inherited chains and corrections
+
+S033 graph rank-two proof still requires separate human scrutiny of its spread-core and peeled-forest cases because the fixed 64-graph auxiliary check did not reach those branches. S036 degree cutoff is on SAME residual E (retained X hubs preserve their full original stars), with 12→6 spread slack. S039 exact atlas uses matchings of true selected links; no 2..m−1 realised kernel is certified by ambient edges. S039's shared-palette hidden tensor orientation error was corrected to global PER-SPOKE palettes. In S040-A proof all original component masses are qΣd, never number of base stars or blocks; C uses q*s*(m−1) ORIGINAL bound and chosen T genuine triple edges.
+
+This review detected NO invalid S040-A step after enforcing that channel-C picks a SINGLE triple when total matching rank is subcritical, and ensuring the q≥m selected base-matching tensor has distinct palettes available for global EMPTY. It is NOT an independent referee verdict. The absence of a universal structural decomposition leaves HDSE3, R3, every-k TIK unchanged.

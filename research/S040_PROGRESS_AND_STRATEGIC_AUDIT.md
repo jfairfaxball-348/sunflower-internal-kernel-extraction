@@ -1,0 +1,30 @@
+# P001-S040 — mandatory fifth-session correction AND tenth-session strategy audit (COMPLETED)
+
+Date: 2026-10-12. This is the eighth fifth-substantive P001 audit, reviewing sessions S036–S040 plus S005/S010/S015/S020/S025/S030/S035; it is also the fourth ten-session strategy reassessment (at S010/S020/S030/S040). ONE new owner-invoked S040, not authorisation for S041 or parent mathematical S001. Same-assistant symbolic assessment only.
+
+## Progress vs unsupported promotions
+
+| Session | Rigorous scope supported in committed project, SAME ASSISTANT | Missing universal ingredient |
+|---|---|---|
+| S036 | 12m-spread core-free either globally valid matching ≥|D|/(6m³), or >half original mass is 6m-spread core-free E with each E-edge touching E-degree>m³; together with S033, HDSE3 ⇔ rank-three R3 (conditional constants). | Any c_H for all HDSE3 originals. Neither bounded-cover nor matching winner is guaranteed. |
+| S037 | Exact overlapping pair-core/palette link atlas in its restricted model; weighted bounded-conflict and balanced-cover lower bound, plus shared-palette SAME-E positive. | No constant mass, overlap or conflict bound for an arbitrary E. |
+| S038 | Full q≥m common-palette tensor iff base validity, graph-tensor rank3 fraction≥1/(8m²) conditional on S033 T2; linear high-degree, spread, core-free E with NO thick tensor yet E itself valid. | Mass in complete thick tensors cannot be assumed. |
+| S039 | Exact general 2+1-partite five-test atlas; full graph×palette extraction for ANY q at ≥1/(8m³), and disjoint THICK q≥m aggregation; corrected per-SPOKE q=m−1 high-degree no-thick-tensor E with dense 1/(m−1) SAME-E valid H. | Thin/fibre collision under overlap; a first draft hidden rotated thick tensor was explicitly corrected. |
+| **S040** | **New:** for a disjoint union of COMPLETE star-forest×palette components with **arbitrary** q≥1, a single final internally valid H retains ≥|E|/(3m³). Channels A/B/C and a global matching rescue settle the thin + thick disjoint star-forest mixture. | No quantitative guarantee that arbitrary HDSE3 E admits any large disjoint complete star-forest-product subfamily; incompatible shared endpoints remain open. |
+
+## Retrospective historical corrections and permanent failures
+
+S005 retired the S003/S004 auxiliary L_AVG and heavy-link charge; source/novelty attribution remains uncertain. S010 established invalid singleton cross-hub preservation, never disproof of TIK. S015's keep-all-saturated-pair-class method fails EMPTY rank while preserving dense valid repair. S020 documented only m⁻⁴ unrestricted-private-light output and corrected previous original-Q denominators, rather than alleging m⁻³. S023's three-tier plane refutes whole-BLOCK retention gamma but its full ORIGINAL family retains a dense valid individual-edge repair (S024): whole-block BSEL failure NOT R3 failure. S025's t-block versus selected-edge count correction remains binding. S030's Hall-first full-lift breaks at realised PAIR {q,z} with two selected petals; nevertheless S028 restricted one-Q success remains. S035 explicitly removed a false automatic global small fractional-cover assumption: spread actually forces LOWER τ*≥6m, not upper τ*≤Bm; disjoint high-cover families are dense-positive controls. S033 changed the conceptual bridge to link+core-free high-degree reductions but did not prove R3. S039 corrected an alternate-orientation hidden tensor in its FIRST proposed no-tensor construction, archived as a correction and not to be resurrected. The new S040 theorem must never be advertised for partially filled rectangles or shared support components.
+
+## Quantitative and witness audit
+
+1. **Rank-two:** S033's same-assistant c₂=1/8 and k1=1 are not formalised, and 64/64 finite fixtures did not exercise graph spread branches; source/independent mathematical status unchanged.
+2. **Rank-three reduction:** S033 a₃≥min(m⁻³/432,δ₃/2); S036 c₃=min(1/13824,c_H/4) if HDSE3(c_H). R3 alone does NOT give all k, and no shortcut from rank three to the parent Erdős–Rado headline follows.
+3. **Scoped TIK:** S035 bounded-cover τ*≤Bm gives at least |D|/(8Bm³), S039 complete arbitrary graph product ≥|E|/(8m³), S040 COMPLETE DISJOINT star-forest mixture ≥|E|/(3m³). Each numerical coefficient refers to its precise ORIGINAL mass and structural hypotheses; no overlap-mass theorem is silently inferred.
+4. **All exact kernels:** Pair codegree q; palette mixed-pair base degree d; palette singleton base matching; base singleton bipartite link matching; true global EMPTY matching. S040's A/B component constructions check these in FINAL H, while C avoids selecting a subcritical disjoint matching. No external-F witnesses are counted. m=2 is trivial H=E.
+
+## Strategy decision
+
+HDSE3 remains a logically sharp **rank-three** bridge after S033/S036, so do not abandon it on the basis of counterexamples to overstrong helper claims. But the programme has spent ten sessions improving restricted families without a **mass capture + compatible gluing** implication for an arbitrary original 6m-spread high-degree family. Small controlled subclasses are not on their own the all-k paper target. For S041 prioritise an unrestricted intermediate-overlap selection mechanism or a genuinely new all-k induction that does not multiply extra m losses. When a universal helper is false, exhibit exact same-E dense rescue; do not launch many more microscopic variants of the disjoint-product lemma. If no breakthrough, report why and explore another major mathematical idea with equal priority.
+
+**Promotion:** FULL TIK UNPROVED; rank3 R3 UNPROVED; HDSE3 UNPROVED; origin open-status and novelty STATUS_UNCERTAIN/STRONG_EVIDENCE_OPEN as previously recorded; independent mathematics referee none; ZERO formally verified theorems, ZERO publications, NO new N1/N2, Lean, manuscript, external contact, Palomar or parent mathematical S001. S040 fifth/tenth audit COMPLETED; next fifth at S045, next tenth at S050. S041 FUTURE only.
