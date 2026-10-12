@@ -1,0 +1,52 @@
+{
+  "session": "P001-S039",
+  "date": "2026-10-12",
+  "entry_child_main": "76916462bd3119801ccd00141b32d4dbc0b33f79",
+  "entry_parent_main": "8426fc2e8e1b293f1a625230826a2d13af920a3e",
+  "child_S038": {
+    "pr": 40,
+    "head": "8c572578a20f00706eba2511467143715c567bdd",
+    "merge": "76916462bd3119801ccd00141b32d4dbc0b33f79",
+    "parents": [
+      "ae4893283c27af0b53f346dd759afedeba00b06a",
+      "8c572578a20f00706eba2511467143715c567bdd"
+    ],
+    "tree": "f023a428a5eedd4a596ddda6c7c7ca75f5c6ef2d",
+    "head_tree": "f023a428a5eedd4a596ddda6c7c7ca75f5c6ef2d",
+    "PR_run": 38284864987,
+    "PR_job": 114930683818,
+    "PR_job_conclusion": "success",
+    "push_run": 38285032766,
+    "push_job": 114931239286,
+    "push_job_conclusion": "success"
+  },
+  "parent_S038": {
+    "pr": 42,
+    "head": "7eba7edc8f37acd8b3e77ec3f6e1880c3b34a1fd",
+    "merge": "8426fc2e8e1b293f1a625230826a2d13af920a3e",
+    "parents": [
+      "7f24e2d6d994dccf2e9a875c4ae421f1a2853e21",
+      "7eba7edc8f37acd8b3e77ec3f6e1880c3b34a1fd"
+    ],
+    "tree": "5e2a942ccdc0c5909ea84607eb3d7baaf5b0e898",
+    "head_tree": "5e2a942ccdc0c5909ea84607eb3d7baaf5b0e898",
+    "PR_run": 38285451357,
+    "PR_job": 114932599988,
+    "PR_job_conclusion": "success",
+    "push_run": 38285502936,
+    "push_job": 114932771215,
+    "push_job_conclusion": "success"
+  },
+  "open_pr_child": 0,
+  "open_pr_parent": 0,
+  "competing_s039_branches": 0,
+  "competing_s039_on_main": false,
+  "child_rulesets": [],
+  "parent_rulesets": [],
+  "branch_protection": "UNKNOWN; both protection endpoints returned 403 Resource not accessible by integration",
+  "s039_input_archive": "8d5aef0726a46729b145e19e3716f179aa595bc6",
+  "s039_input_manifest_commit": "d63224beca43f2aa494b493a677dedd2897bbf5d",
+  "s039_frozen_gate_commit": "3e65319cc281ecbcff999bb7b6e733de6a92a32a",
+  "local_git_clone": "FAILED DNS github.com, not a status check",
+  "parent_mathematical_s001": false
+}

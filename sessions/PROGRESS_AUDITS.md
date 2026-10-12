@@ -53,3 +53,6 @@ S034 is substantive session 34, not a substitute for a mandatory fifth audit. It
 
 ## P001-S035 — mandatory fifth session audit COMPLETE
 Reviewed S031–S035 plus prior S005/S010/S015/S020/S025/S030 in [S035_PROGRESS_CORRECTION_AUDIT.md](../research/S035_PROGRESS_CORRECTION_AUDIT.md). Progress includes a new conditional fractional-cover high-overlap m^-3 extraction, not unrestricted DSE3. Corrected no historical false theorem in claims C073–C081; kept weighted-block vs selected individual-edge denominator and all three kernels separate. Next scheduled mandatory audit is S040, including tenth/strategy reassessment; S036 FUTURE and not executed.
+
+## P001-S039 audit cadence
+S039 is substantive and permits multi-front symbolic research, but it is **NOT** the S040 audit. The completed S005/S010/S015/S020/S025/S030/S035 fifth-session audits stand. S040 is NEXT MANDATORY fifth-session correction and tenth-session strategic reassessment: review S036–S040, the existing audits and the corrected S039 intermediate-palette control, not just accumulate scoped lemmas. S040 unexecuted within S039.

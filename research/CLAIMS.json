@@ -1210,5 +1210,55 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S038_COMMON_PALETTE_TENSOR_AND_CORE.md"
+  },
+  {
+    "id": "C-S039-A",
+    "claim": "Exact arbitrary 2+1-partite palette fibre iff: base-pair multiplicities, mixed-pair fibre degrees, palette graph matching, base-vertex bipartite link matching, and true EMPTY matching each in {0,1} union [m,infinity).",
+    "mathematical_status": "SAME_ASSISTANT_EXACT_STRUCTURAL_THEOREM",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md"
+  },
+  {
+    "id": "C-S039-B",
+    "claim": "Complete graph x palette validity phase q=1 or q>=m iff base valid, while 2<=q<m makes every nonempty tensor invalid; nevertheless all q admit internally valid extracted H>=|E|/[8m² min(q,m)]>=|E|/(8m³) conditional on S033 rank-two proof.",
+    "mathematical_status": "SAME_ASSISTANT_STRUCTURED_EXTRACTION_CONDITIONAL_ON_S033",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md"
+  },
+  {
+    "id": "C-S039-C",
+    "claim": "Private per-spoke q=m-1 layered hub stars give genuine 6m-spread core-free HDSE3 input with every edge touching degree>m³, ALL original pair degrees <m (thus no saturated full tensor in any orientation), but SAME-E m-valid H of exact 1/(m-1) density.",
+    "mathematical_status": "SAME_ASSISTANT_PARAMETRIC_HDSE3_POSITIVE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md"
+  },
+  {
+    "id": "C-S039-D",
+    "claim": "Disjoint vertex-support union of arbitrary q>=m complete graph/palette tensors admits internally valid H>=|E|/(8m³); gluing valid component families across >=2 disjoint supports iff summed TRUE global matching reaches m.",
+    "mathematical_status": "SAME_ASSISTANT_RESTRICTED_AGGREGATION_THEOREM",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md"
+  },
+  {
+    "id": "C-S039-E",
+    "claim": "Two fibre-wise valid hubs with shared base vertex can fail exact singleton u at link matching 2<m; two vertex-disjoint fibre stars fail at EMPTY matching 2<m. Both have half-density same-E repairs. Universal HDSE3/R3/TIK remain unproved.",
+    "mathematical_status": "SAME_ASSISTANT_METHOD_COUNTEREXAMPLES_WITH_POSITIVE_CONTROLS",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md"
   }
 ]
