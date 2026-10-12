@@ -1,0 +1,3 @@
+# P001-S036 — local validation
+
+A local git clone of both public GitHub repositories was attempted on 2026-10-12; DNS resolution of github.com failed. Therefore `python3 scripts/validate.py` and `python3 -m unittest discover -s tests -v` were NOT run in the local container and no local PASS is claimed. Research consisted of symbolic constructions and arithmetic; no new numerical finite populations, random search, CAS, SAT or ILP. Frozen historical semantic fixtures were not modified. Required hosted final-head and merged-main workflow RUN and JOB SUCCESS must be independently observed, not inferred from this file.

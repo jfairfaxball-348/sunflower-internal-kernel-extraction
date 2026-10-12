@@ -14,7 +14,7 @@
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S035",
+  "session_completed": "P001-S036",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S034_VERIFIED_S035_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S035_VERIFIED_S036_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S036",
+    "session": "P001-S037",
     "objectives": [
-      "DSE3_HIGH_TRANSVERSAL_COMPATIBLE_AGGREGATION"
+      "HDSE3_OVERLAPPING_HIGH_DEGREE_LINK_EXTRACTION"
     ],
-    "description": "FUTURE single proof-first quantified high-cover/high-matching DSE3 aggregation gate; test nonprivate and forward-private pieces without gluing invalid kernels; do not execute inside S035",
+    "description": "FUTURE standalone high-degree DSE3 gate",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -117,9 +117,13 @@
     "research/S034_PAIR_PRIVATE_APEX_EXTRACTION.md",
     "research/S035_FROZEN_GATE.md",
     "research/S035_TRANSVERSAL_ESCAPE.md",
-    "research/S035_PROGRESS_CORRECTION_AUDIT.md"
+    "research/S035_PROGRESS_CORRECTION_AUDIT.md",
+    "research/S036_FROZEN_GATE.md",
+    "research/S036_MATCHING_HEAVY_REDUCTION.md",
+    "research/S036_COMPATIBLE_CLUSTER_ASSEMBLY.md",
+    "research/S036_HIGH_TRANSVERSAL_AGGREGATION.md"
   ],
-  "last_outcome": "S035_BOUNDED_FRACTIONAL_COVER_M3_HIGH_COVER_GAP",
+  "last_outcome": "S036_HIGH_DEGREE_REDUCTION_AND_BALANCED_HIGH_COVER_ASSEMBLY",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

@@ -1,0 +1,11 @@
+{
+  "session": "P001-S036",
+  "path": "sessions/P001-S036/INPUT.md",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "source": "verbatim explicit owner invocation, subsequent Continue messages do not alter scope",
+  "archive_commit": "482523cf4a4a6964d9c8737f5a1d1a7a443f0874",
+  "base_child_main": "dfa56df29dd56197b53889d8a61f3fed1d28d77f",
+  "base_parent_main": "07f2d61147e19132719e3bc378b7a57b5c45fc68",
+  "raw_chat_transport_bytes_attested": false
+}
