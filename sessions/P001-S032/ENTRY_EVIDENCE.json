@@ -1,0 +1,137 @@
+{
+  "session": "P001-S032",
+  "date": "2026-10-12",
+  "entry_main": {
+    "child": "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
+    "parent": "0c5660d043d58b87b470a8f5f76f132994c134a8"
+  },
+  "branches_at_entry": {
+    "child_s032": [],
+    "parent_s032": [],
+    "child_head_main": "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
+    "parent_head_main": "0c5660d043d58b87b470a8f5f76f132994c134a8"
+  },
+  "pr_inventory": {
+    "child_total": 33,
+    "parent_total": 35,
+    "child_open": [],
+    "parent_open": [],
+    "child_recent_merged": [
+      33,
+      32,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22,
+      21,
+      20
+    ],
+    "parent_recent_merged": [
+      35,
+      34,
+      33,
+      32,
+      31,
+      30,
+      29,
+      28,
+      27,
+      26,
+      25,
+      24,
+      23,
+      22
+    ],
+    "scanned_all": true,
+    "endpoint": "GET pulls?state=all&per_page=50; all 33 child/35 parent returned, checked title/head/merged_at"
+  },
+  "rulesets": {
+    "child": [],
+    "parent": []
+  },
+  "branch_protection": {
+    "child": "GET protection HTTP 403 integration permission; UNKNOWN",
+    "parent": "GET protection HTTP 403 integration permission; UNKNOWN"
+  },
+  "predecessor": {
+    "child": {
+      "pr": 33,
+      "final_head": "b05205e41af42f5a1fadd301def26d1e223fa1b4",
+      "merge_sha": "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
+      "merge_parents": [
+        "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+        "b05205e41af42f5a1fadd301def26d1e223fa1b4"
+      ],
+      "head_tree": "7643ad42f439933e43387359881c71c9fd0e5287",
+      "merge_tree": "7643ad42f439933e43387359881c71c9fd0e5287",
+      "full_tree_equal": true,
+      "pr_run": 38215499699,
+      "pr_job": 114699145548,
+      "push_run": 38215573162,
+      "push_job": 114699382902,
+      "workflow": "research-integrity",
+      "final_head_conclusion": "success",
+      "push_conclusion": "success"
+    },
+    "parent": {
+      "pr": 35,
+      "final_head": "475e0b98b713812c9209ae4bf9cfd0fe266d77cd",
+      "merge_sha": "0c5660d043d58b87b470a8f5f76f132994c134a8",
+      "merge_parents": [
+        "6d88ff84a693e51a3852078af903cce227cb7e11",
+        "475e0b98b713812c9209ae4bf9cfd0fe266d77cd"
+      ],
+      "head_tree": "142df2fac8938a361253950f87b93ce86310b80c",
+      "merge_tree": "142df2fac8938a361253950f87b93ce86310b80c",
+      "full_tree_equal": true,
+      "pr_run": 38216022117,
+      "pr_job": 114700833474,
+      "push_run": 38216085074,
+      "push_job": 114701032750,
+      "workflow": "programme-integrity",
+      "final_head_conclusion": "success",
+      "push_conclusion": "success"
+    }
+  },
+  "check_runs": {
+    "child_pr": {
+      "id": 114699145548,
+      "conclusion": "success"
+    },
+    "child_push": {
+      "id": 114699382902,
+      "conclusion": "success"
+    },
+    "parent_pr": {
+      "id": 114700833474,
+      "conclusion": "success"
+    },
+    "parent_push": {
+      "id": 114701032750,
+      "conclusion": "success"
+    }
+  },
+  "commit_status_contexts": {
+    "child_pr": [],
+    "child_push": [],
+    "parent_pr": [],
+    "parent_push": []
+  },
+  "empty_status_contexts_are_not_ci_pass": true,
+  "exact_owner_archive": {
+    "branch": "research/p001-s032-light-allocation",
+    "commit": "d1129d4c05ecf2b6866d262a991d7cebb7310b80",
+    "path": "sessions/P001-S032/INPUT.md",
+    "sha256": "32c7288fd555a5892d8642260ec38466674e2ef491951dea1832ddee791b6355",
+    "utf8_bytes": 6309,
+    "manifest_commit": "ea482c7fe347ffcfe82175ddc956ed74e54d1456",
+    "frozen_gate_commit": "9bacda7e6b5afe539f1fbaee8f09a3c7b92554b4",
+    "research_report_commit": "9284be0836748dcc83c5ceffafe1836b627c4443"
+  }
+}
