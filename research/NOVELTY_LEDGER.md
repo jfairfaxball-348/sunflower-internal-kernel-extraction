@@ -84,3 +84,6 @@ N060: [S032 symbolic report](S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md) and [same-a
 - **N061:** the [S033 report](S033_LINK_REDUCTION_AND_RANK_TWO.md) gives SAME-ASSISTANT proofs of a link reduction (every k), TIK at k=2 (c_2=1/8), and the degenerate-spread equivalence R3 ⇔ DSE_3.
 - Not a complete every-k TIK candidate, so detailed N1/N2 remain deferred.
 - The literature status of the k=2 statement and of the reductions is UNCHECKED; they may be known or elementary. NOVELTY_UNCERTAIN; the R3 literature status remains STATUS_UNCERTAIN. The JJSW26 attribution is unchanged.
+
+## P001-S034 — no new N1/N2
+N062: [S034 report](S034_PAIR_PRIVATE_APEX_EXTRACTION.md) documents SAME-ASSISTANT restricted Delta-dependent apex colouring and a method-only gluing counterexample on a fully 6m-spread core-free family, with valid half-density positive control. These are NOT independently vetted original paper theorems, not R3/DSE3, and not a complete every-k TIK candidate. Literature attribution and exact rank-three STATUS_UNCERTAIN unchanged; NOVELTY_UNCERTAIN, detailed new N1/N2 deferred by owner rule. No Lean, manuscript, outreach, publication or source no-hit claim.

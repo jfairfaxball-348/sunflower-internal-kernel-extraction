@@ -1020,5 +1020,35 @@
     "id": "C078",
     "claim": "S033 pre-frozen auxiliary T2 check: 64/64 labelled graphs PASS exact internal_by_links and 8m^2|H|>=|F|, but only the m=2 and non-spread branches were exercised; the spread branches of Theorem B rest solely on the written proof. Not a proof.",
     "mathematical_status": "AUXILIARY_IMPLEMENTATION_CHECK_WITH_RECORDED_LIMITATION"
+  },
+  {
+    "id": "C079",
+    "claim": "S034 restricted apex-support overlap lemma: for every m>=3, F-degree-one-pair subfamily D* has internally valid H of size >=|D*|/[8(Delta+1)m^3], Delta max degree of ORIGINAL FULL support-overlap graph; conditional on S033 graph TIK2 c2=1/8; all realised exact 2/1/EMPTY in H.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S034_PAIR_PRIVATE_APEX_EXTRACTION.md"
+  },
+  {
+    "id": "C080",
+    "claim": "S034 quantified DSE3-hypothesis twin-star family r=108m^2 is 6m-spread, pair-private and core-free; apexwise valid lifts union to invalid nu(H({x_i}))=2<m, with fully valid half-density same-family repair. Refutes naive gluing ONLY, not DSE3/R3.",
+    "mathematical_status": "FALSE_AUXILIARY_WITH_SYMBOLIC_COUNTEREXAMPLE",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S034_PAIR_PRIVATE_APEX_EXTRACTION.md"
+  },
+  {
+    "id": "C081",
+    "claim": "S034 first UNPROVED gap is Delta-independent simultaneous apex extraction plus non-pair-private/forward-private pair and vertex pieces. Full DSE3/R3 and all-k TIK remain unproved; no novelty, Lean, manuscript or independent theorem-strength approval.",
+    "mathematical_status": "UNRESOLVED_UNRESTRICTED_GATE",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S034_PAIR_PRIVATE_APEX_EXTRACTION.md"
   }
 ]

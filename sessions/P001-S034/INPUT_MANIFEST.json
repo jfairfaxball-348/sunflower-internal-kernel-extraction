@@ -1,0 +1,12 @@
+{
+  "session": "P001-S034",
+  "path": "sessions/P001-S034/INPUT.md",
+  "sha256": "d37dd1774b6ccc8653bee49d64c758f17d55d24779d95f969ebcef4e597de89c",
+  "utf8_bytes": 7289,
+  "source": "Conversation-visible new owner invocation manually transcribed; raw transport bytes not attested",
+  "raw_chat_transport_bytes_attested": false,
+  "hash_verification": "Pure JS SHA256 compared to abc vector; Python hashlib independent verification pending in GitHub-hosted project validator",
+  "base_child_main": "0d12a8a0aa2ebd7bae14657f55343127a38fa75b",
+  "base_parent_main": "6235c4ce2db82cd3babb901b7931ddb1c2240256",
+  "archive_commit": "93dacbdeaec39b468ff8a198e4c4131488a8fc3f"
+}

@@ -1,0 +1,5 @@
+# P001-S034 — validation boundary
+
+Requested commands: `python3 scripts/validate.py` and `python3 -m unittest discover -s tests -v`. The session did NOT obtain a complete local git clone: direct github.com resolution from the available container failed. Accordingly NO local full-project PASS is asserted. GitHub's `research-integrity` workflow executes BOTH exact commands on the actual PR final head and merged main; only independently observed successful hosted runs/jobs can satisfy the outgoing merge gate. The Python validator's `hashlib.sha256` computation on `INPUT.md` supplies an independent implementation-level verification of the JavaScript SHA256 recorded in the archive manifest. No new finite mathematical check, graph enumeration, CAS, SAT or experiment was run; S033 spread-branch auxiliary remains unexercised.
+
+Any later CI failure MUST be corrected on the S034 branch and the actual final head rechecked before a non-force merge. A successful integrity workflow is NOT a mathematical referee or proof of DSE_3.

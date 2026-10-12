@@ -47,3 +47,6 @@ S032 completes exactly one bounded mathematical gate, not a fifth-session mandat
 ## P001-S033 audit cadence
 - S033 is a substantive multi-route session. It is NOT the mandatory fifth-session audit, and it does not register itself as S035. Its voluntary strategic note is in the report §1: it switches emphasis from packed-block allocation to the uniformity-level reduction.
 - Earlier S005/S010/S015/S020/S025/S030 audits remain in force. The next mandatory fifth-session correction audit is S035.
+
+## P001-S034 — audit remains due at S035
+S034 is substantive session 34, not a substitute for a mandatory fifth audit. Its Delta-dependent restricted apex bound and gluing obstruction are exact auxiliary results only; every-k TIK/R3/DSE3 remain unproved. Reconcile S031, S032, S033, S034 and next S035 against all earlier S005/S010/S015/S020/S025/S030 audits IN the newly invoked S035. S035 NOT EXECUTED in S034.
