@@ -1,0 +1,47 @@
+{
+  "session": "P001-S036",
+  "child_main": "dfa56df29dd56197b53889d8a61f3fed1d28d77f",
+  "parent_main": "07f2d61147e19132719e3bc378b7a57b5c45fc68",
+  "S035_child": {
+    "pr": 37,
+    "pr_head": "62455d516baa532a927e42b0a6e248e2a2847424",
+    "pr_run": 38261928467,
+    "pr_job": 114854341993,
+    "pr_conclusion": "success",
+    "main_push_run": 38261990449,
+    "main_push_job": 114854560612,
+    "main_conclusion": "success",
+    "merge_parents": [
+      "627e0897bfcb0702a025e5d696b3298bfdcba50f",
+      "62455d516baa532a927e42b0a6e248e2a2847424"
+    ],
+    "head_and_merge_tree": "208536f7b40c1ac19396ca24fda982cdfcd19e8e"
+  },
+  "S035_parent": {
+    "pr": 39,
+    "pr_head": "67b9daa0391ed9c16783f332bd339f620dab587b",
+    "pr_run": 38263007395,
+    "pr_job": 114858048678,
+    "pr_conclusion": "success",
+    "main_push_run": 38263080145,
+    "main_push_job": 114858301467,
+    "main_conclusion": "success",
+    "merge_parents": [
+      "8ec03a72edbe4f62e1c105bf7adf7093b7c65025",
+      "67b9daa0391ed9c16783f332bd339f620dab587b"
+    ],
+    "head_and_merge_tree": "fa969f054eb0bff7d2b763e2d7251f05e4015cc4"
+  },
+  "open_PRS_at_entry": {
+    "child": 0,
+    "parent": 0
+  },
+  "competing_S036": 0,
+  "workflows": [
+    "child research-integrity",
+    "parent programme-integrity"
+  ],
+  "rulesets": [],
+  "protection": "UNKNOWN: 403 inaccessible",
+  "clone": "DNS github.com unavailable; hosted workflow required"
+}
