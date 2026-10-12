@@ -1,0 +1,58 @@
+{
+  "session": "P001-S035",
+  "date": "2026-10-12",
+  "method": "Live independent GitHub connector REST observation before any write",
+  "child": {
+    "repo": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "entry_main": "627e0897bfcb0702a025e5d696b3298bfdcba50f",
+    "prior_pr": 36,
+    "final_head": "3cc26dfda5c8b061d3a39b58f7e9b51353ae36bc",
+    "merge_sha": "627e0897bfcb0702a025e5d696b3298bfdcba50f",
+    "merge_parents": [
+      "0d12a8a0aa2ebd7bae14657f55343127a38fa75b",
+      "3cc26dfda5c8b061d3a39b58f7e9b51353ae36bc"
+    ],
+    "head_and_merge_tree": "283e3af4b1a85da8c69d31152c918e8ff7897f75",
+    "final_head_pr_run": 38255680420,
+    "final_head_pr_job": 114833006472,
+    "postmerge_main_push_run": 38255743070,
+    "postmerge_main_push_job": 114833225269
+  },
+  "parent": {
+    "repo": "jfairfaxball-348/sunflower-structures-programme",
+    "entry_main": "8ec03a72edbe4f62e1c105bf7adf7093b7c65025",
+    "prior_status_only_pr": 38,
+    "final_head": "9021ff809329b481e0a013d89ca9e31c8711a5f9",
+    "merge_sha": "8ec03a72edbe4f62e1c105bf7adf7093b7c65025",
+    "merge_parents": [
+      "6235c4ce2db82cd3babb901b7931ddb1c2240256",
+      "9021ff809329b481e0a013d89ca9e31c8711a5f9"
+    ],
+    "head_and_merge_tree": "e15c8501c36daf7ccbdbeef16254efea1cef0529",
+    "final_head_pr_run": 38256700359,
+    "final_head_pr_job": 114836511285,
+    "postmerge_main_push_run": 38256794842,
+    "postmerge_main_push_job": 114836818664
+  },
+  "all_prior_hosted_jobs_success": true,
+  "prior_final_head_check_runs": [
+    "114833006472",
+    "114836511285"
+  ],
+  "commit_status_contexts": [],
+  "rulesets": {
+    "child": [],
+    "parent": []
+  },
+  "branch_protection": "UNKNOWN: endpoint inaccessible through integration; branch summary protected:false does not establish full rules",
+  "open_pull_requests_at_entry": {
+    "child": [],
+    "parent": []
+  },
+  "competing_s035": false,
+  "new_branch": "research/p001-s035-audit-transversal",
+  "input_archive_commit": "030fa97641fee1749654759cd40badcfecedd4d4",
+  "input_manifest_commit": "a08028f7ae1c33709c0782a8d1b4385b018da699",
+  "frozen_gate_commit": "dcf499a8779bb248506bea8910e4ab779ebfedc4",
+  "entry_decision": "PASS"
+}

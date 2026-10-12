@@ -62,3 +62,6 @@ The S032 original <=2-Q compulsory B analysis proves an exact final-family HH/HL
 - **DSE_3 is not a sparse remainder.** It contains the internally valid S032 row-palette family and the core-free S029, S031 and S024 controls. Validity is not union-closed: value-1 certificates are allowed but are destroyed by unions.
 - **Comparison only:** at k=2 the attributed general internal bound specialises to (8m)^-4. This is not a literature check, and no claim is made that the k=2 result is new.
 - Source: [S033 report](S033_LINK_REDUCTION_AND_RANK_TWO.md).
+
+## P001-S035 — high-cover DSE3 frontier
+The new [S035 mathematical record](S035_TRANSVERSAL_ESCAPE.md) gives a genuine **restricted** DSE3 m^-3 extraction on tau*(D)<=Bm (without Delta/pair-private assumptions); it follows a single-apex rank-two lift. But 6m-spread core-free families may have tau*/m unbounded, e.g. disjoint (m-1)^3 transversals with N growing, all of which nevertheless have valid m^-2-density matching alternatives. Mandatory [S035 audit](S035_PROGRESS_CORRECTION_AUDIT.md) checks all previous fifth/tenth results and verifies S033 reductions remain a conditional architecture rather than a complete TIK proof. The unreduced high-cover/high-matching piece is S036's FUTURE target. Source/novelty and parent S001 statuses unchanged.

@@ -1,0 +1,5 @@
+# P001-S035 — local validation and hosted-check boundary
+
+The source repository could not be cloned in the available local container: attempted `git clone --depth 1 https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction.git` failed with `Could not resolve host: github.com`. Consequently `python3 scripts/validate.py` and `python3 -m unittest discover -s tests -v` were **NOT RUN against a complete local checkout**, and NO local PASS is asserted. These EXACT commands are required by the actual GitHub `research-integrity` hosted workflow on the final S035 PR head AND its merged main, and MUST be independently observed successful before claiming integration. The archive SHA256 was computed using Python hashlib from the literal 126-byte incoming invocation, and the hosted validator separately re-hashes the archived INPUT.md.
+
+No new mathematical enumeration, CAS, SAT, ILP, seeded experiment or optional S033 graph-spread population was run. S035 mathematical findings are a same-assistant symbolic proof and audit; hosted CI checks record validity and fixed semantic fixtures, not universal mathematics.

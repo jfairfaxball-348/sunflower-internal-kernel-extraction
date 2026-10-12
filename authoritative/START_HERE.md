@@ -94,3 +94,5 @@ Latest bounded session: [P001-S003 CLOSEOUT](../sessions/P001-S003/CLOSEOUT.md),
   - Theorem D: given TIK_{<k}, TIK_k is equivalent to the spread, core-free class, so R3 ⇔ DSE_3;
   - Lemma E: rank-three deletion pieces.
 - Open: DSE_3, R3 and every-k TIK are UNPROVED. The sole unexecuted successor is P001-S034 in [NEXT_SESSION](../sessions/NEXT_SESSION.md).
+
+**Latest substantive child S035:** [single mathematical proof and quantified high-cover obstruction](../research/S035_TRANSVERSAL_ESCAPE.md), [mandatory fifth-substantive correction audit](../research/S035_PROGRESS_CORRECTION_AUDIT.md), [frozen gate](../research/S035_FROZEN_GATE.md), [archive/manifest](../sessions/P001-S035/INPUT_MANIFEST.json), [entry](../sessions/P001-S035/ENTRY_EVIDENCE.json), [premerge closeout](../sessions/P001-S035/CLOSEOUT.md). Conditional m^-3 when tau*(D)=O(m) (no Delta or pair-private assumption), unbounded tau* cannot be excluded under DSE3; full DSE3/R3/TIK UNPROVED, no novelty/Lean/paper. [S036](../sessions/NEXT_SESSION.md) is FUTURE only; do not execute in S035. Parent mathematical S001 remains unexecuted.

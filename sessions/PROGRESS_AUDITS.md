@@ -50,3 +50,6 @@ S032 completes exactly one bounded mathematical gate, not a fifth-session mandat
 
 ## P001-S034 — audit remains due at S035
 S034 is substantive session 34, not a substitute for a mandatory fifth audit. Its Delta-dependent restricted apex bound and gluing obstruction are exact auxiliary results only; every-k TIK/R3/DSE3 remain unproved. Reconcile S031, S032, S033, S034 and next S035 against all earlier S005/S010/S015/S020/S025/S030 audits IN the newly invoked S035. S035 NOT EXECUTED in S034.
+
+## P001-S035 — mandatory fifth session audit COMPLETE
+Reviewed S031–S035 plus prior S005/S010/S015/S020/S025/S030 in [S035_PROGRESS_CORRECTION_AUDIT.md](../research/S035_PROGRESS_CORRECTION_AUDIT.md). Progress includes a new conditional fractional-cover high-overlap m^-3 extraction, not unrestricted DSE3. Corrected no historical false theorem in claims C073–C081; kept weighted-block vs selected individual-edge denominator and all three kernels separate. Next scheduled mandatory audit is S040, including tenth/strategy reassessment; S036 FUTURE and not executed.
