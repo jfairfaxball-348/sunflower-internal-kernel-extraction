@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "8619bcf035ccca5b011dcc1ef48976494d663e82"
+    "authority_checkpoint": "6d88ff84a693e51a3852078af903cce227cb7e11"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S030",
+  "session_completed": "P001-S031",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "fd4374a3c22d2eec203df9b501b6d4e75c992ebd",
+  "latest_validated_commit": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S029_VERIFIED_S030_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S030_VERIFIED_S031_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S031",
+    "session": "P001-S032",
     "objectives": [
-      "SPARSE_WEIGHTED_MULTISTAR_COLLISION_AWARE_BRIDGE"
+      "SIMULTANEOUS_LIGHT_PETAL_ALLOCATION_M_SAVING"
     ],
-    "description": "FUTURE standalone weighted peeled pair-core multi-star assembly with true final-H empty matching; NOT executed in S030",
+    "description": "FUTURE standalone light-petal allocation to save m in original two-Q weighted sparse assembly; S032 NOT executed",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -106,9 +106,11 @@
     "research/S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md",
     "research/S030_FROZEN_GATE.md",
     "research/S030_TWO_HEAVY_MULTIPETAL_ANALYSIS.md",
-    "research/S030_PROGRESS_CORRECTION_AUDIT.md"
+    "research/S030_PROGRESS_CORRECTION_AUDIT.md",
+    "research/S031_FROZEN_GATE.md",
+    "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md"
   ],
-  "last_outcome": "S030_STAR_CORE_MATCHING_POSITIVES_HALL_FULL_LIFT_FALSE_C512_UNPROVED",
+  "last_outcome": "S031_TWO_Q_FULL_M3_EDGE_FALLBACK_C512_UNBOUNDED_M_GAP_LIGHT_SINGLETON_LIFT_FALSE",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

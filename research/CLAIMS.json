@@ -900,5 +900,35 @@
     "sources": [],
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C067",
+    "claim": "S031 original compulsory-two-Q B residual after simple 2m-core peeling admits final all-exact-2/1/EMPTY-valid individual H_R >= T_R/[2(2m-1)(m-1)^2]. Acyclic outdegree-slot forests permit two head colours; short-star/pair compression and adaptive fewer-than-m-components star fallback have explicit losses. Arbitrary light overlap <=m ORIGINAL supports is permitted; Hall lights injected only for retained representatives.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_SYMBOLIC_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md"
+  },
+  {
+    "id": "C068",
+    "claim": "S031 full B >= |B|/[2(2m-1)(m-1)^2+(m-1)]; best ONE A/B alternative gives full ORIGINAL <=2-Q nonprivate packing |H| >= t/[(m-1)(4m^2-3m+1)] >t/(4m^3) INDIVIDUAL EDGES. C512 achieved for bounded m<=128 only (m=2 directly), full all-m C512 still UNPROVED/UNREFUTED; sparse forest sufficient regime of >=m large-star components with enough raw weight meets all-m target. No arbitrary F R3/TIK inference.",
+    "mathematical_status": "RESTRICTED_FULL_TWO_Q_M3_EDGE_FALLBACK_SAME_ASSISTANT",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md"
+  },
+  {
+    "id": "C069",
+    "claim": "S031 full-petal multi-star lifting remains FALSE even when pair codegrees, heavy-singleton true matchings and EMPTY pass: r=N=1024m disjoint K_(m-1,N), w=m-1, with one light z in two DIFFERENT selected components produces exact singleton {z} residual matching 2<m. SAME original F has valid rN compressed reps and rmN(m-1)-2 petals after deleting the two z triples (pair slack sufficient in THIS control). This refutes method only, not C512/R3/TIK.",
+    "mathematical_status": "REFUTED_AUXILIARY_BY_SYMBOLIC_CERTIFICATE",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md"
   }
 ]

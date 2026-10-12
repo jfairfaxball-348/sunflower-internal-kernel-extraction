@@ -8,5 +8,11 @@
   "raw_chat_transport_bytes_attested": false,
   "base_child_main": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
   "base_parent_main": "6d88ff84a693e51a3852078af903cce227cb7e11",
-  "handoff_replaced_after_archive": true
+  "handoff_replaced_after_archive": true,
+  "archive_commit": "1da15440c3e2815f83cf512a4e866e6b4de96fb7",
+  "frozen_gate_commit": "59d9c0986527d0fdb64cc036553721f88792faed",
+  "local_preliminary_archive_commit": "0fbec40ae01fadf68e93c9524ec9f7b483b0005b",
+  "local_preliminary_freeze_commit": "ed8c9daee076021bd5f29ba23f77ce7adf517506",
+  "entry_handoff_path": "sessions/P001-S031/HANDOFF_AT_ENTRY.md",
+  "entry_handoff_sha256": "2b1789e70d8c8c66acddf98f84c967b73540fcfe09f965b46136f063370e4fdb"
 }

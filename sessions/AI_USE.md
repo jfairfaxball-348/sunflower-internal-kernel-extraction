@@ -32,3 +32,7 @@ Assistant read live GitHub child/parent and verified actual S007 child/parent me
 
 ## P001-S009
 Same assistant inspected live child/parent GitHub authority, PR/CI jobs, independently verified S008 registration, archived and SHA256-recorded the exact user-rendered invocation, formulated and symbolically counterexampled a precise induced-heavy-load thinning mechanism using all three kernel sizes, and recorded the unresolved full-TIK and BSEL statuses. This is same-assistant mathematical reasoning, not external independent proof scrutiny or a computer-verified theorem. Direct clone/local validators could not be run because github.com DNS resolution was unavailable; hosted required Actions validation, if reported, is integrity/semantic checking only. No new N1/N2, enumeration, Lean, paper, submission, formal verification, researcher contact or parent mathematical S001.
+
+
+## P001-S031
+Assistant devised symbolic sparse proof and cross-component light-singleton countercertificate, maintained project records, and re-derived constants in a second pass. Same assistant throughout; no independent mathematician, sub-agent or formal verifier. Owner supplied invocation and standing research authority. Only existing fixed semantic tests, no mathematical search, no new detailed N1/N2 or publication.

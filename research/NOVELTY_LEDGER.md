@@ -72,3 +72,7 @@ N057: [S029 report](S029_TWO_HEAVY_PAIR_CORE_ANALYSIS.md) records an elementary 
 
 ## P001-S030 — provenance boundary
 N058: [S030 report](S030_TWO_HEAVY_MULTIPETAL_ANALYSIS.md) and [mandatory fifth audit](S030_PROGRESS_CORRECTION_AUDIT.md) describe SAME-ASSISTANT scoped weighted-star/core results and false Hall full-petal lifting method, not independently verified original paper mathematics. Exact JJSW26 source attribution and R3 literature uncertainty unchanged. New detailed N1/N2 explicitly deferred by owner until COMPLETE full every-k TIK proof candidate; no originality, Lean, correspondence, manuscript or publication promotion. Full two-Q C512 still UNPROVED/UNREFUTED.
+
+
+## P001-S031 — provenance only, no new N1/N2
+N059: [S031 analysis](S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md) derives a same-assistant sparse/all-two-Q m^-3 selected-edge fallback and a light-singleton cross-star lift obstruction with dense same-family rescue. No complete every-k TIK candidate, no independently reviewed original theorem, no literature/source freshness claim. Historical JJSW26 target attribution preserved; NOVELTY_UNCERTAIN and exact R3 literature STATUS_UNCERTAIN unchanged. Owner-authorised new detailed N1/N2 deferral continues, no Lean/manuscript/publication.

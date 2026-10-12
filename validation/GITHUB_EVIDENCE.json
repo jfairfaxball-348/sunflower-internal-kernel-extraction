@@ -1108,6 +1108,156 @@
         }
       ],
       "note": "S026 child merged main checked at S027 entry"
+    },
+    {
+      "workflow": "research-integrity",
+      "run_id": 38175952031,
+      "event": "pull_request",
+      "head_sha": "3259decc277fc8fc26ee2fdfa4ac5feb80a222ad",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114578265654,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "run_id": 38175952031,
+          "logs_url": null,
+          "steps": [
+            {
+              "name": "Set up job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 1
+            },
+            {
+              "name": "Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 2
+            },
+            {
+              "name": "Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 3
+            },
+            {
+              "name": "Validate records and exact target",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Check internal and external semantics",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            },
+            {
+              "name": "Post Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 11
+            },
+            {
+              "name": "Post Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 12
+            },
+            {
+              "name": "Complete job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 13
+            }
+          ]
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38175952031"
+    },
+    {
+      "workflow": "research-integrity",
+      "run_id": 38175982695,
+      "event": "push",
+      "head_sha": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114578351787,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success",
+          "run_id": 38175982695,
+          "logs_url": null,
+          "steps": [
+            {
+              "name": "Set up job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 1
+            },
+            {
+              "name": "Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 2
+            },
+            {
+              "name": "Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 3
+            },
+            {
+              "name": "Validate records and exact target",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 4
+            },
+            {
+              "name": "Check internal and external semantics",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 5
+            },
+            {
+              "name": "Report checked commit",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 6
+            },
+            {
+              "name": "Post Run actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 11
+            },
+            {
+              "name": "Post Run actions/checkout@11d5960a326750d5838078e36cf38b85af677262",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 12
+            },
+            {
+              "name": "Complete job",
+              "status": "completed",
+              "conclusion": "success",
+              "number": 13
+            }
+          ]
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38175982695"
     }
   ],
   "child_pr": {
@@ -1229,5 +1379,8 @@
   "s027_archived_prompt_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
   "s027_archive_commit": "cc3000a2307b99c3dbfb89e19dc81349eb953953",
   "s027_frozen_gate_commit": "0913cf4ff31400139d36f0b63f9d9ad7b24fcf6d",
-  "s027_outgoing_ci": "Actual FINAL PR head and merged-main push checks must be independently inspected AFTER hosting; not self-certified."
+  "s027_outgoing_ci": "Actual FINAL PR head and merged-main push checks must be independently inspected AFTER hosting; not self-certified.",
+  "s031_entry_receipt": "sessions/P001-S031/ENTRY_EVIDENCE.json",
+  "s031_archive_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "s031_outgoing_ci": "Must be independently observed AFTER hosting; premerge records do not self-certify"
 }
