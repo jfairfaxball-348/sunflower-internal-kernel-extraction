@@ -1260,5 +1260,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md"
+  },
+  {
+    "id": "C-S040-A",
+    "claim": "S040 SAME-ASSISTANT theorem: arbitrary disjoint vertex-support union of COMPLETE graph-star-forest × arbitrarily sized nonempty palettes q_i≥1 admits final-H internally m-valid extraction |H|≥|E|/(3m³) for all m≥2. Includes q_i 2..m−1; absolute constant depends on no palette/component count; no arbitrary HDSE3 decomposition asserted.",
+    "mathematical_status": "SAME_ASSISTANT_SCOPED_EXTRACTION_THEOREM",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S040_STAR_FOREST_PALETTE_BRIDGE.md"
+  },
+  {
+    "id": "C-S040-B",
+    "claim": "S040 exact three-channel A large-stars, B small-stars with q≥m or s≥m, C q,s<m decomposition; independently valid A/B component selectors combine via global EMPTY matching or largest component; C constructs GLOBAL disjoint matching if T≥m else selects one edge with ORIGINAL N_C<m³. All exact realised PAIR, singleton, EMPTY certified in final selected H.",
+    "mathematical_status": "SAME_ASSISTANT_SCOPED_CONSTRUCTIVE_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S040_STAR_FOREST_PALETTE_BRIDGE.md"
+  },
+  {
+    "id": "C-S040-C",
+    "claim": "Mandatory S040 fifth/tenth correction and strategy audit S036–S040 and S005/S010/S015/S020/S025/S030/S035 completed. S039 initial shared-palette hidden tensor remains corrected; universal star-forest product mass capture false/unproved and HDSE3, R3, full TIK remain UNPROVED.",
+    "mathematical_status": "SAME_ASSISTANT_AUDIT_NO_GENERAL_THEOREM",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md"
   }
 ]

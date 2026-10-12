@@ -1,0 +1,5 @@
+# P001-S040 — local testing and hosted validation boundary
+
+Local git checkout and hence local `python3 scripts/validate.py` and `python3 -m unittest discover -s tests -v` are **NOT RUN**: runtime GitHub DNS resolution failed ("Could not resolve host: github.com"). This must NOT be represented as test PASS. No new mathematical finite experiment performed.
+
+Project integrity and fixed semantics must be validated by ACTUAL required hosted research-integrity `validate` job SUCCESS on the FINAL child PR HEAD. Only after that non-force two-parent merge with exact head/merged tree equality; then separately observe child main PUSH research-integrity `validate` job SUCCESS. A separate PARENT STATUS-ONLY PR requires final HEAD programme-integrity validate SUCCESS, non-force two-parent equal-tree merge, postmerge main PUSH success. Outgoing IDs are intentionally absent from premerge records; record them from LIVE APIs after creation. Branch protection API 403 is UNKNOWN, NOT an assertion of no protection.
