@@ -71,3 +71,6 @@ Owner proof-first policy continues: no complete full every-k TIK proof candidate
 
 ## P001-S035 — proof-first source provenance; no detailed new N1/N2
 Existing attributed JJSW26 Section 6 target, S033 internal graph/link proof and S034 apex lemma were read from committed GitHub content. This S035 session performed no new detailed literature search and makes no new status/novelty claim. References: [S035 proof](S035_TRANSVERSAL_ESCAPE.md), [mandatory audit](S035_PROGRESS_CORRECTION_AUDIT.md). No no-hit assertion is made.
+
+## P001-S036 — provenance only
+No new detailed paper or novelty search was undertaken, by the owner's proof-first N1/N2 deferral until a complete all-k TIK candidate. Previously recorded JJSW26, S033 T2 and S035 records supplied context; new S036 matching/high-degree reduction and cluster theorem are same-assistant only, without claimed independent source freshness, no-hit evidence, formal verification or publication.

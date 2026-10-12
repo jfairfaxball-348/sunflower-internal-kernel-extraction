@@ -1080,5 +1080,55 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S035_TRANSVERSAL_ESCAPE.md"
+  },
+  {
+    "id": "C085",
+    "claim": "S036: every nonempty 12m-spread core-free triple D has true m-valid matching >=|D|/(6m^3) OR >half-mass 6m-spread core-free E whose EVERY edge touches a >m^3-degree vertex IN E.",
+    "mathematical_status": "SAME_ASSISTANT_MATCHING_OR_HIGH_DEGREE_REDUCTION",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S036_MATCHING_HEAVY_REDUCTION.md"
+  },
+  {
+    "id": "C086",
+    "claim": "S036: conditional on S033 T2/link/robust-core lemmas, R3 iff HDSE3 on high-degree-dominated 6m-spread core-free triples. HDSE3(cH) gives R3 c3=min(1/13824,cH/4). HDSE3 and R3 both UNPROVED.",
+    "mathematical_status": "CONDITIONAL_EQUIVALENCE_UNRESOLVED_HDSE3",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S036_MATCHING_HEAVY_REDUCTION.md"
+  },
+  {
+    "id": "C087",
+    "claim": "S036: bounded complete-support interference Delta and balanced original edge clusters tau*<=Bm covering eta mass give one internally m-valid H>=eta|D|/[8B(Delta+1)m^3]; disjoint >=m clusters need no balance. No universal decomposition established.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_PROOF_CONDITIONAL_ON_S033_T2",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S036_COMPATIBLE_CLUSTER_ASSEMBLY.md"
+  },
+  {
+    "id": "C088",
+    "claim": "S036: connected bridged N=1000m^2 copies of K_(m-1,m-1,m-1) are 6m-spread and core-free with unbounded tau*/m AND actual same-D valid dense matching. m-1 disjoint pair-core stars refute only naive union due missing true EMPTY matching, with same-D repair. Neither refutes DSE3.",
+    "mathematical_status": "QUANTIFIED_METHOD_STRESS_WITH_POSITIVE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S036_COMPATIBLE_CLUSTER_ASSEMBLY.md"
+  },
+  {
+    "id": "C089",
+    "claim": "S036: bounded original maximum vertex degree <=B m^3 in a nonempty 6m-spread triple family implies m-valid matching >=|D|/(3B m^3), regardless of global transversal size; all-high-degree pair-core star family can also be fully valid.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_MATCHING_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S036_MATCHING_HEAVY_REDUCTION.md"
   }
 ]
