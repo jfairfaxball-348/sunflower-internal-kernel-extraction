@@ -1,0 +1,13 @@
+{
+  "session": "P001-S035",
+  "path": "sessions/P001-S035/INPUT.md",
+  "sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
+  "utf8_bytes": 126,
+  "source": "Verbatim conversation-visible explicit owner invocation referencing live authoritative NEXT_SESSION.md",
+  "raw_chat_transport_bytes_attested": false,
+  "hash_verification": "Independent Python hashlib.sha256 over literal UTF-8 input; hosted Python project validator will independently hash committed INPUT.md",
+  "base_child_main": "627e0897bfcb0702a025e5d696b3298bfdcba50f",
+  "base_parent_main": "8ec03a72edbe4f62e1c105bf7adf7093b7c65025",
+  "archive_commit": "030fa97641fee1749654759cd40badcfecedd4d4",
+  "authoritative_handoff_at_entry": "sessions/NEXT_SESSION.md"
+}

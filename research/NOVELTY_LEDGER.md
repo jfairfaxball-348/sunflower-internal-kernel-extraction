@@ -87,3 +87,6 @@ N060: [S032 symbolic report](S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md) and [same-a
 
 ## P001-S034 — no new N1/N2
 N062: [S034 report](S034_PAIR_PRIVATE_APEX_EXTRACTION.md) documents SAME-ASSISTANT restricted Delta-dependent apex colouring and a method-only gluing counterexample on a fully 6m-spread core-free family, with valid half-density positive control. These are NOT independently vetted original paper theorems, not R3/DSE3, and not a complete every-k TIK candidate. Literature attribution and exact rank-three STATUS_UNCERTAIN unchanged; NOVELTY_UNCERTAIN, detailed new N1/N2 deferred by owner rule. No Lean, manuscript, outreach, publication or source no-hit claim.
+
+## P001-S035 — novelty / source boundary, NOT a new N1 or N2
+N063: [S035 report](S035_TRANSVERSAL_ESCAPE.md) supplies an elementary SAME-ASSISTANT fractional-cover conditional extraction and a quantified high-cover method obstruction; [mandatory audit](S035_PROGRESS_CORRECTION_AUDIT.md) does not elevate the literature status. TIK is still SOURCE_POSED_CONJECTURE/STRONG_EVIDENCE_OPEN with NOVELTY_UNCERTAIN, R3 independent literature status STATUS_UNCERTAIN. No detailed NEW N1/N2 until a complete every-k TIK proof candidate, as explicitly ordered. This restriction is no originality clearance.

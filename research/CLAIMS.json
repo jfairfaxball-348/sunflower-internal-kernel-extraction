@@ -1050,5 +1050,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S034_PAIR_PRIVATE_APEX_EXTRACTION.md"
+  },
+  {
+    "id": "C082",
+    "claim": "S035 conditional single-link fractional-cover extraction: for any nonempty triple D,m>=2, valid H>=|D|/[8m²tau*(D)]>=|D|/[24m²nu(D)]; if tau*<=Bm gives 1/(8B)m^-3 of ORIGINAL whole D, without pair-private mass/Delta bound. Conditional on same-assistant C074 TIK2; no unrestricted DSE3.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_PROOF_CONDITIONAL_ON_C074",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S035_TRANSVERSAL_ESCAPE.md"
+  },
+  {
+    "id": "C083",
+    "claim": "S035 any nonempty 6m-spread triple system satisfies tau*(D)>=6m and nu(D)>=2m by degree-count/maximal-matching cover; this is a LOWER bound and cannot infer global upper tau*=O(m).",
+    "mathematical_status": "SAME_ASSISTANT_ELEMENTARY_SPREAD_LEMMA",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S035_TRANSVERSAL_ESCAPE.md"
+  },
+  {
+    "id": "C084",
+    "claim": "S035 disjoint N complete (m-1,m-1,m-1) triple transversals for N>=max(m,ceil(216m³/(m-1)³)) are 6m-spread core-free with no degree-one pair; tau*=nu=N(m-1), and a fully valid same-family matching of N(m-1) edges, density 1/(m-1)^2. Taking N~m² refutes only universal tau*=O(m), NOT DSE3/R3; N=729 yields nonprivate bounded-B regime.",
+    "mathematical_status": "REFUTED_UNIVERSAL_SMALL_COVER_SHORTCUT_WITH_POSITIVE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S035_TRANSVERSAL_ESCAPE.md"
   }
 ]
