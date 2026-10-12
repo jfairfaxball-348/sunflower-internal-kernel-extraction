@@ -1160,5 +1160,55 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S037_OVERLAPPING_PALETTE_AND_WEIGHTED_ASSEMBLY.md"
+  },
+  {
+    "id": "C-S038-A",
+    "claim": "S038 exact full common-palette tensor theorem for ALL ranks: for q>=m, T_Z(G) internally m-valid iff G internally m-valid; extraction via full tensors preserves exact original mass ratio, including EMPTY kernels.",
+    "mathematical_status": "SAME_ASSISTANT_ALL_RANKS_STRUCTURED_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S038_COMMON_PALETTE_TENSOR_AND_CORE.md"
+  },
+  {
+    "id": "C-S038-B",
+    "claim": "S038 graph/palette triples: via S033 same-assistant c2=1/8, every full E=G×Z with q>=m admits m-valid H>=|E|/(8m²); method-level product-form exponent 2 is sharp on G=K_(m-1,m-1), but not unrestricted R3/HDSE3.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_PROOF_CONDITIONAL_ON_S033_GRAPH",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S038_COMMON_PALETTE_TENSOR_AND_CORE.md"
+  },
+  {
+    "id": "C-S038-C",
+    "claim": "S038 robust-core exact formula C3(G×Z)=C_m(G)×Z when nu(C_m(G))>=m, otherwise empty; explicit 6m-spread degree checklist and dense HDSE3 positive complete tensor subclass, all same-assistant.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_SYMBOLIC_THEOREM",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S038_COMMON_PALETTE_TENSOR_AND_CORE.md"
+  },
+  {
+    "id": "C-S038-D",
+    "claim": "S038 star K_(1,m+1)×m palette with one incidence missing is INVALID at real PAIR despite almost full product; same-E repair keeps m²/[m(m+1)-1]. This refutes only nearly-full automatic validity.",
+    "mathematical_status": "PARAMETRIC_METHOD_COUNTEREXAMPLE_WITH_POSITIVE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S038_COMMON_PALETTE_TENSOR_AND_CORE.md"
+  },
+  {
+    "id": "C-S038-E",
+    "claim": "S038 linear r=216m, L=m³+1 disjoint private-leaf hub-star family is 6m-spread, core-free, all edges touch SAME-E degree>m³, and E is itself m-valid, but contains no nonempty q>=m full tensor. Universal tensor mass-capture helper FALSE, HDSE3 not refuted.",
+    "mathematical_status": "PARAMETRIC_HDSE3_CLASS_HELPER_REFUTATION_WITH_DENSITY_ONE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S038_COMMON_PALETTE_TENSOR_AND_CORE.md"
   }
 ]

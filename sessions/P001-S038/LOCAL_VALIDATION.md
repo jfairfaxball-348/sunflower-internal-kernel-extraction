@@ -1,0 +1,3 @@
+# P001-S038 — local validation status
+
+The GitHub git clone was attempted in this runtime on 2026-10-12 and FAILED: `fatal: unable to access ... Could not resolve host: github.com`. Thus no local checkout of the full repo was obtained and `python3 scripts/validate.py`, `python3 -m unittest discover -s tests -v` were **NOT RUN** locally; never label them PASS. No new finite mathematical research computation, random/CAS/SAT/ILP or enumeration was performed. All proofs and parametric stress checks are symbolic and same-assistant. Full parent/child validation must be observed in GitHub Actions at actual FINAL PR HEAD (not an old head), and again on postmerge main PUSH. This premerge file does NOT predict run IDs or their conclusions.
