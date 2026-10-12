@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "8ec03a72edbe4f62e1c105bf7adf7093b7c65025"
+    "authority_checkpoint": "05f27648f62f54e5b6c265d25533eb6eeb568413"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S036",
+  "session_completed": "P001-S037",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S035_VERIFIED_S036_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S036_VERIFIED_S037_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S037",
+    "session": "P001-S038",
     "objectives": [
-      "HDSE3_OVERLAPPING_HIGH_DEGREE_LINK_EXTRACTION"
+      "HDSE3_SATURATED_CROSS_KERNEL_AMPLIFICATION"
     ],
-    "description": "FUTURE standalone high-degree DSE3 gate",
+    "description": "FUTURE standalone, ambitious synchronized pair-core/palette extraction; no execution in S037",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -121,9 +121,11 @@
     "research/S036_FROZEN_GATE.md",
     "research/S036_MATCHING_HEAVY_REDUCTION.md",
     "research/S036_COMPATIBLE_CLUSTER_ASSEMBLY.md",
-    "research/S036_HIGH_TRANSVERSAL_AGGREGATION.md"
+    "research/S036_HIGH_TRANSVERSAL_AGGREGATION.md",
+    "research/S037_FROZEN_GATE.md",
+    "research/S037_OVERLAPPING_PALETTE_AND_WEIGHTED_ASSEMBLY.md"
   ],
-  "last_outcome": "S036_HIGH_DEGREE_REDUCTION_AND_BALANCED_HIGH_COVER_ASSEMBLY",
+  "last_outcome": "S037_PAIR_CORE_PALETTE_CRITERION_WEIGHTED_CONFLICT_RESTRICTED_HDSE3_UNPROVED",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

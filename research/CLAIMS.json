@@ -1130,5 +1130,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S036_MATCHING_HEAVY_REDUCTION.md"
+  },
+  {
+    "id": "C-S037-A",
+    "claim": "S037 exact incidence theorem: for disjoint pair cores and common palette a selected family is internally m-valid iff graph degrees are in {0,1} or >=m on each side and its matching number is <=1 or >=m.",
+    "mathematical_status": "SAME_ASSISTANT_RESTRICTED_PROOF_NOT_INDEPENDENTLY_REVIEWED",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S037_OVERLAPPING_PALETTE_AND_WEIGHTED_ASSEMBLY.md"
+  },
+  {
+    "id": "C-S037-B",
+    "claim": "S037 gives parametric 6m-spread core-free pair-nonprivate high-degree original family with fully shared palette, invalid naive union and SAME-E final internally valid H of exact density 1/(m-1)^2, not HDSE3 counterexample.",
+    "mathematical_status": "SAME_ASSISTANT_SYMBOLIC_POSITIVE_AND_METHOD_COUNTEREXAMPLE",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S037_OVERLAPPING_PALETTE_AND_WEIGHTED_ASSEMBLY.md"
+  },
+  {
+    "id": "C-S037-C",
+    "claim": "S037 conditional weighted-average ACTUAL-support cluster selection: low tau*(D_i)<=Bm, phi=1+weighted average conflict degree and max cluster mass <=W/(m phi) imply |H|>=eta|D|/(8B phi m^3) with actual all-kernel witnesses, not universal HDSE3.",
+    "mathematical_status": "CONDITIONAL_SAME_ASSISTANT_RESTRICTED_THEOREM",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S037_OVERLAPPING_PALETTE_AND_WEIGHTED_ASSEMBLY.md"
   }
 ]
