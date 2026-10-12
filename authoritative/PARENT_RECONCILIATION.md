@@ -58,3 +58,9 @@ Child main 2cc8aae5f3c674cdb5806fd96a38bd92d820eb46 (S030 PR #32), parent main 6
 
 ## P001-S032 live child and parent entry
 Fresh child main b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e PR #33 final head b05205e41af42f5a1fadd301def26d1e223fa1b4 research-integrity final-head run38215499699/job114699145548 SUCCESS and merged-main PUSH run38215573162/job114699382902 SUCCESS. Fresh parent main 0c5660d043d58b87b470a8f5f76f132994c134a8 status-only PR #35 final head475e0b98b713812c9209ae4bf9cfd0fe266d77cd programme-integrity final-head run38216022117/job114700833474 SUCCESS and parent merged-main PUSH run38216085074/job114701032750 SUCCESS. Both are genuine two-parent merges with exact recursive HEAD-tree/merge-tree SHA agreement, no intervening main commits, no open/competing S032. All child 33 and parent 35 PRs inventoried, plus branches. Accessible rulesets empty, branch-protection API 403 UNKNOWN; each SHA has successful check-runs but zero commit status contexts NOT treated as green. Complete exact evidence at ../sessions/P001-S032/ENTRY_EVIDENCE.json. Parent registration of the outgoing S032 must be separate, and mathematical parent S001 stays unexecuted.
+
+## P001-S033 live child and parent entry
+Fresh, independently obtained:
+- **Child:** main cffa73b2ad4710cfcdabe4500776e71e02e71ac2, the merge of PR #34 (final head eb14df7d2f4cdd357be75c9d5ee6a7609b82c1fd; tree c1fb5ad6 equals the merge tree). Final-head run 38243920253/job 114792994646 SUCCESS; push run 38244003126/job 114793268288 SUCCESS.
+- **Parent:** main 96e4f1196ba601c145be53d08b270c27cc340534, the merge of status-only PR #36 (final head 85c772d5f8686c7686239feab4ef139814da52fc; tree 7544464a equals the merge tree). Run 38244447312/job 114794734191 SUCCESS; push run 38244506809/job 114794931584 SUCCESS.
+- No open PRs. Protection is UNKNOWN. Parent authority is unchanged; registration of S033 requires a separate verified status-only parent PR.
