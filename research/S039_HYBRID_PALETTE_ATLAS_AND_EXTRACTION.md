@@ -37,23 +37,25 @@ More sharply, if q>=m the ratio is >=1/(8m^2).
 
 **Critical limit.** A single q<m complete tensor can never itself be a nonempty 6m-spread family, since an original pair uv has q edges and |E|=q|G|, so the palette vertex z has degree |G|=|E|/q >|E|/(6m). It can still occur as a *local component* inside a globally spread E. This is why Theorem C does NOT resolve HDSE3 by itself.
 
-## 3. Genuine high-degree spread, core-free, intermediate-multiplicity control
+## 3. Genuine high-degree spread, core-free, intermediate-multiplicity control — disjoint private palette per spoke
 
-For every integer m>=3 set
-r=216m, L=m^3+1, q=m-1.
-For each i=1,...,r take a private hub x_i, leaves a_{ij} (j=1,...,L), and palette vertices z_{it} (t=1,...,q), with ALL vertices for distinct i disjoint. Define ORIGINAL
-E_m={ {x_i,a_{ij},z_{it}} : 1<=i<=r, 1<=j<=L, 1<=t<=q }.
-This is a union of **thin complete star tensors** K_{1,L} x Z_i. It has |E_m|=rLq.
+For every integer m>=3 set r=216m, L=m^3+1 and q=m-1. For i=1,...,r take a private hub x_i and private leaves a_{ij} (j=1,...,L). Crucially, for **each separate spoke (i,j)** introduce q globally private palette points z_{ijt}, t=1,...,q. Define ORIGINAL
+E_m={ {x_i,a_{ij},z_{ijt}}: 1<=i<=r,1<=j<=L,1<=t<=q }.
+There are |E_m|=rLq original triples. The palette points for DIFFERENT j are distinct: this avoids disguising a saturated common tensor under a change of base/palette orientation.
 
-**Proposition D.** E_m is a nonempty 6m-spread, robust-core-free, high-degree-dominated HDSE3 input; every original edge touches a SAME-E vertex of degree >m^3. Moreover every original hub/leaf pair {x_i,a_{ij}} has codegree exactly q=m-1 (a genuine intermediate class), so E_m contains no q'>=m full tensor with nonempty base. E_m itself is NOT m-valid, but the SAME ORIGINAL E_m contains an internally valid
-H_m={ {x_i,a_{ij},z_{i1}} : 1<=i<=r,1<=j<=L }
-of size rL and fraction EXACTLY 1/(m-1).
+**Proposition D.** E_m is nonempty, 6m-spread, robust-core-free and high-degree dominated (HDSE3). Each original edge meets a SAME-E hub of degree Lq>m^3. Its only repeated original pair is {x_i,a_{ij}}, of exact codegree q=m-1 in {2,...,m-1}; every original pair has degree <m. Thus E_m contains NO nonempty full >=m-palette tensor in ANY choice of base/palette coordinates. E_m itself is NOT m-valid, but the SAME ORIGINAL E_m contains
+H_m={ {x_i,a_{ij},z_{ij1}} : 1<=i<=r,1<=j<=L }
+which is internally valid with |H_m|=rL and exact density 1/(m-1).
 
-*Proof/census.* In original E_m, deg(x_i)=Lq, deg(a_{ij})=q and deg(z_{it})=L; the maximum vertex degree is Lq and max pair degree is L (at {x_i,z_{it}}), since {x_i,a_{ij}} has degree q and {a_{ij},z_{it}} degree 1. Each triple degree is 1. Therefore the three exact spread ratios are 1/r <=1/(6m), 1/(rq) <=1/(36m^2) (because 216m(m-1)>=36m^2 for m>=3), and 1/(rLq)<=1/(216m^3) (since Lq>=m^2). Also Lq=(m^3+1)(m-1)>m^3. Each original triple contains a pair {a_{ij},z_{it}} of E-codegree 1<m; no nonempty robust subfamily can include such a triple, since a robust family would require >=m chosen extensions at that pair. Thus E_m is core-free. All original base pairs have at most m-1 palette incidences; no nonempty full >=m tensor exists. E_m invalidity is REAL at {x_i,a_{ij}}: q=m-1>=2 but <m.
+*Proof/census.* In ORIGINAL E_m, deg(x_i)=Lq, deg(a_{ij})=q, deg(z_{ijt})=1. Its maximum pair degree is q at {x_i,a_{ij}}; all other pair degrees are 1. Every triple occurs once. Hence the spread ratios at singleton/pair/triple levels are exactly
+1/r <=1/(6m),
+1/(rL) <=1/(36m^2), and
+1/(rLq) <=1/(216m^3).
+The second holds because rL=216m(m^3+1)>=36m^2 and the third because Lq>=m^2. The SAME ORIGINAL hub degree Lq=(m^3+1)(m-1)>m^3 for all m>=3. Each triple contains {a_{ij},z_{ijt}} of ORIGINAL pair-degree 1<m, excluding it from any nonempty robust subfamily; therefore robust core is empty. Since ALL E_m pair degrees are <m, any hypothetical nonempty G x Z with |Z|>=m would force some base pair to lie in >=m E_m triples, contradiction. Original E_m is invalid: for every i,j, q=m-1>=2 triples realise exact pair {x_i,a_{ij}} but its original/selected link has only q<m palette petals.
 
-In H_m, two triples in the SAME component share precisely {x_i,z_{i1}} and are certified by that component's L>=m petals. Triples in DIFFERENT components are disjoint, and one edge from each of the r>=m components certifies EMPTY. No other intersection occurs. All witnesses belong to H_m. |H_m|=rL and |H_m|/|E_m|=1/q. Hence neither low palette multiplicity nor absence of large tensors is a quantitative HDSE3 counterexample. QED.
+In SELECTED H_m, two triples within one hub i have distinct j and intersect exactly in singleton {x_i}, whose residual link has L>=m mutually disjoint pairs {a_{ij},z_{ij1}}. Triples from different hubs are disjoint; choose one triple from each of r>=m hubs for a true H_m-matching witnessing EMPTY. The realised kernels are ONLY these singletons and EMPTY; no selected pair kernel is realised. Thus H_m is internally m-valid. Its density is rL/(rLq)=1/q. At m=3, q=2 is the first genuinely intermediate class; at m=2 no intermediate class exists and arbitrary F is trivially 2-valid. QED.
 
-This simultaneously stress-tests the m=3 boundary q=2 and S038's q>=m versus q=1 dichotomy. At m=2 all F are internally valid, so no middle-phase obstruction is claimed.
+This strengthens S038's *linear* HDSE3 no-tensor control by creating many repeated but unsaturated original pairs. It defeats the helper "all original repeated pairs can first be promoted to >=m saturated tensors" but does NOT refute HDSE3: the same family has a 1/(m-1)-density selected repair.
 
 ## 4. Exact disjoint-support aggregation (thick palettes)
 
