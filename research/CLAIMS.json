@@ -930,5 +930,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md",
+    "id": "C070",
+    "claim": "S032 exact five-certificate iff for any individual triple subfamily selected from original B compulsory-two-Q blocks: heavy pair a_uv, heavy-light pair deg_G_z(q), heavy singleton nu(J_q), light singleton nu(G_z), and actual EMPTY triple matching nu(H) must each be 0,1, or >=m. The equivalence detects previously distinct S030 within-hub {q,z} and S031 cross-star {z} failures; same-assistant symbolic only, no extraction m saving.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_EXACT_KERNEL_IDENTITY"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md",
+    "id": "C071",
+    "claim": "S032 all-B original K_(m+1,m+1) row-palette family with original support loads m+1 on heavy endpoints and m on shared light has the ENTIRE original F internally m-valid, yet an all-light-distinct selected family contains at most 2/(m+1) of its edges. Refutes only uniform constant-fraction GLOBAL-PRIVATE-EXTRA-PETAL mass preservation, not B256/C512/R3/TIK; full F dense rescue.",
+    "mathematical_status": "REFUTED_AUXILIARY_BY_SYMBOLIC_CERTIFICATE"
+  },
+  {
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md",
+    "id": "C072",
+    "claim": "S032 arithmetic of S031 existing denominator sharpens bounded-m C512 certification to m<=129, B256 to m<=66, without proving any all-m m^-2 guarantee. First universal unproved step remains a five-certified simultaneous extra-light allocation over weighted peeled sparse B pair cores; full exact all-k TIK and R3 unproved.",
+    "mathematical_status": "RESTRICTED_BOUNDED_M_ARITHMETIC_AND_UNRESOLVED_ALL_M"
   }
 ]

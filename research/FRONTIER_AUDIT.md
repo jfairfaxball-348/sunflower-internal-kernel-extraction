@@ -53,3 +53,6 @@ Do not launch an all-ranks proof, broad enumeration, or a manuscript. Freeze onl
 ## P001-S001 refresh
 
 See [focused N1](S001_N1.md) for the exact rank-three/graph-link recheck and source-access limits. No inspected result settles R3; individual rank status stays STATUS_UNCERTAIN. The analytical [colour-certificate obstruction](R3_FEASIBILITY.md) affects a proof shortcut only and does not change full-target STRONG_EVIDENCE_OPEN or NOVELTY_UNCERTAIN.
+
+## P001-S032 restricted current mathematical frontier (not new N1)
+The S032 original <=2-Q compulsory B analysis proves an exact final-family HH/HL/HS/LS/EMPTY certificate check. It does NOT prove quantitative construction for arbitrary weighted peeled B components at |B|/(256m²). S031 guaranteed bound remains order m^-3; C512 arithmetic from it covers only m<=129, not unbounded m. A new original K_(m+1,m+1) row-palette family shows global light-private extra-petal retention can lose 2/(m+1) fraction despite original full F being internally valid; this is METHOD-ONLY. See [frozen gate](S032_FROZEN_GATE.md) and [report](S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md). Complete all-fixed-k TIK and R3 unresolved, original source status and novelty unchanged, N1/N2 deferred.

@@ -40,3 +40,6 @@ S025 reviewed exact S021–S025 and prior S005/S010/S015/S020 audits. Corrected 
 
 ## P001-S030 — sixth fifth-session audit complete
 [Mandatory S026–S030 correction audit](../research/S030_PROGRESS_CORRECTION_AUDIT.md) reconciles scoped S026/S028 positives, S027/S029 method negatives and new S030 weighted-star/core successes and Hall-LIFT_ALL negative. Earlier S005/S010/S015/S020/S025 audits preserved. Full two-Q C512, R3 and all-k TIK not proved; next fifth audit due S035. S031 UNEXECUTED.
+
+## P001-S032 audit cadence
+S032 completes exactly one bounded mathematical gate, not a fifth-session mandatory audit. All S005/S010/S015/S020/S025/S030 mandatory correction audits remain historical and in force. Next scheduled substantive fifth-session progress/correction audit is S035, not S032/S033. Full universal C512, R3, TIK remain unproved.

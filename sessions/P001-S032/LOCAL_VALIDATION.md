@@ -1,0 +1,5 @@
+# P001-S032 — local validation and hosted CI boundary
+
+The current interface provides GitHub connector read/write and native Actions run/job inspection but no authenticated local checkout of either repository. Therefore **NO LOCAL EXECUTION OF** `python3 scripts/validate.py` or `python3 -m unittest discover -s tests -v` is claimed, nor an invented local PASS. Existing mathematical semantic test population remains unchanged and no research search/enumeration has been run.
+
+Prior S031 child and parent hosted PR/final-head and push validations independently observed SUCCESS with exact run/job IDs in ENTRY_EVIDENCE.json. For S032, AFTER final PR commit, verify GitHub-hosted research-integrity job actually runs `python3 scripts/validate.py`, `python3 -m unittest discover -s tests -v` and any semantic checker, and succeeds on the FINAL PR HEAD before a permitted merge. Then separately inspect merged-main push workflow/jobruns. Hosted record integrity tests do **NOT** independently review S032 mathematics. Before actual hosting, this note MUST NOT claim S032 outgoing CI PASS.
