@@ -1,0 +1,56 @@
+{
+  "session": "P001-S038",
+  "entry_date": "2026-10-12",
+  "child_main": "ae4893283c27af0b53f346dd759afedeba00b06a",
+  "parent_main": "7f24e2d6d994dccf2e9a875c4ae421f1a2853e21",
+  "child_S037": {
+    "pr": 39,
+    "head": "af7440ca5b787107c5d997997b95c6c795e77c89",
+    "merge": "ae4893283c27af0b53f346dd759afedeba00b06a",
+    "merge_parents": [
+      "8950538230f2484d5d9f04aadc6d167e267e003c",
+      "af7440ca5b787107c5d997997b95c6c795e77c89"
+    ],
+    "head_tree": "bf4e11425985541e8909f29f5709db526c521604",
+    "merge_tree": "bf4e11425985541e8909f29f5709db526c521604",
+    "final_head_PR_run": 38279011676,
+    "final_head_PR_job": 114911430846,
+    "final_head_conclusion": "success",
+    "push_run": 38279082633,
+    "push_job": 114911652236,
+    "push_conclusion": "success"
+  },
+  "parent_S037": {
+    "pr": 41,
+    "head": "90f6c72c75578f3be4f4c845d503ba98f5caef26",
+    "merge": "7f24e2d6d994dccf2e9a875c4ae421f1a2853e21",
+    "merge_parents": [
+      "05f27648f62f54e5b6c265d25533eb6eeb568413",
+      "90f6c72c75578f3be4f4c845d503ba98f5caef26"
+    ],
+    "head_tree": "d39fb3253bfdc9ed1c2a407ff8262a9f17a793ae",
+    "merge_tree": "d39fb3253bfdc9ed1c2a407ff8262a9f17a793ae",
+    "final_head_PR_run": 38279620692,
+    "final_head_PR_job": 114913429684,
+    "final_head_conclusion": "success",
+    "push_run": 38279686932,
+    "push_job": 114913643859,
+    "push_conclusion": "success"
+  },
+  "open_child_pr": 0,
+  "open_parent_pr": 0,
+  "competing_S038_branch": 0,
+  "competing_S038_on_main": false,
+  "observed_workflows": [
+    "child .github/workflows/research-integrity.yml",
+    "parent .github/workflows/programme-integrity.yml"
+  ],
+  "rulesets_child": [],
+  "rulesets_parent": [],
+  "branch_protection": "UNKNOWN: branch protected=false visible, detailed protection 403 resource not accessible by integration",
+  "status_contexts": "final hosted workflow RUN/JOB successes independently seen; combined status not interpreted as CI",
+  "S038_input_archive": "e2b0d9f1bc0e45b77eae2cc91b229d51d19b6ed3",
+  "S038_manifest_commit": "4ddc47f265a6d9300b28948f0a0f53dfd1a8c2a8",
+  "S038_frozen_gate_commit": "3025f51ade48e9f6c347cc0b1c08a04b9cefccb6",
+  "parent_S001_executed": false
+}

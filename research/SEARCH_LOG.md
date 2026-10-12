@@ -77,3 +77,6 @@ No new detailed paper or novelty search was undertaken, by the owner's proof-fir
 
 ## P001-S037 — proof-first source provenance; NO new detailed N1/N2
 No new external prior-art/originality source search was performed. Previously documented JJSW26 §6 source-posed target and S033/S035/S036 internal reports were read from live committed GitHub. Owner deferral of detailed N1/N2 applies because no complete every-fixed-k TIK proof candidate exists. The new S037 pair-core/palette criterion, shared-palette positive construction and weighted-average conflict theorem are symbolic SAME-ASSISTANT scoped mathematics, NOT literature-cleared originality or a determination of rank-three open status.
+
+## P001-S038 — provenance only, no new N1/N2
+No fresh external source or search was performed under the owner's proof-first deferral. Internal source documents S033, S036, S037 and immutable JJSW26 Section 6 attribution were reused. The general tensor equivalence, graph tensor core formula, incomplete-palette obstruction and linear-HDSE3 no-tensor helper counterexample are SAME-ASSISTANT symbolic deductions, NOT source-cleared originality or an independent rank-three openness check. No literature no-hit, source-freshness, Lean or paper claim.
