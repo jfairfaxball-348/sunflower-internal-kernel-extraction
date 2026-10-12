@@ -120,3 +120,22 @@ The remaining graph is K_(1,m), internally valid, and Theorem A certifies H at P
 - S037 shared-palette r-block E is exactly in B2, remains a positive same-original-family control; its invalid all-apex star lift and its dense rescue both stand.
 
 The next child session **S039** is separately FUTURE and unexecuted. S040 is the next fifth/tenth progress correction audit. No detailed N1/N2 absent a full every-fixed-k TIK candidate, no Lean, Palomar, manuscript, correspondence, submission or external action.
+
+
+## 7. A second **HDSE3** control: universal tensor mass-capture is FALSE
+
+An additional substantial adversarial route tests the exact helper: "every 6m-spread, core-free, >m³-degree-dominated triple E contains ANY nonempty full common-palette tensor G×Z with |Z|>=m." This helper fails **within HDSE3 itself**, even though the same E is 100% internally valid.
+
+For every integer m>=3 set r=216m and L=m³+1. Take pairwise distinct hub vertices x_i, i=1,...,r, and globally private vertices a_(i,j),b_(i,j) for i<=r,j<=L. Define
+\[
+E=\{\{x_i,a_{i,j},b_{i,j}\}:1\le i\le r,\ 1\le j\le L\}.
+\]
+This is a simple **linear** triple family: every unordered pair of vertices has ORIGINAL E-codegree at most 1. Its cardinality is |E|=rL and its maximum original vertex degree is L. It is 6m-spread:
+- vertex maximum proportion L/(rL)=1/r <=1/(6m);
+- pair maximum proportion 1/(rL) <=1/(36m²), since rL>=36m²;
+- triple proportion 1/(rL) <=1/(216m³), since rL=216m(m³+1)>=216m³.
+Every edge meets x_i with original SAME-E degree L=m³+1>m³. Every edge has a pair of codegree 1, so no robust subfamily can contain it; hence C(E)=empty. In fact **H=E is internally m-valid**: two edges under one hub realise only singleton {x_i}, witnessed by any m of its L pairwise private-petal edges; two edges under different hubs realise EMPTY, witnessed by one edge at each of m distinct hubs (r>=m). No pair intersection can be realised since E is linear. Thus max_valid_m(E)/|E|=1, not an HDSE3 counterexample.
+
+But any nonempty full tensor G×Z of graph edges with q=|Z|>=m>=3 includes q≥3 distinct triple edges containing ONE fixed base pair uv, contradicting pair codegree<=1 in E. Therefore E contains **not even one nonempty full tensor** with q>=m, irrespective of which partition of its ground set is proposed. This refutes the **specific universal tensor mass-capture helper** much more decisively than an unknown density bound: the available product mass is identically zero. It does NOT refute a hybrid HDSE3 extraction using hub stars, since E itself is m-valid.
+
+**Hybrid frontier revised:** Theorem A/B solves completely synchronised thick-pair palettes, while this E solves an opposite, pair-private high-degree regime by a global m-valid union of r private-light stars. The universal challenge must quantify how to allocate mass across *partial/intermediate* pair multiplicities and link overlaps, while checking the selected PAIR, singleton and EMPTY certificates simultaneously; a compulsory full-tensor substructure cannot be an intermediate lemma.
