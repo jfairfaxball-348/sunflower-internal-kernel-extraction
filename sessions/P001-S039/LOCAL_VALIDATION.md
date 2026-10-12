@@ -1,0 +1,3 @@
+# P001-S039 — validation scope
+
+Full local git clone attempted on 2026-10-12 but FAILED because github.com DNS resolution was unavailable in the container. Consequently `python3 scripts/validate.py` and `python3 -m unittest discover -s tests -v` were **NOT RUN** on a local checkout; no local PASS is claimed. No new finite mathematical experiments or symbolic CAS/SAT/ILP/enumerations were run. The parametric proof checks and correction are same-assistant symbolic reasoning. Require observed ACTUAL GitHub research-integrity final-HEAD PR run/job success and separately merged-main PUSH success before parent status-only registration. This file makes no forward CI prediction.

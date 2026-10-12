@@ -80,3 +80,6 @@ No new external prior-art/originality source search was performed. Previously do
 
 ## P001-S038 — provenance only, no new N1/N2
 No fresh external source or search was performed under the owner's proof-first deferral. Internal source documents S033, S036, S037 and immutable JJSW26 Section 6 attribution were reused. The general tensor equivalence, graph tensor core formula, incomplete-palette obstruction and linear-HDSE3 no-tensor helper counterexample are SAME-ASSISTANT symbolic deductions, NOT source-cleared originality or an independent rank-three openness check. No literature no-hit, source-freshness, Lean or paper claim.
+
+## P001-S039 — provenance only, no new source search
+Only previously committed JJSW26 source context and S033/S036/S037/S038 same-assistant analyses were used; NO new detailed N1/N2, source freshness, no-hit or originality check. The S039 five-kernel atlas, all-q rectangle extraction, corrected private-spoke HDSE3 control and aggregation are new SAME-ASSISTANT symbolic deductions and may be known. No independent proof referee, Lean, manuscript or publication.
