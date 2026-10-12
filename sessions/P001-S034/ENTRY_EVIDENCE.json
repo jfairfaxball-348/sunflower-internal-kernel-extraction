@@ -1,0 +1,57 @@
+{
+  "session": "P001-S034",
+  "date": "2026-10-12",
+  "verification": "independently queried live GitHub REST through installed GitHub connection",
+  "child": {
+    "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
+    "main": "0d12a8a0aa2ebd7bae14657f55343127a38fa75b",
+    "s033_pr": 35,
+    "s033_final_head": "9251077f5b948f5becd2044f15f719714eff8937",
+    "s033_merge": "0d12a8a0aa2ebd7bae14657f55343127a38fa75b",
+    "merge_parents": [
+      "cffa73b2ad4710cfcdabe4500776e71e02e71ac2",
+      "9251077f5b948f5becd2044f15f719714eff8937"
+    ],
+    "equal_head_merge_tree": "67c066bb992477e021753fa2144610c7e8c03e56",
+    "pr_run": 38250067643,
+    "pr_job": 114813747371,
+    "push_run": 38250151749,
+    "push_job": 114814039835,
+    "all_jobs_success": true,
+    "check_run_final_head": 114813747371,
+    "commit_status_contexts": []
+  },
+  "parent": {
+    "repository": "jfairfaxball-348/sunflower-structures-programme",
+    "main": "6235c4ce2db82cd3babb901b7931ddb1c2240256",
+    "s033_status_pr": 37,
+    "s033_final_head": "1ceec10786100adf1d26c5208ce98aecbc398b83",
+    "merge_parents": [
+      "96e4f1196ba601c145be53d08b270c27cc340534",
+      "1ceec10786100adf1d26c5208ce98aecbc398b83"
+    ],
+    "equal_head_merge_tree": "3e1c5b36a99b3966e20af94f11ccd74633af75e7",
+    "pr_run": 38250508254,
+    "pr_job": 114815256488,
+    "push_run": 38250557196,
+    "push_job": 114815426707,
+    "all_jobs_success": true,
+    "check_run_final_head": 114815256488,
+    "commit_status_contexts": []
+  },
+  "rulesets": {
+    "child": [],
+    "parent": []
+  },
+  "branch_protection": "UNKNOWN: 403 integration permission, not a pass",
+  "open_prs": {
+    "child": [],
+    "parent": []
+  },
+  "competing_s034": false,
+  "branch": "research/p001-s034-degenerate-spread",
+  "archive_commit": "93dacbdeaec39b468ff8a198e4c4131488a8fc3f",
+  "input_manifest_commit": "2cd890c3c7d4696a9573cf924f3d828f8616bf28",
+  "frozen_gate_commit": "19bdb5dc4d28f6147d83b8461faea8cea3b70636",
+  "entry_decision": "PASS"
+}
