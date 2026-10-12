@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "6d88ff84a693e51a3852078af903cce227cb7e11"
+    "authority_checkpoint": "0c5660d043d58b87b470a8f5f76f132994c134a8"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S031",
+  "session_completed": "P001-S032",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -32,21 +32,21 @@
   "publication_status": "IDEA",
   "constructive_status": "NO_CONSTRUCTION_CLAIM",
   "complexity_status": "NO_COMPLEXITY_CLAIM",
-  "latest_validated_commit": "2cc8aae5f3c674cdb5806fd96a38bd92d820eb46",
+  "latest_validated_commit": "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
   "validation_receipt": "validation/GITHUB_EVIDENCE.json",
   "checkpoint_semantics": "Earlier hosted CI-confirmed head, not a self-reference; final head and merge checked externally.",
   "parent_registration": {
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S030_VERIFIED_S031_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S031_VERIFIED_S032_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S032",
+    "session": "P001-S033",
     "objectives": [
-      "SIMULTANEOUS_LIGHT_PETAL_ALLOCATION_M_SAVING"
+      "SATURATED_LIGHT_FOREST_ROUNDING_M2"
     ],
-    "description": "FUTURE standalone light-petal allocation to save m in original two-Q weighted sparse assembly; S032 NOT executed",
+    "description": "FUTURE one proof-first attempt at an m^-2 collision-certified peeled B residual selection, or quantified first failing implication; NOT EXECUTED",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -108,9 +108,11 @@
     "research/S030_TWO_HEAVY_MULTIPETAL_ANALYSIS.md",
     "research/S030_PROGRESS_CORRECTION_AUDIT.md",
     "research/S031_FROZEN_GATE.md",
-    "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md"
+    "research/S031_SPARSE_WEIGHTED_MULTISTAR_ANALYSIS.md",
+    "research/S032_FROZEN_GATE.md",
+    "research/S032_SIMULTANEOUS_LIGHT_ALLOCATIONS.md"
   ],
-  "last_outcome": "S031_TWO_Q_FULL_M3_EDGE_FALLBACK_C512_UNBOUNDED_M_GAP_LIGHT_SINGLETON_LIFT_FALSE",
+  "last_outcome": "S032_EXACT_FIVE_LIGHT_LINK_TEST_AND_PRIVATE_EXTRA_PETAL_METHOD_FALSE_UNBOUNDED_M_GAP",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

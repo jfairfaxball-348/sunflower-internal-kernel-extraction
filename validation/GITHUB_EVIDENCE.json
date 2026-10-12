@@ -1258,6 +1258,40 @@
         }
       ],
       "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38175982695"
+    },
+    {
+      "workflow": "research-integrity",
+      "run_id": 38215499699,
+      "event": "pull_request",
+      "head_sha": "b05205e41af42f5a1fadd301def26d1e223fa1b4",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114699145548,
+          "name": "validate",
+          "conclusion": "success",
+          "status": "completed"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38215499699"
+    },
+    {
+      "workflow": "research-integrity",
+      "run_id": 38215573162,
+      "event": "push",
+      "head_sha": "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 114699382902,
+          "name": "validate",
+          "conclusion": "success",
+          "status": "completed"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38215573162"
     }
   ],
   "child_pr": {
@@ -1269,7 +1303,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "P001-S019 separately verified via #22 and correction #23; P001-S020 outbound NOT YET OBSERVED",
-  "current_session": "P001-S026",
+  "current_session": "P001-S032",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -1382,5 +1416,10 @@
   "s027_outgoing_ci": "Actual FINAL PR head and merged-main push checks must be independently inspected AFTER hosting; not self-certified.",
   "s031_entry_receipt": "sessions/P001-S031/ENTRY_EVIDENCE.json",
   "s031_archive_sha256": "f19536cc72c22ee3417531f9327f1cf9477ecb1123539be080b2546ca73b172b",
-  "s031_outgoing_ci": "Must be independently observed AFTER hosting; premerge records do not self-certify"
+  "s031_outgoing_ci": "Independently observed at S032 entry: final PR run38215499699 job114699145548 success, merged main push run38215573162 job114699382902 success; parent S031 PR run38216022117 job114700833474 and push run38216085074 job114701032750 success",
+  "s032_entry_receipt": "sessions/P001-S032/ENTRY_EVIDENCE.json",
+  "s032_input_sha256": "32c7288fd555a5892d8642260ec38466674e2ef491951dea1832ddee791b6355",
+  "s032_archive_commit": "d1129d4c05ecf2b6866d262a991d7cebb7310b80",
+  "s032_frozen_gate_commit": "9bacda7e6b5afe539f1fbaee8f09a3c7b92554b4",
+  "s032_outgoing_ci": "NOT OBSERVED at premerge: actual final-head PR and postmerge PUSH run/job must be verified separately"
 }
