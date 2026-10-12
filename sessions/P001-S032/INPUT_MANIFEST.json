@@ -1,0 +1,15 @@
+{
+  "session": "P001-S032",
+  "path": "sessions/P001-S032/INPUT.md",
+  "sha256": "32c7288fd555a5892d8642260ec38466674e2ef491951dea1832ddee791b6355",
+  "utf8_sha256": "32c7288fd555a5892d8642260ec38466674e2ef491951dea1832ddee791b6355",
+  "utf8_bytes": 6309,
+  "source": "Exact literal new owner invocation as supplied in conversation; transport framing not independently attested",
+  "raw_chat_transport_bytes_attested": false,
+  "hash_verification": "Independent Python hashlib over separately transcribed literal and standalone JavaScript SHA-256 implementation over fetched GitHub archive; both equal known SHA256(abc) test vector / same 6309 bytes",
+  "base_child_main": "b0fef3abbc329ba5df3771f1f216bbd11bcf9a8e",
+  "base_parent_main": "0c5660d043d58b87b470a8f5f76f132994c134a8",
+  "archive_commit": "d1129d4c05ecf2b6866d262a991d7cebb7310b80",
+  "archive_blob_sha": "d81058898c1868159e472a52687c98c343ac595d",
+  "handoff_replaced_after_archive": true
+}
