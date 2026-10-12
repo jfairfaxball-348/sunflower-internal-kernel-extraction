@@ -83,3 +83,7 @@ No fresh external source or search was performed under the owner's proof-first d
 
 ## P001-S039 — provenance only, no new source search
 Only previously committed JJSW26 source context and S033/S036/S037/S038 same-assistant analyses were used; NO new detailed N1/N2, source freshness, no-hit or originality check. The S039 five-kernel atlas, all-q rectangle extraction, corrected private-spoke HDSE3 control and aggregation are new SAME-ASSISTANT symbolic deductions and may be known. No independent proof referee, Lean, manuscript or publication.
+
+## P001-S040 — source-search deferral, no new experiment
+By explicit owner proof-first policy and absence of a COMPLETE all-fixed-k TIK candidate, no NEW detailed N1/N2 search was performed, no absence-of-prior-art conclusion inferred. Reviewed committed S033/S035/S036–S039 analyses and source notes only. No finite mathematical population, exhaustive search, CAS/SAT/ILP or fresh code experiment run. See S040_FROZEN_GATE, theorem report, adversarial second pass and mandatory strategy audit.
+

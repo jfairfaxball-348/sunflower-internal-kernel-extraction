@@ -102,3 +102,7 @@ N066: [S038 analytical record](S038_COMMON_PALETTE_TENSOR_AND_CORE.md) and [adve
 
 ## P001-S039 — N067 (NOT originality-cleared)
 N067: [exact symbolic S039 report](S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md), [same-assistant adversarial correction / second pass](../sessions/P001-S039/SECOND_PASS_VALIDATION.md). Exact five-kernel heterogeneous palette iff, all-q graph rectangle extraction conditional on S033, corrected intermediate q=m-1 NO saturated-pair HDSE3 positive control, and restricted disjoint-product assembly are NOT independently refereed or source/novelty checked. The first family draft's shared palette hid a full tensor in another orientation; the corrected committed version uses PER-SPOKE palette and eliminates the flaw. TIK open status STRONG_EVIDENCE_OPEN and novelty NOVELTY_UNCERTAIN are unchanged; R3/HDSE3 literature STATUS_UNCERTAIN. Detailed new N1/N2 deferred under owner proof-first instruction. No Lean or publication.
+
+## P001-S040 — provenance and novelty deferral
+The new all-palette disjoint star-forest product theorem and mandatory progress/strategy audit are same-assistant symbolic records, without any fresh original-source N1, N2, forward citation campaign, independent review or novelty certification. S033 rank-two and S038 full-tensor ingredients remain internal dependencies not verified as original. JJSW26 §6 target attribution unchanged. Novelty status NOVELTY_UNCERTAIN; NO_PROJECT_PUBLICATION.
+

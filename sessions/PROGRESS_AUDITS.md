@@ -56,3 +56,7 @@ Reviewed S031–S035 plus prior S005/S010/S015/S020/S025/S030 in [S035_PROGRESS_
 
 ## P001-S039 audit cadence
 S039 is substantive and permits multi-front symbolic research, but it is **NOT** the S040 audit. The completed S005/S010/S015/S020/S025/S030/S035 fifth-session audits stand. S040 is NEXT MANDATORY fifth-session correction and tenth-session strategic reassessment: review S036–S040, the existing audits and the corrected S039 intermediate-palette control, not just accumulate scoped lemmas. S040 unexecuted within S039.
+
+## P001-S040 — REQUIRED fifth-substantive correction and tenth-strategy audit COMPLETE
+Audit at research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md reviews S036–S040, S005/S010/S015/S020/S025/S030/S035 and correction history. It reconciles same-original-E vs final-H link matchings, S033 non-machine-tested spread branches, S036 high-degree reductions, S039 corrected hidden-tensor orientation, S040 new complete disjoint all-q star-forest product bound ≥1/(3m³), and exact global EMPTY correction for thin small components. No assumption that arbitrary HDSE3 E contains constant-mass complete rectangles. Universal HDSE3, R3 and every-fixed-k TIK still UNPROVED; no new N1/N2, independent referee, Lean or manuscript. NEXT S041 standalone FUTURE only; fifth audit due S045, tenth strategy due S050.
+
