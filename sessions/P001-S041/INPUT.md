@@ -1,0 +1,1 @@
+run this session [https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/blob/main/sessions/NEXT_SESSION.md](https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/blob/main/sessions/NEXT_SESSION.md)
