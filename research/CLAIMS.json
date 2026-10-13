@@ -1592,5 +1592,27 @@
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S050_PARTITE_REDUCTION_AND_CERTIFICATE_PACKING.md",
     "audit_record": "research/S050_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S051-A",
+    "claim": "Normalized ORIGINAL tripartite F from 216m^3 disjoint rich-link components is 6m-spread corefree and original high-hub, each hub link matching L+1>=m^4+1, positive ordinary r/h 1-or-m, yet original invalid at singleton x because nu(J_x)=2<m. SAME-ORIGINAL valid final H retains >1-1/L>=1-m^-4; METHOD obstruction ONLY, not an HDSE3/R3/TIK counterexample.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S051_RICH_LINK_STRESS_AND_SHARP_PARTITE.md",
+    "audit_record": "research/S051_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S051-B",
+    "claim": "For each fixed k, rainbow partite original-mass retention factor p_k=k!/k^k from S050 is asymptotically optimal by complete k-graphs and AM-GM; does not prove TIK or rank3 packing.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S051_RICH_LINK_STRESS_AND_SHARP_PARTITE.md",
+    "audit_record": "research/S051_HOSTILE_SECOND_PASS.md"
   }
 ]
