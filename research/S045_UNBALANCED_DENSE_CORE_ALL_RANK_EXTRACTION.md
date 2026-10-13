@@ -74,7 +74,7 @@ For m>=3, n<=5m^5 and e>=100(m-1)m^6 >= 2(3m-5)(m-1)n (indeed RHS <=30(m-1)m^6 <
 This F is GENUINELY NONLINEAR: two original bulk edges with fixed (x,y) but distinct s meet in PAIR {x,y}; only m-1 original edges contain this pair. Thus the ENTIRE original F is NOT internally valid: no m-petal in-F pair certificate exists for this realised pair. The same pair defect also occurs in the hub component via {h,u} with degree r=m-1. Yet the theorem's selected H avoids all pair intersections by linearisation and obtains genuine in-H EMPTY/singleton certificates.
 
 It also satisfies HDSE3's exact HYPOTHESES:
-- 6m-spread: max vertex d_F(x)<= e/(6m) (indeed d_F(h)<=e/(200m), bulk degrees are also smaller); max PAIR degree m-1<=e/(36m^2); 1<=e/(216m^3) for each present triple.
+- 6m-spread: max vertex d_F(x)<= e/(6m) (specifically d_F(h)<=e/(200m) and independently 10m^3(m-1)<=e/(6m) for every bulk vertex; the stronger 200m bound is NOT asserted for bulk vertices); max PAIR degree m-1<=e/(36m^2); 1<=e/(216m^3) for each present triple.
 - Robust core FREE: every original F triple contains a pair of original degree at most m-1, so no nonempty original subfamily can have m disjoint residual petals at all contained PAIR links.
 - EACH original bulk edge contains vertices of ORIGINAL degree 10m^3(m-1)>m^3; EACH hub triple contains h with degree m^5(m-1)/2>m^3.
 - GLOBALLY UNBALANCED: Delta(F) n/e >= [m^5(m-1)/2]*m^5/[(m-1)101m^6]=m^4/202 ->infinity. Thus NO fixed A bounds Delta(F)<=A e/n on this same-E sequence, and S044-B cannot be invoked with an absolute A. The theorem closes this fresh highly unbalanced population quantitatively with the correct same-original-family mass.
