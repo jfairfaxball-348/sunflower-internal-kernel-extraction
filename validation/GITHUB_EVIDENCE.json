@@ -1582,5 +1582,22 @@
     "push_job": 115303664338
   },
   "s047_entry_receipt": "sessions/P001-S047/ENTRY_EVIDENCE.json",
-  "s047_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE"
+  "s047_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE",
+  "s048_entry_receipt": "sessions/P001-S048/ENTRY_EVIDENCE.json",
+  "s048_archived_prompt_sha256": "653bdbeaa99d0835ef42fc2506ae4e0fd5407439947c078e071fef95ac168b1a",
+  "s048_archive_commit": "7cafb070fd694c99392e262126dabb15d676f265",
+  "s048_manifest_commit": "aa1e547f270ee71fa73a0b25e0698d20cfb574a6",
+  "s048_frozen_gate_commit": "0816dbe7ecafd4f45739be124bbb48d7f777e7ac",
+  "s048_previous_verified_ci": {
+    "child_pr_run": 38404426889,
+    "child_pr_job": 115320179504,
+    "child_push_run": 38404537804,
+    "child_push_job": 115320575639,
+    "parent_pr_run": 38405409990,
+    "parent_pr_job": 115323612229,
+    "parent_push_run": 38405498931,
+    "parent_push_job": 115323910402,
+    "all_conclusions": "success"
+  },
+  "s048_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE; actual final-head PR and independent merged-main PUSH required"
 }

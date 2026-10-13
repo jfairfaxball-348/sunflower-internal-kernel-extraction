@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "ff1f60944bf35710323a918694ec5919b148d06d"
+    "authority_checkpoint": "9a8cd36db1e7ff133c8be99b30c9dcc250f25485"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S047",
+  "session_completed": "P001-S048",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S046_PARENT_VERIFIED_S047_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S047_PARENT_VERIFIED_S048_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S048",
+    "session": "P001-S049",
     "objectives": [
-      "OVERLAPPED_LOW_BASE_COMPATIBILITY_AND_HDSE3_MASS_RESCUE"
+      "INTERMEDIATE_SINGLETON_AND_MIXED_PAIR_M3_REPAIR"
     ],
-    "description": "FUTURE proof-first attack on arbitrarily overlapping LOW bases with no common hub, incomplete links, conflicting PAIR mass, unrestricted core-free HDSE3/R3 and exact final-H witness semantics.",
+    "description": "FUTURE multi-front ORIGINAL-mass attack on ordinary support repeated PAIRs and intermediate singleton overlap r=2..m-1; remove S048 linear/gap assumptions, seek universal corefree rank3 HDSE3 and independent every-k bridge without compromising FINAL in-H exact witnesses.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -147,9 +147,12 @@
     "research/S046_HOSTILE_SECOND_PASS.md",
     "research/S047_FROZEN_GATE.md",
     "research/S047_MULTIHUB_GRAPH_CELL_EXTRACTION.md",
-    "research/S047_HOSTILE_SECOND_PASS.md"
+    "research/S047_HOSTILE_SECOND_PASS.md",
+    "research/S048_FROZEN_GATE.md",
+    "research/S048_OVERLAP_HUB_LINK_GLUING.md",
+    "research/S048_HOSTILE_SECOND_PASS.md"
   ],
-  "last_outcome": "S047_SCOPED_GRAPH_CELL_M2_AND_POSITIVE_50PCT_HDSE3_RESCUE_FULL_OPEN",
+  "last_outcome": "S048_SCOPED_ALL_RANK_COLOURING_AND_FULL_LINEAR_OVERLAP_RESCUE_FULL_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

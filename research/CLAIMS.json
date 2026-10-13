@@ -1482,5 +1482,49 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S047_MULTIHUB_GRAPH_CELL_EXTRACTION.md"
+  },
+  {
+    "id": "C-S048-A",
+    "claim": "S048-A: for original rank k>=2 one-marked-hub edges with q-colourable ordinary-support hub-conflict graph, conditional on rank-(k-1) TIK constant c_(k-1), internally m-valid FINAL H>=c_(k-1)e/[q*m^(k-1)*(m-1)]>=c_(k-1)e/(q*m^k). For rank3 via S033 c2=1/8 this gives e/(8q*m^3), no complete products/bipartiteness. Arbitrary F not covered.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S048_OVERLAP_HUB_LINK_GLUING.md",
+    "audit_record": "research/S048_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S048-B",
+    "claim": "S048-B: in rank3 original one-hub graph decomposition with every active G_a min positive degree>=m and matching>=m, conflict graph proper q-colouring yields FINAL internally valid H>=e/[q(m-1)], so q<=Cm² gives e/(Cm³). q is NOT bounded for unrestricted HDSE3.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S048_OVERLAP_HUB_LINK_GLUING.md",
+    "audit_record": "research/S048_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S048-C",
+    "claim": "S048-C: rank3 original one-hub graph links with min positive degree>=m, matching>=2m, pairwise ordinary support overlaps <=1 and singleton hub multiplicities 0,1 or >=m admit whole ORIGINAL H=F if >=m hubs; if fewer hubs a largest original hub fibre gives H>=e/(m-1). Full exact PAIR, singleton, EMPTY certificates. Scoped same-assistant theorem, no universal R3.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S048_OVERLAP_HUB_LINK_GLUING.md",
+    "audit_record": "research/S048_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S048-D",
+    "claim": "Symbolic original connected robust-corefree 6m-spread high-hub rank3 family, m>=6, t=216m^4 complete K_(m²,m²) hub links sharing only x, has e=t*m^4, n=1+2*t*m², max pair degree m², nu=tau*=t, unbounded complete hub-conflict graph and SAME-ORIGINAL H=F internally valid. Positive control ONLY, not HDSE3 proof/counterexample.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S048_OVERLAP_HUB_LINK_GLUING.md",
+    "audit_record": "research/S048_HOSTILE_SECOND_PASS.md"
   }
 ]
