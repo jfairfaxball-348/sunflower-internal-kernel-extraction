@@ -89,3 +89,6 @@ By explicit owner proof-first policy and absence of a COMPLETE all-fixed-k TIK c
 
 ## P001-S041 — proof-first deferral continues
 No fresh external-source or comprehensive originality query was performed because there is still no complete every-fixed-k TIK proof candidate. Read existing committed S033/S035/S036/S037/S038/S039/S040 records and earlier S005/S010/S015/S020/S025/S030/S035/S040 audits. The S041 weighted regional theorem and exponent-sharp example were established symbolically, with same-assistant adversarial pass, not a literature freshness/novelty determination. No mathematical finite experiment and no source no-hit claim.
+
+## P001-S042 — no detailed new N1/N2
+Proof-first symbolic-only gate. Existing live committed S033 rank-two, S036 HDSE3, S039 link atlas, S040 star forest, S041 weighted regional theorem and S023/S024 controls supplied premises. No newly executed detailed literature/prior-art search, source novelty verdict or no-hit open-status inference; existing JJSW26 §6 attribution and current NOVELTY_UNCERTAIN/STATUS_UNCERTAIN boundaries preserved. S042's linear induction and affine Steiner geometry are same-assistant work only. Owner defers detailed new N1/N2 until a complete unrestricted all-k TIK candidate.
