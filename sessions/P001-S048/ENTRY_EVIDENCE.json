@@ -1,0 +1,51 @@
+{
+  "session": "P001-S048",
+  "child_entry_main": "48e7c29d04eb449cc20d4520c25eac7030aab059",
+  "parent_entry_main": "9a8cd36db1e7ff133c8be99b30c9dcc250f25485",
+  "previous_child": {
+    "pr": 49,
+    "final_head": "d7158fd12884b52a4226d733c198f038df43126c",
+    "pr_run": 38404426889,
+    "pr_job": 115320179504,
+    "pr_conclusion": "success",
+    "merge": "48e7c29d04eb449cc20d4520c25eac7030aab059",
+    "merge_parents": [
+      "ad276ba083a8939e6dc88091aa57919b3b0e9ef8",
+      "d7158fd12884b52a4226d733c198f038df43126c"
+    ],
+    "equal_tree": "3bf5b46a21f12507fef6b0d6a818e3816603dcaf",
+    "push_run": 38404537804,
+    "push_job": 115320575639,
+    "push_conclusion": "success"
+  },
+  "previous_parent": {
+    "pr": 51,
+    "final_head": "4a1c586687c43edaeac8a93bd2da7f5e64d54794",
+    "pr_run": 38405409990,
+    "pr_job": 115323612229,
+    "pr_conclusion": "success",
+    "merge": "9a8cd36db1e7ff133c8be99b30c9dcc250f25485",
+    "merge_parents": [
+      "ff1f60944bf35710323a918694ec5919b148d06d",
+      "4a1c586687c43edaeac8a93bd2da7f5e64d54794"
+    ],
+    "equal_tree": "8cdaee7eef7b4fa6a6193203b2e03d297d743596",
+    "push_run": 38405498931,
+    "push_job": 115323910402,
+    "push_conclusion": "success"
+  },
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s048_branches": 0,
+  "competing_s048_main_records": 0,
+  "accessible_rulesets_child": [],
+  "accessible_rulesets_parent": [],
+  "branch_protection": "UNKNOWN_403_GITHUB_INTEGRATION",
+  "local_checkout": "UNAVAILABLE_GITHUB_DNS_FAILURE",
+  "local_validations": "NOT_RUN",
+  "exact_input_archive_commit": "7cafb070fd694c99392e262126dabb15d676f265",
+  "hash_manifest_commit": "aa1e547f270ee71fa73a0b25e0698d20cfb574a6",
+  "third_frozen_gate_commit": "0816dbe7ecafd4f45739be124bbb48d7f777e7ac",
+  "main_proof_commit": "d89f29a13cfa299ffbce6b2555186641f8bc7f05",
+  "hostile_pass_commit": "fb63083b995200e1c54ccc28fd942922c16fb655"
+}
