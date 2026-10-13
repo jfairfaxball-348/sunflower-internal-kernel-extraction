@@ -8,5 +8,7 @@
   "exact_owner_invocation": true,
   "first_archive_commit": "ccc3e3286c926a6644b23bbd55aa123b38b2180b",
   "source": "new explicit owner message 2026-10-13",
-  "session_scope": "single substantial multi-front proof-first S049; S050 future only"
+  "session_scope": "single substantial multi-front proof-first S049; S050 future only",
+  "path": "sessions/P001-S049/INPUT.md",
+  "sha256": "b63347c30063f83c918c8211d9977c155d5fa7c360258546837860d9b51b2a77"
 }
