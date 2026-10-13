@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "51ed22a881c7d649b3ea2de46605495dddadb55d"
+    "authority_checkpoint": "494b02fe95e36bf33f185520b5a3f09cbd3aa749"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S041",
+  "session_completed": "P001-S042",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S040_PARENT_VERIFIED_S041_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S041_PARENT_VERIFIED_S042_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S042",
+    "session": "P001-S043",
     "objectives": [
-      "UNIVERSAL_REGIONAL_DICHOTOMY_OR_FULL_ALL_K_OVERLAP_BREAKTHROUGH"
+      "NONLINEAR_PAIR_MULTIPLICITY_M_SAVING_OR_FULL_HDSE3"
     ],
-    "description": "FUTURE independently invoked ambitious proof-first multi-front session: turn regional core/island weighted m^-3 theorem into an ORIGINAL-E mass dichotomy or solve unrestricted HDSE3/full TIK; no S042 work in S041.",
+    "description": "FUTURE separate owner invocation: nonlinear intermediate original pair codegree and full HDSE3/all-ranks TIK with correct final-H witnesses; do not execute in S042.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -132,9 +132,11 @@
     "research/S040_STAR_FOREST_PALETTE_BRIDGE.md",
     "research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md",
     "research/S041_FROZEN_GATE.md",
-    "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md"
+    "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md",
+    "research/S042_FROZEN_GATE.md",
+    "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md"
   ],
-  "last_outcome": "S041_WEIGHTED_REGIONAL_TRANSVERSAL_EXTRACTION_SHARP_EXPONENT_HDSE3_UNPROVED",
+  "last_outcome": "S042_ALL_K_LINEAR_EXPONENT_AND_TWO_WAY_REGIONAL_MASS_DICHOTOMY_FALSE_HDSE3_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }
