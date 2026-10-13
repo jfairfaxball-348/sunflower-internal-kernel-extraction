@@ -1326,6 +1326,36 @@
         }
       ],
       "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38244003126"
+    },
+    {
+      "id": 38383149617,
+      "event": "pull_request",
+      "head_sha": "4ae8c9403f86c065abd0610f88b371aa07afa2fe",
+      "conclusion": "success",
+      "status": "completed",
+      "jobs": [
+        {
+          "id": 115248297568,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38383149617"
+    },
+    {
+      "id": 38383253404,
+      "event": "push",
+      "head_sha": "dcc1617884c538d18a85649cad959cfeded0e28e",
+      "conclusion": "success",
+      "status": "completed",
+      "jobs": [
+        {
+          "id": 115248637606,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38383253404"
     }
   ],
   "child_pr": {
@@ -1468,5 +1498,9 @@
     "push_job": 114794931584,
     "conclusion": "success"
   },
-  "s033_outgoing_ci": "NOT_YET_OBSERVED_IN_THIS_PREMERGE_RECORD: final-head PR run and merged-main push must be observed after they exist"
+  "s033_outgoing_ci": "NOT_YET_OBSERVED_IN_THIS_PREMERGE_RECORD: final-head PR run and merged-main push must be observed after they exist",
+  "s045_entry_receipt": "sessions/P001-S045/ENTRY_EVIDENCE.json",
+  "s045_archived_prompt_sha256": "7e9de53c7ed632bca06f25f64a7235481e71c2b0302761f4117d5a612aad11b5",
+  "s045_frozen_gate_commit": "8e53ba0083fd155df6065f9fdfd44f4ca77ac471",
+  "s045_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE"
 }
