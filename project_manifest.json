@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "c3e58433bd881e84c7c893a1e702cb8ddab25700"
+    "authority_checkpoint": "51ed22a881c7d649b3ea2de46605495dddadb55d"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S040",
+  "session_completed": "P001-S041",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S039_PARENT_VERIFIED_S040_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S040_PARENT_VERIFIED_S041_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S041",
+    "session": "P001-S042",
     "objectives": [
-      "UNRESTRICTED_OVERLAP_OR_ALL_K_BREAKTHROUGH"
+      "UNIVERSAL_REGIONAL_DICHOTOMY_OR_FULL_ALL_K_OVERLAP_BREAKTHROUGH"
     ],
-    "description": "FUTURE independently invoked proof-first substantial session: unrestricted original HDSE3 joint multi-link allocation OR new all-k rank induction; do not execute in S040.",
+    "description": "FUTURE independently invoked ambitious proof-first multi-front session: turn regional core/island weighted m^-3 theorem into an ORIGINAL-E mass dichotomy or solve unrestricted HDSE3/full TIK; no S042 work in S041.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -130,9 +130,11 @@
     "research/S039_HYBRID_PALETTE_ATLAS_AND_EXTRACTION.md",
     "research/S040_FROZEN_GATE.md",
     "research/S040_STAR_FOREST_PALETTE_BRIDGE.md",
-    "research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md"
+    "research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md",
+    "research/S041_FROZEN_GATE.md",
+    "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md"
   ],
-  "last_outcome": "S040_ALL_PALETTE_DISJOINT_STAR_FOREST_M3_POSITIVE_AND_MANDATORY_AUDIT_HDSE3_UNPROVED",
+  "last_outcome": "S041_WEIGHTED_REGIONAL_TRANSVERSAL_EXTRACTION_SHARP_EXPONENT_HDSE3_UNPROVED",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
   "owner_research_policy": "PROOF_FIRST_NOVELTY_DEFERRED_UNTIL_COMPLETE_TIK_PROOF_CANDIDATE"
 }

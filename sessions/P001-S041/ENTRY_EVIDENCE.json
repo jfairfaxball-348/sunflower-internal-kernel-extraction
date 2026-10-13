@@ -1,0 +1,55 @@
+{
+  "session": "P001-S041",
+  "date": "2026-10-13",
+  "child_main": "e8e1c343405c94cdf3a585ef2b1db2c278f1fac1",
+  "parent_main": "51ed22a881c7d649b3ea2de46605495dddadb55d",
+  "child_previous_pr": {
+    "number": 42,
+    "final_head": "f7a6bdbe14288260593af78f343fb0894121f1e2",
+    "pull_request_run": 38305995855,
+    "pull_request_job": 115000071603,
+    "validate": "success",
+    "two_parent_merge": "e8e1c343405c94cdf3a585ef2b1db2c278f1fac1",
+    "parents": [
+      "c6a7bcf914642fc0d90c2235cbf6794e657e4b41",
+      "f7a6bdbe14288260593af78f343fb0894121f1e2"
+    ],
+    "matching_merge_and_head_tree": "0cef90701db7079dc0adf798a0e97bcfd8f1ff73",
+    "main_push_run": 38306053362,
+    "main_push_job": 115000258001,
+    "main_push_validate": "success"
+  },
+  "parent_previous_pr": {
+    "number": 44,
+    "final_head": "89829c69caecba2ef88a06625dd330a407019e1b",
+    "pull_request_run": 38306565889,
+    "pull_request_job": 115001937301,
+    "validate": "success",
+    "two_parent_merge": "51ed22a881c7d649b3ea2de46605495dddadb55d",
+    "parents": [
+      "c3e58433bd881e84c7c893a1e702cb8ddab25700",
+      "89829c69caecba2ef88a06625dd330a407019e1b"
+    ],
+    "matching_merge_and_head_tree": "1a3f6613d8bfb7191b61a7cd1f52de9986648000",
+    "main_push_run": 38306620392,
+    "main_push_job": 115002124537,
+    "main_push_validate": "success"
+  },
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s041_branches": 0,
+  "check_runs": "Four actual validate check-runs at respective heads, all completed SUCCESS",
+  "commit_statuses": "Four combined statuses reported pending/[] due no status contexts; NOT CI pass; Actions job validations independently SUCCESS",
+  "accessible_rulesets_child": [],
+  "accessible_rulesets_parent": [],
+  "branch_protection_child": "UNKNOWN_ACCESS_DENIED",
+  "branch_protection_parent": "UNKNOWN_ACCESS_DENIED",
+  "archive_commit": "33d44ee8059924a41557ebb83e23dc854c483d08",
+  "manifest_commit": "59f0b06b9cdfdfd84bc6588f71423152034f5ac3",
+  "frozen_gate_commit": "ff3510b5831454c97e8e34d27036e4366c2117c1",
+  "report_commit": "562fc0128431f424866f6f2c226c2cf40b8f6c41",
+  "second_pass_commit": "c3bf6c23bc9f906b0f1d28e6d77af196c6b56e55",
+  "successor_session": "P001-S042",
+  "successor_executed": false,
+  "premerge_only": true
+}

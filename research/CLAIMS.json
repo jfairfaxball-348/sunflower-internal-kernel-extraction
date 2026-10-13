@@ -1290,5 +1290,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md"
+  },
+  {
+    "id": "C-S041-A",
+    "claim": "Original-mass weighted rank-k regional theorem conditional on TIK_(k−1): F=F0 disjoint-edge-union vertex-disjoint islands Fi (F0 arbitrarily overlaps them) yields H internally valid with |H|>=c_(k−1)/m^(k−1) max{|F0|/tau*(F0), (1/m) sum_i |Fi|/tau*(Fi)} and all true in-H exact kernels.",
+    "mathematical_status": "SAME_ASSISTANT_RESTRICTED_ALL_RANKS_CONDITIONAL_EXTRACTION",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md"
+  },
+  {
+    "id": "C-S041-B",
+    "claim": "Scoped rank-k corollary: tau*(F0)<=Bm and tau*(Fi)<=B implies |H|>=c_(k−1)|F|/(2Bm^k); rank3 with S033 c2=1/8 gives |F|/(16Bm³) for arbitrary partial/non-product islands and core support overlapping all islands; no unrestricted HDSE3 decomposition.",
+    "mathematical_status": "SAME_ASSISTANT_SCOPED_RANK3_THEOREM_CONDITIONAL_ON_S033_GRAPH",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md"
+  },
+  {
+    "id": "C-S041-C",
+    "claim": "Exact same-E m−1 disjoint one-apex K_(m−1,m−1) island construction has |F|=(m−1)^3 and max internally valid H=1, proving exponent-three necessity for scoped regional theorem, not HDSE3/TIK counterexample; broad universal mass-capture implication remains unproved.",
+    "mathematical_status": "SAME_ASSISTANT_SHARPNESS_CONSTRUCTION_AND_GAP",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md"
   }
 ]
