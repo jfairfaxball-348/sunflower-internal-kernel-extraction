@@ -1390,6 +1390,38 @@
         }
       ],
       "checkout_semantics": "S045 two-parent exact equal-tree merged-main push; observed at S046 entry"
+    },
+    {
+      "id": 38399527066,
+      "event": "pull_request",
+      "head_sha": "f1713d70e553c998d79dfc9de75aaffb62e0146a",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 115303259878,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38399527066",
+      "checkout_semantics": "P001-S046 final HEAD observed at P001-S047 entry"
+    },
+    {
+      "id": 38399647574,
+      "event": "push",
+      "head_sha": "ad276ba083a8939e6dc88091aa57919b3b0e9ef8",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 115303664338,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38399647574",
+      "checkout_semantics": "P001-S046 two-parent equal-tree merged main observed at P001-S047 entry"
     }
   ],
   "child_pr": {
@@ -1401,7 +1433,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "P001-S019 separately verified via #22 and correction #23; P001-S020 outbound NOT YET OBSERVED",
-  "current_session": "P001-S033",
+  "current_session": "P001-S047_PREMERGE",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -1540,5 +1572,15 @@
   "s046_entry_receipt": "sessions/P001-S046/ENTRY_EVIDENCE.json",
   "s046_archived_prompt_sha256": "b63347c30063f83c918c8211d9977c155d5fa7c360258546837860d9b51b2a77",
   "s046_frozen_gate_commit": "a1ac5a47ba71153a33a3b630765e6a5c41f58188",
-  "s046_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE"
+  "s046_outgoing_ci": {
+    "status": "OBSERVED_SUCCESS_AT_S047_ENTRY",
+    "final_head": "f1713d70e553c998d79dfc9de75aaffb62e0146a",
+    "pr_run": 38399527066,
+    "pr_job": 115303259878,
+    "merged_main": "ad276ba083a8939e6dc88091aa57919b3b0e9ef8",
+    "push_run": 38399647574,
+    "push_job": 115303664338
+  },
+  "s047_entry_receipt": "sessions/P001-S047/ENTRY_EVIDENCE.json",
+  "s047_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE"
 }
