@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "session": "P001-S051",
+  "input_path": "sessions/P001-S051/INPUT.md",
+  "input_sha256": "9560cc3b00c2b8db71ea64a275419e58c735957209c4e88ed476788b5834b7fb",
+  "input_byte_count": 9,
+  "input_encoding": "utf-8",
+  "exact_owner_invocation": true,
+  "first_archive_commit": "2297d362dd195edf1879118d5e6f01b694d4e0dc",
+  "source": "New 2026-10-13 owner continuation 'Continue ' following completed and merged S050; invokes current standalone S051 handoff",
+  "session_scope": "one S051 ambitious proof-first multifront session, S052 future only",
+  "path": "sessions/P001-S051/INPUT.md",
+  "sha256": "9560cc3b00c2b8db71ea64a275419e58c735957209c4e88ed476788b5834b7fb"
+}
