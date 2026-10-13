@@ -7,14 +7,14 @@
     "repository": "jfairfaxball-348/sunflower-structures-programme",
     "repository_id": 1412469441,
     "url": "https://github.com/jfairfaxball-348/sunflower-structures-programme",
-    "authority_checkpoint": "494b02fe95e36bf33f185520b5a3f09cbd3aa749"
+    "authority_checkpoint": "ad509b482a52d56fb6c78b07151eec3f522f364a"
   },
   "child": {
     "repository": "jfairfaxball-348/sunflower-internal-kernel-extraction",
     "repository_id": 1412820282,
     "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction"
   },
-  "session_completed": "P001-S042",
+  "session_completed": "P001-S043",
   "objective": {
     "id": "TIK",
     "specification": "research/TARGET.md",
@@ -39,14 +39,14 @@
     "authoritative_repository": "jfairfaxball-348/sunflower-structures-programme",
     "receipt_path": "programme/P001_REGISTRATION.json",
     "verification_required": true,
-    "local_assertion": "P001-S041_PARENT_VERIFIED_S042_PENDING_SEPARATE_REGISTRATION"
+    "local_assertion": "P001-S042_PARENT_VERIFIED_S043_PENDING_SEPARATE_REGISTRATION"
   },
   "next_obligation": {
-    "session": "P001-S043",
+    "session": "P001-S044",
     "objectives": [
-      "NONLINEAR_PAIR_MULTIPLICITY_M_SAVING_OR_FULL_HDSE3"
+      "DENSE_CORE_NONLINEAR_THIRD_CERTIFICATE_OR_HDSE3"
     ],
-    "description": "FUTURE separate owner invocation: nonlinear intermediate original pair codegree and full HDSE3/all-ranks TIK with correct final-H witnesses; do not execute in S042.",
+    "description": "Standalone FUTURE dense-core nonlinear pair/fibre breakthrough or original HDSE3/all-k TIK attack; S045 fifth audit thereafter.",
     "open_status": "STATUS_UNCERTAIN",
     "handoff": "sessions/NEXT_SESSION.md",
     "executed": false
@@ -134,7 +134,8 @@
     "research/S041_FROZEN_GATE.md",
     "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md",
     "research/S042_FROZEN_GATE.md",
-    "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md"
+    "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md",
+    "research/S043_NONLINEAR_FIBRE_MATCHING_AND_DENSE_CORE_GAP.md"
   ],
   "last_outcome": "S042_ALL_K_LINEAR_EXPONENT_AND_TWO_WAY_REGIONAL_MASS_DICHOTOMY_FALSE_HDSE3_OPEN",
   "approved_next_route": "OWNER_PROOF_FIRST_ASSISTANT_CHOSEN_HIGH_LOAD",
