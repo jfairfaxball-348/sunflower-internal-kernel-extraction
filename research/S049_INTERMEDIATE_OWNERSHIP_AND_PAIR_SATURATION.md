@@ -27,46 +27,46 @@ For t<m, within a single selected richest F_a all realised kernels are {a,x} and
 ## 2. THEOREM S049-B: ORIGINAL weighted intermediate-multiplicity repair at the EXACT m^-3 scale, under explicit strong link richness
 
 **Statement.** Let m>=3 and an arbitrary ORIGINAL exactly-one-hub triple family F as above, e=|F|>=1. Set
-[
+\[
 L=ln(64m^3(e+1)),\quad D=64m^2(m+L),\quad M=64m^3(m+L).
-]
+\]
 Suppose EVERY active original graph G_a has min^+ degree >=D and matching number >=M. No restrictions on r(x), h(xy), ordinary-support overlap, incomplete or nonbipartite graph links, or conflict chromatic number. Then an internally m-valid FINAL subfamily H subset F exists with
-[
+\[
 |H|\ge |F|/(2m^3).
-]
+\]
 The constant 1/2 is ABSOLUTE. The premises D,M are much stronger than robust-corefree 6m-spread/high-hub normalisation and depend logarithmically on ORIGINAL e. Therefore this is a genuine scoped m^-3 ORIGINAL-mass theorem, NOT universal HDSE3/R3/TIK. No algorithmic runtime claim is made.
 
 **Independent original ownership variables (NO experiment).** For every ordinary x with intermediate 2<=r(x)<=m-1 independently choose a uniform owner hub among its r(x) ORIGINAL supporting hubs. For each ordinary base pair xy with intermediate 2<=h(xy)<=m-1 independently choose a uniform owner hub among its h(xy) ORIGINAL supporting hubs, independently of ALL vertex choices. Multiplicities 1 and >=m impose no owner restriction. A whole ORIGINAL triple {a,x,y} is retained precisely when a passes x's owner restriction (if any), y's owner restriction (if any), AND xy's owner restriction (if any). Call the random final family F'. No non-original edge is ever introduced. All vertex/pair choices are independent *as variables*; individual edge survival events need not be independent.
 
 Every original triple survives with probability >=(m-1)^(-3)>=m^(-3), because it meets at most three independent restrictions, each with <=m-1 equiprobable possible owners. Thus
-[
+\[
 \mathbb E|F'|\ge e/m^3. \tag{B1}
-]
+\]
 
 **Quantified link degree and matching event.** For every original active incidence (a,x), let B_(a,x) be the event that x is PERMITTED at hub a (r(x)=1 or r(x)>=m, or intermediate x chooses a), but its positive F'-degree in G'_a is <m. CONDITIONAL on permission at x, for distinct ordinary neighbours y of x, the graph-edge survival indicators for xy in hub a depend on different y-owner variables and different base-pair-owner variables, and are therefore mutually INDEPENDENT. Each has conditional success probability at least (m-1)^(-2). So the sum has mean at least d_a(x)/(m-1)^2 >=64(m+L), and a multiplicative Chernoff lower-tail bound gives
-[
+\[
 \Pr(B_{a,x})\le\exp[-8(m+L)].
-]
+\]
 (The unconditional event additionally includes the permission of x and cannot have larger probability.)
 
 Fix for each original active a ANY graph matching Q_a of size at least M (choose exactly ceil(M) original matching edges; integer rounding only strengthens bounds). Its distinct base edges have DISJOINT ordinary endpoints and therefore depend on disjoint ownership variables, so their survival events are independent, each with probability >=(m-1)^(-3). Their sum has expectation >=64(m+L), hence
-[
+\[
 \Pr(\nu(G'_a)<2m)\le \Pr(|Q_a\cap E(G'_a)|<2m)
 \le\exp[-8(m+L)].
-]
+\]
 The inequalities use the standard tail \Pr(X<\mu/2)<=exp(-\mu/8) and \mu/2>=32(m+L)>2m.
 
 There are at most 2e distinct original (a,x) incidences and at most e active hubs. Union bound shows the BAD event B, that any permitted positive link fails min^+ degree>=m or any active hub fails matching>=2m, satisfies
-[
+\[
 \Pr(B)\le3e\exp[-8(m+L)]< 1/(2m^3). \tag{B2}
-]
+\]
 The strict final inequality follows directly from L=ln(64m^3(e+1)) and e>=1; in particular no hidden dependence on ambient n or hub count is needed beyond the EXPLICIT ln(e+1) in the richness premises.
 
 **Mass simultaneously with ALL local certificates.** Since 0<=|F'|<=e,
-[
+\[
 \mathbb E[|F'|\mathbf1_{B^c}]\ge\mathbb E|F'|-e\Pr(B)
 \ge e/(2m^3). \tag{B3}
-]
+\]
 Consequently SOME concrete choice of owners in the GOOD event gives |F'|>=e/(2m^3): its GOOD-event maximum is at least the unconditional expectation in (B3).
 
 **What happens to exact multiplicity gaps?** If original r(x) is intermediate, at most ONE hub can retain an edge at x; if r(x)=1, the same. If original r(x)>=m, x is never ownership-restricted, and on B^c every original supporting hub has final degree >=m. Thus in F' every positive r'(x) is 1 or >=m. Similarly, intermediate ORIGINAL h(xy) allows at most ONE surviving hub; original h(xy)=1 has <=1. If original h(xy)>=m, both its endpoints x,y have original hub multiplicity >=m and are UNRESTRICTED, and the pair xy is also unrestricted; hence ALL h(xy)>=m original lifted triples remain, so h'(xy)=h(xy)>=m. Thus EVERY positive r', h' has the precise 1-or->=m saturation gap required by S049-A, with no assumption of sparse overlaps.
