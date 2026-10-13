@@ -1431,5 +1431,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S045_UNBALANCED_DENSE_CORE_ALL_RANK_EXTRACTION.md"
+  },
+  {
+    "id": "C-S046-A",
+    "claim": "For arbitrary original rank k F with matching number s, conditional on TIK_(k-1) c_(k-1), an exact final-H valid one-apex lift retains c_(k-1)|F|/[k s m^(k-1)]; for s>=m matching itself valid and maxvalid>=max(s,link bound). For k=3 via S033 c2=1/8: maxvalid>=|F|/(24s m^2); s<=A m implies c3>=1/(24A), independent of original pair multiplicities/density. Explicit synthesis of S035/S041, not an unrestricted new TIK theorem.",
+    "mathematical_status": "SAME_ASSISTANT_PARAMETERISED_CONDITIONAL_LINK_MATCHING_SYNTHESIS",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S046_SPARSE_MIXED_PAIR_ENVELOPE_AND_RESCUE.md"
+  },
+  {
+    "id": "C-S046-B",
+    "claim": "For m>=3 deterministic r=216m^4 cyclically bridge-connected K_(m,m) multiple-hub triple E has e=r(m^4+1), n=r(2m^3+1), original minimum positive degree m, B=m, nu=tau*=r, max degree m^4+1, e/n=Theta(m), 6m-spread, core-free, every edge touches high hub>m^3, and original PAIR channels 2 and m. E itself invalid, but removing only bridges gives exact all-kernel final-H valid fraction m^4/(m^4+1).",
+    "mathematical_status": "SAME_ASSISTANT_SYMBOLIC_PARAMETRIC_HDSE3_POSITIVE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S046_SPARSE_MIXED_PAIR_ENVELOPE_AND_RESCUE.md"
+  },
+  {
+    "id": "C-S046-C",
+    "claim": "For the SAME original S046 E, every matching is <=r and every one-vertex-star subfamily <=m^4+1, while m^3*r/e->0 and m^3*(m^4+1)/e->0. Therefore the disjunction 'one matching OR one common-apex extraction' cannot universally achieve m^-3. Exact near-full SAME-E valid rescue prevents any HDSE3/R3/TIK counterexample inference.",
+    "mathematical_status": "SAME_ASSISTANT_EXACT_METHOD_ONLY_ASYMPTOTIC_OBSTRUCTION",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S046_SPARSE_MIXED_PAIR_ENVELOPE_AND_RESCUE.md"
   }
 ]

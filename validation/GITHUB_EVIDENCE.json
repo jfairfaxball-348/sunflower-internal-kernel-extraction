@@ -1356,6 +1356,40 @@
         }
       ],
       "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38383253404"
+    },
+    {
+      "id": 38386503609,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38386503609",
+      "event": "pull_request",
+      "head_sha": "302016c70609bf8fb358b621d78c573851417f40",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 115259502029,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "checkout_semantics": "S045 FINAL-HEAD pull_request validate; observed at S046 entry"
+    },
+    {
+      "id": 38386566672,
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38386566672",
+      "event": "push",
+      "head_sha": "91c379d3b24d0423c6add7f522b42f950e459512",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 115259710409,
+          "name": "validate",
+          "status": "completed",
+          "conclusion": "success"
+        }
+      ],
+      "checkout_semantics": "S045 two-parent exact equal-tree merged-main push; observed at S046 entry"
     }
   ],
   "child_pr": {
@@ -1502,5 +1536,9 @@
   "s045_entry_receipt": "sessions/P001-S045/ENTRY_EVIDENCE.json",
   "s045_archived_prompt_sha256": "7e9de53c7ed632bca06f25f64a7235481e71c2b0302761f4117d5a612aad11b5",
   "s045_frozen_gate_commit": "8e53ba0083fd155df6065f9fdfd44f4ca77ac471",
-  "s045_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE"
+  "s045_outgoing_ci": "OBSERVED_FINAL_HEAD_RUN_38386503609_JOB_115259502029_SUCCESS_MERGED_MAIN_PUSH_RUN_38386566672_JOB_115259710409_SUCCESS",
+  "s046_entry_receipt": "sessions/P001-S046/ENTRY_EVIDENCE.json",
+  "s046_archived_prompt_sha256": "b63347c30063f83c918c8211d9977c155d5fa7c360258546837860d9b51b2a77",
+  "s046_frozen_gate_commit": "a1ac5a47ba71153a33a3b630765e6a5c41f58188",
+  "s046_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE"
 }
