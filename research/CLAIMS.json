@@ -1461,5 +1461,26 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S046_SPARSE_MIXED_PAIR_ENVELOPE_AND_RESCUE.md"
+  },
+  {
+    "id": "C-S047-A",
+    "claim": "S047 original rank-three edge-disjoint hub×m-rich graph-cell families with common hub in each LOW ordinary-base-overlap component admit internally m-valid FINAL H >=e/(m-1)^2, upgraded to e/(m-1) when SAT exists or >=m distinct LOW oriented hubs. Arbitrarily overlapping SAT cell ordinary supports are permitted. SAME-ASSISTANT scoped proof, not universal HDSE3/R3/TIK.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S047_MULTIHUB_GRAPH_CELL_EXTRACTION.md",
+    "audit_record": "research/S047_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S047-B",
+    "claim": "Connected original robust-corefree 6m-spread high-hub dual-cell cyclic F with PAIR codegrees 2,m, tau*=nu=216m^4 and HALF original mass in pair-conflicting second lifts has SAME-ORIGINAL internally valid H=e/2. Matching/one-hub alone o(e/m^3). METHOD counterexample only, NOT HDSE3 counterexample.",
+    "mathematical_status": "SAME_ASSISTANT_PARAMETRIC_POSITIVE_CONTROL",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S047_MULTIHUB_GRAPH_CELL_EXTRACTION.md"
   }
 ]

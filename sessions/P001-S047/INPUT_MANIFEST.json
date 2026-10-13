@@ -1,0 +1,11 @@
+{
+  "session": "P001-S047",
+  "source": "EXACT_USER_MESSAGE_AS_RECEIVED",
+  "path": "sessions/P001-S047/INPUT.md",
+  "encoding": "UTF-8",
+  "byte_length": 126,
+  "sha256": "8e4db46a450e50dd8049c90d4da13d7a78e95bb4549e84ac0e72897c213df993",
+  "archive_commit": "3705bcce7c95abfb80c49205d84e378587df09c8",
+  "authoritative_future_prompt": "sessions/NEXT_SESSION.md",
+  "scope": "one owner-invoked P001-S047 only"
+}
