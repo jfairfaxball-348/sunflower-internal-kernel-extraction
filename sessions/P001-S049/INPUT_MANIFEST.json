@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "session": "P001-S049",
+  "input_path": "sessions/P001-S049/INPUT.md",
+  "input_sha256": "b63347c30063f83c918c8211d9977c155d5fa7c360258546837860d9b51b2a77",
+  "input_byte_count": 230,
+  "input_encoding": "utf-8",
+  "exact_owner_invocation": true,
+  "first_archive_commit": "ccc3e3286c926a6644b23bbd55aa123b38b2180b",
+  "source": "new explicit owner message 2026-10-13",
+  "session_scope": "single substantial multi-front proof-first S049; S050 future only",
+  "path": "sessions/P001-S049/INPUT.md",
+  "sha256": "b63347c30063f83c918c8211d9977c155d5fa7c360258546837860d9b51b2a77"
+}

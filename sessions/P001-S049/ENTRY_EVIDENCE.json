@@ -1,0 +1,55 @@
+{
+  "session": "P001-S049",
+  "date": "2026-10-13",
+  "child_entry_main": "57f0c8badd13cf2056a2df54ebd016828a81f28f",
+  "parent_entry_main": "6453421ba6607b088767b65411112c1df8f515d5",
+  "previous_child": {
+    "pr": 50,
+    "final_head": "e47262d3999af239d585e1a7212601a4281ce1d2",
+    "pr_run": 38424009935,
+    "pr_job": 115388488754,
+    "pr_conclusion": "success",
+    "merge": "57f0c8badd13cf2056a2df54ebd016828a81f28f",
+    "merge_parents": [
+      "48e7c29d04eb449cc20d4520c25eac7030aab059",
+      "e47262d3999af239d585e1a7212601a4281ce1d2"
+    ],
+    "equal_tree": "ba1102d6cbb6fe986bbc5fdf0924b85d9a1b3049",
+    "push_run": 38424133836,
+    "push_job": 115388918727,
+    "push_conclusion": "success"
+  },
+  "previous_parent": {
+    "pr": 52,
+    "final_head": "02513a6d8ed21ffb70c8b31a1c87519e92d47421",
+    "pr_run": 38425258375,
+    "pr_job": 115392860172,
+    "pr_conclusion": "success",
+    "merge": "6453421ba6607b088767b65411112c1df8f515d5",
+    "merge_parents": [
+      "9a8cd36db1e7ff133c8be99b30c9dcc250f25485",
+      "02513a6d8ed21ffb70c8b31a1c87519e92d47421"
+    ],
+    "equal_tree": "f1541c8b376152dda2e6fd268701280778f45516",
+    "push_run": 38425338377,
+    "push_job": 115393146514,
+    "push_conclusion": "success"
+  },
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s049_branches": 0,
+  "competing_s049_main_records": 0,
+  "accessible_rulesets_child": [],
+  "accessible_rulesets_parent": [],
+  "branch_protection": "UNKNOWN_403_GITHUB_INTEGRATION",
+  "commit_status_contexts": "EMPTY_NOT_A_PASS",
+  "local_checkout": "UNAVAILABLE_GITHUB_DNS_FAILURE",
+  "local_validations": "NOT_RUN",
+  "exact_input_archive_commit": "ccc3e3286c926a6644b23bbd55aa123b38b2180b",
+  "input_sha256": "b63347c30063f83c918c8211d9977c155d5fa7c360258546837860d9b51b2a77",
+  "hash_manifest_commit": "5ce32eb6c02ae7bcd4371213755eacc569f5d319",
+  "third_frozen_gate_commit": "f4bb6f42140dc163e2a8715ae206802db680554a",
+  "main_proof_commit": "7d67a5757bd265dccb44b4099e5689aa094d6da5",
+  "proof_display_correction_commit": "c543e3846b6fa1b4b5b48cef62f4f40c244d7a41",
+  "hostile_pass_commit": "3b3a386e23e3634aafa2eb855e99b3fe669c2c7e"
+}

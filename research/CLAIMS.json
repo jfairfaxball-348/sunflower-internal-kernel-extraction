@@ -1526,5 +1526,38 @@
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S048_OVERLAP_HUB_LINK_GLUING.md",
     "audit_record": "research/S048_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S049-A",
+    "claim": "EXACT iff: for >=m active original one-hub triple graph links with min positive degree>=m and matching>=2m, entire F is internally m-valid iff all positive ordinary vertex hub multiplicities r(x) and ordinary base PAIR multiplicities h(xy) are 1 or >=m; no support-linearity/colourability/completeness/bipartiteness. <m active hubs admits richest original fibre >=e/(m-1). All final pair/singleton/empty witnesses.",
+    "record": "research/S049_INTERMEDIATE_OWNERSHIP_AND_PAIR_SATURATION.md",
+    "audit_record": "research/S049_HOSTILE_SECOND_PASS.md",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C-S049-B",
+    "claim": "For arbitrary original exactly-one-hub triples e>=1,m>=3 with each residual graph min-positive degree >=64m^2(m+ln(64m^3(e+1))) and matching >=64m^3(m+ln(64m^3(e+1))), independent intermediate vertex/base-pair ownership yields FINAL in-H m-valid H>=e/(2m^3). Strong log(e)-dependent richness is NOT implied by 6m-spread corefree high hub; unrestricted HDSE3/R3/all-k TIK unproved.",
+    "record": "research/S049_INTERMEDIATE_OWNERSHIP_AND_PAIR_SATURATION.md",
+    "audit_record": "research/S049_HOSTILE_SECOND_PASS.md",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C-S049-C",
+    "claim": "S049 hostile symbolic same-original 6m-spread robust-corefree high-hub duplicated K_(N,N) block pairs with ordinary r(x)=2 and base PAIR h(xy)=2<m: F itself invalid but selected H=e/2 valid; no HDSE3 counterexample. Arbitrarily rich link choice shows S049-B nonvacuous inside hard-normalised class.",
+    "record": "research/S049_HOSTILE_SECOND_PASS.md",
+    "audit_record": "research/S049_HOSTILE_SECOND_PASS.md",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION"
   }
 ]
