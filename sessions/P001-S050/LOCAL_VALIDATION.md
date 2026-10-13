@@ -1,0 +1,3 @@
+# P001-S050 — local validation NOT RUN
+
+This environment has no REAL Git checkout of the connected repository: `git ls-remote https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction.git HEAD` failed DNS `Could not resolve host: github.com` on 2026-10-13. Therefore `python3 scripts/validate.py` and `python3 -m unittest discover -s tests -v` are explicitly **NOT RUN** locally. GitHub connector-based edits do not constitute a local clone. Required hosted PR final-head and merged-main PUSH `research-integrity/validate` jobs must be observed as actual SUCCESS independently; none is asserted in this premerge record.

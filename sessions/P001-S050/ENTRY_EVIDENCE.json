@@ -1,0 +1,53 @@
+{
+  "session": "P001-S050",
+  "date": "2026-10-13",
+  "child_entry_main": "caac0918736d8fb9982a4c69d57b2be613f99ab6",
+  "parent_entry_main": "fd23135989a771d2cd8ea18863f7a842d5f4b03c",
+  "previous_child": {
+    "pr": 51,
+    "final_head": "0bc5db57bba85677e686d35cda811dcf04c76198",
+    "pr_run": 38431512164,
+    "pr_job": 115414600255,
+    "pr_conclusion": "success",
+    "merge": "caac0918736d8fb9982a4c69d57b2be613f99ab6",
+    "merge_parents": [
+      "57f0c8badd13cf2056a2df54ebd016828a81f28f",
+      "0bc5db57bba85677e686d35cda811dcf04c76198"
+    ],
+    "push_run": 38431597679,
+    "push_job": 115414895692,
+    "push_conclusion": "success"
+  },
+  "previous_parent": {
+    "pr": 53,
+    "final_head": "aae73e39f2edf5c004a69a1a8da022ef9b299740",
+    "pr_run": 38432464684,
+    "pr_job": 115417881665,
+    "pr_conclusion": "success",
+    "merge": "fd23135989a771d2cd8ea18863f7a842d5f4b03c",
+    "merge_parents": [
+      "6453421ba6607b088767b65411112c1df8f515d5",
+      "aae73e39f2edf5c004a69a1a8da022ef9b299740"
+    ],
+    "push_run": 38432539470,
+    "push_job": 115418138349,
+    "push_conclusion": "success"
+  },
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s050_branches": 0,
+  "competing_s050_main_records": 0,
+  "accessible_rulesets_child": [],
+  "accessible_rulesets_parent": [],
+  "branch_protection": "UNKNOWN_403_GITHUB_INTEGRATION",
+  "commit_status_contexts": "EMPTY_NOT_A_PASS",
+  "local_checkout": "UNAVAILABLE_GITHUB_DNS_FAILURE",
+  "local_validations": "NOT_RUN",
+  "exact_input_archive_commit": "d3180124e86cec20f62805c4096d3f1bd325631d",
+  "input_sha256": "9560cc3b00c2b8db71ea64a275419e58c735957209c4e88ed476788b5834b7fb",
+  "hash_manifest_commit": "e0d73aeccef7fc9d409c5da6a68ad0b84721f8d4",
+  "third_frozen_gate_commit": "0a03d77e53be10710d78bd3c6fee1f69056d9c26",
+  "main_proof_commit": "dd99bc89f47f2916534ea8192369713d9a029c69",
+  "mandatory_fifth_tenth_audit_commit": "6b1f70c483c08df724a2b44f81cc93a554ce08b7",
+  "hostile_pass_commit": "4fb0f6360374ef53bafba84da8ced3fc43687178"
+}
