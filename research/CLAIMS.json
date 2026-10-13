@@ -1350,5 +1350,25 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md"
+  },
+  {
+    "id": "C090",
+    "claim": "S043 SAME-ASSISTANT proof: original 3-sets with pair-codegree below m, bounded first-delete-apex outdegree <=m-1 admit fully internally valid H of size >=|D|/(108m^3); if D is at least half of F and original maximum vertex degree <=|F|/(6m), at least |F|/(216m^3). High vertex degree alternatively gives >|F|/(48m^3). Dense surviving core remains unresolved.",
+    "mathematical_status": "RESTRICTED_SAME_ASSISTANT_PROOF_UNREVIEWED",
+    "novelty_status": "NOVELTY_UNCERTAIN",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S043_NONLINEAR_FIBRE_MATCHING_AND_DENSE_CORE_GAP.md"
+  },
+  {
+    "id": "C091",
+    "claim": "S043 same-original affine Steiner triple lines are themselves fully valid but a global one-private-apex matching captures at most n of n(n-1)/6 original edges; this refutes a method, not unrestricted HDSE3, R3 or TIK. Saturated pair stars likewise require a different certificate.",
+    "mathematical_status": "METHOD_OBSTRUCTION_SAME_E_POSITIVE_RESCUE",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S043_NONLINEAR_FIBRE_MATCHING_AND_DENSE_CORE_GAP.md"
   }
 ]

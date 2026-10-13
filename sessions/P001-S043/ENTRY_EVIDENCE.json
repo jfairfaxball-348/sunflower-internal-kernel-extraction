@@ -1,0 +1,56 @@
+{
+  "session": "P001-S043",
+  "date": "2026-10-13",
+  "child_main": "47122d5c8fe01054d2db871412eb9e16dbd38c42",
+  "parent_main": "ad509b482a52d56fb6c78b07151eec3f522f364a",
+  "child_previous_pr": {
+    "number": 44,
+    "final_head": "981507a17a0f7a68ef8cf63906f9e69754307b4a",
+    "run": 38373003091,
+    "job": 115214351394,
+    "validation": "success",
+    "merge": "47122d5c8fe01054d2db871412eb9e16dbd38c42",
+    "parents": [
+      "92b3bc14caa69f81db82c98b383e75a2ae4292cf",
+      "981507a17a0f7a68ef8cf63906f9e69754307b4a"
+    ],
+    "matching_head_merge_tree": "86d29139094ab35ad97e14ac74d4242e20c56927",
+    "push_run": 38373071947,
+    "push_job": 115214580353,
+    "push_validation": "success"
+  },
+  "parent_previous_pr": {
+    "number": 46,
+    "final_head": "e55298b1113019e5c3227ba2e19e60de2c37fdef",
+    "run": 38373987646,
+    "job": 115217633508,
+    "validation": "success",
+    "merge": "ad509b482a52d56fb6c78b07151eec3f522f364a",
+    "parents": [
+      "494b02fe95e36bf33f185520b5a3f09cbd3aa749",
+      "e55298b1113019e5c3227ba2e19e60de2c37fdef"
+    ],
+    "matching_head_merge_tree": "3e551b0e3c7068945fff78ff8b424b1ed0bbbed1",
+    "push_run": 38374043497,
+    "push_job": 115217823201,
+    "push_validation": "success"
+  },
+  "open_prs_child": 0,
+  "open_prs_parent": 0,
+  "competing_s043_branches": 0,
+  "competing_s043_parent_branches": 0,
+  "check_runs": "both previous final HEAD validate SUCCESS; all four hosted jobs SUCCESS",
+  "combined_status": "pending, 0 contexts, NOT passing evidence",
+  "rulesets_child": [],
+  "rulesets_parent": [],
+  "protection_child": "UNKNOWN_403",
+  "protection_parent": "UNKNOWN_403",
+  "archive": "e5ef47f70efe02a4ccbb239f3753e0bdf9507b88",
+  "hash_manifest": "7861521adc993a6288dd8fe00d9e3be660d85d0d",
+  "frozen": "1fdad4b6f72a713b72eb36bf385abf60b42584f2",
+  "report": "f068ed1c00af9ede2c6bff816425d8021c381909",
+  "second_pass": "1ade6ede4da68a649f23c19bacf7f6646f6495d8",
+  "next_session": "P001-S044",
+  "next_executed": false,
+  "premerge": true
+}

@@ -112,3 +112,6 @@ The target text is unchanged.
 - A degenerate-spread equivalence: given TIK_{<k}, TIK_k holds iff an m^-k bound holds for λm-spread core-free families. R3 is equivalent to DSE_3, which is UNPROVED.
 
 These are not independently reviewed, their literature status is unchecked (N1 deferred), and no novelty is claimed. Every-k TIK and R3 remain UNPROVED. See [S033 report](S033_LINK_REDUCTION_AND_RANK_TWO.md).
+
+## P001-S043 — ORIGINAL nonlinear scoped m-saving
+On original triple F with all pair degrees below m, a first-deleted low-outdegree D has final H >=|D|/(108m³) with all exact realised kernels certified inside H. If original Delta<=|F|/(6m) and |D|>=|F|/2, H>=|F|/(216m³); otherwise when Delta>|F|/(6m), a rank-two link lift gives >|F|/(48m³). Large nonlinear vertex m-core is NOT solved. S042 affine lines are fully m-valid yet defeat mandatory global private-apex matching. R3/HDSE3/unrestricted all-k TIK remain unproved; no novelty or formal status upgrade. [Full report](S043_NONLINEAR_FIBRE_MATCHING_AND_DENSE_CORE_GAP.md).
