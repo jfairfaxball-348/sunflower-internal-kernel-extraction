@@ -1422,6 +1422,38 @@
       ],
       "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38399647574",
       "checkout_semantics": "P001-S046 two-parent equal-tree merged main observed at P001-S047 entry"
+    },
+    {
+      "id": 38424009935,
+      "event": "pull_request",
+      "head_sha": "e47262d3999af239d585e1a7212601a4281ce1d2",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 115388488754,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38424009935",
+      "checkout_semantics": "P001-S048 exact final PR HEAD, verified at S049 entry"
+    },
+    {
+      "id": 38424133836,
+      "event": "push",
+      "head_sha": "57f0c8badd13cf2056a2df54ebd016828a81f28f",
+      "status": "completed",
+      "conclusion": "success",
+      "jobs": [
+        {
+          "id": 115388918727,
+          "name": "validate",
+          "conclusion": "success"
+        }
+      ],
+      "url": "https://github.com/jfairfaxball-348/sunflower-internal-kernel-extraction/actions/runs/38424133836",
+      "checkout_semantics": "P001-S048 two-parent equal-tree merged main, verified at S049 entry"
     }
   ],
   "child_pr": {
@@ -1433,7 +1465,7 @@
   "required_check_name": "validate",
   "final_merge_evidence": "Recorded in verified parent programme/P001_REGISTRATION.json and GitHub; do not treat absent receipt as successful sync.",
   "parent_registration_status": "P001-S019 separately verified via #22 and correction #23; P001-S020 outbound NOT YET OBSERVED",
-  "current_session": "P001-S047_PREMERGE",
+  "current_session": "P001-S049",
   "s001_entry_receipt": "sessions/P001-S001/ENTRY_EVIDENCE.json",
   "s001_pr": {
     "number": 2,
@@ -1599,5 +1631,26 @@
     "parent_push_job": 115323910402,
     "all_conclusions": "success"
   },
-  "s048_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE; actual final-head PR and independent merged-main PUSH required"
+  "s048_outgoing_ci": "NOT_YET_OBSERVED_PREMERGE; actual final-head PR and independent merged-main PUSH required",
+  "s049_entry_receipt": {
+    "child_main": "57f0c8badd13cf2056a2df54ebd016828a81f28f",
+    "parent_main": "6453421ba6607b088767b65411112c1df8f515d5",
+    "child_previous_pr": 50,
+    "child_final_head": "e47262d3999af239d585e1a7212601a4281ce1d2",
+    "child_pr_run": 38424009935,
+    "child_pr_job": 115388488754,
+    "child_main_push_run": 38424133836,
+    "child_main_push_job": 115388918727,
+    "parent_previous_pr": 52,
+    "parent_final_head": "02513a6d8ed21ffb70c8b31a1c87519e92d47421",
+    "parent_pr_run": 38425258375,
+    "parent_pr_job": 115392860172,
+    "parent_main_push_run": 38425338377,
+    "parent_main_push_job": 115393146514,
+    "previous_jobs": "ACTUAL_SUCCESS",
+    "protection": "UNKNOWN",
+    "rulesets": "EMPTY_ACCESSIBLE",
+    "competing_session": "NONE",
+    "local_validation": "NOT_RUN_GITHUB_DNS"
+  }
 }
