@@ -1370,5 +1370,36 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S043_NONLINEAR_FIBRE_MATCHING_AND_DENSE_CORE_GAP.md"
+  },
+  {
+    "id": "C-S044-A",
+    "claim": "SAME-ASSISTANT conditional original pair-degree <m and bounded assigned-apex degeneracy d<=Am gives internally m-valid rank3 H>=|F|/[54(A+1)m^3] with exact final-H singleton/EMPTY witnesses via bipartite private-apex matching and S033 graph T2.",
+    "mathematical_status": "SCOPED_SYMBOLIC_PROOF_PENDING_INDEPENDENT_REVIEW",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S044_DENSE_BALANCED_CORE_AND_DEGENERACY.md"
+  },
+  {
+    "id": "C-S044-B",
+    "claim": "SAME-ASSISTANT genuine nonlinear dense balanced triple vertex m-core theorem: pair degree<=m-1, |F|>=2(3m-2)mn, Delta<=A|F|/n gives valid H>=|F|/(36A m^3), with explicit cyclic algebraic 6m-spread robust-core-free high-degree HDSE3 family whose original F is pair-invalid but selected H is valid.",
+    "mathematical_status": "SCOPED_SYMBOLIC_PROOF_PENDING_INDEPENDENT_REVIEW",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_CLAIMED_ORIGINAL",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S044_DENSE_BALANCED_CORE_AND_DEGENERACY.md",
+    "audit_record": "sessions/P001-S044/SECOND_PASS_VALIDATION.md"
+  },
+  {
+    "id": "C-S044-C",
+    "claim": "Disjoint union of m-1 separately valid saturated pair-stars is NOT necessarily internally valid because EMPTY has maximum matching m-1; SAME-ORIGINAL rescue keeps 1/(m-1) and is not an HDSE3 counterexample. Unrestricted HDSE3/R3/every-k TIK remain UNPROVED.",
+    "mathematical_status": "EXACT_METHOD_COUNTEREXAMPLE_NOT_TARGET_REFUTATION",
+    "novelty_status": "NOT_AN_ORIGINALITY_CLAIM",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S044_DENSE_BALANCED_CORE_AND_DEGENERACY.md"
   }
 ]
