@@ -62,3 +62,6 @@ Audit at research/S040_PROGRESS_AND_STRATEGIC_AUDIT.md reviews S036–S040, S005
 
 ## P001-S041 — cadence preserved, no premature fifth audit
 One substantial same-assistant regional weighted extraction theorem and one separate adversarial reconstruction, following the completed S040 mandatory fifth/tenth audit. The S041 all-k statement is **conditional** on the lower-rank theorem and structural decomposition, not full TIK. S045 remains NEXT mandatory fifth correction audit and S050 next tenth reassessment. Existing S005/S010/S015/S020/S025/S030/S035/S040 records, corrected S039 no-tensor example and S023 whole-block versus partial-edge distinction retained. S042 is prepared FUTURE only.
+
+## P001-S042 correction/audit cadence
+S042 is a substantive ambitious multi-front proof-first mathematical session, NOT the mandatory fifth correction audit. All S005/S010/S015/S020/S025/S030/S035 and S040 fifth/tenth strategic audits remain binding. S042's all-ranks LINEAR scoped positive and TWO-WAY regional mass method-only negative must be revisited at S045 against S043–S044, with all original-vs-selected family and exponent controls. S045 next mandatory audit, S043 sole FUTURE handoff, no unrestricted TIK or novelty/independent referee.

@@ -1320,5 +1320,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S041_REGIONAL_OVERLAP_AND_ALL_K_LINK.md"
+  },
+  {
+    "id": "C-S042-A",
+    "claim": "All original LINEAR k-uniform families admit internally m-valid H of size >= |F|/[2^(k-1) k^k m^k] for every k>=1, all realised exact kernels including EMPTY witnessed in final H. Based on S033 c2=1/8, vertex m-core/greedy matching, low-degree peeling and red-private-apex linear induction; not unrestricted TIK.",
+    "mathematical_status": "SAME_ASSISTANT_ALL_RANKS_LINEAR_ONLY_EXTRACTION",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md"
+  },
+  {
+    "id": "C-S042-B",
+    "claim": "Original maximum pair-codegree B gives internally valid H >= |F|/[(1+binom(k,2)(B-1)) 2^(k-1) k^k m^k] by conflict-colouring into linear layers. For k=3 denominator 108(3B-2)m^3; B growing with m remains unresolved.",
+    "mathematical_status": "SAME_ASSISTANT_ALL_RANKS_BOUNDED_CODEGREE_ONLY_EXTRACTION",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md"
+  },
+  {
+    "id": "C-S042-C",
+    "claim": "Affine Steiner line triple originals E on F_3^d with n=3^d>=40m^3 satisfy genuine 6m-spread core-free high-degree HDSE3 and H=E fully internally m-valid, yet any global tau*<=Bm and vertex-disjoint island tau*<=B subfamilies capture at most 3B[m/n+1/(n-1)] original mass. Refutes only universal two-way regional mass capture, NOT HDSE3/TIK.",
+    "mathematical_status": "SAME_ASSISTANT_METHOD_ONLY_COUNTEREXAMPLE_WITH_SAME_E_FULL_RESCUE",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S042_LINEAR_HIERARCHY_AND_REGIONAL_DICHOTOMY.md"
   }
 ]
