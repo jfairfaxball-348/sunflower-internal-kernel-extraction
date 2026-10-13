@@ -65,3 +65,6 @@ One substantial same-assistant regional weighted extraction theorem and one sepa
 
 ## P001-S042 correction/audit cadence
 S042 is a substantive ambitious multi-front proof-first mathematical session, NOT the mandatory fifth correction audit. All S005/S010/S015/S020/S025/S030/S035 and S040 fifth/tenth strategic audits remain binding. S042's all-ranks LINEAR scoped positive and TWO-WAY regional mass method-only negative must be revisited at S045 against S043–S044, with all original-vs-selected family and exponent controls. S045 next mandatory audit, S043 sole FUTURE handoff, no unrestricted TIK or novelty/independent referee.
+
+## P001-S046 — cadence
+S045 ninth mandatory fifth-substantive correction audit completed (S041–S045 plus earlier), not repeated as a new S046 audit. This is a separate subsequent proof-first session with its own hostile review. The exact matching/link parameterization and connected low-density mixed-PAIR method control sharpen the research frontier but do not count as an unrestricted breakthrough. Next mandatory fifth/tenth combined strategic checkpoint S050; S047 FUTURE UNEXECUTED.
