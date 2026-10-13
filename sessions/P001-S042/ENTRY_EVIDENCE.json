@@ -1,0 +1,55 @@
+{
+  "session": "P001-S042",
+  "date": "2026-10-13",
+  "child_main": "92b3bc14caa69f81db82c98b383e75a2ae4292cf",
+  "parent_main": "494b02fe95e36bf33f185520b5a3f09cbd3aa749",
+  "child_previous_pr": {
+    "number": 43,
+    "final_head": "02d7ce68c4a51e5055ed9ba34a0cd0820e69fc6f",
+    "pull_request_run": 38368846313,
+    "pull_request_job": 115200497096,
+    "validate": "success",
+    "two_parent_merge": "92b3bc14caa69f81db82c98b383e75a2ae4292cf",
+    "parents": [
+      "e8e1c343405c94cdf3a585ef2b1db2c278f1fac1",
+      "02d7ce68c4a51e5055ed9ba34a0cd0820e69fc6f"
+    ],
+    "matching_merge_and_head_tree": "4c1e3e845f5bf16a090874ba736466b7f0e3be88",
+    "main_push_run": 38368918347,
+    "main_push_job": 115200729864,
+    "main_push_validate": "success"
+  },
+  "parent_previous_pr": {
+    "number": 45,
+    "final_head": "f1d81ab4e8cee0faaf8f28a7b6a2b4c250ba9394",
+    "pull_request_run": 38369533884,
+    "pull_request_job": 115202780489,
+    "validate": "success",
+    "two_parent_merge": "494b02fe95e36bf33f185520b5a3f09cbd3aa749",
+    "parents": [
+      "51ed22a881c7d649b3ea2de46605495dddadb55d",
+      "f1d81ab4e8cee0faaf8f28a7b6a2b4c250ba9394"
+    ],
+    "matching_merge_and_head_tree": "cc3036bb953849f287d7a4ef173c0bb6d0a1466e",
+    "main_push_run": 38369605146,
+    "main_push_job": 115203021274,
+    "main_push_validate": "success"
+  },
+  "open_child_prs": 0,
+  "open_parent_prs": 0,
+  "competing_s042_branches": 0,
+  "check_runs": "Four final-head/main validate check-runs all SUCCESS",
+  "commit_statuses": "Four combined statuses pending/[] with zero status contexts, NOT CI passing",
+  "accessible_rulesets_child": [],
+  "accessible_rulesets_parent": [],
+  "branch_protection_child": "UNKNOWN_ACCESS_DENIED",
+  "branch_protection_parent": "UNKNOWN_ACCESS_DENIED",
+  "archive_commit": "aeda624f3e14b3f83fb07a3767ae699e45b2d674",
+  "manifest_commit": "b86979e68ce6801dfc7923a0755f800b8874ee22",
+  "frozen_gate_commit": "9b9ba624bbd32bed4cb80161489ef3758d95b7b7",
+  "report_commit": "fbfa5aae547e4e63ca845f9f37bfc20754d1ff0b",
+  "second_pass_commit": "bd3a7d803c815a476614fb0492baceaad9773488",
+  "successor_session": "P001-S043",
+  "successor_executed": false,
+  "premerge_only": true
+}
