@@ -1559,5 +1559,38 @@
     "sources": [],
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION"
+  },
+  {
+    "id": "C-S050-A",
+    "claim": "All-rank original-mass rainbow k-partite subfamily retains at least k!/k^k of ORIGINAL edges, rank3 >=2/9. Original 6m-spread corefree rank3 restricts to (4m/3)-spread corefree tripartite, but original high-degree does NOT automatically survive as selected degree. This is a reduction only, NOT R3 or TIK proof.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S050_PARTITE_REDUCTION_AND_CERTIFICATE_PACKING.md",
+    "audit_record": "research/S050_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S050-B",
+    "claim": "EXACT low-richness complete-family m-validity IFF on arbitrary tripartite one-hub triples: all five TRIGGERED FINAL kernel types require hub pair degree, hub singleton graph matching, cross ordinary pair hub multiplicity, ordinary singleton hub-vs-neighbour matching and global empty whole-edge matching each >=m when triggered by two edges; no absolute mass theorem follows.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S050_PARTITE_REDUCTION_AND_CERTIFICATE_PACKING.md",
+    "audit_record": "research/S050_HOSTILE_SECOND_PASS.md"
+  },
+  {
+    "id": "C-S050-C",
+    "claim": "Original tripartite F_m has 2m-1 edges, locally valid hub links and ordinary 1-or-m multiplicity gap but cross ordinary singleton link matching 2<m; SAME ORIGINAL H of size m retains m/(2m-1)>1/2. Disjoint-copy spread corefree control remains high-hub-ineligible; method counterexample only, full R3/HDSE3/TIK unresolved.",
+    "mathematical_status": "SCOPED_SAME_ASSISTANT_SYMBOLIC_PROOF_ONLY",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_PROMOTED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S050_PARTITE_REDUCTION_AND_CERTIFICATE_PACKING.md",
+    "audit_record": "research/S050_HOSTILE_SECOND_PASS.md"
   }
 ]

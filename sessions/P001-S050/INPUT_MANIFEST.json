@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "session": "P001-S050",
+  "input_path": "sessions/P001-S050/INPUT.md",
+  "input_sha256": "9560cc3b00c2b8db71ea64a275419e58c735957209c4e88ed476788b5834b7fb",
+  "input_byte_count": 9,
+  "input_encoding": "utf-8",
+  "exact_owner_invocation": true,
+  "first_archive_commit": "d3180124e86cec20f62805c4096d3f1bd325631d",
+  "source": "new owner 'Continue ' message 2026-10-13 following completed S049; invokes current approved S050 handoff",
+  "session_scope": "single P001-S050 proof and mandatory fifth/tenth correction/strategy audits; S051 future only",
+  "path": "sessions/P001-S050/INPUT.md",
+  "sha256": "9560cc3b00c2b8db71ea64a275419e58c735957209c4e88ed476788b5834b7fb",
+  "schema_alias_correction": "S050 closeout added validator path/sha256 aliases for existing separately committed unchanged 9-byte owner archive; digest itself unchanged"
+}

@@ -1,0 +1,17 @@
+# P001-S050 — frozen multi-front proof and mandatory correction/strategy gate
+
+Session: S050 ONLY. The owner continuation was separately committed FIRST as `sessions/P001-S050/INPUT.md` (9 UTF-8 bytes, SHA256 `9560cc3b00c2b8db71ea64a275419e58c735957209c4e88ed476788b5834b7fb`, commit `d3180124e86cec20f62805c4096d3f1bd325631d`), and its manifest SECOND (`e0d73aeccef7fc9d409c5da6a68ad0b84721f8d4`). This third frozen gate PRECEDES new proof and status edits. Do not execute S051.
+
+## Exact unchanged goal
+For every fixed k, an absolute c_k>0, every ORIGINAL finite k-uniform F and every m>=2, find ONE H subset F with |H|>=c_k|F|/m^k. EVERY exact intersection of two distinct FINAL H edges, including EMPTY, must be the exact common intersection of m distinct WHOLE edges all IN FINAL H. Triggering pair is not required among petals. R3/HDSE3 are insufficient for the all-k goal.
+
+## Frozen obligations
+1. Mandatory S046–S050 fifth/correction and tenth/strategy audit versus S005/S010/S015/S020/S025/S030/S035/S040/S045. Verify hypotheses, ORIGINAL-to-FINAL census, every kernel, power of m, constants and dependent/corollary status. Correct mathematical or originality overstatements.
+2. Challenge S049-B's log(e), D and M conditions and the 1/m^3 survival charge, including original r(x), h(xy) in 2..m-1. Seek a NEW low-richness rank-three unconditional or scoped bound without importing the exact premises being proved; independently validate all FINAL pair/singleton/EMPTY certificates and SAME-ORIGINAL controls.
+3. Break the exactly-one-hub interface in the entire ORIGINAL 6m-spread corefree high-original-degree HDSE3 class (including 2 or 3 high-degree vertices per triple, unbounded local overlaps), or isolate the FIRST missing universal mass implication with correct quantifiers. A helper counterexample requires a SAME-F rescue and must NOT be called an HDSE3 counterexample.
+4. Independently test k-1 -> k induction, k=1, k=2, m=2 and the EMPTY/hypergraph matching interface. A rank3 result does not imply all-k.
+5. Audit symbolic original controls from S023/24, S029–32, S034/35, S037–41, S042–49 with explicit original count and retained proportion where known; avoid new finite population experiments.
+6. If the existing ownership architecture stalls, test one genuinely different architecture (e.g. direct robust kernel-certificate packing) and specify which quantified inequality is missing or false. Do not present a circular 'decomposition' as a theorem.
+
+## Evidence and closeout conditions
+Explicitly record live entry child `caac0918736d8fb9982a4c69d57b2be613f99ab6` and parent `fd23135989a771d2cd8ea18863f7a842d5f4b03c`, S049 final-head and postmerge hosted RUN/JOB IDs, no open PR/competing S050, accessible rulesets empty, branch protections UNKNOWN on 403, status contexts absent not PASS. Record proof in a separate commit followed by a distinct SAME-ASSISTANT hostile review commit. Full fifth and tenth audits REQUIRED even for no-go. Archive future-only full S051 prompt; NO S051 execution, no parent mathematical S001, detailed fresh N1/N2 without complete TIK proof, Lean, Palomar, manuscript, email, outreach, publication, or independent-referee claims. No local validation claim without a REAL git checkout. Only integrate child after actual final-HEAD hosted research-integrity/validate SUCCESS, nonforce exact-tree two-parent merge and distinct merged-main PUSH SUCCESS; then separately parent STATUS-ONLY with equivalent evidence.
