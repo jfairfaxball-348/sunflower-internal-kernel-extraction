@@ -1401,5 +1401,35 @@
     "formal_status": "NONE",
     "publication_status": "NO_PROJECT_PUBLICATION",
     "record": "research/S044_DENSE_BALANCED_CORE_AND_DEGENERACY.md"
+  },
+  {
+    "id": "C-S045-A",
+    "claim": "Linear rank k>=2 positive vertex m-core with every positive degree>=m admits internally valid selected H of size >=|C|/[k(m-1)]: C itself if m-matching exists, else degree>=m star through endpoint of maximal <m matching. Exact final H singleton/EMPTY witnesses checked.",
+    "mathematical_status": "SAME_ASSISTANT_ALL_K_SCOPED_SYMBOLIC_PROOF",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S045_UNBALANCED_DENSE_CORE_ALL_RANK_EXTRACTION.md"
+  },
+  {
+    "id": "C-S045-B",
+    "claim": "For original rank k>=2 simple F with e edges on n vertices, original max PAIR degree B and Q=1+binom(k,2)(B-1), selected internally valid H>=max{1,[e/Q-(m-1)n]/[k(m-1)]}; if e>=2Q(m-1)n then H>=e/[2kQ(m-1)]. If B<m then >=e/[k^2(k-1)m^2], triples >=e/(18m^2). S044-B density/balance improved; full TIK unproved.",
+    "mathematical_status": "SAME_ASSISTANT_ALL_K_DENSE_ORIGINAL_MASS_SCOPED",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S045_UNBALANCED_DENSE_CORE_ALL_RANK_EXTRACTION.md"
+  },
+  {
+    "id": "C-S045-C",
+    "claim": "Cyclic rank3 bulk t=10m^3 disjoint union m^5-vertex (m-1)-regular-link hub original pair-invalid 6m-spread/core-free/higher-than-m^3 vertex-degree HDSE3 population with Delta*n/e>=m^4/202. S045 dense extraction applies on SAME input at e/(18m^2), without fixed degree balance.",
+    "mathematical_status": "SAME_ASSISTANT_EXACT_PARAMETRIC_POSITIVE_CONTROL",
+    "novelty_status": "NOVELTY_UNCERTAIN_NOT_ORIGINALITY_CLEARED",
+    "sources": [],
+    "formal_status": "NONE",
+    "publication_status": "NO_PROJECT_PUBLICATION",
+    "record": "research/S045_UNBALANCED_DENSE_CORE_ALL_RANK_EXTRACTION.md"
   }
 ]
